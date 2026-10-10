@@ -2,7 +2,7 @@
   "id": "pf1e-compendium-zhcn",
   "title": "Translation: 简体中文 [PF1e 合集包（CHM 版）]",
   "description": "PF1e 系统合集包（法术、专长、物品、怪物等）的简体中文翻译，需要 Babele。以 FVTT-CN 的 pf1e_compendium_chn 译稿为底，纯美苹果园 PF1 CHM 大全集收录的条目改用 CHM 译文（每条附译者与出处）。请勿与 pf1e_compendium_chn 同时启用。",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "compatibility": {
     "minimum": "12",
     "verified": "13"
