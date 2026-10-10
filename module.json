@@ -1,0 +1,71 @@
+{
+  "id": "pf1e-compendium-zhcn",
+  "title": "Translation: 简体中文 [PF1e 合集包（CHM 版）]",
+  "description": "PF1e 系统合集包（法术、专长、物品、怪物等）的简体中文翻译，需要 Babele。以 FVTT-CN 的 pf1e_compendium_chn 译稿为底，纯美苹果园 PF1 CHM 大全集收录的条目改用 CHM 译文（每条附译者与出处）。请勿与 pf1e_compendium_chn 同时启用。",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "果园玛莉卡",
+      "flags": {}
+    },
+    {
+      "name": "FVTT-CN（底稿译文）",
+      "email": "fvtt-cn@dickytwister.org",
+      "url": "https://github.com/fvtt-cn/pf1e_compendium_chn",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/quasiidem-lab/pf1e-compendium-zhcn",
+  "manifest": "https://github.com/quasiidem-lab/pf1e-compendium-zhcn/releases/latest/download/module.json",
+  "download": "https://github.com/quasiidem-lab/pf1e-compendium-zhcn/releases/latest/download/module.zip",
+  "readme": "https://github.com/quasiidem-lab/pf1e-compendium-zhcn/blob/main/README.md",
+  "bugs": "https://github.com/quasiidem-lab/pf1e-compendium-zhcn/issues",
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf1",
+        "type": "system",
+        "compatibility": {
+          "minimum": "11.0",
+          "verified": "11.11"
+        }
+      }
+    ],
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+        "compatibility": {
+          "minimum": "2.5.2",
+          "verified": "2.9.1"
+        }
+      }
+    ],
+    "conflicts": [
+      {
+        "id": "pf1e_compendium_chn",
+        "type": "module",
+        "reason": "两者翻译同一批合集包，请只启用其中一个。"
+      },
+      {
+        "id": "pf1e-compendium-zhtw",
+        "type": "module",
+        "reason": "繁体版与简体版翻译同一批合集包，请只启用其中一个。"
+      }
+    ]
+  },
+  "languages": [],
+  "esmodules": [
+    "scripts/babele.js"
+  ],
+  "scripts": [],
+  "styles": [
+    "styles/compendium-browser-filter.css"
+  ],
+  "flags": {}
+}
