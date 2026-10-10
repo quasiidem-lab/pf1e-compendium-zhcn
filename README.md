@@ -7,7 +7,7 @@ Pathfinder 1e 系统合集包内容（法术、专长、物品、怪物等）的
 ## 译文来源
 
 1. **纯美苹果园 PF1 CHM 大全集**（优先）：CHM 收录的条目，名称与内文直接采用 CHM 简体版。
-   每条结尾附出处行：译者、书目、果园原帖、AoN。目前涵盖专长。
+   每条结尾附出处行：译者、书目、果园原帖、AoN。目前涵盖专长与法术。
 2. **FVTT-CN 的译稿**：CHM 没有的条目，沿用 [fvtt-cn/pf1e_compendium_chn](https://github.com/fvtt-cn/pf1e_compendium_chn) 的译文。
 
 感谢 FVTT-CN 制作组。署名与授权说明见 [`NOTICE.md`](NOTICE.md)。
