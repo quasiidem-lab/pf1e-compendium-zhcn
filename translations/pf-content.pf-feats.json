@@ -63,11 +63,11 @@
     },
     "Acrobatic (Mythic)": {
       "name": "特技专家(神话) Acrobatic (Mythic)",
-      "description": "<b>先决条件：</b>特技专家<br/><br/><em>你的灵动与优雅举世无双。</em><br/><br/><b>神话专长效果：</b>特技专家专长对特技动作与飞行技能检定带来的加值增加2点。此外，你能够花费1次神话之力，使得1次特技动作或者飞行检定就好像自然掷出20一般。你必须在进行检定之前决定使用该能力。<br/><br/><b>资源出处: </b>Mythic Adventures pg. 54<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Acrobatic"
+      "description": "<b>先决条件：</b>特技专家<br/><br/><em>你的灵动与优雅举世无双。</em><br/><br/><b>神话专长效果：</b>特技专家专长对特技与飞行技能检定带来的加值增加2点。此外，你能够花费1次神话之力，使得1次特技或者飞行检定就好像自然掷出20一般。你必须在进行检定之前决定使用该能力。<br/><br/><b>资源出处: </b>Mythic Adventures pg. 54<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Acrobatic"
     },
     "Acrobatic Spellcaster": {
       "name": "特技施法者 Acrobatic Spellcaster",
-      "description": "<b>专长类型：</b>Combat<br/><br/><em>你能够通过纯熟的动作来避免施法受到敌人的干扰。</em><br/><br/><b>先决条件: </b>战斗施法，技能专攻（特技）。<br/><br/><b>专长效果: </b>若你通过受威胁的区域或者敌人占据的空间时，成功以1次特技动作检定来免受借机攻击的话，那么在你的剩余回合中，由于你的特技动作检定而无法进行借机攻击的生物也无法在你施法时对你进行借机攻击。<br/><br/><b>通常状况: </b>在敌人的触及范围内施法会引起借机攻击，即便你成功通过特技动作检定通过对方的威胁区域也是如此。<br/><br/><b>资源出处: </b>Ultimate Intrigue pg. 75<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Acrobatic%20Spellcaster"
+      "description": "<b>专长类型：</b>Combat<br/><br/><em>你能够通过纯熟的动作来避免施法受到敌人的干扰。</em><br/><br/><b>先决条件: </b>战斗施法，技能专攻（特技）。<br/><br/><b>专长效果: </b>若你通过受威胁的区域或者敌人占据的空间时，成功以1次特技检定来免受借机攻击的话，那么在你的剩余回合中，由于你的特技检定而无法进行借机攻击的生物也无法在你施法时对你进行借机攻击。<br/><br/><b>通常状况: </b>在敌人的触及范围内施法会引起借机攻击，即便你成功通过特技检定通过对方的威胁区域也是如此。<br/><br/><b>资源出处: </b>Ultimate Intrigue pg. 75<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Acrobatic%20Spellcaster"
     },
     "Acupuncture Specialist": {
       "name": "针灸专家 Acupuncture Specialist",
@@ -159,7 +159,7 @@
     },
     "Aldori Artistry": {
       "name": "奥多里战斗技艺 Aldori Artistry",
-      "description": "<b>专长类型：</b>Combat<br/><br/><em>先决条件：异种武器擅长（奥多里决斗剑），武器娴熟，BAB+2。</em><br/><br/><b>先决条件: </b>异种武器擅长（奥多里决斗剑），武器娴熟，BAB+2。<br/><br/><b>专长效果: </b>选择以下战技之一：卸武，移位、偷盗、破武或摔绊。当你挥舞着奥多里决斗剑进行选择的战技时，你会获得+2加值。这个加值不会与“精通”类的战技专长相叠加（如精通摔绊）。</p><p>特别的：你可以多次选择这个专长，每次选择额外选择一项战技。<br/><br/><b>资源出处: </b>Adventurers Guide pg. 24<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Aldori%20Artistry"
+      "description": "<b>专长类型：</b>Combat<br/><br/><em>先决条件：异种武器擅长（奥多里决斗剑），武器娴熟，BAB+2。</em><br/><br/><b>先决条件: </b>异种武器擅长（奥多里决斗剑），武器娴熟，BAB+2。<br/><br/><b>专长效果: </b>选择以下战技之一：卸武，移位、偷盗、击破或摔绊。当你挥舞着奥多里决斗剑进行选择的战技时，你会获得+2加值。这个加值不会与“精通”类的战技专长相叠加（如精通摔绊）。</p><p>特别的：你可以多次选择这个专长，每次选择额外选择一项战技。<br/><br/><b>资源出处: </b>Adventurers Guide pg. 24<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Aldori%20Artistry"
     },
     "Aldori Dueling Disciple": {
       "name": "奥多里剑斗学徒 Aldori Dueling Disciple",
@@ -486,12 +486,12 @@
       "description": "<em>You are skilled at using customized armor.</em><br/><br/><b>Benefits</b><br/>Choose two armor modifications (such as deflecting or jarring). You no longer suffer the drawbacks of wearing armor with those modifications.<br/><br/><b>Normal</b><br/>Each type of armor modification imparts a drawback on a wearer.<br/><br/><b>Special</b><br/>You can gain this feat multiple times, choosing two different armor modifications each time."
     },
     "Armor Focus": {
-      "name": "盔甲专攻 Armor Focus",
+      "name": "护甲专攻 Armor Focus",
       "description": "<b>专长类型：</b>Combat<br/><br/><em>你特别擅长特定种类的盔甲，你从这类盔甲获得的防护得到了提升。</em><br/><br/><b>先决条件: </b>基本攻击加值+1，擅长选定盔甲。<br/><br/><b>专长效果: </b>选择一种盔甲，比如链甲衫或者板条甲。你从选定盔甲上获得的AC加值提升1点。<br/><br/><b>特殊说明: </b>你可以选取这个专长多次。但是其效果并不叠加。每次你选取这个专长时，它都会应用到一个新的盔甲类型上。盔甲专攻专长在满足盔甲掌握专长先决条件时视为盔甲训练职业能力，并且会决定你在什么种类的盔甲上可以使用盔甲掌握专长。<br/><br/><b>资源出处: </b>Armor Masters Handbook pg. 16<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Armor%20Focus<br/><br/><b>战策增益：</b>你可以消耗2点耐力来将该专长赋予的额外护甲加值提升至+2，持续1轮。<br/><br/><b>战策资源出处: </b>Armor Master's Handbook pg. 20"
     },
     "Armor Material Expertise": {
       "name": "盔甲材料专家 Armor Material Expertise",
-      "description": "<b>专长类型：</b>Armor MasteryCombat<br/><br/><em>你学会了该如何利用你盔甲特殊材料的潜力。</em><br/><br/><b>先决条件: </b>基本攻击加值+6或者战士4级，盔甲训练职业特性。<br/><br/><b>专长效果: </b>当你穿着由下列材料制成的盔甲时，你可以使用下列能力每天2次（除非另有声明）。</p><p><b>精金</b>：在受到一次攻击后，你可以以一个直觉动作将致命伤害一半转换成非致命伤害。</p><p><b>天使缎</b>：以一个迅捷动作，你可以发出昼明术般明亮的光线，持续一轮。</p><p><b>暗叶布</b>：以一个迅捷动作，你在1分钟内获得德鲁伊穿林步职业能力。</p><p><b>龙革</b>：当你受到龙革盔甲所免疫的能量类型的能量伤害时，你可以以一个直觉动作使受到的伤害减少10点。</p><p><b>净土青铜</b>：在受到魔法兽或者人形怪物的攻击后，你可以以一个直觉动作将致命伤害一半转换成非致命伤害。</p><p><b>火纹钢或者冰纹钢</b>：以一个迅捷动作，任何你做出的徒手击打，盾击，以及用甲刺和带刺铁手套做出的攻击都会在1分钟内被视作拥有炽焰附魔（对于火纹钢）或者冻寒附魔（对于冰纹钢）。</p><p><b>时之合金（Horacalcum）</b>（开拓者冒险之路#61：原罪碎片）：每天一次以一个迅捷动作，你可以在一轮内让自己获得加速术的好处。</p><p><b>活钢</b>：在你受到一次来自金属武器的攻击后，你可以使用活钢的能力对该金属武器造成伤害，就如同攻击者在这次攻击上骰出了自然1一样。</p><p><b>秘银</b>：以一个直觉动作，你在1轮内获得对抗变化系法术的法术抗力，这个法术抗力等于5+盔甲的增强加值+你的角色等级。</p><p><b>无痕钢（Noqual）</b>（开拓者冒险之路#61：原罪碎片）：盔甲在豁免上的抗力加值在1轮内提升为+4。<br/><br/><b>资源出处: </b>Armor Masters Handbook pg. 16<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Armor%20Material%20Expertise<br/><br/><b>战策增益：</b>你可以使用5点耐力来使用一种材料的能力，即使你的盔甲并不是由它做成。这仍然会消耗你的每日盔甲材料能力的次数。<br/><br/><b>战策资源出处: </b>Armor Master's Handbook pg. 20"
+      "description": "<b>专长类型：</b>Armor MasteryCombat<br/><br/><em>你学会了该如何利用你盔甲特殊材料的潜力。</em><br/><br/><b>先决条件: </b>基本攻击加值+6或者战士4级，盔甲训练职业特性。<br/><br/><b>专长效果: </b>当你穿着由下列材料制成的盔甲时，你可以使用下列能力每天2次（除非另有声明）。</p><p><b>精金</b>：在受到一次攻击后，你可以以一个直觉动作将致命伤害一半转换成非致命伤害。</p><p><b>天使缎</b>：以一个迅捷动作，你可以发出昼明术般明亮的光线，持续一轮。</p><p><b>暗叶布</b>：以一个迅捷动作，你在1分钟内获得德鲁伊穿林步职业能力。</p><p><b>龙革</b>：当你受到龙革盔甲所免疫的能量类型的能量伤害时，你可以以一个直觉动作使受到的伤害减少10点。</p><p><b>净土青铜</b>：在受到魔法兽或者人形怪物的攻击后，你可以以一个直觉动作将致命伤害一半转换成非致命伤害。</p><p><b>火纹钢或者冰纹钢</b>：以一个迅捷动作，任何你做出的徒手打击，盾击，以及用甲刺和带刺铁手套做出的攻击都会在1分钟内被视作拥有炽焰附魔（对于火纹钢）或者冻寒附魔（对于冰纹钢）。</p><p><b>时之合金（Horacalcum）</b>（开拓者冒险之路#61：原罪碎片）：每天一次以一个迅捷动作，你可以在一轮内让自己获得加速术的好处。</p><p><b>活钢</b>：在你受到一次来自金属武器的攻击后，你可以使用活钢的能力对该金属武器造成伤害，就如同攻击者在这次攻击上骰出了自然1一样。</p><p><b>秘银</b>：以一个直觉动作，你在1轮内获得对抗变化系法术的法术抗力，这个法术抗力等于5+盔甲的增强加值+你的角色等级。</p><p><b>无痕钢（Noqual）</b>（开拓者冒险之路#61：原罪碎片）：盔甲在豁免上的抗力加值在1轮内提升为+4。<br/><br/><b>资源出处: </b>Armor Masters Handbook pg. 16<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Armor%20Material%20Expertise<br/><br/><b>战策增益：</b>你可以使用5点耐力来使用一种材料的能力，即使你的盔甲并不是由它做成。这仍然会消耗你的每日盔甲材料能力的次数。<br/><br/><b>战策资源出处: </b>Armor Master's Handbook pg. 20"
     },
     "Armor Material Mastery": {
       "name": "盔甲材料大师 Armor Material Mastery",
@@ -503,7 +503,7 @@
     },
     "Armor Trick": {
       "name": "护甲技法 Armor Trick",
-      "description": "<b>专长类型：</b>Combat<br/><br/><em>选择一个护甲技法应用的类型（轻甲，中甲，重甲，或者盾牌）。当你装备对应护甲时可以在战斗中使用护甲技法。</em><br/><br/><b>先决条件: </b>BAB+1。<br/><br/><b>专长效果: </b>只要满足对应技法的先决条件并且擅长该技法的护甲类型，你就可以使任何与选择的护甲类型相关的护甲技法。<br/><br/><b>特殊说明: </b>你可以多次选择本专长。每次选择本专长时，选择一个新的护甲技法。</p><p><h4>重甲技法 Heavy Armor Tricks</h4></p><p>这种护甲技法通常在各个地狱骑士团中最为常见，虽然他们的秘技已经传到了其他组织和战士学院。这类护甲技法利用重甲的体型和重量，当你使用重甲技法时，如果有任何魔法或者材料的效果让护甲在任何方面被视为中甲时，则技法无效，除非重甲技法中特别声明例外。</p><p>甲隙藏刃 Blade among the Folds (巧手 3 级)：你擅长在盔甲中隐藏小型武器。当你穿着重甲，在你的盔甲中隐藏轻型近战武器或者容易隐蔽的远程武器如飞镖、投石索或者手弩时，在巧手检定上获得+2加值。此外，只要你穿着你的盔甲，那么即使有人对你进行搜查，也无法在察觉检定上具有通常会有的+4加值。该技法即使在因魔法或材料被视为中甲时也依然效。</p><p>臂上铁甲 Protected Limbs (寓守于攻)：每当你尝试一次卸武、擒抱、破武或者摔拌战技是，你在对抗任何由你尝试战技导致的借机攻击上获得+4AC；并且在你下回合开始前任何敌人对你对你尝试战技时，你的CMD能获得该AC加值。</p><p>不过如此 Shrug It Off（强韧加强）：每天一次以一个直觉动作，当你受到重击确认或者偷袭时，你可以将攻击导向护甲最坚固的部分以减少伤害。这会导致该次攻击造成最低伤害，尽管这仍是一次重击或者偷袭。（最低伤害包括所有由重击或者偷袭导致的额外骰子，以及任何由于是重击或偷袭才会正常生效的能力）。当你的基本攻击加值达到+4，你每天可以第二次使用该能力，以后的每4点提升，你每天获得额外一次使用次数。</p><p>钢板猛击 Steel-Plated Smasher (猛力攻击)：你在破坏硬度小于你护甲的门或者物体时，力量检定获得等于你护甲1/4的防具检定减值（不包括任何来自职业能力或者专长带来的减值减少）的加值。当你的基本攻击加值达到+8，该力量加值等于你护甲1/2的防具检定减值。当你的基本攻击加值达到+16，该力量加值等于你护甲的防具检定减值。</p><p><h4>轻甲技法 Light Armor Tricks</h4></p><p>轻甲技法通常很少在正规学院里教授，虽然其中部分可以从卡尔玛加街道上老练的自由斗士或者位于艾巴萨罗姆的血腥理发师公会领袖那里习得。这些装备技法通常利用轻甲最优秀的灵活性和机动性来补充适当的防御力。</p><p>战斗特技 Combat Acrobatics (智力 13, 寓守于攻, 特技 3 级)：你训练自己在弹跳和翻滚时只暴露穿着盔甲的部位，让你在战斗中更少因为担心被击中而分心。你在使用特技避免在通过狭窄表面或光滑地面摔倒时，不被视为措手不及，并且当这么做时不会在AC上失去敏捷加值。此外，当你使用寓守于攻增加你的AC时，你为避免借机攻击用特技全速穿过一个威胁区域时，不会额外增加10DC。</p><p>灵活应变 Reactive Mobility (灵活移动, 灵狐步)：实践磨练了你的反应，使你反应迅速，本能地应对威胁。你导致的所有借机攻击都享受灵活移动提供的闪避加值，而非仅仅对抗当你离开敌人的威胁区域或在该范围内移动导致的借机攻击。</p><p>灵活闪躲 Reflexive Mobility (战斗反射, 灵活移动)：你学会了放弃伤害敌人的机会来避免自己受伤。当你遭到敌人的借机攻击，你可以花费你这轮一次潜在的借机机会，来将灵活移动提供的奖励AC翻倍加在你对抗这次攻击的AC上。这项增益适用于所有你由于同一个动作导致的所有借机攻击。如果你不能在这个回合中再进行任何借机攻击，你就不能使用这个能力。</p><p>滑铲 Sliding Charge (精通绊摔, 基本攻击加值 +4)：你运用你的机动力迷惑你的敌人，当你冲锋一个敌人并以一次近战攻击尝试一次摔拌战技，你可以以一个迅捷动作滑倒在地上，并且铲向你的敌人。当你这么做时，你将你的敏捷调整值（最高等于你护甲的最大敏捷加值）加到你的战技检定上。当你这么做时，无论成功与否，你在冲锋结束时都将处于俯卧状态。</p><p><h4>中甲技法 Medium Armor Tricks</h4></p><p>这些装备技法中的许多起源于安多安以及受各机构雇佣的雄鹰骑士，他们高度重视中甲所能提供的更好的防御力但是想保留战斗中的灵活性和敏捷性。盔甲专攻专长是两个技法的先决条件，可以在16页找到。</p><p>杂技起身 Acrobatic Sit-Up (灵活移动, 特技 5 级)：你开发出了从倒地中恢复并且在一次流畅移动中攻击敌人的能力。当你处于俯卧，你可以攻击一名敌人，并且起身时不会受到该敌人的借机攻击。进行一次攻击并且不会受到通常倒地会受到的罚值。如果你击中了该目标，你可以以一个直觉动作起身（通常是一个移动动作）并且不会受该敌人的借机攻击。任何其他威胁你的目标仍然可以尝试对你进行借机。如果你攻击落空，你会受到所有威胁你的敌人的借机，并且直到你的下一轮，无法起身。</p><p>重甲功能性 Heavy Versatility (盔甲专攻, 护甲技法 [重甲])：你可以完全利用你的盔甲所能提供的防御潜力。你可以将中甲视为重甲，用于护甲技法。</p><p>轻甲功能性 Light Versatility (盔甲专攻, 护甲技法 [轻甲])：你对你的盔甲如此适应，它似乎比实际要轻不少。你可以将中甲视为轻甲，用于护甲技法。</p><p>卷入锋中 Roll into the Blow (灵活移动)：当你遭到攻击时仍然头脑清明，并且将情况扭转向对你有利的方向。每天一次，被一次借机攻击命中时，你可以冲击你的目标，使其失去平衡，该攻击者在所有近战攻击检定上承受-4罚值直到他的下轮开始。你可以在你的基本攻击加值达到+4后每天使用两次该能力，并且以后的每4点提升，你每天获得额外一次使用次数。</p><p>多功能装甲 Versatile Armor (寓守于攻)：你可以调整自己的表现和策略，最大化你护甲的速度和灵活性或者最大化你的防御力。当你使用机动形态时，你的移动速度不受到护甲的影响，并且护甲的防具检定减值和护甲的AC加值都减少2。当你使用装甲形态时，你的防具检定减值增加3，护甲的AC加值增加1。调整你的护甲形态是一个移动动作，该调整会持续到你改变它，脱掉盔甲或者在AC上失去敏捷调整值（如果有）。<br/><br/><b>资源出处: </b>Armor Masters Handbook pg. 8<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Armor%20Trick<br/><br/><b>战策增益：</b>你可以花费5点耐力点数来在你装备不擅长的盔甲，或者不满足技法的额外先决条件时使用护甲技法。<br/><br/><b>战策资源出处: </b>Armor Master's Handbook pg. 20"
+      "description": "<b>专长类型：</b>Combat<br/><br/><em>选择一个护甲技法应用的类型（轻甲，中甲，重甲，或者盾牌）。当你装备对应护甲时可以在战斗中使用护甲技法。</em><br/><br/><b>先决条件: </b>BAB+1。<br/><br/><b>专长效果: </b>只要满足对应技法的先决条件并且擅长该技法的护甲类型，你就可以使任何与选择的护甲类型相关的护甲技法。<br/><br/><b>特殊说明: </b>你可以多次选择本专长。每次选择本专长时，选择一个新的护甲技法。</p><p><h4>重甲技法 Heavy Armor Tricks</h4></p><p>这种护甲技法通常在各个地狱骑士团中最为常见，虽然他们的秘技已经传到了其他组织和战士学院。这类护甲技法利用重甲的体型和重量，当你使用重甲技法时，如果有任何魔法或者材料的效果让护甲在任何方面被视为中甲时，则技法无效，除非重甲技法中特别声明例外。</p><p>甲隙藏刃 Blade among the Folds (巧手 3 级)：你擅长在盔甲中隐藏小型武器。当你穿着重甲，在你的盔甲中隐藏轻型近战武器或者容易隐蔽的远程武器如飞镖、投石索或者手弩时，在巧手检定上获得+2加值。此外，只要你穿着你的盔甲，那么即使有人对你进行搜查，也无法在察觉检定上具有通常会有的+4加值。该技法即使在因魔法或材料被视为中甲时也依然效。</p><p>臂上铁甲 Protected Limbs (寓守于攻)：每当你尝试一次卸武、擒抱、击破或者摔拌战技是，你在对抗任何由你尝试战技导致的借机攻击上获得+4AC；并且在你下回合开始前任何敌人对你对你尝试战技时，你的CMD能获得该AC加值。</p><p>不过如此 Shrug It Off（强韧加强）：每天一次以一个直觉动作，当你受到重击确认或者偷袭时，你可以将攻击导向护甲最坚固的部分以减少伤害。这会导致该次攻击造成最低伤害，尽管这仍是一次重击或者偷袭。（最低伤害包括所有由重击或者偷袭导致的额外骰子，以及任何由于是重击或偷袭才会正常生效的能力）。当你的基本攻击加值达到+4，你每天可以第二次使用该能力，以后的每4点提升，你每天获得额外一次使用次数。</p><p>钢板猛击 Steel-Plated Smasher (猛力攻击)：你在破坏硬度小于你护甲的门或者物体时，力量检定获得等于你护甲1/4的防具检定减值（不包括任何来自职业能力或者专长带来的减值减少）的加值。当你的基本攻击加值达到+8，该力量加值等于你护甲1/2的防具检定减值。当你的基本攻击加值达到+16，该力量加值等于你护甲的防具检定减值。</p><p><h4>轻甲技法 Light Armor Tricks</h4></p><p>轻甲技法通常很少在正规学院里教授，虽然其中部分可以从卡尔玛加街道上老练的自由斗士或者位于艾巴萨罗姆的血腥理发师公会领袖那里习得。这些装备技法通常利用轻甲最优秀的灵活性和机动性来补充适当的防御力。</p><p>战斗特技 Combat Acrobatics (智力 13, 寓守于攻, 特技 3 级)：你训练自己在弹跳和翻滚时只暴露穿着盔甲的部位，让你在战斗中更少因为担心被击中而分心。你在使用特技避免在通过狭窄表面或光滑地面摔倒时，不被视为措手不及，并且当这么做时不会在AC上失去敏捷加值。此外，当你使用寓守于攻增加你的AC时，你为避免借机攻击用特技全速穿过一个威胁区域时，不会额外增加10DC。</p><p>灵活应变 Reactive Mobility (灵活移动, 灵狐步)：实践磨练了你的反应，使你反应迅速，本能地应对威胁。你导致的所有借机攻击都享受灵活移动提供的闪避加值，而非仅仅对抗当你离开敌人的威胁区域或在该范围内移动导致的借机攻击。</p><p>灵活闪躲 Reflexive Mobility (战斗反射, 灵活移动)：你学会了放弃伤害敌人的机会来避免自己受伤。当你遭到敌人的借机攻击，你可以花费你这轮一次潜在的借机机会，来将灵活移动提供的奖励AC翻倍加在你对抗这次攻击的AC上。这项增益适用于所有你由于同一个动作导致的所有借机攻击。如果你不能在这个回合中再进行任何借机攻击，你就不能使用这个能力。</p><p>滑铲 Sliding Charge (精通摔绊, 基本攻击加值 +4)：你运用你的机动力迷惑你的敌人，当你冲锋一个敌人并以一次近战攻击尝试一次摔拌战技，你可以以一个迅捷动作滑倒在地上，并且铲向你的敌人。当你这么做时，你将你的敏捷调整值（最高等于你护甲的最大敏捷加值）加到你的战技检定上。当你这么做时，无论成功与否，你在冲锋结束时都将处于俯卧状态。</p><p><h4>中甲技法 Medium Armor Tricks</h4></p><p>这些装备技法中的许多起源于安多安以及受各机构雇佣的雄鹰骑士，他们高度重视中甲所能提供的更好的防御力但是想保留战斗中的灵活性和敏捷性。盔甲专攻专长是两个技法的先决条件，可以在16页找到。</p><p>杂技起身 Acrobatic Sit-Up (灵活移动, 特技 5 级)：你开发出了从倒地中恢复并且在一次流畅移动中攻击敌人的能力。当你处于俯卧，你可以攻击一名敌人，并且起身时不会受到该敌人的借机攻击。进行一次攻击并且不会受到通常倒地会受到的罚值。如果你击中了该目标，你可以以一个直觉动作起身（通常是一个移动动作）并且不会受该敌人的借机攻击。任何其他威胁你的目标仍然可以尝试对你进行借机。如果你攻击落空，你会受到所有威胁你的敌人的借机，并且直到你的下一轮，无法起身。</p><p>重甲功能性 Heavy Versatility (盔甲专攻, 护甲技法 [重甲])：你可以完全利用你的盔甲所能提供的防御潜力。你可以将中甲视为重甲，用于护甲技法。</p><p>轻甲功能性 Light Versatility (盔甲专攻, 护甲技法 [轻甲])：你对你的盔甲如此适应，它似乎比实际要轻不少。你可以将中甲视为轻甲，用于护甲技法。</p><p>卷入锋中 Roll into the Blow (灵活移动)：当你遭到攻击时仍然头脑清明，并且将情况扭转向对你有利的方向。每天一次，被一次借机攻击命中时，你可以冲击你的目标，使其失去平衡，该攻击者在所有近战攻击检定上承受-4罚值直到他的下轮开始。你可以在你的基本攻击加值达到+4后每天使用两次该能力，并且以后的每4点提升，你每天获得额外一次使用次数。</p><p>多功能装甲 Versatile Armor (寓守于攻)：你可以调整自己的表现和策略，最大化你护甲的速度和灵活性或者最大化你的防御力。当你使用机动形态时，你的移动速度不受到护甲的影响，并且护甲的防具检定减值和护甲的AC加值都减少2。当你使用装甲形态时，你的防具检定减值增加3，护甲的AC加值增加1。调整你的护甲形态是一个移动动作，该调整会持续到你改变它，脱掉盔甲或者在AC上失去敏捷调整值（如果有）。<br/><br/><b>资源出处: </b>Armor Masters Handbook pg. 8<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Armor%20Trick<br/><br/><b>战策增益：</b>你可以花费5点耐力点数来在你装备不擅长的盔甲，或者不满足技法的额外先决条件时使用护甲技法。<br/><br/><b>战策资源出处: </b>Armor Master's Handbook pg. 20"
     },
     "Armored Athlete": {
       "name": "着甲运动者 Armored Athlete",
@@ -535,11 +535,11 @@
     },
     "Ascetic Form": {
       "name": "无极型 Ascetic Form",
-      "description": "<p><i>你将武器作为身体的延伸，以它们使出奇异的武技。</i></p><p><b>先决条件：</b>无极式，对所选武器拥有武器专攻专长，基础攻击加值+5或武僧等级+5</p><p><b>专长效果：</b>你可以将所有需要使用徒手击打来发动的职业能力，如极限解放武僧的真劲击（Style Strike）能力，通过你在开启无极流时所选择的武器来发动。除此之外你可以将你的角色等级视为武僧等级来决定某些专长的每日使用次数，如</p><p class=\"zhtw-credit\"><em>书目：专长／流派｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Ascetic%20Form\">Archives of Nethys</a></em></p>"
+      "description": "<p><i>你将武器作为身体的延伸，以它们使出奇异的武技。</i></p><p><b>先决条件：</b>无极式，对所选武器拥有武器专攻专长，基础攻击加值+5或武僧等级+5</p><p><b>专长效果：</b>你可以将所有需要使用徒手打击来发动的职业能力，如极限解放武僧的真劲击（Style Strike）能力，通过你在开启无极流时所选择的武器来发动。除此之外你可以将你的角色等级视为武僧等级来决定某些专长的每日使用次数，如</p><p class=\"zhtw-credit\"><em>书目：专长／流派｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Ascetic%20Form\">Archives of Nethys</a></em></p>"
     },
     "Ascetic Strike": {
       "name": "无极之道 Ascetic Strike",
-      "description": "<p><i>你的武器现在超越了其本身的限制，成为了致命的杀器。</i></p><p><b>先决条件：</b>无极式，无极型，对所选武器拥有武器专攻专长，基础攻击加值+7或武僧等级+7</p><p><b>专长效果：</b>你可以使用相当于比你人物等级-4（最低为1）的同等级武僧的徒手击打伤害骰来作为你在开启无极流时所选武器的伤害骰，本能力的其他方面与拳师的殴斗大师（Close Weapon Mastery）职业能力相同。除此之外，你无需拥有武僧的心如止水职业能力即可选择</p><p class=\"zhtw-credit\"><em>书目：专长／流派｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Ascetic%20Strike\">Archives of Nethys</a></em></p>"
+      "description": "<p><i>你的武器现在超越了其本身的限制，成为了致命的杀器。</i></p><p><b>先决条件：</b>无极式，无极型，对所选武器拥有武器专攻专长，基础攻击加值+7或武僧等级+7</p><p><b>专长效果：</b>你可以使用相当于比你人物等级-4（最低为1）的同等级武僧的徒手打击伤害骰来作为你在开启无极流时所选武器的伤害骰，本能力的其他方面与拳师的殴斗大师（Close Weapon Mastery）职业能力相同。除此之外，你无需拥有武僧的心如止水职业能力即可选择</p><p class=\"zhtw-credit\"><em>书目：专长／流派｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Ascetic%20Strike\">Archives of Nethys</a></em></p>"
     },
     "Ascetic Style": {
       "name": "无极式 Ascetic Style",
@@ -551,7 +551,7 @@
     },
     "Aspect of the Beast (Mythic)": {
       "name": "化兽态(神话) Aspect of the Beast (Mythic)",
-      "description": "<b>先决条件：</b>化兽态<br/><br/><em>你的血管中燃烧着野性的怒火，这使得你获得野兽般的力量与能力。</em><br/><br/><b>神话专长效果：</b>你自身的野性本质体现在后述方式之一。当你选择该专长时从这些形式中进行选择，一旦选取则无法改变。</p><p>神话感官（Mythic Senses，Ex）：若你具有正常的感官，那么你会获得30尺黑暗视觉。若你具有昏暗视觉，那么你会获得60尺黑暗视觉。若你具有黑暗视觉，那么你的黑暗视觉会增加30尺 + 每阶层10尺。</p><p>神话兽爪（Mythic Claws，Ex）：你获得了一对强有力的爪子。这些爪子是主要攻击，造成1d4点伤害（若你为小体型生物则为1d3点）。若你已经具有双爪，它们能够造成的伤害骰会增加1级（d4变为d6，d3变为d4，以此类推）。当你在同一轮中使用双爪攻击，均命中敌人时，能够花费1次神话之力使用这些爪子进行撕扯（rend），造成的额外伤害等同于1只爪子的伤害加上1.5倍力量加值。</p><p>神话跃动（Mythic Leap，Ex）：你能够进行助跑跳跃（running jp）而不需要事先助跑10尺。此外，在判断你的跳跃高度和距离时，你的特技动作检定获得+5加值。若你已经拥有猎手飞跃（Predator's Leap，化兽态能力），那么上述特技动作加值会提升至+10。</p><p>神话本能（Mythic Instinct，Ex）：你的先攻与生存检定获得+2加值。这些加值与化兽态专长的野性本能（Wild Instinct）获取的加值叠加。<br/><br/><b>资源出处: </b>Mythic Adventures pg. 55<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Aspect%20of%20the%20Beast"
+      "description": "<b>先决条件：</b>化兽态<br/><br/><em>你的血管中燃烧着野性的怒火，这使得你获得野兽般的力量与能力。</em><br/><br/><b>神话专长效果：</b>你自身的野性本质体现在后述方式之一。当你选择该专长时从这些形式中进行选择，一旦选取则无法改变。</p><p>神话感官（Mythic Senses，Ex）：若你具有正常的感官，那么你会获得30尺黑暗视觉。若你具有昏暗视觉，那么你会获得60尺黑暗视觉。若你具有黑暗视觉，那么你的黑暗视觉会增加30尺 + 每阶层10尺。</p><p>神话兽爪（Mythic Claws，Ex）：你获得了一对强有力的爪子。这些爪子是主要攻击，造成1d4点伤害（若你为小体型生物则为1d3点）。若你已经具有双爪，它们能够造成的伤害骰会增加1级（d4变为d6，d3变为d4，以此类推）。当你在同一轮中使用双爪攻击，均命中敌人时，能够花费1次神话之力使用这些爪子进行撕扯（rend），造成的额外伤害等同于1只爪子的伤害加上1.5倍力量加值。</p><p>神话跃动（Mythic Leap，Ex）：你能够进行助跑跳跃（running jp）而不需要事先助跑10尺。此外，在判断你的跳跃高度和距离时，你的特技检定获得+5加值。若你已经拥有猎手飞跃（Predator's Leap，化兽态能力），那么上述特技加值会提升至+10。</p><p>神话本能（Mythic Instinct，Ex）：你的先攻与生存检定获得+2加值。这些加值与化兽态专长的野性本能（Wild Instinct）获取的加值叠加。<br/><br/><b>资源出处: </b>Mythic Adventures pg. 55<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Aspect%20of%20the%20Beast"
     },
     "Aspiring Noble": {
       "name": "有志贵族 Aspiring Noble",
@@ -711,15 +711,15 @@
     },
     "Barracuda Dash": {
       "name": "梭鱼强袭 Barracuda Dash",
-      "description": "<p><strong>来源</strong> 探索者#124：深海之城 <em>Pathfinder #124: City in the Deep</em> pg. 81[/url]</p><p><em>你使用强大而致命的爆发速度冲锋攻击一个额外的敌人。</em></p><p><strong>先决条件: </strong>感知 13，梭鱼流，梭鱼猛击，精通徒手击打，特技7级，游泳7级</p><p><strong>专长效果:</strong> 你获得相当于基本移动速度的游泳速度。当你在水中或陆地上完成一次冲锋攻击时，你可以立即对第二个目标进行第二次冲锋攻击。发起冲锋的所有通常要求，比如至少移动10尺，直线移动，都适用于第二次冲锋。两次冲锋攻击的总距离不能超过一次冲锋的通常的最大距离(一般是你速度的两倍)。</p><p>这次行动，包括离开首个目标的威胁范围，如常引起借机攻击。如果你使用梭鱼强袭进行第二次攻击，你不能使用<em>猛扑pounce</em>或其他在你的回合中给予额外攻击的能力。</p><p class=\"zhtw-credit\"><em>书目：探索者#124：深海之城 Pathfinder #124: City in the Deep pg. 81[/url]｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Barracuda%20Dash\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>来源</strong> 探索者#124：深海之城 <em>Pathfinder #124: City in the Deep</em> pg. 81[/url]</p><p><em>你使用强大而致命的爆发速度冲锋攻击一个额外的敌人。</em></p><p><strong>先决条件: </strong>感知 13，梭鱼流，梭鱼猛击，精通徒手打击，特技7级，游泳7级</p><p><strong>专长效果:</strong> 你获得相当于基本移动速度的游泳速度。当你在水中或陆地上完成一次冲锋攻击时，你可以立即对第二个目标进行第二次冲锋攻击。发起冲锋的所有通常要求，比如至少移动10尺，直线移动，都适用于第二次冲锋。两次冲锋攻击的总距离不能超过一次冲锋的通常的最大距离(一般是你速度的两倍)。</p><p>这次行动，包括离开首个目标的威胁范围，如常引起借机攻击。如果你使用梭鱼强袭进行第二次攻击，你不能使用<em>猛扑pounce</em>或其他在你的回合中给予额外攻击的能力。</p><p class=\"zhtw-credit\"><em>书目：探索者#124：深海之城 Pathfinder #124: City in the Deep pg. 81[/url]｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Barracuda%20Dash\">Archives of Nethys</a></em></p>"
     },
     "Barracuda Slam": {
       "name": "梭鱼猛击 Barracuda Slam",
-      "description": "<p><strong>来源</strong> 探索者#124：深海之城 <em>Pathfinder #124: City in the Deep</em> pg. 81[/url]</p><p><em>你学会集全身之力猛击对手，让他猝不及防。</em></p><p><strong>先决条件: </strong>感知 13，梭鱼流，精通徒手击打，特技5级，游泳5级</p><p><strong>专长效果: </strong>一个成功的游泳检定后，你能以一个移动动作半速移动或以一个整轮动作全速移动。你可以在水下进行冲锋和奔跑，但你如此行动的最大距离是正常最大距离的一半。此外，当你在水中或陆地上进行冲锋攻击时，你可以在1轮中第一次徒手打击的伤害加值使用2倍力量修正。</p><p><strong>通常状况: </strong>你无法在水下冲锋或奔跑，除非你拥有游泳速度。你的徒手击打的伤害加值使用你的力量修正。</p><p class=\"zhtw-credit\"><em>书目：探索者#124：深海之城 Pathfinder #124: City in the Deep pg. 81[/url]｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Barracuda%20Slam\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>来源</strong> 探索者#124：深海之城 <em>Pathfinder #124: City in the Deep</em> pg. 81[/url]</p><p><em>你学会集全身之力猛击对手，让他猝不及防。</em></p><p><strong>先决条件: </strong>感知 13，梭鱼流，精通徒手打击，特技5级，游泳5级</p><p><strong>专长效果: </strong>一个成功的游泳检定后，你能以一个移动动作半速移动或以一个整轮动作全速移动。你可以在水下进行冲锋和奔跑，但你如此行动的最大距离是正常最大距离的一半。此外，当你在水中或陆地上进行冲锋攻击时，你可以在1轮中第一次徒手打击的伤害加值使用2倍力量修正。</p><p><strong>通常状况: </strong>你无法在水下冲锋或奔跑，除非你拥有游泳速度。你的徒手打击的伤害加值使用你的力量修正。</p><p class=\"zhtw-credit\"><em>书目：探索者#124：深海之城 Pathfinder #124: City in the Deep pg. 81[/url]｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Barracuda%20Slam\">Archives of Nethys</a></em></p>"
     },
     "Barracuda Style": {
       "name": "梭鱼流 Barracuda Style",
-      "description": "<p><strong>来源</strong> 探索者#124：深海之城 <em>Pathfinder #124: City in the Deep</em> pg. 81[/url]</p><p><em>你学会了一种由流畅与循环的动作构成的战斗架势，它擅于在水下移动和战斗。</em></p><p><strong>先决条件: </strong>感知 13，精通徒手击打，特技3级，游泳3级</p><p><strong>专长效果:</strong> 你的徒手打击在水下造成正常伤害，你在水下进行徒手打击时不会受到减值。除了力量修正外你还将感知修正加到在游泳检定上。</p><p><strong>通常状况: </strong>造成钝击伤害的武器攻击(如徒手打击)仅造成一半伤害且在水下战斗的攻击检定上受到-2减值。</p><p class=\"zhtw-credit\"><em>书目：探索者#124：深海之城 Pathfinder #124: City in the Deep pg. 81[/url]｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Barracuda%20Style\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>来源</strong> 探索者#124：深海之城 <em>Pathfinder #124: City in the Deep</em> pg. 81[/url]</p><p><em>你学会了一种由流畅与循环的动作构成的战斗架势，它擅于在水下移动和战斗。</em></p><p><strong>先决条件: </strong>感知 13，精通徒手打击，特技3级，游泳3级</p><p><strong>专长效果:</strong> 你的徒手打击在水下造成正常伤害，你在水下进行徒手打击时不会受到减值。除了力量修正外你还将感知修正加到在游泳检定上。</p><p><strong>通常状况: </strong>造成钝击伤害的武器攻击(如徒手打击)仅造成一半伤害且在水下战斗的攻击检定上受到-2减值。</p><p class=\"zhtw-credit\"><em>书目：探索者#124：深海之城 Pathfinder #124: City in the Deep pg. 81[/url]｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Barracuda%20Style\">Archives of Nethys</a></em></p>"
     },
     "Barrage of Styles": {
       "name": "密集阻击 Barrage of Styles",
@@ -815,11 +815,11 @@
     },
     "Befuddling Strike": {
       "name": "混乱拳 Befuddling Strike",
-      "description": "<p><i>你知道如何一拳将目标的脑袋打糊的方法。</i></p><p><b>先决条件：</b>敏捷13，感知13，精通徒手击打，基础攻击加值+8</p><p><b>专长效果：</b>你必须在投掷攻击骰之前宣告使用此专长（因此，未命中会导致尝试失败）。混乱拳在正常造成伤害的同时，还会强制受到你徒手击打伤害的敌人进行一次DC=10+1/2你的角色等级+感知调整值的强韧豁免检定。豁免检定失败的防御者将困惑1d4轮。每4级你每天可以多尝试一次混乱攻击（见特殊），每轮不能超过1次。构装、泥怪、植物、不死、虚体生物，无心智和免疫重击的生物不会受到本能力的影响。</p><p class=\"zhtw-credit\"><em>译者：傻豆｜书目：专长／ACG 进阶职业手册｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Befuddling%20Strike\">Archives of Nethys</a></em></p>"
+      "description": "<p><i>你知道如何一拳将目标的脑袋打糊的方法。</i></p><p><b>先决条件：</b>敏捷13，感知13，精通徒手打击，基础攻击加值+8</p><p><b>专长效果：</b>你必须在投掷攻击骰之前宣告使用此专长（因此，未命中会导致尝试失败）。混乱拳在正常造成伤害的同时，还会强制受到你徒手打击伤害的敌人进行一次DC=10+1/2你的角色等级+感知调整值的强韧豁免检定。豁免检定失败的防御者将困惑1d4轮。每4级你每天可以多尝试一次混乱攻击（见特殊），每轮不能超过1次。构装、泥怪、植物、不死、虚体生物，无心智和免疫重击的生物不会受到本能力的影响。</p><p class=\"zhtw-credit\"><em>译者：傻豆｜书目：专长／ACG 进阶职业手册｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Befuddling%20Strike\">Archives of Nethys</a></em></p>"
     },
     "Belier's Bite": {
       "name": "虚妄魔之啮咬 Belier's Bite",
-      "description": "<p><i>你的徒手攻击使你的对手流血。</i></p><p><b>先决条件</b>：精通徒手击打</p><p><b>专长效果</b>：当你的徒手攻击对一名对手造成伤害时，你额外造成1d4点流血伤害。</p><p><b>特殊</b>：这个能力不能与其他特殊能力，攻击，物品造成的流血伤害相叠加。</p><p class=\"zhtw-credit\"><em>译者：我还是我｜书目：专长／切里亚斯，魔鬼王朝｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Belier&#x27;s%20Bite\">Archives of Nethys</a></em></p>"
+      "description": "<p><i>你的徒手攻击使你的对手流血。</i></p><p><b>先决条件</b>：精通徒手打击</p><p><b>专长效果</b>：当你的徒手攻击对一名对手造成伤害时，你额外造成1d4点流血伤害。</p><p><b>特殊</b>：这个能力不能与其他特殊能力，攻击，物品造成的流血伤害相叠加。</p><p class=\"zhtw-credit\"><em>译者：我还是我｜书目：专长／切里亚斯，魔鬼王朝｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Belier&#x27;s%20Bite\">Archives of Nethys</a></em></p>"
     },
     "Believable Veils": {
       "name": "迷信幻纱 Believable Veils",
@@ -1135,7 +1135,7 @@
     },
     "Boar Ferocity": {
       "name": "豭突刺 Boar Ferocity",
-      "description": "<p><strong>来源</strong> 掉链子<em>Pathfinder Unchained</em> pg. 114</p><p><em>你撕裂肉体的徒手攻击让敌人胆寒。</em></p><p><strong>先决条件：</strong> 精通徒手打击、豭突式、威吓6级</p><p><strong>专长效果：</strong> 你可以用你的徒手击打造成穿刺伤害。而且你在打击对手士气的威吓检定上获得+2加值。你采用豭突流派架势时，如果你成功撕裂对手，以一个自由动作，你可以进行一次打击敌人士气的威吓检定。</p><p>引述: 战策 (来自战斗耐力Combat Stamina专长)</p><p><strong>来源</strong> 掉链子<em>Pathfinder Unchained</em> pg. 114</p><p>如果你的对手在你用豭突流派撕裂他之前已被威吓，花费5点耐力可令其<em>恶心sicken</em>一轮。</p><p class=\"zhtw-credit\"><em>书目：掉链子Pathfinder Unchained pg. 114｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Boar%20Ferocity\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>来源</strong> 掉链子<em>Pathfinder Unchained</em> pg. 114</p><p><em>你撕裂肉体的徒手攻击让敌人胆寒。</em></p><p><strong>先决条件：</strong> 精通徒手打击、豭突式、威吓6级</p><p><strong>专长效果：</strong> 你可以用你的徒手打击造成穿刺伤害。而且你在打击对手士气的威吓检定上获得+2加值。你采用豭突流派架势时，如果你成功撕裂对手，以一个自由动作，你可以进行一次打击敌人士气的威吓检定。</p><p>引述: 战策 (来自战斗耐力Combat Stamina专长)</p><p><strong>来源</strong> 掉链子<em>Pathfinder Unchained</em> pg. 114</p><p>如果你的对手在你用豭突流派撕裂他之前已被威吓，花费5点耐力可令其<em>恶心sicken</em>一轮。</p><p class=\"zhtw-credit\"><em>书目：掉链子Pathfinder Unchained pg. 114｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Boar%20Ferocity\">Archives of Nethys</a></em></p>"
     },
     "Boar Shred": {
       "name": "豭突千裂 Boar Shred",
@@ -1195,7 +1195,7 @@
     },
     "Born of Frost": {
       "name": "霜生种 Born of Frost",
-      "description": "<em>你身体萦绕的寒气足以冻伤其他生物。</em><br/><br/><b>先决条件: </b>霜巨人。<br/><br/><b>专长效果: </b>你的天生武器攻击和徒手击打可以造成1d6点额外的寒冷伤害，以天生武器或是徒手击打命中你的生物会承受1点寒冷伤害。<br/><br/><b>资源出处: </b>Monster Codex pg. 68<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Born%20of%20Frost"
+      "description": "<em>你身体萦绕的寒气足以冻伤其他生物。</em><br/><br/><b>先决条件: </b>霜巨人。<br/><br/><b>专长效果: </b>你的天生武器攻击和徒手打击可以造成1d6点额外的寒冷伤害，以天生武器或是徒手打击命中你的生物会承受1点寒冷伤害。<br/><br/><b>资源出处: </b>Monster Codex pg. 68<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Born%20of%20Frost"
     },
     "Bouncing Spell": {
       "name": "弹性法术 Bouncing Spell",
@@ -1391,7 +1391,7 @@
     },
     "Bushwhack": {
       "name": "一扑即倒 Bushwhack",
-      "description": "<b>专长类型：</b>Combat<br/><br/><em>你可以将一个措手不及的对手猛地压倒在地。</em><br/><br/><b>先决条件: </b>敏捷13，精通擒抱，精通徒手击打。<br/><br/><b>专长效果: </b>当你成功的擒抱了一个措手不及或是未意识到你存在的敌人时，你可以以一个自由动作，立刻尝试一次将这个目标定身的擒抱检定。如果你拥有锁喉（Chokehold）UC专长，那么你可以放弃第二次擒抱检定的压制尝试，而是进行一次锁喉。<br/><br/><b>资源出处: </b>Monster Codex pg. 20<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Bushwhack"
+      "description": "<b>专长类型：</b>Combat<br/><br/><em>你可以将一个措手不及的对手猛地压倒在地。</em><br/><br/><b>先决条件: </b>敏捷13，精通擒抱，精通徒手打击。<br/><br/><b>专长效果: </b>当你成功的擒抱了一个措手不及或是未意识到你存在的敌人时，你可以以一个自由动作，立刻尝试一次将这个目标定身的擒抱检定。如果你拥有锁喉（Chokehold）UC专长，那么你可以放弃第二次擒抱检定的压制尝试，而是进行一次锁喉。<br/><br/><b>资源出处: </b>Monster Codex pg. 20<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Bushwhack"
     },
     "But a Scratch": {
       "name": "不痛不痒 But a Scratch",
@@ -1431,11 +1431,11 @@
     },
     "Canny Tumble": {
       "name": "巧技寻机 Canny Tumble",
-      "description": "<p><i>你利用自己灵活的移动，探寻敌手防御中间的空隙</i></p><p><b>先决条件：</b>闪避，灵活移动，特技动作5级</p><p><b>专长效果：</b>每当你通过特技动作检定移出敌人的威胁范围或占据空间而不引发借机攻击时，你对这个目标的下一次近战攻击检定获得+2环境加值，且目标对此次攻击失去AC上的敏捷加值，你必须在你的下一回合开始前进行此次攻击。</p><p class=\"zhtw-credit\"><em>译者：傻豆｜书目：专长／ACG 进阶职业手册｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Canny%20Tumble\">Archives of Nethys</a></em></p>"
+      "description": "<p><i>你利用自己灵活的移动，探寻敌手防御中间的空隙</i></p><p><b>先决条件：</b>闪避，灵活移动，特技5级</p><p><b>专长效果：</b>每当你通过特技检定移出敌人的威胁范围或占据空间而不引发借机攻击时，你对这个目标的下一次近战攻击检定获得+2环境加值，且目标对此次攻击失去AC上的敏捷加值，你必须在你的下一回合开始前进行此次攻击。</p><p class=\"zhtw-credit\"><em>译者：傻豆｜书目：专长／ACG 进阶职业手册｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Canny%20Tumble\">Archives of Nethys</a></em></p>"
     },
     "Careful Flyer": {
       "name": "谨慎飞行者 Careful Flyer",
-      "description": "<em>你能够轻松地以缓慢速度进行飞行。</em><br/><br/><b>先决条件: </b>特技专家（Acrobatic），飞行5级。<br/><br/><b>专长效果: </b>只要你以移动动作进行飞行，即便速度低于你的速度的一半，也不需要通过成功的飞行检定来维持飞行。当你在1轮内移动的距离不足速度的一半时，你仍会在避免借机攻击的特技动作检定中获得+2加值，而且AC还会在对抗由于移动而引起的借机攻击时获得+2加值。<br/><br/><b>通常状况: </b>除非你至少以半速飞行，否则必须成功通过飞行检定才能够继续飞行。<br/><br/><b>资源出处: </b>Ultimate Intrigue pg. 79<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Careful%20Flyer"
+      "description": "<em>你能够轻松地以缓慢速度进行飞行。</em><br/><br/><b>先决条件: </b>特技专家（Acrobatic），飞行5级。<br/><br/><b>专长效果: </b>只要你以移动动作进行飞行，即便速度低于你的速度的一半，也不需要通过成功的飞行检定来维持飞行。当你在1轮内移动的距离不足速度的一半时，你仍会在避免借机攻击的特技检定中获得+2加值，而且AC还会在对抗由于移动而引起的借机攻击时获得+2加值。<br/><br/><b>通常状况: </b>除非你至少以半速飞行，否则必须成功通过飞行检定才能够继续飞行。<br/><br/><b>资源出处: </b>Ultimate Intrigue pg. 79<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Careful%20Flyer"
     },
     "Careful Reader": {
       "name": "谨慎读者 Careful Reader",
@@ -1479,7 +1479,7 @@
     },
     "Cat's Fall": {
       "name": "猫落技巧 Cat's Fall",
-      "description": "<em>你就像猫一样，能够在着陆的瞬间转移身体的重心，让你能够以双脚着地的同时避免严重的伤害。</em><br/><br/><b>先决条件: </b>敏捷 13，特技动作1级。<br/><br/><b>专长效果: </b>当你成功通过DC为15的特技动作检定来减缓坠落的冲击时，你可以忽略该次坠落的最初20尺高度，并且让接下来10尺高度带来的伤害转化为非致命伤害（nonlethal damage）。只要由于坠落而对你造成的伤害不超过20点，你便会以双脚着地（而不是倒地）。<br/><br/><b>通常状况: </b>成功通过DC为15的特技动作检定能让你忽略坠落最初的10尺高度，如果你受到任何坠落伤害的话，便会倒地着陆。<br/><br/><b>资源出处: </b>Ultimate Intrigue pg. 80<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Cat's%20Fall"
+      "description": "<em>你就像猫一样，能够在着陆的瞬间转移身体的重心，让你能够以双脚着地的同时避免严重的伤害。</em><br/><br/><b>先决条件: </b>敏捷 13，特技1级。<br/><br/><b>专长效果: </b>当你成功通过DC为15的特技检定来减缓坠落的冲击时，你可以忽略该次坠落的最初20尺高度，并且让接下来10尺高度带来的伤害转化为非致命伤害（nonlethal damage）。只要由于坠落而对你造成的伤害不超过20点，你便会以双脚着地（而不是倒地）。<br/><br/><b>通常状况: </b>成功通过DC为15的特技检定能让你忽略坠落最初的10尺高度，如果你受到任何坠落伤害的话，便会倒地着陆。<br/><br/><b>资源出处: </b>Ultimate Intrigue pg. 80<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Cat's%20Fall"
     },
     "Cataract": {
       "name": "Cataract",
@@ -1551,7 +1551,7 @@
     },
     "Chain Mastery": {
       "name": "锁链熟稔 Chain Mastery",
-      "description": "<b>专长类型：</b>Combat<br/><br/><em>你轻易就能让手中的刺链化为致命凶器。</em><br/><br/><b>先决条件: </b>敏捷15，擅长异种武器（刺链）。<br/><br/><b>专长效果: </b>你在所有方面都将刺链视为单手军用武器。你依然可以将刺链作为双手武器来持用，且若你这么做，你在用你的刺链对敌人进行绊摔或卸武的战技检定上获得+2加值。<br/><br/><b>资源出处: </b>Book of the Damned pg. 178<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Chain%20Mastery"
+      "description": "<b>专长类型：</b>Combat<br/><br/><em>你轻易就能让手中的刺链化为致命凶器。</em><br/><br/><b>先决条件: </b>敏捷15，擅长异种武器（刺链）。<br/><br/><b>专长效果: </b>你在所有方面都将刺链视为单手军用武器。你依然可以将刺链作为双手武器来持用，且若你这么做，你在用你的刺链对敌人进行摔绊或卸武的战技检定上获得+2加值。<br/><br/><b>资源出处: </b>Book of the Damned pg. 178<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Chain%20Mastery"
     },
     "Chainbreaker": {
       "name": "Chainbreaker",
@@ -1783,7 +1783,7 @@
     },
     "City Sprinter": {
       "name": "城市跑者 City Sprinter",
-      "description": "<em>你很擅长快速穿越城市内的禁区。</em><br/><br/><b>先决条件: </b>街头智慧。<br/><br/><b>专长效果: </b>人群（crowds）对你来说不会被视为困难地形（difficult terrain）。你还会在穿行于房顶、在城市街道或下水道中的光滑材质上行动的特技动作检定中获得额外+2加值。<br/><br/><b>资源出处: </b>Ultimate Intrigue pg. 80<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=City%20Sprinter"
+      "description": "<em>你很擅长快速穿越城市内的禁区。</em><br/><br/><b>先决条件: </b>街头智慧。<br/><br/><b>专长效果: </b>人群（crowds）对你来说不会被视为困难地形（difficult terrain）。你还会在穿行于房顶、在城市街道或下水道中的光滑材质上行动的特技检定中获得额外+2加值。<br/><br/><b>资源出处: </b>Ultimate Intrigue pg. 80<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=City%20Sprinter"
     },
     "City-Locked": {
       "name": "City-Locked",
@@ -2035,7 +2035,7 @@
     },
     "Confounding Tumble Deed": {
       "name": "旋舞花招 Confounding Tumble Deed",
-      "description": "<p><i>你藉着对方被你回转的动作弄得眼花缭乱，起手刺出防不胜防的一击</i></p><p><b>先决条件：</b>业余剑客专长或拥有派头职业能力，巧技寻机，特技动作技能7级</p><p><b>专长效果：</b> 如果你通过特技动作检定移出敌人的威胁范围或占据空间而不引发借机攻击，且在此之后你在同一轮中成功地对这个目标发动了一个近战攻击，那么你可以花费1点时髦值，在你的下一轮结束前忽视目标防御等级上的敏捷加值。</p><p class=\"zhtw-credit\"><em>译者：傻豆｜书目：专长／ACG 进阶职业手册｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Confounding%20Tumble%20Deed\">Archives of Nethys</a></em></p>"
+      "description": "<p><i>你藉着对方被你回转的动作弄得眼花缭乱，起手刺出防不胜防的一击</i></p><p><b>先决条件：</b>业余剑客专长或拥有派头职业能力，巧技寻机，特技技能7级</p><p><b>专长效果：</b> 如果你通过特技检定移出敌人的威胁范围或占据空间而不引发借机攻击，且在此之后你在同一轮中成功地对这个目标发动了一个近战攻击，那么你可以花费1点时髦值，在你的下一轮结束前忽视目标防御等级上的敏捷加值。</p><p class=\"zhtw-credit\"><em>译者：傻豆｜书目：专长／ACG 进阶职业手册｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Confounding%20Tumble%20Deed\">Archives of Nethys</a></em></p>"
     },
     "Confusing Stare": {
       "name": "Confusing Stare",
@@ -2203,7 +2203,7 @@
     },
     "Counterpunch": {
       "name": "反手一拳 Counterpunch",
-      "description": "<p><i>敌人在攻击失手时一个恍神，你就获得了一次立刻反击的机会。</i></p><p><b>先决条件：</b>敏捷18，战斗反射，精通徒手击打，武器专攻（徒手击打），基础攻击加值+16或拳师等级12</p><p><b>专长效果：</b>每轮一次，每当你双手全空并使用徒手击打战斗时，只要你的敌人对你近战攻击失手，你就可以对他发动一次徒手击打借机攻击。这次借机必须使用徒手攻击。</p><p class=\"zhtw-credit\"><em>译者：傻豆｜书目：专长／ACG 进阶职业手册｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Counterpunch\">Archives of Nethys</a></em></p>"
+      "description": "<p><i>敌人在攻击失手时一个恍神，你就获得了一次立刻反击的机会。</i></p><p><b>先决条件：</b>敏捷18，战斗反射，精通徒手打击，武器专攻（徒手打击），基础攻击加值+16或拳师等级12</p><p><b>专长效果：</b>每轮一次，每当你双手全空并使用徒手打击战斗时，只要你的敌人对你近战攻击失手，你就可以对他发动一次徒手打击借机攻击。这次借机必须使用徒手攻击。</p><p class=\"zhtw-credit\"><em>译者：傻豆｜书目：专长／ACG 进阶职业手册｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Counterpunch\">Archives of Nethys</a></em></p>"
     },
     "Courage in a Bottle": {
       "name": "好酒壮胆 Courage in a Bottle",
@@ -2563,7 +2563,7 @@
     },
     "Dazing Fist": {
       "name": "眩晕拳 Dazing Fist",
-      "description": "<p><i>你知道如何一拳将目标打懵的方法。</i></p><p><b>先决条件：</b> 敏捷13，感知13，精通徒手击打，基础攻击加值+4</p><p><b>专长效果：</b> 你必须在投掷攻击骰之前宣告使用此专长（因此，未命中会导致尝试失败）。眩晕拳在正常造成伤害的同时，还会强制受到你徒手击打伤害的敌人进行一次DC=10+1/2你的角色等级+感知调整值的强韧豁免检定。豁免检定失败的防御者将眩晕1轮。每4级你每天可以多尝试一次眩晕攻击，每轮不能超过1次。构装、泥怪、植物、不死、虚体生物，无心智和免疫重击的生物不会被本能力影响。</p><p class=\"zhtw-credit\"><em>译者：傻豆｜书目：专长／ACG 进阶职业手册｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Dazing%20Fist\">Archives of Nethys</a></em></p>"
+      "description": "<p><i>你知道如何一拳将目标打懵的方法。</i></p><p><b>先决条件：</b> 敏捷13，感知13，精通徒手打击，基础攻击加值+4</p><p><b>专长效果：</b> 你必须在投掷攻击骰之前宣告使用此专长（因此，未命中会导致尝试失败）。眩晕拳在正常造成伤害的同时，还会强制受到你徒手打击伤害的敌人进行一次DC=10+1/2你的角色等级+感知调整值的强韧豁免检定。豁免检定失败的防御者将眩晕1轮。每4级你每天可以多尝试一次眩晕攻击，每轮不能超过1次。构装、泥怪、植物、不死、虚体生物，无心智和免疫重击的生物不会被本能力影响。</p><p class=\"zhtw-credit\"><em>译者：傻豆｜书目：专长／ACG 进阶职业手册｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Dazing%20Fist\">Archives of Nethys</a></em></p>"
     },
     "Dazing Spell": {
       "name": "晕眩法术 Dazing Spell",
@@ -2867,7 +2867,7 @@
     },
     "Destroyer's Blessing": {
       "name": "破坏者之祝福 Destroyer's Blessing",
-      "description": "<b>专长类型：</b>Combat<br/><br/><em>破坏给予你力量。</em><br/><br/><b>先决条件: </b>半兽人或兽人，【狂暴】职业特性。<br/><br/><b>专长效果: </b>当你处于狂暴中并且成功进行破武战技之后，你的狂暴轮数恢复1轮。如果击破武器战技使物件处于破损状态，你会恢复1点HP。这些效果每轮只能获得1次。<br/><br/><b>资源出处: </b>Advanced Race Guide pg. 56Orcs of Golarion pg. 24<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Destroyer's%20Blessing<br/><br/><b>战策增益：</b>无需破武，而只要将CR不低于你一半的目标HP降低到0，你就可以花费2点耐力获得1点每日狂暴轮数。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 117"
+      "description": "<b>专长类型：</b>Combat<br/><br/><em>破坏给予你力量。</em><br/><br/><b>先决条件: </b>半兽人或兽人，【狂暴】职业特性。<br/><br/><b>专长效果: </b>当你处于狂暴中并且成功进行击破战技之后，你的狂暴轮数恢复1轮。如果击破武器战技使物件处于破损状态，你会恢复1点HP。这些效果每轮只能获得1次。<br/><br/><b>资源出处: </b>Advanced Race Guide pg. 56Orcs of Golarion pg. 24<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Destroyer's%20Blessing<br/><br/><b>战策增益：</b>无需击破，而只要将CR不低于你一半的目标HP降低到0，你就可以花费2点耐力获得1点每日狂暴轮数。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 117"
     },
     "Destructive Dispel": {
       "name": "暴力解法 Destructive Dispel",
@@ -2959,7 +2959,7 @@
     },
     "Dimensional Maneuvers": {
       "name": "次元战技 Dimensional Maneuvers",
-      "description": "<em>你迅速的传送让你的战技更加难以抵挡。</em><br/><br/><b>先决条件: </b>武僧【遁术】职业特性或可施展‘任意门’，次元灵巧，次元突击，次元狂舞，基本攻击加值+9。<br/><br/><b>专长效果: </b>当你使用“次元狂舞”专长时，你对敌人进行冲撞、卸武、移位或绊摔的战技检定获得+4加值。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 96<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dimensional%20Maneuvers"
+      "description": "<em>你迅速的传送让你的战技更加难以抵挡。</em><br/><br/><b>先决条件: </b>武僧【遁术】职业特性或可施展‘任意门’，次元灵巧，次元突击，次元狂舞，基本攻击加值+9。<br/><br/><b>专长效果: </b>当你使用“次元狂舞”专长时，你对敌人进行冲撞、卸武、移位或摔绊的战技检定获得+4加值。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 96<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dimensional%20Maneuvers"
     },
     "Dimensional Savant": {
       "name": "次元乱舞 Dimensional Savant",
@@ -2991,7 +2991,7 @@
     },
     "Dirty Grapple": {
       "name": "阴招擒抱 Dirty Grapple",
-      "description": "<p><i>你可以在发动阴招的同时将敌人牢牢制住。</i></p><p><b>先决条件：</b>智力13，寓守于攻；精通阴招<sup>APG</sup>，精通擒抱，精通徒手击打，基础攻击加值+6</p><p><b>专长效果：</b>你可以以一个整轮动作对同一个目标同时发动缴械和擒抱战技。你只进行一次战技攻击检定，但如果它超过敌人的CMD则两次战技攻击全部命中。如果你的两种战技CMB不同，则取低；如果敌人对两种战技的CMD不同，则取高。</p><p class=\"zhtw-credit\"><em>译者：傻豆｜书目：专长／阴招战术工具箱｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Dirty%20Grapple\">Archives of Nethys</a></em></p>"
+      "description": "<p><i>你可以在发动阴招的同时将敌人牢牢制住。</i></p><p><b>先决条件：</b>智力13，寓守于攻；精通阴招<sup>APG</sup>，精通擒抱，精通徒手打击，基础攻击加值+6</p><p><b>专长效果：</b>你可以以一个整轮动作对同一个目标同时发动缴械和擒抱战技。你只进行一次战技攻击检定，但如果它超过敌人的CMD则两次战技攻击全部命中。如果你的两种战技CMB不同，则取低；如果敌人对两种战技的CMD不同，则取高。</p><p class=\"zhtw-credit\"><em>译者：傻豆｜书目：专长／阴招战术工具箱｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Dirty%20Grapple\">Archives of Nethys</a></em></p>"
     },
     "Dirty Trick Master": {
       "name": "Dirty Trick Master",
@@ -3067,7 +3067,7 @@
     },
     "Disorienting Maneuver": {
       "name": "迷惑技巧 Disorienting Maneuver",
-      "description": "<em>你用飘忽不定的动作迷惑你的敌人。</em><br/><br/><b>先决条件: </b>闪避，特技5级。<br/><br/><b>专长效果: </b>当你成功使用一次特技检定穿越了一个敌人所在的方格，你对其进行的攻击检定将获得+2环境加值，持续到你的下次行动开始为止。如果你选择对该敌人进行一次绊摔，你的该次战技检定获得+4环境加值。绊摔的加值同样也持续到你下次行动开始为止。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 96<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Disorienting%20Maneuver"
+      "description": "<em>你用飘忽不定的动作迷惑你的敌人。</em><br/><br/><b>先决条件: </b>闪避，特技5级。<br/><br/><b>专长效果: </b>当你成功使用一次特技检定穿越了一个敌人所在的方格，你对其进行的攻击检定将获得+2环境加值，持续到你的下次行动开始为止。如果你选择对该敌人进行一次摔绊，你的该次战技检定获得+4环境加值。摔绊的加值同样也持续到你下次行动开始为止。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 96<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Disorienting%20Maneuver"
     },
     "Dispel Focus": {
       "name": "解法专攻 Dispel Focus",
@@ -3235,15 +3235,15 @@
     },
     "Djinni Spin": {
       "name": "暴雷击 Djinni Spin",
-      "description": "<p><strong>来源</strong> 极限战斗<em>Ultimate Combat</em> pg. 97</p><p><em>你驭使风暴之力环绕自己，如飓风般旋转释放雷霆。</em></p><p><strong>先决条件：</strong> 体质15、感知17、雷灵、雷魂，元素之拳、精通徒手击打、基本攻击加值 +13 或武僧等级 11</p><p><strong>专长效果：</strong> 当你处于雷灵流派架势时，以一个标准动作，消耗两次元素之拳使用次数，你召唤出雷电风暴包围自己，对和你相邻的所有生物造成等于你的徒手打击伤害+元素之拳电击伤害，并在1d4轮内陷入耳聋状态。通过强韧豁免（DC=10+1/2你的人物等级+你的感知调整值）则伤害减半，且不会耳聋。</p><p>引述: 战策 (来自战斗耐力Combat Stamina专长)</p><p><strong> 来源</strong> 掉链子<em>Pathfinder Unchained</em> pg. 118</p><p>启动本专长除了使用两次元素之拳，也可以使用一次元素之拳和2点耐力。</p><p class=\"zhtw-credit\"><em>书目：极限战斗Ultimate Combat pg. 97｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Djinni%20Spin\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>来源</strong> 极限战斗<em>Ultimate Combat</em> pg. 97</p><p><em>你驭使风暴之力环绕自己，如飓风般旋转释放雷霆。</em></p><p><strong>先决条件：</strong> 体质15、感知17、雷灵、雷魂，元素之拳、精通徒手打击、基本攻击加值 +13 或武僧等级 11</p><p><strong>专长效果：</strong> 当你处于雷灵流派架势时，以一个标准动作，消耗两次元素之拳使用次数，你召唤出雷电风暴包围自己，对和你相邻的所有生物造成等于你的徒手打击伤害+元素之拳电击伤害，并在1d4轮内陷入耳聋状态。通过强韧豁免（DC=10+1/2你的人物等级+你的感知调整值）则伤害减半，且不会耳聋。</p><p>引述: 战策 (来自战斗耐力Combat Stamina专长)</p><p><strong> 来源</strong> 掉链子<em>Pathfinder Unchained</em> pg. 118</p><p>启动本专长除了使用两次元素之拳，也可以使用一次元素之拳和2点耐力。</p><p class=\"zhtw-credit\"><em>书目：极限战斗Ultimate Combat pg. 97｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Djinni%20Spin\">Archives of Nethys</a></em></p>"
     },
     "Djinni Spirit": {
       "name": "雷魂 Djinni Spirit",
-      "description": "<p><strong>来源</strong> 极限战斗<em>Ultimate Combat</em> pg. 97</p><p><em>召唤雷电之灵，驭雷护身，以雷鸣杀敌。</em></p><p><strong>先决条件：</strong> 体质15、感知 15、雷灵、元素之拳、精通徒手击打、基本攻击加值 +11 或武僧等级 9</p><p><strong>专长效果：</strong> 你获得额外一次元素之拳使用次数。当你处于雷灵流派架势时获得以下好处：你获得电抗力，数值等同于你的基本攻击加值，或你的武僧等级加上你其他职业得到的基本攻击加值（取高者）。当你失去ac的敏捷加值时，你也会失去此抗力。受到你元素之拳雷电伤害的对手须进行一次强韧豁免（DC=10+1/2你的人物等级+你的感知调整值），失败将在1d4轮内陷入耳聋状态。那些受到你<暴雷击>伤害的生物即使豁免成功，也会陷入耳聋。</p><p>引述: 战策 (来自战斗耐力Combat Stamina专长)</p><p><strong>来源</strong> 掉链子<em>Pathfinder Unchained</em> pg. 118</p><p>使用元素拳时可以花费最多5点耐力，并提升DC等同所耗费耐力点数。</p><p class=\"zhtw-credit\"><em>书目：极限战斗Ultimate Combat pg. 97｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Djinni%20Spirit\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>来源</strong> 极限战斗<em>Ultimate Combat</em> pg. 97</p><p><em>召唤雷电之灵，驭雷护身，以雷鸣杀敌。</em></p><p><strong>先决条件：</strong> 体质15、感知 15、雷灵、元素之拳、精通徒手打击、基本攻击加值 +11 或武僧等级 9</p><p><strong>专长效果：</strong> 你获得额外一次元素之拳使用次数。当你处于雷灵流派架势时获得以下好处：你获得电抗力，数值等同于你的基本攻击加值，或你的武僧等级加上你其他职业得到的基本攻击加值（取高者）。当你失去ac的敏捷加值时，你也会失去此抗力。受到你元素之拳雷电伤害的对手须进行一次强韧豁免（DC=10+1/2你的人物等级+你的感知调整值），失败将在1d4轮内陷入耳聋状态。那些受到你<暴雷击>伤害的生物即使豁免成功，也会陷入耳聋。</p><p>引述: 战策 (来自战斗耐力Combat Stamina专长)</p><p><strong>来源</strong> 掉链子<em>Pathfinder Unchained</em> pg. 118</p><p>使用元素拳时可以花费最多5点耐力，并提升DC等同所耗费耐力点数。</p><p class=\"zhtw-credit\"><em>书目：极限战斗Ultimate Combat pg. 97｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Djinni%20Spirit\">Archives of Nethys</a></em></p>"
     },
     "Djinni Style": {
       "name": "雷灵 Djinni Style",
-      "description": "<p><strong>来源</strong> 极限战斗<em>Ultimate Combat</em> pg. 97</p><p><em>电光在你指尖跃动，你的身形转进如风。</em></p><p><strong>先决条件：</strong> 体质 13, 感知 15, 元素之拳, 精通徒手击打,基本攻击加值 +9 或武僧等级达到 5th</p><p><strong>专长效果：</strong> 你获得一次额外元素之拳每日使用次数。当你使用此流派架势时获得以下好处：使用元素之拳，你在造成电系伤害时获得等于你感知加值的额外伤害；只要你还剩余元素之拳的使用次数，你对借机攻击的AC有+2闪避加值，但如果你失去ac的敏捷加值，你也会失去此加值。</p><p>引述: 战策 (来自战斗耐力Combat Stamina专长)</p><p><strong>来源</strong> 掉链子<em>Pathfinder Unchained</em> pg. 118</p><p>使用元素拳时可以花费最多5点耐力，每点耐力提升2点闪电伤害。</p><p class=\"zhtw-credit\"><em>书目：极限战斗Ultimate Combat pg. 97｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Djinni%20Style\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>来源</strong> 极限战斗<em>Ultimate Combat</em> pg. 97</p><p><em>电光在你指尖跃动，你的身形转进如风。</em></p><p><strong>先决条件：</strong> 体质 13, 感知 15, 元素之拳, 精通徒手打击,基本攻击加值 +9 或武僧等级达到 5th</p><p><strong>专长效果：</strong> 你获得一次额外元素之拳每日使用次数。当你使用此流派架势时获得以下好处：使用元素之拳，你在造成电系伤害时获得等于你感知加值的额外伤害；只要你还剩余元素之拳的使用次数，你对借机攻击的AC有+2闪避加值，但如果你失去ac的敏捷加值，你也会失去此加值。</p><p>引述: 战策 (来自战斗耐力Combat Stamina专长)</p><p><strong>来源</strong> 掉链子<em>Pathfinder Unchained</em> pg. 118</p><p>使用元素拳时可以花费最多5点耐力，每点耐力提升2点闪电伤害。</p><p class=\"zhtw-credit\"><em>书目：极限战斗Ultimate Combat pg. 97｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Djinni%20Style\">Archives of Nethys</a></em></p>"
     },
     "Dodge (Mythic)": {
       "name": "闪避(神话) Dodge (Mythic)",
@@ -3259,15 +3259,15 @@
     },
     "Dolphin Circle": {
       "name": "海豚环杀 Dolphin Circle",
-      "description": "<p><strong>来源</strong> 水下冒险<em>Aquatic Adventures</em> pg. 57</p><p><em>你像海豚一样环绕着你的敌人，将他们玩弄于你攻击的股掌之中。</em></p><p><strong>先决条件:</strong> 海豚突进，海豚流，精通徒手击打，游泳10级，基本攻击加值+10或者武僧10级</p><p><strong>专长效果:</strong> 当你处于海豚流的架势下时，以一个整轮动作，你可以在水下选择一个环形的路线，其起点和终点都必须在你目前所处的方格，且长度不能超过你以单个移动动作所能游过的距离。你会环绕这条路线游动直到你的下一回合开始，这次移动不会引发借机攻击。在考虑威胁范围和为盟友（除了你自己）提供夹击以及范围效果时，你被视为处在该路线所有经过的方格中。其他生物可以攻击你（以及用有益的接触法术来触碰你），如同你处在该路线所有经过的方格中。但当其他生物穿过这条线路的任意方格时，你不会被视作在其中的任何方格。在你下一回合开始时，选择该路径经过的任一方格来停止环绕。</p><p class=\"zhtw-credit\"><em>书目：水下冒险Aquatic Adventures pg. 57｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Dolphin%20Circle\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>来源</strong> 水下冒险<em>Aquatic Adventures</em> pg. 57</p><p><em>你像海豚一样环绕着你的敌人，将他们玩弄于你攻击的股掌之中。</em></p><p><strong>先决条件:</strong> 海豚突进，海豚流，精通徒手打击，游泳10级，基本攻击加值+10或者武僧10级</p><p><strong>专长效果:</strong> 当你处于海豚流的架势下时，以一个整轮动作，你可以在水下选择一个环形的路线，其起点和终点都必须在你目前所处的方格，且长度不能超过你以单个移动动作所能游过的距离。你会环绕这条路线游动直到你的下一回合开始，这次移动不会引发借机攻击。在考虑威胁范围和为盟友（除了你自己）提供夹击以及范围效果时，你被视为处在该路线所有经过的方格中。其他生物可以攻击你（以及用有益的接触法术来触碰你），如同你处在该路线所有经过的方格中。但当其他生物穿过这条线路的任意方格时，你不会被视作在其中的任何方格。在你下一回合开始时，选择该路径经过的任一方格来停止环绕。</p><p class=\"zhtw-credit\"><em>书目：水下冒险Aquatic Adventures pg. 57｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Dolphin%20Circle\">Archives of Nethys</a></em></p>"
     },
     "Dolphin Dart": {
       "name": "海豚突进 Dolphin Dart",
-      "description": "<p><strong>来源</strong> 水下冒险<em>Aquatic Adventures</em> pg. 57</p><p><em>你迅速地突击一个敌人又迅速地后撤，就像一只海豚一样。</em></p><p><strong>先决条件:</strong> 海豚流，精通徒手击打，游泳6级，基本攻击加值+6或者武僧6级</p><p><strong>专长效果:</strong> 当你处于海豚流的架势之下时，以一个标准动作，你可以在水下最多移动你游泳速度的一半，并对位于你触及范围内的一名敌人做一次近战攻击，然后撤回你原来所处的位置。你的移动和攻击都不会引发借机攻击，即使你的敌人拥有除了移出威胁范围外其他触发借机攻击的条件。</p><p class=\"zhtw-credit\"><em>书目：水下冒险Aquatic Adventures pg. 57｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Dolphin%20Dart\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>来源</strong> 水下冒险<em>Aquatic Adventures</em> pg. 57</p><p><em>你迅速地突击一个敌人又迅速地后撤，就像一只海豚一样。</em></p><p><strong>先决条件:</strong> 海豚流，精通徒手打击，游泳6级，基本攻击加值+6或者武僧6级</p><p><strong>专长效果:</strong> 当你处于海豚流的架势之下时，以一个标准动作，你可以在水下最多移动你游泳速度的一半，并对位于你触及范围内的一名敌人做一次近战攻击，然后撤回你原来所处的位置。你的移动和攻击都不会引发借机攻击，即使你的敌人拥有除了移出威胁范围外其他触发借机攻击的条件。</p><p class=\"zhtw-credit\"><em>书目：水下冒险Aquatic Adventures pg. 57｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Dolphin%20Dart\">Archives of Nethys</a></em></p>"
     },
     "Dolphin Style": {
       "name": "海豚流 Dolphin Style",
-      "description": "<p><strong>来源</strong> 水下冒险<em>Aquatic Adventures</em> pg. 57</p><p><em>你像一只海豚一样战斗，将你的敌人困在一起，这让你更容易干掉他们。</em></p><p><strong>先决条件:</strong> 精通徒手击打，游泳3级，基本攻击加值+3或者武僧3级</p><p><strong>专长效果:</strong> 你对一个你不对它有夹击，且它至少邻接两个它其他盟友的生物的近战攻击骰获得+1加值。除此之外，你的近战攻击忽略任何来自协助他人动作的AC加值。</p><p class=\"zhtw-credit\"><em>书目：水下冒险Aquatic Adventures pg. 57｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Dolphin%20Style\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>来源</strong> 水下冒险<em>Aquatic Adventures</em> pg. 57</p><p><em>你像一只海豚一样战斗，将你的敌人困在一起，这让你更容易干掉他们。</em></p><p><strong>先决条件:</strong> 精通徒手打击，游泳3级，基本攻击加值+3或者武僧3级</p><p><strong>专长效果:</strong> 你对一个你不对它有夹击，且它至少邻接两个它其他盟友的生物的近战攻击骰获得+1加值。除此之外，你的近战攻击忽略任何来自协助他人动作的AC加值。</p><p class=\"zhtw-credit\"><em>书目：水下冒险Aquatic Adventures pg. 57｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Dolphin%20Style\">Archives of Nethys</a></em></p>"
     },
     "Domain Strike": {
       "name": "领域打击 Domain Strike",
@@ -3323,7 +3323,7 @@
     },
     "Dragon Ferocity": {
       "name": "龙威 Dragon Ferocity",
-      "description": "<p><strong>来源</strong> 极限战斗<em>Ultimate Combat</em> pg. 98</p><p><em>你以巨龙之力发动攻击，你的沉重打击令敌人恐惧不已。</em></p><p><strong>先决条件：</strong> 力量15，精通徒手打击，龙形拳，震慑拳，特技5级。</p><p><strong>专长效果：</strong> 你使用龙形拳流派架势时获得以下好处：你在徒手攻击上获得等于你力量修正一半的额外伤害，这会使你在每轮第一次发动徒手击打时在伤害上获得力量修正的2倍加值，接下来获得1.5倍力量加值；如果你造成重击或“震慑拳”成功，你可以令对手在“1d4+力量修正”轮内陷入颤栗状态。</p><p><strong>特殊情况：</strong> 学会此专长让你视为满足“</p><p class=\"zhtw-credit\"><em>书目：极限战斗Ultimate Combat pg. 98｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Dragon%20Ferocity\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>来源</strong> 极限战斗<em>Ultimate Combat</em> pg. 98</p><p><em>你以巨龙之力发动攻击，你的沉重打击令敌人恐惧不已。</em></p><p><strong>先决条件：</strong> 力量15，精通徒手打击，龙形拳，震慑拳，特技5级。</p><p><strong>专长效果：</strong> 你使用龙形拳流派架势时获得以下好处：你在徒手攻击上获得等于你力量修正一半的额外伤害，这会使你在每轮第一次发动徒手打击时在伤害上获得力量修正的2倍加值，接下来获得1.5倍力量加值；如果你造成重击或“震慑拳”成功，你可以令对手在“1d4+力量修正”轮内陷入颤栗状态。</p><p><strong>特殊情况：</strong> 学会此专长让你视为满足“</p><p class=\"zhtw-credit\"><em>书目：极限战斗Ultimate Combat pg. 98｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Dragon%20Ferocity\">Archives of Nethys</a></em></p>"
     },
     "Dragon Gold Crown": {
       "name": "Dragon Gold Crown",
@@ -3331,7 +3331,7 @@
     },
     "Dragon Roar": {
       "name": "龙吼 Dragon Roar",
-      "description": "<p><strong>来源</strong> 极限战斗<em>Ultimate Combat</em> pg. 98</p><p><em>你体内潜藏的龙魂以响彻天际的咆哮轰散开去。</em></p><p><strong>先决条件：</strong> 力量15，精通徒手打击，龙形拳，震慑拳，特技8级。</p><p><strong>专长效果：</strong> 你获得1次“震慑拳”额外每日使用次数。当你使用龙拳流派架势时，消耗2发“震慑拳”，你可以用标准动作进行龙吼，15尺锥状范围内的敌人受到你徒手击打的伤害，并在1d4轮内颤栗。通过DC为“10+1/2角色等级+感知修正”的意志豁免则所受伤害减半，且不会颤栗。</p><p><strong>特殊说明：</strong> 如果你有“元素之拳”专长，耗费1发元素之拳，你可以对锥状范围内的生物造成你元素之拳的伤害。这种伤害无法通过成功豁免减半。</p><p>引述: 战策 (来自战斗耐力Combat Stamina专长)</p><p><strong> 来源</strong> 掉链子<em>Pathfinder Unchained</em> pg. 118</p><p>除了花费2次震慑拳次数，你可以用一次震慑拳和5点耐力来发动龙吼。</p><p class=\"zhtw-credit\"><em>书目：极限战斗Ultimate Combat pg. 98｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Dragon%20Roar\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>来源</strong> 极限战斗<em>Ultimate Combat</em> pg. 98</p><p><em>你体内潜藏的龙魂以响彻天际的咆哮轰散开去。</em></p><p><strong>先决条件：</strong> 力量15，精通徒手打击，龙形拳，震慑拳，特技8级。</p><p><strong>专长效果：</strong> 你获得1次“震慑拳”额外每日使用次数。当你使用龙拳流派架势时，消耗2发“震慑拳”，你可以用标准动作进行龙吼，15尺锥状范围内的敌人受到你徒手打击的伤害，并在1d4轮内颤栗。通过DC为“10+1/2角色等级+感知修正”的意志豁免则所受伤害减半，且不会颤栗。</p><p><strong>特殊说明：</strong> 如果你有“元素之拳”专长，耗费1发元素之拳，你可以对锥状范围内的生物造成你元素之拳的伤害。这种伤害无法通过成功豁免减半。</p><p>引述: 战策 (来自战斗耐力Combat Stamina专长)</p><p><strong> 来源</strong> 掉链子<em>Pathfinder Unchained</em> pg. 118</p><p>除了花费2次震慑拳次数，你可以用一次震慑拳和5点耐力来发动龙吼。</p><p class=\"zhtw-credit\"><em>书目：极限战斗Ultimate Combat pg. 98｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Dragon%20Roar\">Archives of Nethys</a></em></p>"
     },
     "Dragon Shot": {
       "name": "龙击枪 Dragon Shot",
@@ -3339,7 +3339,7 @@
     },
     "Dragon Style": {
       "name": "龙形拳 Dragon Style",
-      "description": "<p><strong>来源</strong> 极限战斗<em>Ultimate Combat</em> pg. 98</p><p><em>你呼唤龙族之灵，从这些伟大存在中获得了巨大的韧性、机敏和狂烈。</em></p><p><strong>先决条件：</strong> 力量15，精通徒手打击，特技3级</p><p><strong>专长效果：</strong> 你启用龙拳流派架势时，你对抗睡眠，麻痹与震慑效果的豁免有+2加值。你在冲锋，奔跑或撤退时无视困难地形。你可以越过同伴占据的方格进行冲锋。而且你在1轮中第一次徒手打击的伤害加值使用1.5倍力量修正。</p><p><strong>通常状况：</strong> 你无法在困难地形或穿越同伴占据的方格进行冲锋。你的徒手击打的伤害加值使用你的力量修正。</p><p>引述: 战策 (来自战斗耐力Combat Stamina专长)</p><p><strong>来源</strong> 掉链子<em>Pathfinder Unchained</em> pg. 118</p><p>在每轮第二次及以后的徒手打击中，每花费3点耐力就可以使一次攻击享受1.5倍力量修正。</p><p class=\"zhtw-credit\"><em>书目：极限战斗Ultimate Combat pg. 98｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Dragon%20Style\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>来源</strong> 极限战斗<em>Ultimate Combat</em> pg. 98</p><p><em>你呼唤龙族之灵，从这些伟大存在中获得了巨大的韧性、机敏和狂烈。</em></p><p><strong>先决条件：</strong> 力量15，精通徒手打击，特技3级</p><p><strong>专长效果：</strong> 你启用龙拳流派架势时，你对抗睡眠，麻痹与震慑效果的豁免有+2加值。你在冲锋，奔跑或撤退时无视困难地形。你可以越过同伴占据的方格进行冲锋。而且你在1轮中第一次徒手打击的伤害加值使用1.5倍力量修正。</p><p><strong>通常状况：</strong> 你无法在困难地形或穿越同伴占据的方格进行冲锋。你的徒手打击的伤害加值使用你的力量修正。</p><p>引述: 战策 (来自战斗耐力Combat Stamina专长)</p><p><strong>来源</strong> 掉链子<em>Pathfinder Unchained</em> pg. 118</p><p>在每轮第二次及以后的徒手打击中，每花费3点耐力就可以使一次攻击享受1.5倍力量修正。</p><p class=\"zhtw-credit\"><em>书目：极限战斗Ultimate Combat pg. 98｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Dragon%20Style\">Archives of Nethys</a></em></p>"
     },
     "Dragon-Touched": {
       "name": "龙触者 Dragon-Touched",
@@ -3375,7 +3375,7 @@
     },
     "Draining Strike": {
       "name": "取力拳 Draining Strike",
-      "description": "<p><i>你巧妙的一击命中对手的秘孔，使他全身疲软</i></p><p><b>先决条件：</b> 敏捷13，感知13，精通徒手击打，基础攻击加值+8</p><p><b>专长效果：</b> 你必须在投掷攻击骰之前宣告使用此专长（因此，未命中会导致尝试失败）。取力拳在正常造成伤害的同时，还会强制受到你徒手击打伤害的敌人进行一次DC=10+1/2你的角色等级+感知调整值的强韧豁免检定。豁免检定失败的防御者将疲乏1分钟或直到受到任何治疗生命值伤害的法术、效果为止；如果你拥有+14或更高的基础攻击加值，那么目标会在同样的时间中陷入力竭而非疲乏。每4级你每天可以多尝试一次取力攻击，每轮不能超过1次。构装、泥怪、植物、不死、虚体生物和免疫重击的生物不会被本治疗影响。</p><p class=\"zhtw-credit\"><em>译者：傻豆｜书目：专长／ACG 进阶职业手册｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Draining%20Strike\">Archives of Nethys</a></em></p>"
+      "description": "<p><i>你巧妙的一击命中对手的秘孔，使他全身疲软</i></p><p><b>先决条件：</b> 敏捷13，感知13，精通徒手打击，基础攻击加值+8</p><p><b>专长效果：</b> 你必须在投掷攻击骰之前宣告使用此专长（因此，未命中会导致尝试失败）。取力拳在正常造成伤害的同时，还会强制受到你徒手打击伤害的敌人进行一次DC=10+1/2你的角色等级+感知调整值的强韧豁免检定。豁免检定失败的防御者将疲乏1分钟或直到受到任何治疗生命值伤害的法术、效果为止；如果你拥有+14或更高的基础攻击加值，那么目标会在同样的时间中陷入力竭而非疲乏。每4级你每天可以多尝试一次取力攻击，每轮不能超过1次。构装、泥怪、植物、不死、虚体生物和免疫重击的生物不会被本治疗影响。</p><p class=\"zhtw-credit\"><em>译者：傻豆｜书目：专长／ACG 进阶职业手册｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Draining%20Strike\">Archives of Nethys</a></em></p>"
     },
     "Dramatic Display": {
       "name": "精彩武技 Dramatic Display",
@@ -3687,7 +3687,7 @@
     },
     "Elephant Stomp": {
       "name": "巨象重踏 Elephant Stomp",
-      "description": "<p><i>你对被踩过的敌人造成毁灭性的打击。</i></p><p><b>先决条件</b>：力量13，猛力攻击，精通闯越，基本攻击加质+1。</p><p><b>专长效果</b>：当你成功闯越一个目标，而且你的战技检定成功5点或以上时，你可以选择在目标前面或离他最近的方格停下来，以直觉动作进行一次徒手击打或以天生武器攻击对手，而不是穿过对手的方格并将他撞倒。</p><p>正常：</p><p>当你闯越的战技检定成功5点或以上时，你可以穿过对手的方格并将他撞倒。</p><p class=\"zhtw-credit\"><em>译者：PATIBAUL｜书目：专长／萨加瓦，失落的殖民地｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=60763.0\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Elephant%20Stomp\">Archives of Nethys</a></em></p>"
+      "description": "<p><i>你对被踩过的敌人造成毁灭性的打击。</i></p><p><b>先决条件</b>：力量13，猛力攻击，精通闯越，基本攻击加质+1。</p><p><b>专长效果</b>：当你成功闯越一个目标，而且你的战技检定成功5点或以上时，你可以选择在目标前面或离他最近的方格停下来，以直觉动作进行一次徒手打击或以天生武器攻击对手，而不是穿过对手的方格并将他撞倒。</p><p>正常：</p><p>当你闯越的战技检定成功5点或以上时，你可以穿过对手的方格并将他撞倒。</p><p class=\"zhtw-credit\"><em>译者：PATIBAUL｜书目：专长／萨加瓦，失落的殖民地｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=60763.0\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Elephant%20Stomp\">Archives of Nethys</a></em></p>"
     },
     "Elf-Magic Defense": {
       "name": "Elf-Magic Defense",
@@ -3835,7 +3835,7 @@
     },
     "Enhanced Ki Throw": {
       "name": "进阶太极推手 Enhanced Ki Throw",
-      "description": "<b>专长类型：</b>Combat<br/><br/><em>你强化了太极推手的力道，让你可以透过使用太极推手摧毁敌人，就如同你重重的将他们踩在地上。</em><br/><br/><b>先决条件: </b>气池职业能力，太极推手。<br/><br/><b>专长效果: </b>当你使用太极推手专长时，你可以花费一点真气，强化你的力道，如果你成功的将敌人摔出，当他倒地时，将承受相当于你徒手击打的伤害。<br/><br/><b>资源出处: </b>Dragon Empires Primer pg. 24<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Enhanced%20Ki%20Throw"
+      "description": "<b>专长类型：</b>Combat<br/><br/><em>你强化了太极推手的力道，让你可以透过使用太极推手摧毁敌人，就如同你重重的将他们踩在地上。</em><br/><br/><b>先决条件: </b>气池职业能力，太极推手。<br/><br/><b>专长效果: </b>当你使用太极推手专长时，你可以花费一点真气，强化你的力道，如果你成功的将敌人摔出，当他倒地时，将承受相当于你徒手打击的伤害。<br/><br/><b>资源出处: </b>Dragon Empires Primer pg. 24<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Enhanced%20Ki%20Throw"
     },
     "Enlightened Noble": {
       "name": "贤明贵族 Enlightened Noble",
@@ -4535,11 +4535,11 @@
     },
     "Felling Escape": {
       "name": "击倒脱逃 Felling Escape",
-      "description": "<b>专长类型：</b>Combat<br/><br/><em>通过流畅而精妙的巧劲，你在脱离擒抱时反将你的对手摔倒在地。</em><br/><br/><b>先决条件: </b>智力13，寓守于攻，精通绊摔。<br/><br/><b>专长效果: </b>当你使用战技检定或脱逃技能检定打破擒抱时，你可以用迅捷动作对之前擒抱你的敌人进行一次绊摔尝试。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 101<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Felling%20Escape<br/><br/><b>战策增益：</b>即使在你并不满足属性先决条件（智力13）时你也能选取这个专长。你只能在你的耐力池至少拥有1点耐力时才能获得这个专长的好处。你可以使用5点耐力来让来自这个专长的绊摔尝试变成一个自由动作而不是迅捷动作。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 119"
+      "description": "<b>专长类型：</b>Combat<br/><br/><em>通过流畅而精妙的巧劲，你在脱离擒抱时反将你的对手摔倒在地。</em><br/><br/><b>先决条件: </b>智力13，寓守于攻，精通摔绊。<br/><br/><b>专长效果: </b>当你使用战技检定或脱逃技能检定打破擒抱时，你可以用迅捷动作对之前擒抱你的敌人进行一次摔绊尝试。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 101<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Felling%20Escape<br/><br/><b>战策增益：</b>即使在你并不满足属性先决条件（智力13）时你也能选取这个专长。你只能在你的耐力池至少拥有1点耐力时才能获得这个专长的好处。你可以使用5点耐力来让来自这个专长的摔绊尝试变成一个自由动作而不是迅捷动作。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 119"
     },
     "Felling Smash": {
       "name": "击倒猛攻 Felling Smash",
-      "description": "<b>专长类型：</b>Combat<br/><br/><em>你集中你所有的力量进行一次毁灭性的猛击，试图将你的敌人击垮在地。</em><br/><br/><b>先决条件: </b>智力13，力量13，寓守于攻，精通绊摔，猛力攻击，基本攻击加值+6。<br/><br/><b>专长效果: </b>当你以攻击动作使用猛力攻击进行一次最高攻击加值的单次近战攻击时，如果你命中，你可以花费迅捷动作来对目标进行一次绊摔尝试。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 101<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Felling%20Smash<br/><br/><b>战策增益：</b>即使在你并不满足属性先决条件（智力13）时你也能选取这个专长。你只能在你的耐力池至少拥有1点耐力时才能获得这个专长的好处。你可以使用5点耐力来让来自这个专长的绊摔尝试变成一个自由动作而不是迅捷动作。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 119"
+      "description": "<b>专长类型：</b>Combat<br/><br/><em>你集中你所有的力量进行一次毁灭性的猛击，试图将你的敌人击垮在地。</em><br/><br/><b>先决条件: </b>智力13，力量13，寓守于攻，精通摔绊，猛力攻击，基本攻击加值+6。<br/><br/><b>专长效果: </b>当你以攻击动作使用猛力攻击进行一次最高攻击加值的单次近战攻击时，如果你命中，你可以花费迅捷动作来对目标进行一次摔绊尝试。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 101<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Felling%20Smash<br/><br/><b>战策增益：</b>即使在你并不满足属性先决条件（智力13）时你也能选取这个专长。你只能在你的耐力池至少拥有1点耐力时才能获得这个专长的好处。你可以使用5点耐力来让来自这个专长的摔绊尝试变成一个自由动作而不是迅捷动作。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 119"
     },
     "Fencing Grace": {
       "name": "优雅挑刺 Fencing Grace",
@@ -5223,7 +5223,7 @@
     },
     "Gluttonous Gobbler": {
       "name": "连嚼带吞 Gluttonous Gobbler",
-      "description": "<em>很多食人魔都学会了如何一口吞下大到吓人的食物，然后抹抹嘴去干别的事。</em><br/><br/><b>先决条件: </b>精通徒手击打，精通擒抱或抓握特殊攻击，食人魔，体型大型或更大。<br/><br/><b>专长效果: </b>如果你在自己的回合开始时正擒抱着一个体型至少比你小两级的生物，那么你可以通过一个移动动作，进行另一个擒抱检定尝试把这个生物塞进嘴里（如同你尝试压制这个生物）。如果你成功通过了这个检定，那么你就可以吞掉该生物，如同你拥有囫囵活吞通用怪物能力。<br/><br/><b>资源出处: </b>Monster Codex pg. 152<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Gluttonous%20Gobbler"
+      "description": "<em>很多食人魔都学会了如何一口吞下大到吓人的食物，然后抹抹嘴去干别的事。</em><br/><br/><b>先决条件: </b>精通徒手打击，精通擒抱或抓握特殊攻击，食人魔，体型大型或更大。<br/><br/><b>专长效果: </b>如果你在自己的回合开始时正擒抱着一个体型至少比你小两级的生物，那么你可以通过一个移动动作，进行另一个擒抱检定尝试把这个生物塞进嘴里（如同你尝试压制这个生物）。如果你成功通过了这个检定，那么你就可以吞掉该生物，如同你拥有囫囵活吞通用怪物能力。<br/><br/><b>资源出处: </b>Monster Codex pg. 152<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Gluttonous%20Gobbler"
     },
     "Gnawer": {
       "name": "啃咬者 Gnawer",
@@ -5495,7 +5495,7 @@
     },
     "Greater Skald's Vigor": {
       "name": "高等健硕之歌 Greater Skald's Vigor",
-      "description": "<em>你的战歌同样可以将生生不息的活力带给听到它的盟友。</em><br/><br/><b>先决条件: </b>健硕之歌，表演（歌唱）技能10级。<br/><br/><b>专长效果: </b>在你启动表演的同一轮开始，你的盟友同样也能收到你的健硕之歌提供的快速医疗。盟友必须要听到你的表演才能获得此专长的好处。但是如果你停止表演，这个快速医疗效果将立刻结束，即使你的表演效果在你停止后依然能够持续（译注：比如专长余音绕梁的效果）。<br/><br/><b>资源出处: </b>Advanced Class Guide pg. 149<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Skald's%20Vigor"
+      "description": "<em>你的战歌同样可以将生生不息的活力带给听到它的盟友。</em><br/><br/><b>先决条件: </b>健硕之歌，表演（歌唱）技能10级。<br/><br/><b>专长效果: </b>在你启动表演的同一轮开始，你的盟友同样也能收到你的健硕之歌提供的快速治疗。盟友必须要听到你的表演才能获得此专长的好处。但是如果你停止表演，这个快速治疗效果将立刻结束，即使你的表演效果在你停止后依然能够持续（译注：比如专长余音绕梁的效果）。<br/><br/><b>资源出处: </b>Advanced Class Guide pg. 149<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Skald's%20Vigor"
     },
     "Greater Snap Shot": {
       "name": "高等快枪 Greater Snap Shot",
@@ -5543,11 +5543,11 @@
     },
     "Greater Weapon Specialization": {
       "name": "高等武器专精 Greater Weapon Specialization",
-      "description": "<b>专长类型：</b>Combat<br/><br/><em>从已有“武器专精”的武器中选择一个，也可以选徒手击打或擒抱，使用此种武器将可造成更多伤害。</em><br/><br/><b>先决条件: </b>对应武器的擅长武器、武器专攻、高等专攻、武器专精，战士等级12。<br/><br/><b>专长效果: </b>使用特定武器时伤害+2，且可与其他伤害加值累加，包括“武器专精”的加值。<br/><br/><b>特殊说明: </b>你可以多次选择本专长，但并非累加效果；每次选择本专长时需选择一个新的武器类型。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 126<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Weapon%20Specialization<br/><br/><b>战策增益：</b>每轮一次，你可以消耗2点耐力来将高等武器专精在伤害骰上的加值应用到其它一件武器上。这个加值会持续到你的下一回合开始。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 122"
+      "description": "<b>专长类型：</b>Combat<br/><br/><em>从已有“武器专精”的武器中选择一个，也可以选徒手打击或擒抱，使用此种武器将可造成更多伤害。</em><br/><br/><b>先决条件: </b>对应武器的擅长武器、武器专攻、高等专攻、武器专精，战士等级12。<br/><br/><b>专长效果: </b>使用特定武器时伤害+2，且可与其他伤害加值累加，包括“武器专精”的加值。<br/><br/><b>特殊说明: </b>你可以多次选择本专长，但并非累加效果；每次选择本专长时需选择一个新的武器类型。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 126<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Weapon%20Specialization<br/><br/><b>战策增益：</b>每轮一次，你可以消耗2点耐力来将高等武器专精在伤害骰上的加值应用到其它一件武器上。这个加值会持续到你的下一回合开始。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 122"
     },
     "Greater Whip Mastery": {
       "name": "高等长鞭熟稔 Greater Whip Mastery",
-      "description": "<b>专长类型：</b>Combat<br/><br/><em>你能用长鞭轻易发动战技。</em><br/><br/><b>先决条件: </b>精通长鞭熟稔，武器专攻（长鞭），长鞭熟稔，基本攻击加值+8。<br/><br/><b>专长效果: </b>你挥舞长鞭如此迅捷，以至于绝不会因卸武或绊摔战技失败而令长鞭脱手。此外你还能以长鞭发动擒抱，这将采用正常的擒抱规则、以及下列调整。</p><p>攻击：你不能在以长鞭擒抱一个对手时用它攻击。</p><p>伤害：对擒抱对象造成伤害时，采用长鞭的武器伤害、而非你的徒手伤害。</p><p>空手：你未能同时空出双手时，不会在以长鞭发动的擒抱检定中承受减值。</p><p>触及：当你成功擒抱时，并非要拖着擒抱对象与你邻接，而是和他保持“长鞭触及-对方触及”的距离。若两者差值小于0（譬如当中型长鞭持用者擒抱巨型生物时），你根本无法用长鞭擒抱此对象。若你不得不用长鞭将他拉至身边才能发动擒抱，你的擒抱战技仍将触发对方的借机攻击；除非你拥有“精通擒抱”专长。</p><p>捆绑：在与对手邻接时，你能尝试用长鞭将他捆起来。若你对擒抱中（而非压制中）的对手如此做时，只需承受战技检定的-5减值（而非通常的-10）。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 103<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Whip%20Mastery<br/><br/><b>战策增益：</b>当你使用长鞭发动擒抱时，你可以使用5点耐力来以一个迅捷动作再尝试一次擒抱检定来移动或伤害你正在擒抱的生物。这个检定不能用于维持擒抱。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 122"
+      "description": "<b>专长类型：</b>Combat<br/><br/><em>你能用长鞭轻易发动战技。</em><br/><br/><b>先决条件: </b>精通长鞭熟稔，武器专攻（长鞭），长鞭熟稔，基本攻击加值+8。<br/><br/><b>专长效果: </b>你挥舞长鞭如此迅捷，以至于绝不会因卸武或摔绊战技失败而令长鞭脱手。此外你还能以长鞭发动擒抱，这将采用正常的擒抱规则、以及下列调整。</p><p>攻击：你不能在以长鞭擒抱一个对手时用它攻击。</p><p>伤害：对擒抱对象造成伤害时，采用长鞭的武器伤害、而非你的徒手伤害。</p><p>空手：你未能同时空出双手时，不会在以长鞭发动的擒抱检定中承受减值。</p><p>触及：当你成功擒抱时，并非要拖着擒抱对象与你邻接，而是和他保持“长鞭触及-对方触及”的距离。若两者差值小于0（譬如当中型长鞭持用者擒抱巨型生物时），你根本无法用长鞭擒抱此对象。若你不得不用长鞭将他拉至身边才能发动擒抱，你的擒抱战技仍将触发对方的借机攻击；除非你拥有“精通擒抱”专长。</p><p>捆绑：在与对手邻接时，你能尝试用长鞭将他捆起来。若你对擒抱中（而非压制中）的对手如此做时，只需承受战技检定的-5减值（而非通常的-10）。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 103<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Whip%20Mastery<br/><br/><b>战策增益：</b>当你使用长鞭发动擒抱时，你可以使用5点耐力来以一个迅捷动作再尝试一次擒抱检定来移动或伤害你正在擒抱的生物。这个检定不能用于维持擒抱。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 122"
     },
     "Greater Wild Empathy": {
       "name": "高等野性认同 Greater Wild Empathy",
@@ -5671,7 +5671,7 @@
     },
     "Hamatulatsu": {
       "name": "尖刺魔之击 Hamatulatsu",
-      "description": "<b>专长类型：</b>Combat<br/><br/><em>你精通了这种致命的战斗技艺，创造这种武艺的灵感源自尖刺魔那骇人的攻击。</em><br/><br/><b>先决条件: </b>精通徒手打击（Improved Unarmed Strike），武器专攻：徒手打击（Weapon Focus：unarmed strike）。<br/><br/><b>专长效果: </b>你的徒手打击能造成钝击或穿刺伤害。当你攻击敌人时决定你造成何种种类的伤害，但是你同时只能从中选择一种。如果你在使用徒手打击造成穿刺伤害时对敌人造成重击，那么这次攻击造成的疼痛会使得敌人恶心（sickened）1轮（如果目标已经恶心，则恍惚staggered 1轮）。在1轮之内对同一个敌人造成多次重击并不会增加恶心或恍惚状态的持续时间。<br/><br/><b>特殊说明: </b>武僧可以在6级时将尖刺魔之击作为替换奖励专长进行选择，即使他并不满足这项专长的先决条件。这种格斗术通常来说只会教授给金怒魔姐妹会的女性（women of the Sisterhood of the Golden Erinyes）。<br/><br/><b>资源出处: </b>Inner Sea World Guide pg. 287Pathfinder Campaign Setting pg. 83<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Hamatulatsu<br/><br/><b>战策增益：</b>通过消耗5点耐力，你可以将一次徒手击打做出的攻击在决定你从尖刺魔之击获得的好处时视为重击。<br/><br/><b>战策资源出处: </b>Weapon Master's Handbook pg. 25"
+      "description": "<b>专长类型：</b>Combat<br/><br/><em>你精通了这种致命的战斗技艺，创造这种武艺的灵感源自尖刺魔那骇人的攻击。</em><br/><br/><b>先决条件: </b>精通徒手打击（Improved Unarmed Strike），武器专攻：徒手打击（Weapon Focus：unarmed strike）。<br/><br/><b>专长效果: </b>你的徒手打击能造成钝击或穿刺伤害。当你攻击敌人时决定你造成何种种类的伤害，但是你同时只能从中选择一种。如果你在使用徒手打击造成穿刺伤害时对敌人造成重击，那么这次攻击造成的疼痛会使得敌人恶心（sickened）1轮（如果目标已经恶心，则恍惚staggered 1轮）。在1轮之内对同一个敌人造成多次重击并不会增加恶心或恍惚状态的持续时间。<br/><br/><b>特殊说明: </b>武僧可以在6级时将尖刺魔之击作为替换奖励专长进行选择，即使他并不满足这项专长的先决条件。这种格斗术通常来说只会教授给金怒魔姐妹会的女性（women of the Sisterhood of the Golden Erinyes）。<br/><br/><b>资源出处: </b>Inner Sea World Guide pg. 287Pathfinder Campaign Setting pg. 83<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Hamatulatsu<br/><br/><b>战策增益：</b>通过消耗5点耐力，你可以将一次徒手打击做出的攻击在决定你从尖刺魔之击获得的好处时视为重击。<br/><br/><b>战策资源出处: </b>Weapon Master's Handbook pg. 25"
     },
     "Hammer Guards the Anvil": {
       "name": "Hammer Guards the Anvil",
@@ -6003,7 +6003,7 @@
     },
     "Impact Critical Shot": {
       "name": "冲撞射击 Impact Critical Shot",
-      "description": "<b>专长类型：</b>CombatCritical<br/><br/><em>随着一系列远程攻击，你命中敌人的膝盖，或者将他们击退。</em><br/><br/><b>先决条件: </b>敏捷13，近距射击，基本攻击加值+9。<br/><br/><b>专长效果: </b>每当你用远程武器造成了一次重击，除了造成正常伤害，你还可以掷一次战技检定对抗目标的CMD。如果成功，你可以像使用冲撞战技一样将他击退，或是像使用绊摔一样将他们击倒。如果你选择冲撞，你不会和目标一起移动。你这次战技动作不会触发借机攻击。<br/><br/><b>通常状况: </b>如果要冲撞对手，你必须单独进行一次冲撞检定，绊摔亦然。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 104<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Impact%20Critical%20Shot<br/><br/><b>战策增益：</b>当你确认重击并且用这个专长对目标进行了冲撞或者绊摔时，你可以消耗5点耐力来同时进行另外一种战技检定。使用重击确认骰来同时用于两个战技检定。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 122"
+      "description": "<b>专长类型：</b>CombatCritical<br/><br/><em>随着一系列远程攻击，你命中敌人的膝盖，或者将他们击退。</em><br/><br/><b>先决条件: </b>敏捷13，近距射击，基本攻击加值+9。<br/><br/><b>专长效果: </b>每当你用远程武器造成了一次重击，除了造成正常伤害，你还可以掷一次战技检定对抗目标的CMD。如果成功，你可以像使用冲撞战技一样将他击退，或是像使用摔绊一样将他们击倒。如果你选择冲撞，你不会和目标一起移动。你这次战技动作不会触发借机攻击。<br/><br/><b>通常状况: </b>如果要冲撞对手，你必须单独进行一次冲撞检定，摔绊亦然。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 104<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Impact%20Critical%20Shot<br/><br/><b>战策增益：</b>当你确认重击并且用这个专长对目标进行了冲撞或者摔绊时，你可以消耗5点耐力来同时进行另外一种战技检定。使用重击确认骰来同时用于两个战技检定。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 122"
     },
     "Impaling Critical": {
       "name": "穿刺重击 Impaling Critical",
@@ -6019,7 +6019,7 @@
     },
     "Implant Bomb": {
       "name": "植入式炸弹 Implant Bomb",
-      "description": "<p><b><i>你可以将一枚炸弹植入生物体内，并且在其死亡时或者</i></b><b><i>24</i></b><b><i>小时候引爆。</i></b></p><p><b>先决条件</b>：医疗5级，【定时炸弹】科研发现。</p><p><b>专长效果</b>：你可以在一个自愿或是无助的生物（一个被你控制的无心智生物被视为自愿的，例如一只僵尸）体内植入一枚炸弹。这耗时1小时并且消耗1次你每日【炼金炸弹】能力的使用次数。当被植入炸弹的生物死亡或是被破坏时，炸弹在生物的所在格被引爆，就好像你用设置了【定时炸弹】一般（尽管你可以将炸弹的威力设置的比通常更低）。你可以如常将任何影响炸弹效果的科研发现加在植入式炸弹中（例如【酸性炸弹】、【霜冻炸弹】、【烟雾炸弹】等）。炸弹会在被植入生物24小时候自动引爆。</p><p>如果你花费价值150gp的炼金药物在每个炸弹伤害骰上（例如5d6的炸弹花费750gp），炸弹不会在24小时候自动引爆，而只会在生物死亡或被破坏时爆炸（24小时后，“植入式炸弹”不再占用你炸弹的每日使用次数）。</p><p>植入一枚炸弹就好像使用医疗技能治疗致命伤害一般，除非生物被魔法治愈或者拥有诸如再生、快速医疗之类的能力，否则会在生物身上留下伤疤。一些生物（例如泥形生物、元素、和无实体的生物）无法被植入炸弹。移除一枚植入式炸弹需要先通过一个治疗致命伤害的医疗检定，然后再使用‘解除魔法’或者解除装置技能检定拆除炸弹（DC为“11+炼金术师CL”）。</p><p class=\"zhtw-credit\"><em>译者：他化自在天｜书目：专长／UM 极限魔法｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=52439\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Implant%20Bomb\">Archives of Nethys</a></em></p>"
+      "description": "<p><b><i>你可以将一枚炸弹植入生物体内，并且在其死亡时或者</i></b><b><i>24</i></b><b><i>小时候引爆。</i></b></p><p><b>先决条件</b>：医疗5级，【定时炸弹】科研发现。</p><p><b>专长效果</b>：你可以在一个自愿或是无助的生物（一个被你控制的无心智生物被视为自愿的，例如一只僵尸）体内植入一枚炸弹。这耗时1小时并且消耗1次你每日【炼金炸弹】能力的使用次数。当被植入炸弹的生物死亡或是被破坏时，炸弹在生物的所在格被引爆，就好像你用设置了【定时炸弹】一般（尽管你可以将炸弹的威力设置的比通常更低）。你可以如常将任何影响炸弹效果的科研发现加在植入式炸弹中（例如【酸性炸弹】、【霜冻炸弹】、【烟雾炸弹】等）。炸弹会在被植入生物24小时候自动引爆。</p><p>如果你花费价值150gp的炼金药物在每个炸弹伤害骰上（例如5d6的炸弹花费750gp），炸弹不会在24小时候自动引爆，而只会在生物死亡或被破坏时爆炸（24小时后，“植入式炸弹”不再占用你炸弹的每日使用次数）。</p><p>植入一枚炸弹就好像使用医疗技能治疗致命伤害一般，除非生物被魔法治愈或者拥有诸如再生、快速治疗之类的能力，否则会在生物身上留下伤疤。一些生物（例如泥形生物、元素、和无实体的生物）无法被植入炸弹。移除一枚植入式炸弹需要先通过一个治疗致命伤害的医疗检定，然后再使用‘解除魔法’或者解除装置技能检定拆除炸弹（DC为“11+炼金术师CL”）。</p><p class=\"zhtw-credit\"><em>译者：他化自在天｜书目：专长／UM 极限魔法｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=52439\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Implant%20Bomb\">Archives of Nethys</a></em></p>"
     },
     "Implement Focus": {
       "name": "灵器专攻 Implement Focus",
@@ -6038,7 +6038,7 @@
       "description": "<p><i>你对于远程武器的娴熟运用使你可以用它们来表演一些勇毅动作。</i></p><p><b>先决条件：</b>基础攻击加值+11，对所选远程武器拥有战士武器训练（Weapon Training）职业能力</p><p class=\"zhtw-credit\"><em>书目：专长／武器掌握｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Impressive%20Grit\">Archives of Nethys</a></em></p>"
     },
     "Improved Armor Focus": {
-      "name": "进阶盔甲专攻 Improved Armor Focus",
+      "name": "精通护甲专攻 Improved Armor Focus",
       "description": "<b>专长类型：</b>Combat<br/><br/><em>你的技艺让盔甲的潜力得以发挥。</em><br/><br/><b>先决条件: </b>盔甲专攻，基本攻击加值+6，擅长选定盔甲。<br/><br/><b>专长效果: </b>选定盔甲的检定减值降低1点（最小值为0）。你可以使用你的角色等级来代替你的基本攻击加值来满足盔甲掌握专长的先决条件。<br/><br/><b>特殊说明: </b>你可以选取这个专长多次。它的效果并不叠加。每次你选取这个专长时，它都会应用到一个新的盔甲类型上。<br/><br/><b>资源出处: </b>Armor Masters Handbook pg. 16<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Armor%20Focus<br/><br/><b>战策增益：</b>你可以消耗5点耐力在一次技能检定上忽视来自你盔甲的防具检定减值。<br/><br/><b>战策资源出处: </b>Armor Master's Handbook pg. 20"
     },
     "Improved Awesome Blow": {
@@ -6279,7 +6279,7 @@
     },
     "Improved Natural Attack": {
       "name": "精通天生武器攻击 Improved Natural Attack",
-      "description": "<p><b><i>这个生物的天生武器可以造成可怕的伤害。</i></b></p><p><b>先决条件</b>：拥有天生武器攻击，基本攻击加值+4。</p><p><b>专长效果</b>：选择一种你拥有的天生武器攻击（不可以是徒手击打），其可造成的伤害投骰按以下列表提升一个体型等级：1d2，1d3，1d4，1d6，1d8，2d6，3d6，4d6，6d6，8d6，12d6。如果天生武器的起始伤害为1d10，则依据此表：1d10，2d8，3d8，4d8，6d8，8d8，12d8。</p><p><b>特殊说明</b>：生物可以多次选择本专长，每次选择本专长时，它必须将之应用在一项新的天生武器攻击上。</p><p class=\"zhtw-credit\"><em>译者：傻豆｜书目：专长／B1 怪物图鉴｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=60891\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Natural%20Attack\">Archives of Nethys</a></em></p>"
+      "description": "<p><b><i>这个生物的天生武器可以造成可怕的伤害。</i></b></p><p><b>先决条件</b>：拥有天生武器攻击，基本攻击加值+4。</p><p><b>专长效果</b>：选择一种你拥有的天生武器攻击（不可以是徒手打击），其可造成的伤害投骰按以下列表提升一个体型等级：1d2，1d3，1d4，1d6，1d8，2d6，3d6，4d6，6d6，8d6，12d6。如果天生武器的起始伤害为1d10，则依据此表：1d10，2d8，3d8，4d8，6d8，8d8，12d8。</p><p><b>特殊说明</b>：生物可以多次选择本专长，每次选择本专长时，它必须将之应用在一项新的天生武器攻击上。</p><p class=\"zhtw-credit\"><em>译者：傻豆｜书目：专长／B1 怪物图鉴｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=60891\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Natural%20Attack\">Archives of Nethys</a></em></p>"
     },
     "Improved Natural Poison Harvester": {
       "name": "精通天然毒素采集员 Improved Natural Poison Harvester",
@@ -6342,8 +6342,8 @@
       "description": "<em>Particularly old or powerful bunyips have ear-piercing cries that instill terror into those near and far.</em><br/><br/><b>Prerequisites</b><br/>Con 17, bunyip, roar special attack.<br/><br/><b>Benefits</b><br/>The bunyip's roar ability is enhanced so that it affects all hearing creatures with 8 or fewer Hit Dice within a 200-foot spread. The ability is otherwise unchanged. A bunyip is immune to the effects of its own roar.<br/><br/><b>Normal</b><br/>A bunyip's roar ability affects all hearing creatures with 4 or fewer Hit Dice within a 100-foot spread."
     },
     "Improved Sabotaging Sunder": {
-      "name": "精通诡技破武 Improved Sabotaging Sunder",
-      "description": "<b>专长类型：</b>Combat<br/><br/><em>你很擅长破坏敌人的装备。</em><br/><br/><b>先决条件: </b>力量 13，精通破武（Improved Sunder），猛力攻击（Power Attack），诡技破武*（Sabotaging Sunder），解除装置9级。<br/><br/><b>专长效果: </b>当你执行诡技破武（Sabotaging Sunder）专长提供的特殊破武战技时，不会再引起借机攻击。此外，你能够尝试使用该战技对抗目标持握（hold）的物品，但你仍旧无法对被藏匿在袋子、背包、或者其他容器中的物品使用该战技。<br/><br/><b>资源出处: </b>Ultimate Intrigue pg. 85<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Sabotaging%20Sunder"
+      "name": "精通诡技击破 Improved Sabotaging Sunder",
+      "description": "<b>专长类型：</b>Combat<br/><br/><em>你很擅长破坏敌人的装备。</em><br/><br/><b>先决条件: </b>力量 13，精通击破（Improved Sunder），猛力攻击（Power Attack），诡技击破*（Sabotaging Sunder），解除装置9级。<br/><br/><b>专长效果: </b>当你执行诡技击破（Sabotaging Sunder）专长提供的特殊击破战技时，不会再引起借机攻击。此外，你能够尝试使用该战技对抗目标持握（hold）的物品，但你仍旧无法对被藏匿在袋子、背包、或者其他容器中的物品使用该战技。<br/><br/><b>资源出处: </b>Ultimate Intrigue pg. 85<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Sabotaging%20Sunder"
     },
     "Improved Second Chance": {
       "name": "精通燕归来 Improved Second Chance",
@@ -6406,8 +6406,8 @@
       "description": "<p><i>你深入分析对手的战术，以此在和他的对决上占得先手。</i></p><p><b>先决条件：</b>智力13，业余调查员，决斗智慧，基础攻击加值+8，在至少一项知识技能上拥有1个等级，在拥有灵感职业能力的职业上没有任何等级</p><p><b>专长效果：</b>你通过决斗智慧专长获得的近战攻击检定洞察加值和伤害加值提升到+4。除此之外，本能力的效果和决斗智慧专长相同。</p><p class=\"zhtw-credit\"><em>译者：傻豆｜书目：专长／ACG 进阶职业手册｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Studied%20Combatant\">Archives of Nethys</a></em></p>"
     },
     "Improved Sunder (Mythic)": {
-      "name": "精通破武(神话) Improved Sunder (Mythic)",
-      "description": "<b>先决条件：</b>精通破武<br/><br/><em>你那强有力的打击能够粉碎物体。</em><br/><br/><b>神话专长效果：</b>你的破武战技检定获得加值，数值等同于你的阶层的一半，当敌人尝试对你所使用的物品进行破武战技时，你的CMD也获得此加值。这些加值与非神话版的精通破武专长所赋予的加值叠加。</p><p>除此之外，你还能对任何尝试对你所使用的物品进行破武战技的敌人进行借机攻击，除非对方也拥有该专长。<br/><br/><b>资源出处: </b>Mythic Adventures pg. 67<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Sunder"
+      "name": "精通击破(神话) Improved Sunder (Mythic)",
+      "description": "<b>先决条件：</b>精通击破<br/><br/><em>你那强有力的打击能够粉碎物体。</em><br/><br/><b>神话专长效果：</b>你的击破战技检定获得加值，数值等同于你的阶层的一半，当敌人尝试对你所使用的物品进行击破战技时，你的CMD也获得此加值。这些加值与非神话版的精通击破专长所赋予的加值叠加。</p><p>除此之外，你还能对任何尝试对你所使用的物品进行击破战技的敌人进行借机攻击，除非对方也拥有该专长。<br/><br/><b>资源出处: </b>Mythic Adventures pg. 67<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Sunder"
     },
     "Improved Surprise Follow-Through": {
       "name": "精通顺势突袭 Improved Surprise Follow-Through",
@@ -6426,8 +6426,8 @@
       "description": "<em>You know how to adjust the amount of time required for a poison to take effect.</em><br/><br/><b>Prerequisites</b><br/>Craft (alchemy) 11 ranks, Toxicological Timing.<br/><br/><b>Benefits</b><br/>Whenever you craft a poison with the Craft (alchemy) skill, you can add or subtract up to 1 day from its onset time (to a minimum onset period of 1 round)."
     },
     "Improved Trip (Mythic)": {
-      "name": "精通绊摔(神话) Improved Trip (Mythic)",
-      "description": "<b>先决条件：</b>精通绊摔<br/><br/><em>击倒敌人，你是专家。</em><br/><br/><b>神话专长效果：</b>你的绊摔检定获得加值，数值等同于你的阶层的一半，当敌人绊摔你时，你的CMD也获得此加值。这些加值与非神话版的精通绊摔专长所赋予的加值叠加。</p><p>除此之外，你还能对任何尝试绊摔你的敌人进行借机攻击，除非对方也拥有该专长。<br/><br/><b>资源出处: </b>Mythic Adventures pg. 68<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Trip"
+      "name": "精通摔绊(神话) Improved Trip (Mythic)",
+      "description": "<b>先决条件：</b>精通摔绊<br/><br/><em>击倒敌人，你是专家。</em><br/><br/><b>神话专长效果：</b>你的摔绊检定获得加值，数值等同于你的阶层的一半，当敌人摔绊你时，你的CMD也获得此加值。这些加值与非神话版的精通摔绊专长所赋予的加值叠加。</p><p>除此之外，你还能对任何尝试摔绊你的敌人进行借机攻击，除非对方也拥有该专长。<br/><br/><b>资源出处: </b>Mythic Adventures pg. 68<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Trip"
     },
     "Improved Two-Weapon Feint": {
       "name": "精通双武器虚招 Improved Two-Weapon Feint",
@@ -6755,15 +6755,15 @@
     },
     "Jabbing Dancer": {
       "name": "百裂步 Jabbing Dancer",
-      "description": "<p><i>你可以在发动连续拳击的间隙摆出各种姿势，从不同角度殴打对手。</i></p><p><b>先决条件：</b>闪避，精通徒手击打，百裂拳，灵活移动，基础攻击加值+9或拳师等级5或武僧等级5</p><p><b>专长效果：</b>在使用百裂拳流派时，你的徒手攻击每命中目标一次，你就可以移动5尺一次且不引发借机攻击，但你的移动落点必须邻接你徒手击打命中的目标。但是，你的下一轮无法进行五尺快步。</p><p class=\"zhtw-credit\"><em>译者：傻豆｜书目：专长／ACG 进阶职业手册｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Jabbing%20Dancer\">Archives of Nethys</a></em></p>"
+      "description": "<p><i>你可以在发动连续拳击的间隙摆出各种姿势，从不同角度殴打对手。</i></p><p><b>先决条件：</b>闪避，精通徒手打击，百裂拳，灵活移动，基础攻击加值+9或拳师等级5或武僧等级5</p><p><b>专长效果：</b>在使用百裂拳流派时，你的徒手攻击每命中目标一次，你就可以移动5尺一次且不引发借机攻击，但你的移动落点必须邻接你徒手打击命中的目标。但是，你的下一轮无法进行五尺快步。</p><p class=\"zhtw-credit\"><em>译者：傻豆｜书目：专长／ACG 进阶职业手册｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Jabbing%20Dancer\">Archives of Nethys</a></em></p>"
     },
     "Jabbing Master": {
       "name": "千手百裂 Jabbing Master",
-      "description": "<p><i>没有人能在你暴风骤雨般的欧拉欧拉下全身而退。</i></p><p><b>先决条件：</b>闪避，精通徒手击打，百裂步，百裂拳，灵活移动，猛力攻击，基础攻击加值+12或拳师等级8或武僧等级8</p><p><b>专长效果：</b>在使用百裂拳流派时，你同一轮两次徒手击打命中造成的额外伤害提升到2d6。三次或以上徒手击打命中造成的额外伤害提升到4d6。</p><p class=\"zhtw-credit\"><em>译者：傻豆｜书目：专长／ACG 进阶职业手册｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Jabbing%20Master\">Archives of Nethys</a></em></p>"
+      "description": "<p><i>没有人能在你暴风骤雨般的欧拉欧拉下全身而退。</i></p><p><b>先决条件：</b>闪避，精通徒手打击，百裂步，百裂拳，灵活移动，猛力攻击，基础攻击加值+12或拳师等级8或武僧等级8</p><p><b>专长效果：</b>在使用百裂拳流派时，你同一轮两次徒手打击命中造成的额外伤害提升到2d6。三次或以上徒手打击命中造成的额外伤害提升到4d6。</p><p class=\"zhtw-credit\"><em>译者：傻豆｜书目：专长／ACG 进阶职业手册｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Jabbing%20Master\">Archives of Nethys</a></em></p>"
     },
     "Jabbing Style": {
       "name": "百裂拳 Jabbing Style",
-      "description": "<p><i>你加快自己出击的速度，以雨点般的拳脚对敌人造成伤害</i></p><p><b>先决条件：</b>精通徒手击打；基础攻击加值+6或拳师连打职业能力或疾风连击职业能力</p><p><b>专长效果：</b>当你徒手攻击命中一名单位时，若本轮你之前也用徒手攻击命中过该单位，则你本次徒手攻击额外造成1d6点伤害。</p><p class=\"zhtw-credit\"><em>译者：傻豆｜书目：专长／ACG 进阶职业手册｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Jabbing%20Style\">Archives of Nethys</a></em></p>"
+      "description": "<p><i>你加快自己出击的速度，以雨点般的拳脚对敌人造成伤害</i></p><p><b>先决条件：</b>精通徒手打击；基础攻击加值+6或拳师连打职业能力或疾风连击职业能力</p><p><b>专长效果：</b>当你徒手攻击命中一名单位时，若本轮你之前也用徒手攻击命中过该单位，则你本次徒手攻击额外造成1d6点伤害。</p><p class=\"zhtw-credit\"><em>译者：傻豆｜书目：专长／ACG 进阶职业手册｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Jabbing%20Style\">Archives of Nethys</a></em></p>"
     },
     "Jackal Heritage": {
       "name": "豺产 Jackal Heritage",
@@ -6783,7 +6783,7 @@
     },
     "Janni Tempest": {
       "name": "乱披风 Janni Tempest",
-      "description": "<b>专长类型：</b>Combat<br/><br/><em>你的烈风攻势可轻易令对手失去平衡。</em><br/><br/><b>先决条件: </b>精通徒手打击，御风，特技5级，表演（舞蹈）5级。<br/><br/><b>专长效果: </b>你处于风灵流派架势时，只要你徒手击打命中对手，你对此对手的冲撞和摔绊的战技检定有+4加值，但战技必须在你该轮结束前发动。你的这次战技不会引发借机攻击。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 106<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Janni%20Tempest<br/><br/><b>战策增益：</b>当你在处于御风UC架势下使用徒手击打命中了一个敌人时，你可以消耗2点耐力来提升这个专长的加值2点。你可以消耗2点耐力来将这个专长的加值应用在拖拽APG或者移位APG战技检定而不是冲撞或者绊摔。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 124"
+      "description": "<b>专长类型：</b>Combat<br/><br/><em>你的烈风攻势可轻易令对手失去平衡。</em><br/><br/><b>先决条件: </b>精通徒手打击，御风，特技5级，表演（舞蹈）5级。<br/><br/><b>专长效果: </b>你处于风灵流派架势时，只要你徒手打击命中对手，你对此对手的冲撞和摔绊的战技检定有+4加值，但战技必须在你该轮结束前发动。你的这次战技不会引发借机攻击。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 106<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Janni%20Tempest<br/><br/><b>战策增益：</b>当你在处于御风UC架势下使用徒手打击命中了一个敌人时，你可以消耗2点耐力来提升这个专长的加值2点。你可以消耗2点耐力来将这个专长的加值应用在拖拽APG或者移位APG战技检定而不是冲撞或者摔绊。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 124"
     },
     "Jawbreaker": {
       "name": "碎颚者 Jawbreaker",
@@ -6871,7 +6871,7 @@
     },
     "Kinetic Leap": {
       "name": "念动飞跃 Kinetic Leap",
-      "description": "<p>Kinetic Leap</p><p><i>在跳跃时，念力会为你提供推力。</i></p><p><b>先决条件</b>：特技动作3级，念袭（Kinetic Blast）职业能力</p><p><b>好处</b>：每日1次以迅捷动作，你能够利用念袭引发一股能量爆发，来帮助自身进行长距离的跳跃，在用于跳跃的特技动作检定中获得+10加值；若你在特技动作上至少投入了10点技能点，那么该加值会增加至+20点。通过承受1点超载，你能够随意使用该能力，直至你所承受的超载得以移除为止。</p><p><b>逻辑法术（超魔）</b></p><p>Logical Spell (Metamagic)</p><p><i>你可以通过行使逻辑与理论回避情绪成分的使用。</i></p><p><b>好处</b>：逻辑法术可以在没有情绪成分（Emotion Components）的情况下进行施放。不需要情绪成分的法术不受该专长影响。逻辑法术使用比法术的实际环级高1级的法术位。</p><p class=\"zhtw-credit\"><em>译者：四月｜书目：专长／OA异能冒险｜CHM 出处：<a href=\"http://www.goddessfantasy.net/bbs/index.php?topic=78448.msg742539#msg742539\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Kinetic%20Leap\">Archives of Nethys</a></em></p>"
+      "description": "<p>Kinetic Leap</p><p><i>在跳跃时，念力会为你提供推力。</i></p><p><b>先决条件</b>：特技3级，念袭（Kinetic Blast）职业能力</p><p><b>好处</b>：每日1次以迅捷动作，你能够利用念袭引发一股能量爆发，来帮助自身进行长距离的跳跃，在用于跳跃的特技检定中获得+10加值；若你在特技上至少投入了10点技能点，那么该加值会增加至+20点。通过承受1点超载，你能够随意使用该能力，直至你所承受的超载得以移除为止。</p><p><b>逻辑法术（超魔）</b></p><p>Logical Spell (Metamagic)</p><p><i>你可以通过行使逻辑与理论回避情绪成分的使用。</i></p><p><b>好处</b>：逻辑法术可以在没有情绪成分（Emotion Components）的情况下进行施放。不需要情绪成分的法术不受该专长影响。逻辑法术使用比法术的实际环级高1级的法术位。</p><p class=\"zhtw-credit\"><em>译者：四月｜书目：专长／OA异能冒险｜CHM 出处：<a href=\"http://www.goddessfantasy.net/bbs/index.php?topic=78448.msg742539#msg742539\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Kinetic%20Leap\">Archives of Nethys</a></em></p>"
     },
     "Kinslayer": {
       "name": "弑亲者 Kinslayer",
@@ -7003,7 +7003,7 @@
     },
     "Landing Roll": {
       "name": "地滚翻 Landing Roll",
-      "description": "<b>专长类型：</b>Combat<br/><br/><em>你知道如何安全地离开一个对你进行绊摔的敌人。</em><br/><br/><b>先决条件: </b>敏捷13，闪避，灵活移动。<br/><br/><b>专长效果: </b>当你被绊摔，你可以花费直觉动作远离对你进行绊摔的敌人5尺。这个移动不计入5尺快步。你在移动完毕后才会倒地。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 107<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Landing%20Roll<br/><br/><b>战策增益：</b>当你使用这个专长时，你可以消耗5点耐力来在直觉移动后作为直觉动作一部分起身。起身会引发借机攻击。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 125"
+      "description": "<b>专长类型：</b>Combat<br/><br/><em>你知道如何安全地离开一个对你进行摔绊的敌人。</em><br/><br/><b>先决条件: </b>敏捷13，闪避，灵活移动。<br/><br/><b>专长效果: </b>当你被摔绊，你可以花费直觉动作远离对你进行摔绊的敌人5尺。这个移动不计入5尺快步。你在移动完毕后才会倒地。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 107<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Landing%20Roll<br/><br/><b>战策增益：</b>当你使用这个专长时，你可以消耗5点耐力来在直觉移动后作为直觉动作一部分起身。起身会引发借机攻击。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 125"
     },
     "Lantern Glare": {
       "name": "Lantern Glare",
@@ -7063,7 +7063,7 @@
     },
     "Leaping Evasion": {
       "name": "跳跃躲避 Leaping Evasion",
-      "description": "<p><i>你跳出了危险范围。</i></p><p><b>先决条件</b>：闪电反射，反射闪避职业能力</p><p><b>专长效果</b>：当你成功通过一个影响区域的法术或效果的反射豁免时，以一个直觉动作你可以进行一次特技检定来跳出效果区域。你必须移动到可视范围内最近的效果区域外一点。特技动作的DC等于你需要移动的尺数，且你无法超过正常速度进行移动。若你使用该专长，在你下一回合将会恍惚。这种移动不会引发处于逃离效果区域内生物的借机攻击。</p><p class=\"zhtw-credit\"><em>译者：月夜白雨｜书目：专长／近战战术工具箱｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Leaping%20Evasion\">Archives of Nethys</a></em></p>"
+      "description": "<p><i>你跳出了危险范围。</i></p><p><b>先决条件</b>：闪电反射，反射闪避职业能力</p><p><b>专长效果</b>：当你成功通过一个影响区域的法术或效果的反射豁免时，以一个直觉动作你可以进行一次特技检定来跳出效果区域。你必须移动到可视范围内最近的效果区域外一点。特技的DC等于你需要移动的尺数，且你无法超过正常速度进行移动。若你使用该专长，在你下一回合将会恍惚。这种移动不会引发处于逃离效果区域内生物的借机攻击。</p><p class=\"zhtw-credit\"><em>译者：月夜白雨｜书目：专长／近战战术工具箱｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Leaping%20Evasion\">Archives of Nethys</a></em></p>"
     },
     "Leaping Shot": {
       "name": "跳跃射击 Leaping Shot",
@@ -7387,7 +7387,7 @@
     },
     "Manifested Blood": {
       "name": "血脉显现 Manifested Blood",
-      "description": "<p><i>你血脉中的能量奔涌时，元素力量随之在你身边咆哮。</i></p><p><b>先决条件：</b>魅力13，巨龙或元素血脉</p><p><b>专长效果：</b>每天一次，与你血脉相吻合的元素将笼罩在你的四周，在相当于你的魅力调整值的轮数中，你获得该元素种类的能力抗力5，并且以徒手击打或天生武器攻击你的敌人将受到2点此类能量伤害。如果你已经拥有此类能量抗力，它的抗力再增加5点。</p><p><b>特殊情况：</b>你可以多次选择本专长。每次选择时，你获得额外一次本专长的每日使用次数。</p><p class=\"zhtw-credit\"><em>译者：傻豆｜书目：专长／ACG 进阶职业手册｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Manifested%20Blood\">Archives of Nethys</a></em></p>"
+      "description": "<p><i>你血脉中的能量奔涌时，元素力量随之在你身边咆哮。</i></p><p><b>先决条件：</b>魅力13，巨龙或元素血脉</p><p><b>专长效果：</b>每天一次，与你血脉相吻合的元素将笼罩在你的四周，在相当于你的魅力调整值的轮数中，你获得该元素种类的能力抗力5，并且以徒手打击或天生武器攻击你的敌人将受到2点此类能量伤害。如果你已经拥有此类能量抗力，它的抗力再增加5点。</p><p><b>特殊情况：</b>你可以多次选择本专长。每次选择时，你获得额外一次本专长的每日使用次数。</p><p class=\"zhtw-credit\"><em>译者：傻豆｜书目：专长／ACG 进阶职业手册｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Manifested%20Blood\">Archives of Nethys</a></em></p>"
     },
     "Manifold Stare": {
       "name": "多样凝视 Manifold Stare",
@@ -7407,7 +7407,7 @@
     },
     "Mantis Torment": {
       "name": "螳螂铁刺 Mantis Torment",
-      "description": "<p><strong>来源</strong> 极限战斗<em>Ultimate Combat</em> pg. 108</p><p><em>你对解剖知识的了然于心，使你的轻轻一触即可带来巨大痛苦。</em></p><p><strong>先决条件：</strong> 精通徒手打击，震慑拳，螳螂拳，六合拳劲，医疗9级</p><p><strong>专长效果：</strong> 你获得1次“震慑拳”每日使用次数。当你使用螳螂拳流派架势时，你可以消耗2发“震慑拳”进行一次徒手攻击，若然命中且对手豁免失败（使用你的震慑拳豁免），在你下一轮开始前对手会因剧痛而陷入目眩和恍惚状态，你下轮开始后，对手变成疲乏状态。</p><p>引述: 战策 (来自战斗耐力Combat Stamina专长)</p><p><strong> 来源</strong> 掉链子<em>Pathfinder Unchained</em> pg. 125</p><p>你可以选择5点耐力或者2点耐力加上一次震慑拳使用次数来使出螳螂铁刺徒手击打，而不需要消耗两次震慑拳使用次数。</p><p class=\"zhtw-credit\"><em>书目：极限战斗Ultimate Combat pg. 108｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Mantis%20Torment\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>来源</strong> 极限战斗<em>Ultimate Combat</em> pg. 108</p><p><em>你对解剖知识的了然于心，使你的轻轻一触即可带来巨大痛苦。</em></p><p><strong>先决条件：</strong> 精通徒手打击，震慑拳，螳螂拳，六合拳劲，医疗9级</p><p><strong>专长效果：</strong> 你获得1次“震慑拳”每日使用次数。当你使用螳螂拳流派架势时，你可以消耗2发“震慑拳”进行一次徒手攻击，若然命中且对手豁免失败（使用你的震慑拳豁免），在你下一轮开始前对手会因剧痛而陷入目眩和恍惚状态，你下轮开始后，对手变成疲乏状态。</p><p>引述: 战策 (来自战斗耐力Combat Stamina专长)</p><p><strong> 来源</strong> 掉链子<em>Pathfinder Unchained</em> pg. 125</p><p>你可以选择5点耐力或者2点耐力加上一次震慑拳使用次数来使出螳螂铁刺徒手打击，而不需要消耗两次震慑拳使用次数。</p><p class=\"zhtw-credit\"><em>书目：极限战斗Ultimate Combat pg. 108｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Mantis%20Torment\">Archives of Nethys</a></em></p>"
     },
     "Mantis Wisdom": {
       "name": "六合拳劲 Mantis Wisdom",
@@ -7450,7 +7450,7 @@
       "description": "<b>专长类型：</b>Combat<br/><br/><em>你很擅长用手里的家伙警告别人。</em><br/><br/><b>先决条件: </b>BAB +5，威吓1级。<br/><br/><b>专长效果: </b>在判断你的威吓技能加值时，你可以使用基本攻击加值取代你在威吓技能上投入的技能点数。当你对1名生物确认了重击（confirm a critical hit）时，能够以直觉动作（immediate action）尝试1次威吓检定，用于挫败该生物的士气（demoralize）。<br/><br/><b>资源出处: </b>Ultimate Intrigue pg. 86<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Martial%20Dominance"
     },
     "Martial Focus": {
-      "name": "武器专家 Martial Focus",
+      "name": "武术专精 Martial Focus",
       "description": "<p><i>你熟练地掌握了一些武器的用法。</i></p><p><b>先决条件：</b>基础攻击加值+5</p><p class=\"zhtw-credit\"><em>书目：专长／武器掌握｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Martial%20Focus\">Archives of Nethys</a></em></p>"
     },
     "Martial Mastery": {
@@ -7751,7 +7751,7 @@
     },
     "Monastic Legacy": {
       "name": "修道传承 Monastic Legacy",
-      "description": "<b>专长类型：</b>Combat<br/><br/><em>即使投身旁门，你也不曾荒废武学的修炼。</em><br/><br/><b>先决条件: </b>【心如止水】职业特性，精通徒手打击。<br/><br/><b>专长效果: </b>在计算你的基础徒手打击伤害时，将你所有其他职业等级总和的一半计入你的武僧等级。这个专长加算的等级不会让你在获得其他武僧职业能力时获得好处。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 109<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Monastic%20Legacy<br/><br/><b>战策增益：</b>在你回合开始时，你可以消耗5点耐力来使用你全部的等级来在决定你的徒手击打伤害时作为你的有效武僧等级。这种提升将会持续到你的下一轮开始。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 127"
+      "description": "<b>专长类型：</b>Combat<br/><br/><em>即使投身旁门，你也不曾荒废武学的修炼。</em><br/><br/><b>先决条件: </b>【心如止水】职业特性，精通徒手打击。<br/><br/><b>专长效果: </b>在计算你的基础徒手打击伤害时，将你所有其他职业等级总和的一半计入你的武僧等级。这个专长加算的等级不会让你在获得其他武僧职业能力时获得好处。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 109<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Monastic%20Legacy<br/><br/><b>战策增益：</b>在你回合开始时，你可以消耗5点耐力来使用你全部的等级来在决定你的徒手打击伤害时作为你的有效武僧等级。这种提升将会持续到你的下一轮开始。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 127"
     },
     "Monastic Legacy (Mythic)": {
       "name": "修道传承(神话) Monastic Legacy (Mythic)",
@@ -7763,11 +7763,11 @@
     },
     "Monkey Lunge": {
       "name": "灵猴突刺 Monkey Lunge",
-      "description": "<p><i>你可以快速调整你的步伐，让你免受反击。</i></p><p><b>先决条件</b>：突刺专长，特技动作1级。</p><p><b>专长效果</b>：以一个标准动作发动攻击，你可以使用突刺专长在你的回合结束之前增加你的可触距离五尺，而不需承受AC减值。你不能在中载或重载的时候使用此专长。</p><p><b>正常情况</b>：使用突刺专长将使你承受-2AC的惩罚。</p><p class=\"zhtw-credit\"><em>译者：PATIBAUL｜书目：专长／萨加瓦，失落的殖民地｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=60763.0\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Monkey%20Lunge\">Archives of Nethys</a></em></p>"
+      "description": "<p><i>你可以快速调整你的步伐，让你免受反击。</i></p><p><b>先决条件</b>：突刺专长，特技1级。</p><p><b>专长效果</b>：以一个标准动作发动攻击，你可以使用突刺专长在你的回合结束之前增加你的可触距离五尺，而不需承受AC减值。你不能在中载或重载的时候使用此专长。</p><p><b>正常情况</b>：使用突刺专长将使你承受-2AC的惩罚。</p><p class=\"zhtw-credit\"><em>译者：PATIBAUL｜书目：专长／萨加瓦，失落的殖民地｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=60763.0\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Monkey%20Lunge\">Archives of Nethys</a></em></p>"
     },
     "Monkey Moves": {
       "name": "猿步 Monkey Moves",
-      "description": "<p><strong>来源</strong> 极限战斗<em>Ultimate Combat</em> pg. 110</p><p><em>你从诡异的角度攻击，令敌人防不胜防。</em></p><p><strong>先决条件：</strong>感知13，精通徒手打击，猴拳，特技8级，攀爬8级。</p><p><strong>专长效果：</strong>当你处于猴拳流派架势时，你获得以下好处：你可以将你的感知修正加到攀爬检定上。你可以用半速攀爬或匍匐前进。你可以用跳跃，匍匐前进或攀爬来进行五尺快步。当你进行攀爬时，你保留AC上的敏捷加值。如果在你的回合你成功用徒手击打命中一个敌人两次以上，就算你之前进行过移动，也能以一个迅捷动作做一次五尺快步。</p><p><strong>通常状况：</strong>你的爬行速度为你移动速度的1/4。在攀爬中你失去敏捷的AC加值。五尺快步只能用你通常的移动方式进行，且你只能在该轮没移动过的情况下使用五尺快步。</p><p>引述: 战策 (来自战斗耐力Combat Stamina专长)</p><p><strong>来源</strong> 掉链子<em>Pathfinder Unchained</em> pg. 127</p><p>在你回合开始时，你可以消耗5点耐力来获得等同于你陆地速度的攀爬速度，直到你的下一回合开始。</p><p class=\"zhtw-credit\"><em>书目：极限战斗Ultimate Combat pg. 110｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Monkey%20Moves\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>来源</strong> 极限战斗<em>Ultimate Combat</em> pg. 110</p><p><em>你从诡异的角度攻击，令敌人防不胜防。</em></p><p><strong>先决条件：</strong>感知13，精通徒手打击，猴拳，特技8级，攀爬8级。</p><p><strong>专长效果：</strong>当你处于猴拳流派架势时，你获得以下好处：你可以将你的感知修正加到攀爬检定上。你可以用半速攀爬或匍匐前进。你可以用跳跃，匍匐前进或攀爬来进行五尺快步。当你进行攀爬时，你保留AC上的敏捷加值。如果在你的回合你成功用徒手打击命中一个敌人两次以上，就算你之前进行过移动，也能以一个迅捷动作做一次五尺快步。</p><p><strong>通常状况：</strong>你的爬行速度为你移动速度的1/4。在攀爬中你失去敏捷的AC加值。五尺快步只能用你通常的移动方式进行，且你只能在该轮没移动过的情况下使用五尺快步。</p><p>引述: 战策 (来自战斗耐力Combat Stamina专长)</p><p><strong>来源</strong> 掉链子<em>Pathfinder Unchained</em> pg. 127</p><p>在你回合开始时，你可以消耗5点耐力来获得等同于你陆地速度的攀爬速度，直到你的下一回合开始。</p><p class=\"zhtw-credit\"><em>书目：极限战斗Ultimate Combat pg. 110｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Monkey%20Moves\">Archives of Nethys</a></em></p>"
     },
     "Monkey Shine": {
       "name": "猿搏 Monkey Shine",
@@ -7775,7 +7775,7 @@
     },
     "Monkey Style": {
       "name": "猴拳 Monkey Style",
-      "description": "<p><strong>来源</strong> 极限战斗<em>Ultimate Combat</em> pg. 110</p><p><em>你的徒手攻击灵巧难测，滚地和跃步动作接连不断。</em></p><p><strong>先决条件：</strong>感知13，精通徒手击打，特技5级，攀爬5级。</p><p><strong>专长效果：</strong>你可以将你的感知修正加到特技检定上。当你使用猴拳流派架势并处于俯卧状态时，你不会在俯卧时受到近战攻击检定和近战AC的罚值，而且你匍匐前进与俯卧状态中站立都不会引发借机攻击。如果你成功通过一个DC为20的特技检定，你可以用一个迅捷动作站起来。</p><p><strong>通常状况：</strong>你在俯卧时在近战攻击检定与近战AC上受-4罚值。从俯卧状态中站立是一个会引发借机攻击的标准动作。<sup><sub>5</sub></sup></p><p>引述: 战策 (来自战斗耐力Combat Stamina专长)</p><p><strong>来源</strong> 掉链子<em>Pathfinder Unchained</em> pg. 127</p><p>当你使用这个专长时，你可以消耗2点耐力来以一个迅捷动作起身。而不需要成功通过一个DC20的特技检定。</p><p class=\"zhtw-credit\"><em>书目：极限战斗Ultimate Combat pg. 110｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Monkey%20Style\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>来源</strong> 极限战斗<em>Ultimate Combat</em> pg. 110</p><p><em>你的徒手攻击灵巧难测，滚地和跃步动作接连不断。</em></p><p><strong>先决条件：</strong>感知13，精通徒手打击，特技5级，攀爬5级。</p><p><strong>专长效果：</strong>你可以将你的感知修正加到特技检定上。当你使用猴拳流派架势并处于俯卧状态时，你不会在俯卧时受到近战攻击检定和近战AC的罚值，而且你匍匐前进与俯卧状态中站立都不会引发借机攻击。如果你成功通过一个DC为20的特技检定，你可以用一个迅捷动作站起来。</p><p><strong>通常状况：</strong>你在俯卧时在近战攻击检定与近战AC上受-4罚值。从俯卧状态中站立是一个会引发借机攻击的标准动作。<sup><sub>5</sub></sup></p><p>引述: 战策 (来自战斗耐力Combat Stamina专长)</p><p><strong>来源</strong> 掉链子<em>Pathfinder Unchained</em> pg. 127</p><p>当你使用这个专长时，你可以消耗2点耐力来以一个迅捷动作起身。而不需要成功通过一个DC20的特技检定。</p><p class=\"zhtw-credit\"><em>书目：极限战斗Ultimate Combat pg. 110｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Monkey%20Style\">Archives of Nethys</a></em></p>"
     },
     "Monster Spotter": {
       "name": "Monster Spotter",
@@ -8075,11 +8075,11 @@
     },
     "Net Maneuvering": {
       "name": "捕网战技 Net Maneuvering",
-      "description": "<b>专长类型：</b>Combat<br/><br/><em>靠着技巧和蛮力，你可以将敌人玩弄在你的网中。</em><br/><br/><b>先决条件: </b>擅长异种武器（网），捕网熟练，基本攻击加值+3。<br/><br/><b>专长效果: </b>在战斗中，你可以使用网进行绊摔或卸武、而非纠缠你的敌人。当你这么使用网进行卸武时，你的战技检定有+2加值。此外，如果敌人正被你的网纠缠，你可以尝试对其进行拖拽或移位战技检定，距离最多为你的网的触及范围或你用纤绳能控制网的距离。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 111<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Net%20Maneuvering<br/><br/><b>战策增益：</b>只要你的耐力池中还有1点耐力，你就能使用捕网进行拖拽和移位战技。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 127"
+      "description": "<b>专长类型：</b>Combat<br/><br/><em>靠着技巧和蛮力，你可以将敌人玩弄在你的网中。</em><br/><br/><b>先决条件: </b>擅长异种武器（网），捕网熟练，基本攻击加值+3。<br/><br/><b>专长效果: </b>在战斗中，你可以使用网进行摔绊或卸武、而非纠缠你的敌人。当你这么使用网进行卸武时，你的战技检定有+2加值。此外，如果敌人正被你的网纠缠，你可以尝试对其进行拖拽或移位战技检定，距离最多为你的网的触及范围或你用纤绳能控制网的距离。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 111<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Net%20Maneuvering<br/><br/><b>战策增益：</b>只要你的耐力池中还有1点耐力，你就能使用捕网进行拖拽和移位战技。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 127"
     },
     "Net Trickery": {
       "name": "捕网诡计 Net Trickery",
-      "description": "<b>专长类型：</b>Combat<br/><br/><em>你能够非常熟练的用网来阻碍你的敌人。</em><br/><br/><b>先决条件: </b>擅长异种武器（网），捕网熟练，捕网战技，基本攻击加值+6。<br/><br/><b>专长效果: </b>当你用网进行近战攻击时，你可以用一次致盲阴招战技来取代近战攻击。如果有一个对手正被你的网纠缠，只要他还处于你的网的触及范围或纤绳控制范围，你可以尝试对其进行绊摔。此外，在你用网进行拖拽或移位战技时，你还会有+2战技加值奖励。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 111<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Net%20Trickery<br/><br/><b>战策增益：</b>只要你的耐力池中还有1点耐力，你就能使用阴招APG战技来让一个敌人目眩或者恶心，而不是让他致盲。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 127"
+      "description": "<b>专长类型：</b>Combat<br/><br/><em>你能够非常熟练的用网来阻碍你的敌人。</em><br/><br/><b>先决条件: </b>擅长异种武器（网），捕网熟练，捕网战技，基本攻击加值+6。<br/><br/><b>专长效果: </b>当你用网进行近战攻击时，你可以用一次致盲阴招战技来取代近战攻击。如果有一个对手正被你的网纠缠，只要他还处于你的网的触及范围或纤绳控制范围，你可以尝试对其进行摔绊。此外，在你用网进行拖拽或移位战技时，你还会有+2战技加值奖励。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 111<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Net%20Trickery<br/><br/><b>战策增益：</b>只要你的耐力池中还有1点耐力，你就能使用阴招APG战技来让一个敌人目眩或者恶心，而不是让他致盲。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 127"
     },
     "Never Conquered, Forever Feared": {
       "name": "Never Conquered, Forever Feared",
@@ -8203,7 +8203,7 @@
     },
     "Ogre Crush": {
       "name": "食人魔碎骨扼 Ogre Crush",
-      "description": "<em>你宽厚，粗长的胳膊一旦锁死体型较小的敌人，就能慢慢地把他们的骨头和内脏压碎。</em><br/><br/><b>先决条件: </b>力量25，精通徒手击打，精通擒抱，食人魔，体型大型或更大。<br/><br/><b>专长效果: </b>在擒抱一个体型比你小的生物并对他造成伤害时，你的徒手击打伤害视为上升一个体型。除此之外，你获得紧勒通用怪物能力，造成的伤害骰等同于你的体型所可以造成的挥击伤害或是徒手击打伤害，取其高者。<br/><br/><b>资源出处: </b>Monster Codex pg. 153<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Ogre%20Crush"
+      "description": "<em>你宽厚，粗长的胳膊一旦锁死体型较小的敌人，就能慢慢地把他们的骨头和内脏压碎。</em><br/><br/><b>先决条件: </b>力量25，精通徒手打击，精通擒抱，食人魔，体型大型或更大。<br/><br/><b>专长效果: </b>在擒抱一个体型比你小的生物并对他造成伤害时，你的徒手打击伤害视为上升一个体型。除此之外，你获得紧勒通用怪物能力，造成的伤害骰等同于你的体型所可以造成的挥击伤害或是徒手打击伤害，取其高者。<br/><br/><b>资源出处: </b>Monster Codex pg. 153<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Ogre%20Crush"
     },
     "Old as Dust": {
       "name": "老而不死 Old as Dust",
@@ -8383,7 +8383,7 @@
     },
     "Owl Dive": {
       "name": "枭穿式 Owl Dive",
-      "description": "<p><strong>来源</strong> 极限诡道<em>Ultimate Intrigue</em> pg. 88</p><p><em>武技训练让你能够在飞行和冲锋时穿过他人所处的空间。</em></p><p><strong>先决条件：</strong>敏捷 17，枭冲式*（Owl Style），枭落式*（Owl Swoop），技能专攻：隐匿（Skill Focus：Stealth），BAB +7或武僧等级5级，特技动作1级，飞行1级，隐匿1级</p><p><strong>专长效果：</strong>当你使用枭冲式（Owl Style）时，能够使用你的基本攻击加值取代你在飞行中投入的技能点数，并以此来判断你的飞行技能加值。你能够冲锋（charge）穿过其他生物占据的空间，但是和正常情况一样，你必须做出成功的特技动作检定才能通过敌人占据的空间。当你于冲锋途中穿过敌人占据的空间，而且在此时作出的特技动作检定中失败时，你的冲锋便会在进入该名敌人占据的空间时结束；如果你能威胁到该名敌人，则可以用你的冲锋攻击对抗该名敌人。</p><p class=\"zhtw-credit\"><em>书目：极限诡道Ultimate Intrigue pg. 88｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Owl%20Dive\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>来源</strong> 极限诡道<em>Ultimate Intrigue</em> pg. 88</p><p><em>武技训练让你能够在飞行和冲锋时穿过他人所处的空间。</em></p><p><strong>先决条件：</strong>敏捷 17，枭冲式*（Owl Style），枭落式*（Owl Swoop），技能专攻：隐匿（Skill Focus：Stealth），BAB +7或武僧等级5级，特技1级，飞行1级，隐匿1级</p><p><strong>专长效果：</strong>当你使用枭冲式（Owl Style）时，能够使用你的基本攻击加值取代你在飞行中投入的技能点数，并以此来判断你的飞行技能加值。你能够冲锋（charge）穿过其他生物占据的空间，但是和正常情况一样，你必须做出成功的特技检定才能通过敌人占据的空间。当你于冲锋途中穿过敌人占据的空间，而且在此时作出的特技检定中失败时，你的冲锋便会在进入该名敌人占据的空间时结束；如果你能威胁到该名敌人，则可以用你的冲锋攻击对抗该名敌人。</p><p class=\"zhtw-credit\"><em>书目：极限诡道Ultimate Intrigue pg. 88｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Owl%20Dive\">Archives of Nethys</a></em></p>"
     },
     "Owl Style": {
       "name": "枭冲式 Owl Style",
@@ -8391,7 +8391,7 @@
     },
     "Owl Swoop": {
       "name": "枭落式 Owl Swoop",
-      "description": "<p><strong>来源</strong> 极限诡道<em>Ultimate Intrigue</em> pg. 88</p><p><em>武技训练让你能够以华丽的技巧移动。</em></p><p><strong>先决条件：</strong>敏捷 15，枭冲式*（Owl Style），技能专攻：隐匿（Skill Focus：Stealth），特技动作1级，隐匿1级</p><p><strong>专长效果：</strong>当你使用枭冲式（Owl Style）时，能够使用你的基本攻击加值取代你在特技动作中投入的技能点数，并以此来判断你的特技动作技能加值。你能尝试特技动作检定来在光滑或狭窄的表面上移动，也可以用于避免冲锋时引起的借机攻击，不过依旧如常承受全速进行移动所带来的检定DC提升和减值。</p><p class=\"zhtw-credit\"><em>书目：极限诡道Ultimate Intrigue pg. 88｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Owl%20Swoop\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>来源</strong> 极限诡道<em>Ultimate Intrigue</em> pg. 88</p><p><em>武技训练让你能够以华丽的技巧移动。</em></p><p><strong>先决条件：</strong>敏捷 15，枭冲式*（Owl Style），技能专攻：隐匿（Skill Focus：Stealth），特技1级，隐匿1级</p><p><strong>专长效果：</strong>当你使用枭冲式（Owl Style）时，能够使用你的基本攻击加值取代你在特技中投入的技能点数，并以此来判断你的特技技能加值。你能尝试特技检定来在光滑或狭窄的表面上移动，也可以用于避免冲锋时引起的借机攻击，不过依旧如常承受全速进行移动所带来的检定DC提升和减值。</p><p class=\"zhtw-credit\"><em>书目：极限诡道Ultimate Intrigue pg. 88｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Owl%20Swoop\">Archives of Nethys</a></em></p>"
     },
     "Pacify Animal": {
       "name": "Pacify Animal",
@@ -8459,7 +8459,7 @@
     },
     "Paralyzing Strike": {
       "name": "定身拳 Paralyzing Strike",
-      "description": "<p><i>你巧妙的一击命中对手的秘孔，使他全身僵直。</i></p><p><b>先决条件：</b> 敏捷13，感知13，精通徒手击打，基础攻击加值+14</p><p><b>专长效果：</b> 你必须在投掷攻击骰之前宣告使用此专长（因此，未命中会导致尝试失败）。定身拳在正常造成伤害的同时，还会强制受到你徒手击打伤害的敌人进行一次DC=10+1/2你的角色等级+感知调整值的强韧豁免检定。豁免检定失败的防御者将麻痹1轮或直到受到任何造成生命值伤害的法术为止。每4级你每天可以多尝试一次取力攻击，每轮不能超过1次。构装、泥怪、植物、不死、虚体生物和免疫重击的生物不会被本能力影响。</p><p class=\"zhtw-credit\"><em>译者：傻豆｜书目：专长／ACG 进阶职业手册｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Paralyzing%20Strike\">Archives of Nethys</a></em></p>"
+      "description": "<p><i>你巧妙的一击命中对手的秘孔，使他全身僵直。</i></p><p><b>先决条件：</b> 敏捷13，感知13，精通徒手打击，基础攻击加值+14</p><p><b>专长效果：</b> 你必须在投掷攻击骰之前宣告使用此专长（因此，未命中会导致尝试失败）。定身拳在正常造成伤害的同时，还会强制受到你徒手打击伤害的敌人进行一次DC=10+1/2你的角色等级+感知调整值的强韧豁免检定。豁免检定失败的防御者将麻痹1轮或直到受到任何造成生命值伤害的法术为止。每4级你每天可以多尝试一次取力攻击，每轮不能超过1次。构装、泥怪、植物、不死、虚体生物和免疫重击的生物不会被本能力影响。</p><p class=\"zhtw-credit\"><em>译者：傻豆｜书目：专长／ACG 进阶职业手册｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Paralyzing%20Strike\">Archives of Nethys</a></em></p>"
     },
     "Parry Spell": {
       "name": "回击法术 Parry Spell",
@@ -8655,7 +8655,7 @@
     },
     "Pinning Knockout": {
       "name": "压制击昏 Pinning Knockout",
-      "description": "<b>专长类型：</b>Combat<br/><br/><em>你能轻松击倒一个被你压制的敌人。</em><br/><br/><b>先决条件: </b>敏捷13，高等擒抱，精通擒抱，精通徒手打击，基本攻击加值+9或武僧9级。<br/><br/><b>专长效果: </b>当你压制一个对手，如果你成功的进行了一次擒抱战技检定、并且对其用徒手打击或轻型/单手武器造成非致命伤害，你的伤害翻倍。任何免疫重击的生物也免疫该专长的影响。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 113<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Pinning%20Knockout<br/><br/><b>战策增益：</b>当你使用徒手击打或者轻型或单手武器对一个被压制的敌人使用该专长造成非致命伤害时，你可以消耗5点耐力来将伤害提升到三倍而不是两倍。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 129"
+      "description": "<b>专长类型：</b>Combat<br/><br/><em>你能轻松击倒一个被你压制的敌人。</em><br/><br/><b>先决条件: </b>敏捷13，高等擒抱，精通擒抱，精通徒手打击，基本攻击加值+9或武僧9级。<br/><br/><b>专长效果: </b>当你压制一个对手，如果你成功的进行了一次擒抱战技检定、并且对其用徒手打击或轻型/单手武器造成非致命伤害，你的伤害翻倍。任何免疫重击的生物也免疫该专长的影响。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 113<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Pinning%20Knockout<br/><br/><b>战策增益：</b>当你使用徒手打击或者轻型或单手武器对一个被压制的敌人使用该专长造成非致命伤害时，你可以消耗5点耐力来将伤害提升到三倍而不是两倍。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 129"
     },
     "Pinning Rend": {
       "name": "撕裂压制 Pinning Rend",
@@ -8795,7 +8795,7 @@
     },
     "Possessed Hand": {
       "name": "鬼上手 Possessed Hand",
-      "description": "<p><em> 你跟幽灵、精魄、或异界生物达成了和平永久的交易。它附身在你的手中，引导和协助你作为回报获得帮助。</em></p><p><strong>专长效果：</strong>你吸引有个人动机的幽灵、精魄、或异界生物去附身你的手。此通常通常涉及某种互惠契约或协议。你的鬼手能在多方面协助你，但它的周期性不受控制的夸张举止使你分心；你一旦获得此专长后在专注检定永远承受-2罚值。</p><p>任何你用鬼手以单手武器、轻型武器、徒手击打、或天生攻击作出的攻击在攻击骰和伤害骰获得+1洞察加值。你还在解除装置和巧手检定获得+1洞察加值。每天1次以迅捷动作，你能取出您携带的任何存放物品，只要该物品不重于5磅以上。</p><p class=\"zhtw-credit\"><em>译者：犬良人｜书目：闹鬼英雄手册HHH／专长｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=111673.0\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Possessed%20Hand\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 你跟幽灵、精魄、或异界生物达成了和平永久的交易。它附身在你的手中，引导和协助你作为回报获得帮助。</em></p><p><strong>专长效果：</strong>你吸引有个人动机的幽灵、精魄、或异界生物去附身你的手。此通常通常涉及某种互惠契约或协议。你的鬼手能在多方面协助你，但它的周期性不受控制的夸张举止使你分心；你一旦获得此专长后在专注检定永远承受-2罚值。</p><p>任何你用鬼手以单手武器、轻型武器、徒手打击、或天生攻击作出的攻击在攻击骰和伤害骰获得+1洞察加值。你还在解除装置和巧手检定获得+1洞察加值。每天1次以迅捷动作，你能取出您携带的任何存放物品，只要该物品不重于5磅以上。</p><p class=\"zhtw-credit\"><em>译者：犬良人｜书目：闹鬼英雄手册HHH／专长｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=111673.0\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Possessed%20Hand\">Archives of Nethys</a></em></p>"
     },
     "Potent Holy Symbol": {
       "name": "Potent Holy Symbol",
@@ -8995,11 +8995,11 @@
     },
     "Pummeling Charge": {
       "name": "天将奔烈 Pummeling Charge",
-      "description": "<p><i>挟裹着呼啸之势，你聚起至强至刚的斗气冲击敌人</i></p><p><b>先决条件：</b>精通徒手击打，刚烈掌，基础攻击加值+12或拳师等级8或武僧等级8<sup><sub>5</sub></sup></p><p><b>专长效果：</b>在使用刚烈掌流派攻击时，你可以在冲锋后进行全回合疾风连击，作为冲锋动作的一部分。你必须在预定对目标发动刚烈掌的情况下，才能发动天将奔烈。</p><p><b>正常情况：</b>你无法在冲锋时进行全回合攻击。</p><p class=\"zhtw-credit\"><em>译者：傻豆｜书目：专长／ACG 进阶职业手册｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Pummeling%20Charge\">Archives of Nethys</a></em></p>"
+      "description": "<p><i>挟裹着呼啸之势，你聚起至强至刚的斗气冲击敌人</i></p><p><b>先决条件：</b>精通徒手打击，刚烈掌，基础攻击加值+12或拳师等级8或武僧等级8<sup><sub>5</sub></sup></p><p><b>专长效果：</b>在使用刚烈掌流派攻击时，你可以在冲锋后进行全回合疾风连击，作为冲锋动作的一部分。你必须在预定对目标发动刚烈掌的情况下，才能发动天将奔烈。</p><p><b>正常情况：</b>你无法在冲锋时进行全回合攻击。</p><p class=\"zhtw-credit\"><em>译者：傻豆｜书目：专长／ACG 进阶职业手册｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Pummeling%20Charge\">Archives of Nethys</a></em></p>"
     },
     "Pummeling Style": {
       "name": "刚烈掌 Pummeling Style",
-      "description": "<b>专长类型：</b>CombatStyle<br/><br/><em>你汇聚全身的力道，打出刚猛的一击。</em><br/><br/><b>先决条件: </b>精通徒手击打，基础攻击加值+6，拳师连打职业能力或疾风连击职业能力。<br/><br/><b>专长效果: </b>当你用徒手攻击对单个目标进行全回合攻击或疾风连击时，在应用敌方的DR之前先合计自己的伤害。无论你有什么其它的特殊能力，该专长都只对徒手攻击生效。<br/><br/><b>资源出处: </b>Advanced Class Guide pg. 154<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Pummeling%20Style<br/><br/><b>战策增益：</b>当你使用这个流派时，你可以消耗5点耐力来以一个标准动作打出你所有的攻击，而不是一个整轮动作。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 129"
+      "description": "<b>专长类型：</b>CombatStyle<br/><br/><em>你汇聚全身的力道，打出刚猛的一击。</em><br/><br/><b>先决条件: </b>精通徒手打击，基础攻击加值+6，拳师连打职业能力或疾风连击职业能力。<br/><br/><b>专长效果: </b>当你用徒手攻击对单个目标进行全回合攻击或疾风连击时，在应用敌方的DR之前先合计自己的伤害。无论你有什么其它的特殊能力，该专长都只对徒手攻击生效。<br/><br/><b>资源出处: </b>Advanced Class Guide pg. 154<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Pummeling%20Style<br/><br/><b>战策增益：</b>当你使用这个流派时，你可以消耗5点耐力来以一个标准动作打出你所有的攻击，而不是一个整轮动作。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 129"
     },
     "Punch Through": {
       "name": "穿透打击 Punch Through",
@@ -9187,7 +9187,7 @@
     },
     "Raging Regeneration": {
       "name": "狂暴再生 Raging Regeneration",
-      "description": "<b>专长类型：</b>Combat<br/><br/><em>狂暴的野性催化你的再生能力，使其无法被阻止。</em><br/><br/><b>先决条件: </b>狂暴职业能力，再生，巨魔。<br/><br/><b>专长效果: </b>当你进入狂暴状态时，你的再生能力将不会被造成火焰和强酸伤害的攻击在当轮压制。但是，在你的下一回合结束前，你通过再生能力恢复的生命值会每轮降低2点。<br/><br/><b>特殊说明: </b>你的再生能力会因为受到火焰和强酸伤害而在下一回合中停止生效。<br/><br/><b>资源出处: </b>Monster Codex pg. 224<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Raging%20Regeneration"
+      "description": "<b>专长类型：</b>Combat<br/><br/><em>狂暴的野性催化你的再生能力，使其无法被阻止。</em><br/><br/><b>先决条件: </b>狂暴职业能力，再生，巨魔。<br/><br/><b>专长效果: </b>当你进入狂暴状态时，你的再生能力将不会被造成火焰和酸蚀伤害的攻击在当轮压制。但是，在你的下一回合结束前，你通过再生能力恢复的生命值会每轮降低2点。<br/><br/><b>特殊说明: </b>你的再生能力会因为受到火焰和酸蚀伤害而在下一回合中停止生效。<br/><br/><b>资源出处: </b>Monster Codex pg. 224<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Raging%20Regeneration"
     },
     "Raging Throw": {
       "name": "狂暴撞飞 Raging Throw",
@@ -9487,7 +9487,7 @@
     },
     "Retributive Kick": {
       "name": "变剑为掌 Retributive Kick",
-      "description": "<p><i>你的武器攻击只是你接下来拳打脚踢的前奏。</i></p><p><b>先决条件：</b>精通徒手击打，基础攻击加值+5，对所选近战武器拥有战士武器训练（Weapon Training）职业能力</p><p><b>专长效果：</b>在以所选的近战武器进行整轮攻击时，若你的第一次攻击失手，被格挡，招架或是因为任何情况未能成功命中目标，你可以立刻以相同的攻击加值对目标发动一次徒手击打攻击。但是，这样做的话你无法在接下来未完成的这次整轮攻击中继续进行攻击。</p><p class=\"zhtw-credit\"><em>书目：专长／武器掌握｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Retributive%20Kick\">Archives of Nethys</a></em></p>"
+      "description": "<p><i>你的武器攻击只是你接下来拳打脚踢的前奏。</i></p><p><b>先决条件：</b>精通徒手打击，基础攻击加值+5，对所选近战武器拥有战士武器训练（Weapon Training）职业能力</p><p><b>专长效果：</b>在以所选的近战武器进行整轮攻击时，若你的第一次攻击失手，被格挡，招架或是因为任何情况未能成功命中目标，你可以立刻以相同的攻击加值对目标发动一次徒手打击攻击。但是，这样做的话你无法在接下来未完成的这次整轮攻击中继续进行攻击。</p><p class=\"zhtw-credit\"><em>书目：专长／武器掌握｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Retributive%20Kick\">Archives of Nethys</a></em></p>"
     },
     "Retributive Summoning": {
       "name": "Retributive Summoning",
@@ -9499,7 +9499,7 @@
     },
     "Revelation Strike": {
       "name": "启示打击 Revelation Strike",
-      "description": "<b>专长类型：</b>Combat<br/><br/><em>你的徒手打击将一项启示降诸对手。</em><br/><br/><b>先决条件: </b>【启示】职业特性，精通徒手打击。<br/><br/><b>专长效果: </b>获得此专长时，选择一项你拥有的、影响目标不超过一人的先知启示。当你成功用徒手打击命中对手时，你能以迅捷动作在正常伤害外附加所选定的启示效果于他。这不会引发借机攻击。<br/><br/><b>通常状况: </b>你可以多次选择本专长，每次选择时指定一项不同的启示。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 116<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Revelation%20Strike<br/><br/><b>战策增益：</b>在你使用徒手击打命中时，你可以消耗2点耐力来以一个自由动作而不是迅捷动作将你选择的启示APG效果应用到对手身上。如果选择的启示没有每日使用次数限制，这个战策将会消耗5点耐力。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 130"
+      "description": "<b>专长类型：</b>Combat<br/><br/><em>你的徒手打击将一项启示降诸对手。</em><br/><br/><b>先决条件: </b>【启示】职业特性，精通徒手打击。<br/><br/><b>专长效果: </b>获得此专长时，选择一项你拥有的、影响目标不超过一人的先知启示。当你成功用徒手打击命中对手时，你能以迅捷动作在正常伤害外附加所选定的启示效果于他。这不会引发借机攻击。<br/><br/><b>通常状况: </b>你可以多次选择本专长，每次选择时指定一项不同的启示。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 116<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Revelation%20Strike<br/><br/><b>战策增益：</b>在你使用徒手打击命中时，你可以消耗2点耐力来以一个自由动作而不是迅捷动作将你选择的启示APG效果应用到对手身上。如果选择的启示没有每日使用次数限制，这个战策将会消耗5点耐力。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 130"
     },
     "Revered Guidance": {
       "name": "Revered Guidance",
@@ -9631,7 +9631,7 @@
     },
     "Run (Mythic)": {
       "name": "飞跑(神话) Run (Mythic)",
-      "description": "<b>先决条件：</b>飞跑<br/><br/><em>你能够以让人难以置信的速度和持久力进行奔跑。</em><br/><br/><b>神话专长效果：</b>当你奔跑时，若你穿戴中甲、轻甲、不着甲，并且携带不超过中载的物品时，你能够以正常速度的7倍进行移动。当你在助跑后进行跳跃时，你的特技动作检定会获得额外加值，数值等同于你的阶层 + 4。</p><p>你能够正常奔跑的轮数等同于你的体质属性加你的阶层，不过在此之后你就必须成功进行体质检定才能继续奔跑。<br/><br/><b>资源出处: </b>Mythic Adventures pg. 72<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Run"
+      "description": "<b>先决条件：</b>飞跑<br/><br/><em>你能够以让人难以置信的速度和持久力进行奔跑。</em><br/><br/><b>神话专长效果：</b>当你奔跑时，若你穿戴中甲、轻甲、不着甲，并且携带不超过中载的物品时，你能够以正常速度的7倍进行移动。当你在助跑后进行跳跃时，你的特技检定会获得额外加值，数值等同于你的阶层 + 4。</p><p>你能够正常奔跑的轮数等同于你的体质属性加你的阶层，不过在此之后你就必须成功进行体质检定才能继续奔跑。<br/><br/><b>资源出处: </b>Mythic Adventures pg. 72<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Run"
     },
     "Runic Charge": {
       "name": "Runic Charge",
@@ -9654,8 +9654,8 @@
       "description": "<em>你破坏装置的技巧神乎其神。</em><br/><br/><b>先决条件: </b>妙手，解除装置5级。<br/><br/><b>专长效果: </b>当你使用解除装置技能设置（rig）简单（simple）或复杂（tricky）的装置（比如马鞍或者货车车轮），让它能够在正常工作一段时间后再脱落或损坏时，你能够指定装置损坏的时间点，延迟的时间至多为在你成功进行设置工作后60分钟的时点。装置会在指定时间的1d6 - 3轮后损坏（结果为-1或-2则意味着装置会在指定时间之前的1或2轮时损坏）。<br/><br/><b>通常状况: </b>你能够使用解除装置设置（rig）简单（simple）的装置（比如马鞍或货车车轮），让它能够在正常工作一段时间后再脱落或损坏（通常为开始使用后的1d4轮）。<br/><br/><b>资源出处: </b>Ultimate Intrigue pg. 90<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sabotage%20Specialist"
     },
     "Sabotaging Sunder": {
-      "name": "诡技破武 Sabotaging Sunder",
-      "description": "<b>专长类型：</b>Combat<br/><br/><em>你能够快速破坏敌人穿戴或携带的装备。</em><br/><br/><b>先决条件: </b>力量 13，精通破武，猛力攻击，解除装置7级。<br/><br/><b>专长效果: </b>你能够以标准动作执行1次特殊的破武战技（sunder combat maneuver），来破坏1名敌人穿戴的1件物品。你会在近战中使用该项技巧破坏1件既没有被持握（hold）也没有被藏匿在袋子、背包、或者其他容器中的物品。你必须至少有1只手空着才能执行该项战技，而且这么做会引起你所执行战技的目标的借机攻击，即便你具有精通破武（Improved Sunder）专长也是如此。</p><p>当你尝试该次战技检定时，使用你在解除装置中投入的技能点数替代你的基本攻击加值，并用你的敏捷调整值替代力量调整值。任何针对破武战技检定的加值（比如精通破武专长提供的加值）仍旧适用于该次战技，而你的目标在CMD上获得的任何用于对抗破武尝试的加值，依旧也能够在此次战技中保护它。若你的检定成功，取代原本的造成伤害，你会破坏目标物品，让它获得破损（broken）状态。若该物品已经处于破损状态，那么你会摧毁（destroy）该物品，或者导致它的脱落（fall off）。免疫破武的物品依旧免疫此种特殊战技，若一件物品（比如神器）在正常情况下仅能用特殊方式摧毁（destroy）或移除（remove），该专长也无法将其摧毁或移除。<br/><br/><b>通常状况: </b>成功的破武（Sunder）尝试会对目标物品造成武器伤害。<br/><br/><b>资源出处: </b>Ultimate Intrigue pg. 90<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sabotaging%20Sunder"
+      "name": "诡技击破 Sabotaging Sunder",
+      "description": "<b>专长类型：</b>Combat<br/><br/><em>你能够快速破坏敌人穿戴或携带的装备。</em><br/><br/><b>先决条件: </b>力量 13，精通击破，猛力攻击，解除装置7级。<br/><br/><b>专长效果: </b>你能够以标准动作执行1次特殊的击破战技（sunder combat maneuver），来破坏1名敌人穿戴的1件物品。你会在近战中使用该项技巧破坏1件既没有被持握（hold）也没有被藏匿在袋子、背包、或者其他容器中的物品。你必须至少有1只手空着才能执行该项战技，而且这么做会引起你所执行战技的目标的借机攻击，即便你具有精通击破（Improved Sunder）专长也是如此。</p><p>当你尝试该次战技检定时，使用你在解除装置中投入的技能点数替代你的基本攻击加值，并用你的敏捷调整值替代力量调整值。任何针对击破战技检定的加值（比如精通击破专长提供的加值）仍旧适用于该次战技，而你的目标在CMD上获得的任何用于对抗击破尝试的加值，依旧也能够在此次战技中保护它。若你的检定成功，取代原本的造成伤害，你会破坏目标物品，让它获得破损（broken）状态。若该物品已经处于破损状态，那么你会摧毁（destroy）该物品，或者导致它的脱落（fall off）。免疫击破的物品依旧免疫此种特殊战技，若一件物品（比如神器）在正常情况下仅能用特殊方式摧毁（destroy）或移除（remove），该专长也无法将其摧毁或移除。<br/><br/><b>通常状况: </b>成功的击破（Sunder）尝试会对目标物品造成武器伤害。<br/><br/><b>资源出处: </b>Ultimate Intrigue pg. 90<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sabotaging%20Sunder"
     },
     "Sacred Geometry": {
       "name": "神圣几何学 Sacred Geometry",
@@ -9795,7 +9795,7 @@
     },
     "School Strike": {
       "name": "学派打击 School Strike",
-      "description": "<b>专长类型：</b>Combat<br/><br/><em>你将对法师学派的神秘领悟灌注于徒手打击之中。</em><br/><br/><b>先决条件: </b>【法师学派】职业特性，精通徒手打击。<br/><br/><b>专长效果: </b>获得此专长时，选择一项你拥有的、影响目标不超过一人的学派能力。当你成功用徒手打击命中对手时，你能以迅捷动作在正常伤害外附加所选定的学派能力效果于他。这不会引发借机攻击。<br/><br/><b>通常状况: </b>你可以多次选择本专长，每次选择时指定一项不同的学派能力。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 116<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=School%20Strike<br/><br/><b>战策增益：</b>在你使用徒手击打命中后，你可以消耗2点耐力来以一个自由动作而不是迅捷动作来使用你所选择的奥术学派之力的效果。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 130"
+      "description": "<b>专长类型：</b>Combat<br/><br/><em>你将对法师学派的神秘领悟灌注于徒手打击之中。</em><br/><br/><b>先决条件: </b>【法师学派】职业特性，精通徒手打击。<br/><br/><b>专长效果: </b>获得此专长时，选择一项你拥有的、影响目标不超过一人的学派能力。当你成功用徒手打击命中对手时，你能以迅捷动作在正常伤害外附加所选定的学派能力效果于他。这不会引发借机攻击。<br/><br/><b>通常状况: </b>你可以多次选择本专长，每次选择时指定一项不同的学派能力。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 116<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=School%20Strike<br/><br/><b>战策增益：</b>在你使用徒手打击命中后，你可以消耗2点耐力来以一个自由动作而不是迅捷动作来使用你所选择的奥术学派之力的效果。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 130"
     },
     "Schooled Resolve": {
       "name": "Schooled Resolve",
@@ -10059,7 +10059,7 @@
     },
     "Shaitan Style": {
       "name": "土灵 Shaitan Style",
-      "description": "<b>专长类型：</b>CombatStyle<br/><br/><em>你以大地之力谨慎进击。</em><br/><br/><b>先决条件: </b>体质13，感知15，元素之拳，精通徒手打击，基本攻击加值+9或武僧5级。<br/><br/><b>专长效果: </b>你获得1次额外“元素之拳”每日使用次数。当你在此流派架势中使用元素之拳，你在造成酸系伤害时获得等于你感知加值的额外伤害。如果你在此架势中使用酸系元素之拳没有命中，你仍然能给予对手1d6强酸伤害。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 118<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shaitan%20Style<br/><br/><b>战策增益：</b>当你使用元素拳APG攻击造成酸伤害时，你可以消耗至多5点耐力。如果你这样做了，你将造成等同于你所消耗耐力两倍的额外酸伤害。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 131"
+      "description": "<b>专长类型：</b>CombatStyle<br/><br/><em>你以大地之力谨慎进击。</em><br/><br/><b>先决条件: </b>体质13，感知15，元素之拳，精通徒手打击，基本攻击加值+9或武僧5级。<br/><br/><b>专长效果: </b>你获得1次额外“元素之拳”每日使用次数。当你在此流派架势中使用元素之拳，你在造成酸系伤害时获得等于你感知加值的额外伤害。如果你在此架势中使用酸系元素之拳没有命中，你仍然能给予对手1d6酸蚀伤害。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 118<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shaitan%20Style<br/><br/><b>战策增益：</b>当你使用元素拳APG攻击造成酸伤害时，你可以消耗至多5点耐力。如果你这样做了，你将造成等同于你所消耗耐力两倍的额外酸伤害。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 131"
     },
     "Shake It Off": {
       "name": "摆脱困境 Shake It Off",
@@ -10147,15 +10147,15 @@
     },
     "Shark Leap": {
       "name": "鲨跃 Shark Leap",
-      "description": "<p><strong>来源</strong> 水下冒险<em>Aquatic Adventures</em> pg. 58</p><p><em>像一只致命的掠食者，你从没有警惕的敌人下面闪击他们。</em></p><p><strong>先决条件：</strong>精通徒手击打，猛鲨流，鲨裂，游泳10级，基本攻击加值+10或者武僧10级</p><p><strong>专长效果：</strong>当你处于猛鲨流的架势之下，并且你在水下拥有中等，上升，快速上升的浮力时，你可以做出一次可怖的跃击来攻击你正上方的敌人。这类似于冲锋，除了你只能笔直地向上移动，并且只能使用穿刺徒手击打或者啮咬攻击。如果你的攻击命中了，这将会造成两倍的伤害；如果你的攻击骰结果超过了11+目标的游泳加值，这次攻击将会让目标失去平衡，直到它的下一回合。和冲锋一样，在你只能做一个标准动作时（比如突袭轮），你也可以做一个阉割版本的鲨跃；你只能半速移动，就和部分冲锋一样，而且攻击只会翻倍伤害骰（如同要害打击）而不是所有伤害。</p><p class=\"zhtw-credit\"><em>书目：水下冒险Aquatic Adventures pg. 58｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Shark%20Leap\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>来源</strong> 水下冒险<em>Aquatic Adventures</em> pg. 58</p><p><em>像一只致命的掠食者，你从没有警惕的敌人下面闪击他们。</em></p><p><strong>先决条件：</strong>精通徒手打击，猛鲨流，鲨裂，游泳10级，基本攻击加值+10或者武僧10级</p><p><strong>专长效果：</strong>当你处于猛鲨流的架势之下，并且你在水下拥有中等，上升，快速上升的浮力时，你可以做出一次可怖的跃击来攻击你正上方的敌人。这类似于冲锋，除了你只能笔直地向上移动，并且只能使用穿刺徒手打击或者啮咬攻击。如果你的攻击命中了，这将会造成两倍的伤害；如果你的攻击骰结果超过了11+目标的游泳加值，这次攻击将会让目标失去平衡，直到它的下一回合。和冲锋一样，在你只能做一个标准动作时（比如突袭轮），你也可以做一个阉割版本的鲨跃；你只能半速移动，就和部分冲锋一样，而且攻击只会翻倍伤害骰（如同要害打击）而不是所有伤害。</p><p class=\"zhtw-credit\"><em>书目：水下冒险Aquatic Adventures pg. 58｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Shark%20Leap\">Archives of Nethys</a></em></p>"
     },
     "Shark Style": {
       "name": "猛鲨流 Shark Style",
-      "description": "<p><strong>来源</strong> 水下冒险<em>Aquatic Adventures</em> pg. 59</p><p><em>你像鲨鱼一样战斗，像鲨鱼一样撕碎你的敌人。</em></p><p><strong>先决条件：</strong>精通徒手击打，游泳3级，基本攻击加值+3或者武僧3级</p><p><strong>专长效果：</strong>你可以在使用徒手攻击时造成穿刺或者钝击伤害。你的穿刺徒手打击和啮咬攻击将会造成1d6点额外的流血伤害。</p><p class=\"zhtw-credit\"><em>书目：水下冒险Aquatic Adventures pg. 59｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Shark%20Style\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>来源</strong> 水下冒险<em>Aquatic Adventures</em> pg. 59</p><p><em>你像鲨鱼一样战斗，像鲨鱼一样撕碎你的敌人。</em></p><p><strong>先决条件：</strong>精通徒手打击，游泳3级，基本攻击加值+3或者武僧3级</p><p><strong>专长效果：</strong>你可以在使用徒手攻击时造成穿刺或者钝击伤害。你的穿刺徒手打击和啮咬攻击将会造成1d6点额外的流血伤害。</p><p class=\"zhtw-credit\"><em>书目：水下冒险Aquatic Adventures pg. 59｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Shark%20Style\">Archives of Nethys</a></em></p>"
     },
     "Shark Tear": {
       "name": "鲨裂 Shark Tear",
-      "description": "<p><strong>来源</strong> 水下冒险<em>Aquatic Adventures</em> pg. 59</p><p><em>你撕裂那些流血的敌人，并能在水中嗅到他们的血腥味。</em></p><p><strong>先决条件：</strong>精通徒手击打，猛鲨流，游泳6级，基本攻击加值+6或者武僧6级</p><p><strong>专长效果：</strong>在处于猛鲨流的架势时，你在水下获得灵敏嗅觉，但仅限对流血的敌人。你还会在对抗流血敌人的伤害骰和攻击骰上获得+1加值。</p><p class=\"zhtw-credit\"><em>书目：水下冒险Aquatic Adventures pg. 59｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Shark%20Tear\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>来源</strong> 水下冒险<em>Aquatic Adventures</em> pg. 59</p><p><em>你撕裂那些流血的敌人，并能在水中嗅到他们的血腥味。</em></p><p><strong>先决条件：</strong>精通徒手打击，猛鲨流，游泳6级，基本攻击加值+6或者武僧6级</p><p><strong>专长效果：</strong>在处于猛鲨流的架势时，你在水下获得灵敏嗅觉，但仅限对流血的敌人。你还会在对抗流血敌人的伤害骰和攻击骰上获得+1加值。</p><p class=\"zhtw-credit\"><em>书目：水下冒险Aquatic Adventures pg. 59｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Shark%20Tear\">Archives of Nethys</a></em></p>"
     },
     "Sharp Senses": {
       "name": "精确感官 Sharp Senses",
@@ -10427,7 +10427,7 @@
     },
     "Skald's Vigor": {
       "name": "健硕之歌 Skald's Vigor",
-      "description": "<em>唱起雄健的战歌，你在战斗中更加耐打。</em><br/><br/><b>先决条件: </b>战怒之歌职业能力。<br/><br/><b>专长效果: </b>当维持表演战怒之歌时，你获得快速医疗，数量相当于你的战怒之歌（注：个人认为应该是狂暴歌，因为还有一个提供力量检定和力量技能加值的歌）的力量加值的一半，从你开始这首歌的时候开始。但是如果你停止表演，这个快速医疗效果将立刻结束，即使你的表演效果在你停止后依然能够持续<br/><br/><b>资源出处: </b>Advanced Class Guide pg. 156<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Skald's%20Vigor"
+      "description": "<em>唱起雄健的战歌，你在战斗中更加耐打。</em><br/><br/><b>先决条件: </b>战怒之歌职业能力。<br/><br/><b>专长效果: </b>当维持表演战怒之歌时，你获得快速治疗，数量相当于你的战怒之歌（注：个人认为应该是狂暴歌，因为还有一个提供力量检定和力量技能加值的歌）的力量加值的一半，从你开始这首歌的时候开始。但是如果你停止表演，这个快速治疗效果将立刻结束，即使你的表演效果在你停止后依然能够持续<br/><br/><b>资源出处: </b>Advanced Class Guide pg. 156<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Skald's%20Vigor"
     },
     "Skaveling Companion": {
       "name": "尸鬼蝙蝠伙伴 Skaveling Companion",
@@ -10619,7 +10619,7 @@
     },
     "Slayer's Feint": {
       "name": "杀手机锋 Slayer's Feint",
-      "description": "<b>专长类型：</b>Combat<br/><br/><em>你不依靠精巧的诱骗，而是通过超人的速度和反应探寻敌人防御中的破绽。</em><br/><br/><b>先决条件: </b>敏捷15，特技专家专长或杀手等级1，寓守于攻，特技动作技能1级。<br/><br/><b>专长效果: </b>在进行虚招检定时，你可以使用特技动作检定而不是唬骗检定。<br/><br/><b>资源出处: </b>Advanced Class Guide pg. 156<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Slayer's%20Feint<br/><br/><b>战策增益：</b>当你使用特技尝试虚招时，你可以消耗至多等于你敏捷加值的耐力。如果你这样做了，你在那次虚招尝试上获得等同于你消耗耐力的加值。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 132"
+      "description": "<b>专长类型：</b>Combat<br/><br/><em>你不依靠精巧的诱骗，而是通过超人的速度和反应探寻敌人防御中的破绽。</em><br/><br/><b>先决条件: </b>敏捷15，特技专家专长或杀手等级1，寓守于攻，特技技能1级。<br/><br/><b>专长效果: </b>在进行虚招检定时，你可以使用特技检定而不是唬骗检定。<br/><br/><b>资源出处: </b>Advanced Class Guide pg. 156<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Slayer's%20Feint<br/><br/><b>战策增益：</b>当你使用特技尝试虚招时，你可以消耗至多等于你敏捷加值的耐力。如果你这样做了，你在那次虚招尝试上获得等同于你消耗耐力的加值。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 132"
     },
     "Slayer's Knack": {
       "name": "杀戮诀窍 Slayer's Knack",
@@ -10647,7 +10647,7 @@
     },
     "Sliding Dash": {
       "name": "滑步冲锋 Sliding Dash",
-      "description": "<b>专长类型：</b>Combat<br/><br/><em>你那看似鲁莽的猪突猛进会在最后一刻变为敏捷的突袭。</em><br/><br/><b>先决条件: </b>敏捷 15，特技动作10级或杂技冲锋（acrobatic charge）职业能力，唬骗3级。<br/><br/><b>专长效果: </b>在冲锋时，你可以不必停留在能够攻击到目标且距离你最近的位置，取而代之的是你能够移动到与目标相邻、并且位于另一侧的位置，就如同你穿过了可以攻击到目标并且距离你最近的位置，然后再穿过目标占据的空间后所处的位置。当你穿过目标占据的空间时，必须尝试1次特技动作检定，DC为10 + 你的敌人的CMD。成功则让你在不引发冲锋目标借机攻击的前提下穿过目标所占据的空间，之后你会抵达目标区域并作出攻击，目标会被视同为受到该次攻击的夹击（若你在冲锋中可以作出多次攻击的话，则只有第1次攻击视为目标受到夹击）。如果你的检定失败了，则会引起目标的借机攻击，之后如正常情况一般完成冲锋。无论特技动作检定是否成功，你的AC都会受到-4减值以取代正常的-2减值，持续至你的下个回合开始为止。<br/><br/><b>通常状况: </b>在冲锋时，你必须以冲锋的一部分结束移动，并停留在能够攻击到目标且距离你最近的位置。</p><p>译注：本专长先决条件的acrobatic charge虽然标记*号，但是本书并无同名能力。整个pf规则似乎也只有核心手册的进阶职业决斗家6级是同名能力。<br/><br/><b>资源出处: </b>Ultimate Intrigue pg. 91<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sliding%20Dash"
+      "description": "<b>专长类型：</b>Combat<br/><br/><em>你那看似鲁莽的猪突猛进会在最后一刻变为敏捷的突袭。</em><br/><br/><b>先决条件: </b>敏捷 15，特技10级或杂技冲锋（acrobatic charge）职业能力，唬骗3级。<br/><br/><b>专长效果: </b>在冲锋时，你可以不必停留在能够攻击到目标且距离你最近的位置，取而代之的是你能够移动到与目标相邻、并且位于另一侧的位置，就如同你穿过了可以攻击到目标并且距离你最近的位置，然后再穿过目标占据的空间后所处的位置。当你穿过目标占据的空间时，必须尝试1次特技检定，DC为10 + 你的敌人的CMD。成功则让你在不引发冲锋目标借机攻击的前提下穿过目标所占据的空间，之后你会抵达目标区域并作出攻击，目标会被视同为受到该次攻击的夹击（若你在冲锋中可以作出多次攻击的话，则只有第1次攻击视为目标受到夹击）。如果你的检定失败了，则会引起目标的借机攻击，之后如正常情况一般完成冲锋。无论特技检定是否成功，你的AC都会受到-4减值以取代正常的-2减值，持续至你的下个回合开始为止。<br/><br/><b>通常状况: </b>在冲锋时，你必须以冲锋的一部分结束移动，并停留在能够攻击到目标且距离你最近的位置。</p><p>译注：本专长先决条件的acrobatic charge虽然标记*号，但是本书并无同名能力。整个pf规则似乎也只有核心手册的进阶职业决斗家6级是同名能力。<br/><br/><b>资源出处: </b>Ultimate Intrigue pg. 91<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sliding%20Dash"
     },
     "Sling Flail": {
       "name": "流星链索 Sling Flail",
@@ -10667,7 +10667,7 @@
     },
     "Slow Faller": {
       "name": "攀云手 Slow Faller",
-      "description": "<p><i>只要身边有墙体或峭壁，你就能靠着它们进一步降低自己在空中下坠的速度。</i></p><p><b>先决条件：</b>特技动作技能5级，武僧轻身落（Slow Fall）职业能力</p><p><b>专长效果：</b>在坠落时，只要在你触手可及的范围内有墙壁，你就可以减低自己坠落的速度。如果你没有穿着重甲，那么你承受的坠落伤害就会视为减少10尺。这个专长的效果可以和轻身落职业能力叠加。</p><p><b>特殊情况：</b>你可以多次选择本专长，每次选择，你坠落的距离就视为再减少10尺。</p><p class=\"zhtw-credit\"><em>译者：傻豆｜书目：专长／ACG 进阶职业手册｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Slow%20Faller\">Archives of Nethys</a></em></p>"
+      "description": "<p><i>只要身边有墙体或峭壁，你就能靠着它们进一步降低自己在空中下坠的速度。</i></p><p><b>先决条件：</b>特技技能5级，武僧轻身落（Slow Fall）职业能力</p><p><b>专长效果：</b>在坠落时，只要在你触手可及的范围内有墙壁，你就可以减低自己坠落的速度。如果你没有穿着重甲，那么你承受的坠落伤害就会视为减少10尺。这个专长的效果可以和轻身落职业能力叠加。</p><p><b>特殊情况：</b>你可以多次选择本专长，每次选择，你坠落的距离就视为再减少10尺。</p><p class=\"zhtw-credit\"><em>译者：傻豆｜书目：专长／ACG 进阶职业手册｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Slow%20Faller\">Archives of Nethys</a></em></p>"
     },
     "Slow Time": {
       "name": "固有时制御 Slow Time",
@@ -10735,11 +10735,11 @@
     },
     "Snake Sidewind": {
       "name": "蛇行 Snake Sidewind",
-      "description": "<b>专长类型：</b>Combat<br/><br/><em>你神妙诡谲的步伐令你难以被放倒。</em><br/><br/><b>先决条件: </b>精通徒手打击，腾蛇，特技3级，察言观色6级。<br/><br/><b>专长效果: </b>你在特技检定，对抗摔绊的CMD以及避免摔倒的豁免骰上有+4加值。你处于蛇拳流派架势时，你的徒手击打如果造成重击威胁，可以做一次察言观色检定，并用其检定结果作为重击确认骰结果；而且只要你的徒手击打造成重击，你能以迅捷动作进行五尺快步，即使你之前已经移动过。<br/><br/><b>通常状况: </b>你只能在该轮未做出任何移动时进行五尺快步。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 119<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Snake%20Sidewind<br/><br/><b>战策增益：</b>当你处于蛇拳流架势下使用徒手击打进入重击威胁并选择尝试察言观色来代替确认骰时，你可以消耗5点耐力来在察言观色检定上获得加值，这个加值等于你消耗的耐力。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 132"
+      "description": "<b>专长类型：</b>Combat<br/><br/><em>你神妙诡谲的步伐令你难以被放倒。</em><br/><br/><b>先决条件: </b>精通徒手打击，腾蛇，特技3级，察言观色6级。<br/><br/><b>专长效果: </b>你在特技检定，对抗摔绊的CMD以及避免摔倒的豁免骰上有+4加值。你处于蛇拳流派架势时，你的徒手打击如果造成重击威胁，可以做一次察言观色检定，并用其检定结果作为重击确认骰结果；而且只要你的徒手打击造成重击，你能以迅捷动作进行五尺快步，即使你之前已经移动过。<br/><br/><b>通常状况: </b>你只能在该轮未做出任何移动时进行五尺快步。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 119<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Snake%20Sidewind<br/><br/><b>战策增益：</b>当你处于蛇拳流架势下使用徒手打击进入重击威胁并选择尝试察言观色来代替确认骰时，你可以消耗5点耐力来在察言观色检定上获得加值，这个加值等于你消耗的耐力。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 132"
     },
     "Snake Style": {
       "name": "蛇拳流 Snake Style",
-      "description": "<p><strong>来源</strong> 极限战斗<em>Ultimate Combat</em> pg.119</p><p><em>你仔细观察着敌人的一举一动，适时地格挡攻击。</em></p><p><strong>先决条件：</strong>精通徒手打击，特技1级，察言观色3级。</p><p><strong>专长效果：</strong>你在察言观色检定上有+2加值，你可以用徒手击打造成穿刺伤害。你在使用蛇拳流派架势时，如果有敌人以你为目标进行近战或远程攻击，你可以用直觉动作进行一次察言观色检定，并用检定结果作为你的AC或接触AC对抗该次攻击。要使用此能力，你必须察觉到该次攻击并不能处于措手不及状态。</p><p><strong>通常情况：</strong>徒手攻击造成钝击伤害。</p><p class=\"zhtw-credit\"><em>书目：极限战斗Ultimate Combat pg.119｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Snake%20Style\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>来源</strong> 极限战斗<em>Ultimate Combat</em> pg.119</p><p><em>你仔细观察着敌人的一举一动，适时地格挡攻击。</em></p><p><strong>先决条件：</strong>精通徒手打击，特技1级，察言观色3级。</p><p><strong>专长效果：</strong>你在察言观色检定上有+2加值，你可以用徒手打击造成穿刺伤害。你在使用蛇拳流派架势时，如果有敌人以你为目标进行近战或远程攻击，你可以用直觉动作进行一次察言观色检定，并用检定结果作为你的AC或接触AC对抗该次攻击。要使用此能力，你必须察觉到该次攻击并不能处于措手不及状态。</p><p><strong>通常情况：</strong>徒手攻击造成钝击伤害。</p><p class=\"zhtw-credit\"><em>书目：极限战斗Ultimate Combat pg.119｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Snake%20Style\">Archives of Nethys</a></em></p>"
     },
     "Snap Shot": {
       "name": "快枪 Snap Shot",
@@ -10763,7 +10763,7 @@
     },
     "Snapping Turtle Style": {
       "name": "鳄龟流 Snapping Turtle Style",
-      "description": "<p><strong>来源</strong> 极限战斗<em>Ultimate Combat</em> pg. 120</p><p><em>你高超的徒手战斗技巧给予你保护。</em></p><p><strong>先决条件：</strong> 精通徒手击打，基本攻击加值+1或武僧1级</p><p><strong>专长效果：</strong> 当你处于鳄龟流派架势时，如果至少有一只手空闲，你在AC上得到+1盾牌加值。</p><p>引述: 战策 (来自战斗耐力Combat Stamina专长)</p><p><strong>来源</strong> 掉链子<em>Pathfinder Unchained</em> pg. 132</p><p>当你使用这个流派时，只要你的耐力池中还有1点耐力，AC上的盾牌加值就能提升1点。</p><p class=\"zhtw-credit\"><em>书目：极限战斗Ultimate Combat pg. 120｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Snapping%20Turtle%20Style\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>来源</strong> 极限战斗<em>Ultimate Combat</em> pg. 120</p><p><em>你高超的徒手战斗技巧给予你保护。</em></p><p><strong>先决条件：</strong> 精通徒手打击，基本攻击加值+1或武僧1级</p><p><strong>专长效果：</strong> 当你处于鳄龟流派架势时，如果至少有一只手空闲，你在AC上得到+1盾牌加值。</p><p>引述: 战策 (来自战斗耐力Combat Stamina专长)</p><p><strong>来源</strong> 掉链子<em>Pathfinder Unchained</em> pg. 132</p><p>当你使用这个流派时，只要你的耐力池中还有1点耐力，AC上的盾牌加值就能提升1点。</p><p class=\"zhtw-credit\"><em>书目：极限战斗Ultimate Combat pg. 120｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Snapping%20Turtle%20Style\">Archives of Nethys</a></em></p>"
     },
     "Snatch": {
       "name": "攫抓 Snatch",
@@ -10835,7 +10835,7 @@
     },
     "Sorcerous Strike": {
       "name": "术士打击 Sorcerous Strike",
-      "description": "<b>专长类型：</b>Combat<br/><br/><em>你血脉中流动的力量也显现在你的徒手攻击中。</em><br/><br/><b>先决条件: </b>【术士血统】职业特性，精通徒手打击。<br/><br/><b>专长效果: </b>获得此专长时，选择一项你拥有的、影响目标不超过一人的血统能力。当你成功用徒手打击命中对手时，你能以迅捷动作在正常伤害外附加所选定的血统能力效果于他。这不会引发借机攻击。<br/><br/><b>通常状况: </b>你可以多次选择本专长，每次选择时指定一项不同的血统能力。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 120<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sorcerous%20Strike<br/><br/><b>战策增益：</b>在你使用徒手击打命中之后，你可以消耗2点耐力来以一个自由动作而不是迅捷动作来使用你所选择的血脉之力的效果。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 132"
+      "description": "<b>专长类型：</b>Combat<br/><br/><em>你血脉中流动的力量也显现在你的徒手攻击中。</em><br/><br/><b>先决条件: </b>【术士血统】职业特性，精通徒手打击。<br/><br/><b>专长效果: </b>获得此专长时，选择一项你拥有的、影响目标不超过一人的血统能力。当你成功用徒手打击命中对手时，你能以迅捷动作在正常伤害外附加所选定的血统能力效果于他。这不会引发借机攻击。<br/><br/><b>通常状况: </b>你可以多次选择本专长，每次选择时指定一项不同的血统能力。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 120<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sorcerous%20Strike<br/><br/><b>战策增益：</b>在你使用徒手打击命中之后，你可以消耗2点耐力来以一个自由动作而不是迅捷动作来使用你所选择的血脉之力的效果。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 132"
     },
     "Soul-Powered Magic": {
       "name": "魂力魔法 Soul-Powered Magic",
@@ -10883,7 +10883,7 @@
     },
     "Spectacular Exit": {
       "name": "华丽转进 Spectacular Exit",
-      "description": "<p>Spectacular Exit (Combat, Performance)</p><p><em>你所掌握的特技动作甚至能把后退演绎成让人叹为观止技巧。</em></p><p><b>先决条件</b>：敏捷15，</p><p class=\"zhtw-credit\"><em>译者：四月｜书目：专长／内海战斗｜CHM 出处：<a href=\"http://www.goddessfantasy.net/bbs/index.php?topic=57465.0\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Spectacular%20Exit\">Archives of Nethys</a></em></p>"
+      "description": "<p>Spectacular Exit (Combat, Performance)</p><p><em>你所掌握的特技甚至能把后退演绎成让人叹为观止技巧。</em></p><p><b>先决条件</b>：敏捷15，</p><p class=\"zhtw-credit\"><em>译者：四月｜书目：专长／内海战斗｜CHM 出处：<a href=\"http://www.goddessfantasy.net/bbs/index.php?topic=57465.0\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Spectacular%20Exit\">Archives of Nethys</a></em></p>"
     },
     "Spectrum Sight": {
       "name": "光谱视界 Spectrum Sight",
@@ -10991,7 +10991,7 @@
     },
     "Spinning Throw": {
       "name": "回旋推手 Spinning Throw",
-      "description": "<b>专长类型：</b>Combat<br/><br/><em>你将对手卷入旋风，再将之抛出。</em><br/><br/><b>先决条件: </b>寓守于攻，精通冲撞，精通绊摔，精通徒手打击，太极推手（Ki Throw, APG）。<br/><br/><b>专长效果: </b>在成功对一个体型和你相等、或更小的生物使用了徒手绊摔战技后，你能以迅捷动作对其尝试一次冲撞战技。若冲撞成功，则你能够将该对手移至你威胁范围内的任一空格，再根据冲撞战技的结果将其以5尺增量撞开，并让其倒地。若冲撞检定失败，你可以如常使用“太极推手”专长。若你同时拥有“精通太极推手（Improved Ki Throw, APG）”专长，成功的冲撞还能将对手冲往已被其他生物占据的方格。具体效果判定如同“精通太极推手”专长详述。<br/><br/><b>特殊说明: </b>武僧每拥有一个太极推手系列专长，就能用气以此专长影响体型大一级的生物。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 120<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spinning%20Throw<br/><br/><b>战策增益：</b>如果你在冲撞检定中成功，你可以消耗2点耐力来将该敌人推开额外5尺，或者你消耗4点耐力来将目标推开额外10尺。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 132"
+      "description": "<b>专长类型：</b>Combat<br/><br/><em>你将对手卷入旋风，再将之抛出。</em><br/><br/><b>先决条件: </b>寓守于攻，精通冲撞，精通摔绊，精通徒手打击，太极推手（Ki Throw, APG）。<br/><br/><b>专长效果: </b>在成功对一个体型和你相等、或更小的生物使用了徒手摔绊战技后，你能以迅捷动作对其尝试一次冲撞战技。若冲撞成功，则你能够将该对手移至你威胁范围内的任一空格，再根据冲撞战技的结果将其以5尺增量撞开，并让其倒地。若冲撞检定失败，你可以如常使用“太极推手”专长。若你同时拥有“精通太极推手（Improved Ki Throw, APG）”专长，成功的冲撞还能将对手冲往已被其他生物占据的方格。具体效果判定如同“精通太极推手”专长详述。<br/><br/><b>特殊说明: </b>武僧每拥有一个太极推手系列专长，就能用气以此专长影响体型大一级的生物。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 120<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spinning%20Throw<br/><br/><b>战策增益：</b>如果你在冲撞检定中成功，你可以消耗2点耐力来将该敌人推开额外5尺，或者你消耗4点耐力来将目标推开额外10尺。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 132"
     },
     "Spirit Ally": {
       "name": "精魄盟友 Spirit Ally",
@@ -11183,7 +11183,7 @@
     },
     "Staggering Fist": {
       "name": "恍惚拳 Staggering Fist",
-      "description": "<p><i>你巧妙的一击命中对手的秘孔，使他神智不清</i></p><p><b>先决条件：</b> 敏捷13，感知13，精通徒手击打，基础攻击加值+2</p><p><b>专长效果：</b> 你必须在投掷攻击骰之前宣告使用此专长（因此，未命中会导致尝试失败）。恍惚拳在正常造成伤害的同时，还会强制受到你徒手击打伤害的敌人进行一次DC=10+1/2你的角色等级+感知调整值的强韧豁免检定。豁免检定失败的防御者将恍惚1轮。每4级你每天可以多尝试一次取力攻击，每轮不能超过1次。构装、泥怪、植物、不死、虚体生物和免疫重击的生物不会被本能力影响。</p><p class=\"zhtw-credit\"><em>译者：傻豆｜书目：专长／ACG 进阶职业手册｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Staggering%20Fist\">Archives of Nethys</a></em></p>"
+      "description": "<p><i>你巧妙的一击命中对手的秘孔，使他神智不清</i></p><p><b>先决条件：</b> 敏捷13，感知13，精通徒手打击，基础攻击加值+2</p><p><b>专长效果：</b> 你必须在投掷攻击骰之前宣告使用此专长（因此，未命中会导致尝试失败）。恍惚拳在正常造成伤害的同时，还会强制受到你徒手打击伤害的敌人进行一次DC=10+1/2你的角色等级+感知调整值的强韧豁免检定。豁免检定失败的防御者将恍惚1轮。每4级你每天可以多尝试一次取力攻击，每轮不能超过1次。构装、泥怪、植物、不死、虚体生物和免疫重击的生物不会被本能力影响。</p><p class=\"zhtw-credit\"><em>译者：傻豆｜书目：专长／ACG 进阶职业手册｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Staggering%20Fist\">Archives of Nethys</a></em></p>"
     },
     "Stalker's Focus": {
       "name": "追猎之力 Stalker's Focus",
@@ -11675,7 +11675,7 @@
     },
     "Sure on Ice": {
       "name": "踏冰者 Sure on Ice",
-      "description": "<em>你在湿滑的冰面或雪地上如履平地。</em><br/><br/><b>先决条件: </b>霜巨人。<br/><br/><b>专长效果: </b>你在结冰或积雪的地面上移动时不会承受任何减值，也不必因为在冰面上奔跑或冲锋而进行特技动作检定，除此之外，你在攀爬冰面的攀爬技能检定获得+4加值。<br/><br/><b>资源出处: </b>Monster Codex pg. 68<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sure%20on%20Ice"
+      "description": "<em>你在湿滑的冰面或雪地上如履平地。</em><br/><br/><b>先决条件: </b>霜巨人。<br/><br/><b>专长效果: </b>你在结冰或积雪的地面上移动时不会承受任何减值，也不必因为在冰面上奔跑或冲锋而进行特技检定，除此之外，你在攀爬冰面的攀爬技能检定获得+4加值。<br/><br/><b>资源出处: </b>Monster Codex pg. 68<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sure%20on%20Ice"
     },
     "Sure-Footed": {
       "name": "锐足 Sure-Footed",
@@ -11843,7 +11843,7 @@
     },
     "Tail Weapon": {
       "name": "武装尾 Tail Weapon",
-      "description": "<b>专长类型：</b>Combat<br/><br/><em>你锻炼你尾部的肌肉，让它足以击打敌人并同时增进你的身体平衡</em><br/><br/><b>先决条件: </b>基础攻击加值+1，蛇人。<br/><br/><b>专长效果: </b>你获得一次尾扫天生武器攻击。这是次要天生武器，造成1d6点钝击伤害。你同时还在用于保持平衡的特技动作检定和防止你被移出当前方格的CMD上获得+2种族加值。<br/><br/><b>资源出处: </b>Monster Codex pg. 200<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Tail%20Weapon"
+      "description": "<b>专长类型：</b>Combat<br/><br/><em>你锻炼你尾部的肌肉，让它足以击打敌人并同时增进你的身体平衡</em><br/><br/><b>先决条件: </b>基础攻击加值+1，蛇人。<br/><br/><b>专长效果: </b>你获得一次尾扫天生武器攻击。这是次要天生武器，造成1d6点钝击伤害。你同时还在用于保持平衡的特技检定和防止你被移出当前方格的CMD上获得+2种族加值。<br/><br/><b>资源出处: </b>Monster Codex pg. 200<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Tail%20Weapon"
     },
     "Take a Breather": {
       "name": "Take a Breather",
@@ -11859,7 +11859,7 @@
     },
     "Taldan Duelist": {
       "name": "塔尔多决斗家 Taldan Duelist",
-      "description": "<b>专长类型：</b>Combat<br/><br/><em>你曾经受过塔尔多的精英战斗学院的训练，并且精通龙德勒罗（rondelero）——使用反曲剑（见进阶玩者手册）与小圆盾的武艺。</em><br/><br/><b>先决条件: </b>敏捷13，擅长异种武器（反曲剑），盾牌熟悉（小圆盾），武器专攻（反曲剑）。<br/><br/><b>专长效果: </b>当你使用反曲剑与小圆盾进行战斗时，你的盾牌提供的AC提高1点，并且你的特技动作检定获得+2加值。<br/><br/><b>资源出处: </b>Inner Sea World Guide pg. 289Pathfinder Campaign Setting pg. 137<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Taldan%20Duelist<br/><br/><b>战策增益：</b>当在装备小圆盾持用钩形砍刀用双手做出攻击时，你可以在装备小圆盾时消耗3点耐力来忽略掉因为使用持盾手持用武器而在所有攻击上获得的-1减值，并保留小圆盾的盾牌加值，持续1轮。<br/><br/><b>战策资源出处: </b>Weapon Master's Handbook pg. 25"
+      "description": "<b>专长类型：</b>Combat<br/><br/><em>你曾经受过塔尔多的精英战斗学院的训练，并且精通龙德勒罗（rondelero）——使用反曲剑（见进阶玩者手册）与小圆盾的武艺。</em><br/><br/><b>先决条件: </b>敏捷13，擅长异种武器（反曲剑），盾牌熟悉（小圆盾），武器专攻（反曲剑）。<br/><br/><b>专长效果: </b>当你使用反曲剑与小圆盾进行战斗时，你的盾牌提供的AC提高1点，并且你的特技检定获得+2加值。<br/><br/><b>资源出处: </b>Inner Sea World Guide pg. 289Pathfinder Campaign Setting pg. 137<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Taldan%20Duelist<br/><br/><b>战策增益：</b>当在装备小圆盾持用钩形砍刀用双手做出攻击时，你可以在装备小圆盾时消耗3点耐力来忽略掉因为使用持盾手持用武器而在所有攻击上获得的-1减值，并保留小圆盾的盾牌加值，持续1轮。<br/><br/><b>战策资源出处: </b>Weapon Master's Handbook pg. 25"
     },
     "Talented Magician": {
       "name": "魔术天才 Talented Magician",
@@ -11874,8 +11874,8 @@
       "description": "<em>You and your allies help each other evade deadly attacks.</em><br/><br/><b>Prerequisites</b><br/>Dex 13, Dodge.<br/><br/><b>Benefits</b><br/>When adjacent to an ally who also has this feat, you gain evasion against a dragon's breath weapon and tail sweep special attacks. If you already have evasion, you gain improved evasion instead.<br/><br/><b>Combat Trick</b><br/>You can spend 5 stamina points to benefit from this feat even if there are no adjacent allies who also have this feat. However, if you fail your save, you are knocked prone. (Dragonslayer's Handbook 21)"
     },
     "Tandem Trip": {
-      "name": "接力绊摔 Tandem Trip",
-      "description": "<b>专长类型：</b>CombatTeamwork<br/><br/><em>你们知道如何连手绊摔敌人。</em><br/><br/><b>专长效果: </b>当你绊摔拥有此专长盟友威胁范围内的敌人时，你可以骰两次战技检定取其高值。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 122<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Tandem%20Trip<br/><br/><b>战策增益：</b>当你对一个被你其中一位元盟友所威胁的目标进行绊摔时，你可以消耗2点耐力来获得这个专长的好处，即使正在威胁的盟友并没有这个专长。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 133"
+      "name": "接力摔绊 Tandem Trip",
+      "description": "<b>专长类型：</b>CombatTeamwork<br/><br/><em>你们知道如何连手摔绊敌人。</em><br/><br/><b>专长效果: </b>当你摔绊拥有此专长盟友威胁范围内的敌人时，你可以骰两次战技检定取其高值。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 122<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Tandem%20Trip<br/><br/><b>战策增益：</b>当你对一个被你其中一位元盟友所威胁的目标进行摔绊时，你可以消耗2点耐力来获得这个专长的好处，即使正在威胁的盟友并没有这个专长。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 133"
     },
     "Tangle Feet": {
       "name": "左脚绊右脚 Tangle Feet",
@@ -12131,11 +12131,11 @@
     },
     "Tiger Pounce": {
       "name": "虎跃 Tiger Pounce",
-      "description": "<p><strong>来源</strong> 极限战斗<em>Ultimate Combat</em> pg.122</p><p><em>你的徒手打击既狠又准，还给予你以迅雷不及掩耳之势追击对手的余裕。</em></p><p><strong>先决条件：</strong>精通徒手打击，虎形拳，虎爪功，BAB+9或8级武僧等级</p><p><strong>专长效果：</strong>你使用虎形拳流派时获得以下好处：在使用猛力攻击专长时，你可以通过降低AC而不是降低AB来换取额外伤害。每轮1次，如果你在这一轮或上一轮用徒手击打命中一个对手或对其使用战技成功，以一个迅捷动作，你可以用一半移动速度向该对手移动。</p><p class=\"zhtw-credit\"><em>书目：极限战斗Ultimate Combat pg.122｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Tiger%20Pounce\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>来源</strong> 极限战斗<em>Ultimate Combat</em> pg.122</p><p><em>你的徒手打击既狠又准，还给予你以迅雷不及掩耳之势追击对手的余裕。</em></p><p><strong>先决条件：</strong>精通徒手打击，虎形拳，虎爪功，BAB+9或8级武僧等级</p><p><strong>专长效果：</strong>你使用虎形拳流派时获得以下好处：在使用猛力攻击专长时，你可以通过降低AC而不是降低AB来换取额外伤害。每轮1次，如果你在这一轮或上一轮用徒手打击命中一个对手或对其使用战技成功，以一个迅捷动作，你可以用一半移动速度向该对手移动。</p><p class=\"zhtw-credit\"><em>书目：极限战斗Ultimate Combat pg.122｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Tiger%20Pounce\">Archives of Nethys</a></em></p>"
     },
     "Tiger Style": {
       "name": "虎形拳 Tiger Style",
-      "description": "<p><strong>来源</strong> 极限战斗<em>Ultimate Combat</em> pg.122</p><p><em>你的徒手打击体现了猛虎的力量和凶猛。</em></p><p><strong>先决条件：</strong>精通徒手打击，BAB+3或3级武僧等级</p><p><strong>专长效果：</strong>你使用虎形拳流派时，你对冲撞，闯越与摔绊的CMD+2。在此流派下你还可以用徒手击打造成挥砍伤害。如果你造成挥砍伤害的徒手击打造成重击，对手在每轮开始时会受到1d4点出血伤害，出血持续2轮。</p><p><strong>通常情况：</strong>徒手打击造成钝击伤害。</p><p class=\"zhtw-credit\"><em>书目：极限战斗Ultimate Combat pg.122｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Tiger%20Style\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>来源</strong> 极限战斗<em>Ultimate Combat</em> pg.122</p><p><em>你的徒手打击体现了猛虎的力量和凶猛。</em></p><p><strong>先决条件：</strong>精通徒手打击，BAB+3或3级武僧等级</p><p><strong>专长效果：</strong>你使用虎形拳流派时，你对冲撞，闯越与摔绊的CMD+2。在此流派下你还可以用徒手打击造成挥砍伤害。如果你造成挥砍伤害的徒手打击造成重击，对手在每轮开始时会受到1d4点出血伤害，出血持续2轮。</p><p><strong>通常情况：</strong>徒手打击造成钝击伤害。</p><p class=\"zhtw-credit\"><em>书目：极限战斗Ultimate Combat pg.122｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Tiger%20Style\">Archives of Nethys</a></em></p>"
     },
     "Timely Coordination": {
       "name": "适时协同 Timely Coordination",
@@ -12167,7 +12167,7 @@
     },
     "Toppling Spell": {
       "name": "法术击倒 Toppling Spell",
-      "description": "<b>专长类型：</b>Metamagic<br/><br/><em>带有〔力场〕描述符的法术将受其影响的目标击倒。</em><br/><br/><b>专长效果: </b>你的力场法术是如此的强大以至于可以将目标击倒。如果目标因为你的力场法术受到了伤害、在豁免中失败、或是发生了位移，则对抗目标做一次绊摔检定，其加值使用你的“CL+关键施法属性修正（牧师是感知，法师是智力，等等）”。这不会引发借机攻击。如果检定失败，目标不能够对你反摔或者用其他力场效果响应。法术击倒仅对带有〔力场〕描述符的法术生效。法术击倒须占用高于原本1个环级的法术位。<br/><br/><b>资源出处: </b>Ultimate Magic pg. 158<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Toppling%20Spell"
+      "description": "<b>专长类型：</b>Metamagic<br/><br/><em>带有〔力场〕描述符的法术将受其影响的目标击倒。</em><br/><br/><b>专长效果: </b>你的力场法术是如此的强大以至于可以将目标击倒。如果目标因为你的力场法术受到了伤害、在豁免中失败、或是发生了位移，则对抗目标做一次摔绊检定，其加值使用你的“CL+关键施法属性修正（牧师是感知，法师是智力，等等）”。这不会引发借机攻击。如果检定失败，目标不能够对你反摔或者用其他力场效果响应。法术击倒仅对带有〔力场〕描述符的法术生效。法术击倒须占用高于原本1个环级的法术位。<br/><br/><b>资源出处: </b>Ultimate Magic pg. 158<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Toppling%20Spell"
     },
     "Torch Bearer": {
       "name": "火炬手 Torch Bearer",
@@ -12191,7 +12191,7 @@
     },
     "Totem Spirit": {
       "name": "图腾之灵 Totem Spirit",
-      "description": "<p>你与你所在部族的神圣图腾有着神秘的联系。</p><p><b>先决条件</b>：休盎提（Shoanti）部族的成员</p><p><b>专长效果</b>：该专长赋予的好处取决于你属于哪只休盎提部族。</p><p>莱卢恩-郭[月之部族]（Lyrune-Quah [Moon clan]）：你的意志豁免获得+1加值，察觉检定获得+2加值。</p><p>夏德-郭[斧之部族]（Shadde-Quah [Axe Clan]）：如果你有狂暴（rage）能力，每日狂暴轮数额外提高3轮。威吓检定获得+2加值。</p><p>希瑞依奇利-郭[鹰之部族]（Shriikirri-Quah [Hawk Clan]）：你的先攻检定获得+2加值，骑术检定获得+2加值。</p><p>香达-郭[塔之部族]（Shundar-Quah [Spire Clan]）：你的强韧豁免获得+1加值，察觉检定获得+2加值。</p><p>斯克拉-郭[日之部族]（Sklar-Quah [Sun Clan]）：你的反射豁免获得+1加值，特技动作检定获得+2加值。</p><p>斯寇昂-郭[颅之部族]（Skoan-Quah [Skull Clan]）：你在对抗不死生物时，武器伤害检定获得+2加值。医疗检定获得+2加值。</p><p>塔米尔-郭[风之部族]（Tamiir-Quah [Wind Clan]）：你的基本路上速度提高5尺，特技动作检定获得+2加值。</p><p class=\"zhtw-credit\"><em>译者：弑君者伊恩，四月｜书目：专长／内海世界指南｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Totem%20Spirit\">Archives of Nethys</a></em></p>"
+      "description": "<p>你与你所在部族的神圣图腾有着神秘的联系。</p><p><b>先决条件</b>：休盎提（Shoanti）部族的成员</p><p><b>专长效果</b>：该专长赋予的好处取决于你属于哪只休盎提部族。</p><p>莱卢恩-郭[月之部族]（Lyrune-Quah [Moon clan]）：你的意志豁免获得+1加值，察觉检定获得+2加值。</p><p>夏德-郭[斧之部族]（Shadde-Quah [Axe Clan]）：如果你有狂暴（rage）能力，每日狂暴轮数额外提高3轮。威吓检定获得+2加值。</p><p>希瑞依奇利-郭[鹰之部族]（Shriikirri-Quah [Hawk Clan]）：你的先攻检定获得+2加值，骑术检定获得+2加值。</p><p>香达-郭[塔之部族]（Shundar-Quah [Spire Clan]）：你的强韧豁免获得+1加值，察觉检定获得+2加值。</p><p>斯克拉-郭[日之部族]（Sklar-Quah [Sun Clan]）：你的反射豁免获得+1加值，特技检定获得+2加值。</p><p>斯寇昂-郭[颅之部族]（Skoan-Quah [Skull Clan]）：你在对抗不死生物时，武器伤害检定获得+2加值。医疗检定获得+2加值。</p><p>塔米尔-郭[风之部族]（Tamiir-Quah [Wind Clan]）：你的基本路上速度提高5尺，特技检定获得+2加值。</p><p class=\"zhtw-credit\"><em>译者：弑君者伊恩，四月｜书目：专长／内海世界指南｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Totem%20Spirit\">Archives of Nethys</a></em></p>"
     },
     "Totemic Disciple": {
       "name": "图腾门徒 Totemic Disciple",
@@ -12315,7 +12315,7 @@
     },
     "Tree Hanger": {
       "name": "挂树功 Tree Hanger",
-      "description": "<p><b><i>你可以使用尾巴挂在附近的突出物上来避免摔绊攻击。</i></b></p><p><b>先决条件</b>：特技1级，灵猴族。</p><p><b>专长效果</b>：你在对抗所有摔绊攻击时的CMD获得+2加值。如果你所在的方格有树枝或者其他能够让你挂在其上的坚固粗大的物体的话，你能够以一个迅捷动作进行DC为15的特技动作检定，以此向上跳起并用你的尾巴挂在该物体上。在悬挂期间，你不会被摔绊，同时你忽略你所在方格的困难地形效果；此外在对抗冲撞、拖拽以及移位战技时的CMD获得+2加值。如果你离开该方格（包括受迫移动），你的尾巴会松开悬挂的物体并且不再处于悬挂状态。当你悬挂的时候无法使用尾巴做别的事情。</p><p><b>昏睡毒素（</b><b>Sleep Venom</b><b>）</b></p><p class=\"zhtw-credit\"><em>译者：四月，月夜白雨，他化自在天，弑君者伊恩｜书目：专长／ARG 进阶种族手册｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=63055.msg585513#msg585513\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Tree%20Hanger\">Archives of Nethys</a></em></p>"
+      "description": "<p><b><i>你可以使用尾巴挂在附近的突出物上来避免摔绊攻击。</i></b></p><p><b>先决条件</b>：特技1级，灵猴族。</p><p><b>专长效果</b>：你在对抗所有摔绊攻击时的CMD获得+2加值。如果你所在的方格有树枝或者其他能够让你挂在其上的坚固粗大的物体的话，你能够以一个迅捷动作进行DC为15的特技检定，以此向上跳起并用你的尾巴挂在该物体上。在悬挂期间，你不会被摔绊，同时你忽略你所在方格的困难地形效果；此外在对抗冲撞、拖拽以及移位战技时的CMD获得+2加值。如果你离开该方格（包括受迫移动），你的尾巴会松开悬挂的物体并且不再处于悬挂状态。当你悬挂的时候无法使用尾巴做别的事情。</p><p><b>昏睡毒素（</b><b>Sleep Venom</b><b>）</b></p><p class=\"zhtw-credit\"><em>译者：四月，月夜白雨，他化自在天，弑君者伊恩｜书目：专长／ARG 进阶种族手册｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=63055.msg585513#msg585513\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Tree%20Hanger\">Archives of Nethys</a></em></p>"
     },
     "Tree Leaper": {
       "name": "树跃者 Tree Leaper",
@@ -12362,8 +12362,8 @@
       "description": "<p><b><i>你能用你的木棍发起摔绊攻击。</i></b></p><p><b>先决条件</b>：智力13，寓守于攻，精通摔绊，武器专攻（木棍）。</p><p><b>专长效果</b>：你能将木棍当作有摔绊特性的武器使用。</p><p><b>特殊说明</b>：如果你是魔剑士变体的法杖士（Staff Magus, <u>UM</u>），你可以在使用木棍进行摔绊的时候发动【法术战斗】。</p><p class=\"zhtw-credit\"><em>译者：他化自在天｜书目：专长／UM 极限魔法｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=52439\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Tripping%20Staff\">Archives of Nethys</a></em></p>"
     },
     "Tripping Staff (Mythic)": {
-      "name": "木棍绊摔(神话) Tripping Staff (Mythic)",
-      "description": "<b>先决条件：</b>木棍绊摔<br/><br/><em>你手中的木棍可攻可守、可进可退。</em><br/><br/><b>神话专长效果：</b>当你对抗摔绊战技时，CMD获得等同于你的阶层的一半的加值。此外你使用木棍（quarterstaff）进行摔绊战技时，也获得上述加值。当你持用木棍时，若1名被你威胁的敌人对你进行摔绊的尝试而且失败的话，他会引起你的借机攻击。你必须使用木棍进行此次借机攻击。<br/><br/><b>资源出处: </b>Mythic Adventures pg. 75<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Tripping%20Staff"
+      "name": "木棍摔绊(神话) Tripping Staff (Mythic)",
+      "description": "<b>先决条件：</b>木棍摔绊<br/><br/><em>你手中的木棍可攻可守、可进可退。</em><br/><br/><b>神话专长效果：</b>当你对抗摔绊战技时，CMD获得等同于你的阶层的一半的加值。此外你使用木棍（quarterstaff）进行摔绊战技时，也获得上述加值。当你持用木棍时，若1名被你威胁的敌人对你进行摔绊的尝试而且失败的话，他会引起你的借机攻击。你必须使用木棍进行此次借机攻击。<br/><br/><b>资源出处: </b>Mythic Adventures pg. 75<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Tripping%20Staff"
     },
     "Tripping Strike": {
       "name": "摔绊重击 Tripping Strike",
@@ -12435,7 +12435,7 @@
     },
     "Twin Fang Lunge": {
       "name": "贰牙突 Twin Fang Lunge",
-      "description": "<b>专长类型：</b>Combat<br/><br/><em>你以蛇突之力发动攻击。</em><br/><br/><b>先决条件: </b>敏捷15，快速备战，贰牙击，贰牙流，双武器战斗，特技动作8级，BAB+8或8级武僧等级。<br/><br/><b>专长效果: </b>使用贰牙流时，你可以用整轮动作移动至多等同你速度两倍的距离，接着如同你进行了攻击动作般使用贰牙击。<br/><br/><b>资源出处: </b>Villain Codex pg. 105<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Twin%20Fang%20Lunge"
+      "description": "<b>专长类型：</b>Combat<br/><br/><em>你以蛇突之力发动攻击。</em><br/><br/><b>先决条件: </b>敏捷15，快速备战，贰牙击，贰牙流，双武器战斗，特技8级，BAB+8或8级武僧等级。<br/><br/><b>专长效果: </b>使用贰牙流时，你可以用整轮动作移动至多等同你速度两倍的距离，接着如同你进行了攻击动作般使用贰牙击。<br/><br/><b>资源出处: </b>Villain Codex pg. 105<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Twin%20Fang%20Lunge"
     },
     "Twin Fang Strike": {
       "name": "贰牙击 Twin Fang Strike",
@@ -12451,7 +12451,7 @@
     },
     "Twin Thunders Flurry": {
       "name": "雷霆连击 Twin Thunders Flurry",
-      "description": "<b>专长类型：</b>Combat<br/><br/><em>你的双重钝击在面对巨人时效果拔群。</em><br/><br/><b>先决条件: </b>矮人或侏儒，【防御训练】种族特性，进阶双武器格斗、双武器格斗或【疾风连击】职业特性，雷霆双击，武器专攻（当前持用的两种武器），基本攻击加值+6。<br/><br/><b>专长效果: </b>你能够绊摔体型最大为超大型的巨人亚种生物，并对他们的伤害+2。此外，每当你在主手武器命中后又以副手武器命中巨人亚种生物，你都能应用“雷霆双击”专长带来的副手武器伤害加成。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 123<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Twin%20Thunders%20Flurry<br/><br/><b>战策增益：</b>你可以消耗2点耐力来对一个没有巨人亚种的超大型生物尝试绊摔战技。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 134"
+      "description": "<b>专长类型：</b>Combat<br/><br/><em>你的双重钝击在面对巨人时效果拔群。</em><br/><br/><b>先决条件: </b>矮人或侏儒，【防御训练】种族特性，进阶双武器格斗、双武器格斗或【疾风连击】职业特性，雷霆双击，武器专攻（当前持用的两种武器），基本攻击加值+6。<br/><br/><b>专长效果: </b>你能够摔绊体型最大为超大型的巨人亚种生物，并对他们的伤害+2。此外，每当你在主手武器命中后又以副手武器命中巨人亚种生物，你都能应用“雷霆双击”专长带来的副手武器伤害加成。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 123<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Twin%20Thunders%20Flurry<br/><br/><b>战策增益：</b>你可以消耗2点耐力来对一个没有巨人亚种的超大型生物尝试摔绊战技。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 134"
     },
     "Twin Thunders Master": {
       "name": "雷霆大师 Twin Thunders Master",
@@ -12667,7 +12667,7 @@
     },
     "Unseat (Mythic)": {
       "name": "落马击(神话) Unseat (Mythic)",
-      "description": "<b>先决条件：</b>落马击<br/><br/><em>你能够使用可怕的冲击力把敌人击落至马下。</em><br/><br/><b>神话专长效果：</b>当你成功以落马击专长使用冲撞将敌人从他的坐骑上击落时，你每拥有2个阶层，你的敌人就会受到1d6点坠落伤害。减少坠落伤害的物品或能力，比如成功的特技动作检定，能够减少这次冲击造成的伤害。<br/><br/><b>资源出处: </b>Mythic Adventures pg. 76<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Unseat"
+      "description": "<b>先决条件：</b>落马击<br/><br/><em>你能够使用可怕的冲击力把敌人击落至马下。</em><br/><br/><b>神话专长效果：</b>当你成功以落马击专长使用冲撞将敌人从他的坐骑上击落时，你每拥有2个阶层，你的敌人就会受到1d6点坠落伤害。减少坠落伤害的物品或能力，比如成功的特技检定，能够减少这次冲击造成的伤害。<br/><br/><b>资源出处: </b>Mythic Adventures pg. 76<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Unseat"
     },
     "Unseen Poison": {
       "name": "无色无味 Unseen Poison",
@@ -12687,7 +12687,7 @@
     },
     "Untwisting Iron Strength": {
       "name": "金刚劲 Untwisting Iron Strength",
-      "description": "<b>专长类型：</b>Combat<br/><br/><em>你精通了断金折铁的武艺，你的拳头就如同精金铁锤一般，能够打破坚硬的物体。</em><br/><br/><b>先决条件: </b>力量15，感知13，无瑕流，BAB+9或9级武僧等级。<br/><br/><b>专长效果: </b>若你正在使用无瑕流，则能够忽略一定量的硬度，数值与你的角色等级相等。此外，你在破坏物体的力量检定中获得+4加值。若你以迅捷动作花费1点气，则能够在1轮内获得精通破武的好处。<br/><br/><b>资源出处: </b>Adventurers Guide pg. 107Inner Sea Combat pg. 13<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Untwisting%20Iron%20Strength<br/><br/><b>战策增益：</b>你可以在使用金刚劲时消耗2点耐力而不是1点气。<br/><br/><b>战策资源出处: </b>Weapon Master's Handbook pg. 25"
+      "description": "<b>专长类型：</b>Combat<br/><br/><em>你精通了断金折铁的武艺，你的拳头就如同精金铁锤一般，能够打破坚硬的物体。</em><br/><br/><b>先决条件: </b>力量15，感知13，无瑕流，BAB+9或9级武僧等级。<br/><br/><b>专长效果: </b>若你正在使用无瑕流，则能够忽略一定量的硬度，数值与你的角色等级相等。此外，你在破坏物体的力量检定中获得+4加值。若你以迅捷动作花费1点气，则能够在1轮内获得精通击破的好处。<br/><br/><b>资源出处: </b>Adventurers Guide pg. 107Inner Sea Combat pg. 13<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Untwisting%20Iron%20Strength<br/><br/><b>战策增益：</b>你可以在使用金刚劲时消耗2点耐力而不是1点气。<br/><br/><b>战策资源出处: </b>Weapon Master's Handbook pg. 25"
     },
     "Unusual Heritage (Changeling)": {
       "name": "Unusual Heritage (Changeling)",
@@ -12739,7 +12739,7 @@
     },
     "Vampiric Companion": {
       "name": "血之仆役 Vampiric Companion",
-      "description": "<em>你的不朽本质同样改变了追随你的伙伴，它们的扭曲形态展现着你所承受的诅咒。</em><br/><br/><b>先决条件: </b>吸血鬼或吸血裔，非善良阵营，在拥有魔宠或动物伙伴的职业上拥有10个等级。<br/><br/><b>专长效果: </b>你的动物伙伴或魔宠的生物类型转变为不死生物，它将获得快速医疗5，以及你的吸血鬼或吸血裔弱点。如果你是吸血鬼，那么它还会获得以下特殊能力，具体的能力取决于你的吸血鬼类型。</p><p>僵尸：当你的伙伴处于你的邻接位置时，它获得你的护尸符能力的效果，在被摧毁时会化为尘土（如同僵尸一样），但如果没有妥善的处理的话它也会像僵尸一样复活。</p><p>茉莉血族：当你的伙伴处于你的邻接位置时，每当你使用气化形体能力，你的伙伴也会同时变形，并在你结束变形时恢复正常状态。如果你的伙伴被伤害至0点生命值，它会立刻化为气态并潜回你的棺材。</p><p>诺斯费拉图血族：当你的伙伴处于你的邻接位置时，每当你使用集群形态能力，你的伙伴也会同时变形，并在你结束变形时恢复正常状态。这个生物可以和你一样使用蛛行术能力，即使它的形态并不适合攀爬（比如马）<br/><br/><b>特殊说明: </b>如果你的动物伙伴或魔宠被摧毁，解散或丢失，你可以将本专长的效果应用到新获得的伙伴身上。如果你拥有超过一个动物伙伴或魔宠，你只能将本专长的效果应用到它们中的一个身上。</p><p>你可以多次选择本专长，每次你选择本专长时，它将影响你的另一个动物伙伴或魔宠。<br/><br/><b>资源出处: </b>Monster Codex pg. 237Blood of the Night pg. 28<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Vampiric%20Companion"
+      "description": "<em>你的不朽本质同样改变了追随你的伙伴，它们的扭曲形态展现着你所承受的诅咒。</em><br/><br/><b>先决条件: </b>吸血鬼或吸血裔，非善良阵营，在拥有魔宠或动物伙伴的职业上拥有10个等级。<br/><br/><b>专长效果: </b>你的动物伙伴或魔宠的生物类型转变为不死生物，它将获得快速治疗5，以及你的吸血鬼或吸血裔弱点。如果你是吸血鬼，那么它还会获得以下特殊能力，具体的能力取决于你的吸血鬼类型。</p><p>僵尸：当你的伙伴处于你的邻接位置时，它获得你的护尸符能力的效果，在被摧毁时会化为尘土（如同僵尸一样），但如果没有妥善的处理的话它也会像僵尸一样复活。</p><p>茉莉血族：当你的伙伴处于你的邻接位置时，每当你使用气化形体能力，你的伙伴也会同时变形，并在你结束变形时恢复正常状态。如果你的伙伴被伤害至0点生命值，它会立刻化为气态并潜回你的棺材。</p><p>诺斯费拉图血族：当你的伙伴处于你的邻接位置时，每当你使用集群形态能力，你的伙伴也会同时变形，并在你结束变形时恢复正常状态。这个生物可以和你一样使用蛛行术能力，即使它的形态并不适合攀爬（比如马）<br/><br/><b>特殊说明: </b>如果你的动物伙伴或魔宠被摧毁，解散或丢失，你可以将本专长的效果应用到新获得的伙伴身上。如果你拥有超过一个动物伙伴或魔宠，你只能将本专长的效果应用到它们中的一个身上。</p><p>你可以多次选择本专长，每次你选择本专长时，它将影响你的另一个动物伙伴或魔宠。<br/><br/><b>资源出处: </b>Monster Codex pg. 237Blood of the Night pg. 28<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Vampiric%20Companion"
     },
     "Vandal": {
       "name": "Vandal",
@@ -12995,7 +12995,7 @@
     },
     "Wary Smuggler": {
       "name": "谨慎走私者 Wary Smuggler",
-      "description": "<p><em>你非常善于在政府的监管之外交易</em></p><p><strong>先决条件：</strong>觉察5级，巧手5级，隐匿5级</p><p><strong>专长效果：</strong>你在将非武器的小物体隐藏在身体里、旅行用的载具或动物的时候，巧手检定获得+5加值。你在都市环境下的觉察，巧手和隐匿检定总是可以取10。</p><p>灌法毒药（Infused Poisons）</p><p>通过将制药的手艺和制毒的艺术结合，狡诈的刺客和药草师将创造出邪恶的超自然威胁。一个灌注的毒药结合了摄入毒药和药剂的效果。饮下灌法毒药的生物会首先遭受到摄入毒药的影响（包括其初始效果或伤害），紧接着触发灌注的法术效果，饮用者必须进行第二次豁免检定（通常是不同的类型或DC）来对抗其法术效果。法术抗力能正常的对抗灌法毒药的法术效果，但是不能使其免受毒素的影响；毒素抗力也不能免除灌法毒药的法术效果。毒素免疫（Poison immunity）使得生物免受灌法毒药的法术效果</p><p>一剂毒药可以被注入一个不超过3级，施法时间小于1分钟，目标是一个或多个生物的法术。跟调制药水相同，你不能在没有满足法术前提的情况下创造一瓶灌法毒药。药剂的价值等于法术环位×施法者等级×25gp。如果法术有贵重材料成分，则其需要计入毒药的价值。</p><p>灌法毒药类似于以引用者为目标施法。毒药的创造者必须在毒药创造时决定其所有的法术效果——吞下灌法毒药的生物无法控制其影响。与药剂不同的是，饮用者不视为施法者。如果法术效果与施法者相关（例如魅惑人类），饮用者会将其吞下毒药后感知到的第一个生物视为施法者。</p><p>一个尝试以察觉检定辨识灌法毒药的生物有5%的几率中毒，除非她有用毒能力。这个过程不会消耗灌法毒药。</p><p class=\"zhtw-credit\"><em>译者：软软软｜书目：黑市指南BM／专长｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=88093.0\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Wary%20Smuggler\">Archives of Nethys</a></em></p>"
+      "description": "<p><em>你非常善于在政府的监管之外交易</em></p><p><strong>先决条件：</strong>觉察5级，巧手5级，隐匿5级</p><p><strong>专长效果：</strong>你在将非武器的小物体隐藏在身体里、旅行用的载具或动物的时候，巧手检定获得+5加值。你在都市环境下的觉察，巧手和隐匿检定总是可以取10。</p><p>灌法毒药（Infused Poisons）</p><p>通过将制药的手艺和制毒的艺术结合，狡诈的刺客和药草师将创造出邪恶的超自然威胁。一个灌注的毒药结合了摄入毒药和药剂的效果。饮下灌法毒药的生物会首先遭受到摄入毒药的影响（包括其初始效果或伤害），紧接着触发灌注的法术效果，饮用者必须进行第二次豁免检定（通常是不同的类型或DC）来对抗其法术效果。法术抗力能正常的对抗灌法毒药的法术效果，但是不能使其免受毒素的影响；毒性抗力也不能免除灌法毒药的法术效果。毒素免疫（Poison immunity）使得生物免受灌法毒药的法术效果</p><p>一剂毒药可以被注入一个不超过3级，施法时间小于1分钟，目标是一个或多个生物的法术。跟调制药水相同，你不能在没有满足法术前提的情况下创造一瓶灌法毒药。药剂的价值等于法术环位×施法者等级×25gp。如果法术有贵重材料成分，则其需要计入毒药的价值。</p><p>灌法毒药类似于以引用者为目标施法。毒药的创造者必须在毒药创造时决定其所有的法术效果——吞下灌法毒药的生物无法控制其影响。与药剂不同的是，饮用者不视为施法者。如果法术效果与施法者相关（例如魅惑人类），饮用者会将其吞下毒药后感知到的第一个生物视为施法者。</p><p>一个尝试以察觉检定辨识灌法毒药的生物有5%的几率中毒，除非她有用毒能力。这个过程不会消耗灌法毒药。</p><p class=\"zhtw-credit\"><em>译者：软软软｜书目：黑市指南BM／专长｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=88093.0\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Wary%20Smuggler\">Archives of Nethys</a></em></p>"
     },
     "Wasp Familiar": {
       "name": "巨蜂魔宠 Wasp Familiar",
@@ -13047,7 +13047,7 @@
     },
     "Weapon Material Mastery": {
       "name": "材质掌握 Weapon Material Mastery",
-      "description": "<p><i>你熟悉制造你所爱武器的特殊材质，发挥它们的能力来达到令人惊叹的效果。</i></p><p><b>先决条件：</b>基础攻击加值+7，对所选近战武器拥有战士武器训练（Weapon Training）职业能力</p><p><b>专长效果：</b>当持用一把所选的近战武器时，你获得如下特殊能力。这些特殊能力仅在你持用的武器使用以下对应的特殊材料时才会生效。</p><p><i>精金（Adamantine</i><i>）：</i>你的重击忽略目标的DR。</p><p><i>炼银（Alchemical Silver</i><i>）/</i><i>秘银（Mithral</i><i>）或银纺（Silversheen</i><i>）：</i>当你成功的对一个处于幻术系法术或变形效果（比如法术易容术或变形能力）影响下的生物造成伤害时，它的伤口开始烧灼和起泡，揭露出该生物是变形者。如果该生物的变形能力是一项种族特性，那么任何见到你攻击该生物的角色在辨识它们的知识技能检定上获得+4加值。除此之外，你在暴露于任何可以通过意志检定而不相信的幻术效果时，立刻可以通过一次意志检定而不相信它。</p><p><i>寒铁（Cold Iron</i><i>）：</i>每当你成功对一个受到法术效果影响而获得临时生命值，防御等级加值，属性加值，攻击和伤害加值或是豁免加值的生物确认重击时，你可以立刻进行一个特殊的解除魔法检定（骰1d20+你的基础攻击加值）来对目标施放一个目标性法术解除魔法，但只能解除上述魔法效果。每当你以此方式尝试解除过一个生物身上的魔法效果后，你在24小时内无法以相同的方式再次影响它。</p><p><i>净土青铜（Elysium Bronze</i><i>）</i><sup>UE</sup>：每当你对一个魔法兽或人型怪物生物造成伤害时，这个生物必须超过通过一个DC=10+你的基础攻击加值的一半+你的力量调整值的强韧检定，否则将失去一个随机选择的类法术能力或超自然能力。每当你以此方式尝试影响过一个生物后，你在24小时内无法以相同的方式再次影响它。</p><p><i>火纹钢（Fire-Forged Steel</i><i>）</i><sup>UE</sup> 或<i>冰纹钢（</i><i>Frost-Forged Steel</i><i>）</i><sup>UE</sup>：每当你的武器暴露于造成至少10点能量伤害（火焰伤害-火纹钢，寒冷伤害-冰纹钢）的情况下时，它会造成额外+1d6对应能量伤害而不是普通情况的+1d4点。除此之外，如果这件武器暴露的能量伤害每超过10点额外5点，它造成额外伤害的效果就可以多延长1轮。</p><p><i>绿木（Greenwood</i><i>）</i><sup>UE</sup>或<i>活钢（</i><i>Living Steel</i><i>）</i><sup>UE</sup>：每当你使用所选的武器对目标造成了一次重击，目标就必须通过一个DC=10+你的基础攻击加值的一半+你的力量调整值的强韧检定，否则在1d3轮内失去其快速医疗或再生能力（如果有）。</p><p><i>毒琉璃（Viridum</i><i>）</i><sup>UE</sup>：你可以将你的力量调整值和武器的增强加值（如果有）加入对抗毒琉璃造成的麻风病效果的强韧豁免DC中。</p><p><i>鞭木（Whipwood</i><i>）</i><sup>UE</sup>：你所选的武器获得摔绊武器特性，并且在用它发动的摔绊战技的战技攻击检定上获得+2加值。</p><p><i>汲魂木（Wyroot</i><i>）</i><sup>UE</sup>：每轮一次，你可以以一个自由动作而非正常情况的迅捷动作来使用汲魂木吸取生命能量。你每轮最多只能吸取一次生命能量。</p><p><b>远程武器掌握专长</b></p><p><b>解放射击</b></p><p class=\"zhtw-credit\"><em>书目：专长／武器掌握｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Weapon%20Material%20Mastery\">Archives of Nethys</a></em></p>"
+      "description": "<p><i>你熟悉制造你所爱武器的特殊材质，发挥它们的能力来达到令人惊叹的效果。</i></p><p><b>先决条件：</b>基础攻击加值+7，对所选近战武器拥有战士武器训练（Weapon Training）职业能力</p><p><b>专长效果：</b>当持用一把所选的近战武器时，你获得如下特殊能力。这些特殊能力仅在你持用的武器使用以下对应的特殊材料时才会生效。</p><p><i>精金（Adamantine</i><i>）：</i>你的重击忽略目标的DR。</p><p><i>炼银（Alchemical Silver</i><i>）/</i><i>秘银（Mithral</i><i>）或银纺（Silversheen</i><i>）：</i>当你成功的对一个处于幻术系法术或变形效果（比如法术易容术或变形能力）影响下的生物造成伤害时，它的伤口开始烧灼和起泡，揭露出该生物是变形者。如果该生物的变形能力是一项种族特性，那么任何见到你攻击该生物的角色在辨识它们的知识技能检定上获得+4加值。除此之外，你在暴露于任何可以通过意志检定而不相信的幻术效果时，立刻可以通过一次意志检定而不相信它。</p><p><i>寒铁（Cold Iron</i><i>）：</i>每当你成功对一个受到法术效果影响而获得临时生命值，防御等级加值，属性加值，攻击和伤害加值或是豁免加值的生物确认重击时，你可以立刻进行一个特殊的解除魔法检定（骰1d20+你的基础攻击加值）来对目标施放一个目标性法术解除魔法，但只能解除上述魔法效果。每当你以此方式尝试解除过一个生物身上的魔法效果后，你在24小时内无法以相同的方式再次影响它。</p><p><i>净土青铜（Elysium Bronze</i><i>）</i><sup>UE</sup>：每当你对一个魔法兽或人型怪物生物造成伤害时，这个生物必须超过通过一个DC=10+你的基础攻击加值的一半+你的力量调整值的强韧检定，否则将失去一个随机选择的类法术能力或超自然能力。每当你以此方式尝试影响过一个生物后，你在24小时内无法以相同的方式再次影响它。</p><p><i>火纹钢（Fire-Forged Steel</i><i>）</i><sup>UE</sup> 或<i>冰纹钢（</i><i>Frost-Forged Steel</i><i>）</i><sup>UE</sup>：每当你的武器暴露于造成至少10点能量伤害（火焰伤害-火纹钢，寒冷伤害-冰纹钢）的情况下时，它会造成额外+1d6对应能量伤害而不是普通情况的+1d4点。除此之外，如果这件武器暴露的能量伤害每超过10点额外5点，它造成额外伤害的效果就可以多延长1轮。</p><p><i>绿木（Greenwood</i><i>）</i><sup>UE</sup>或<i>活钢（</i><i>Living Steel</i><i>）</i><sup>UE</sup>：每当你使用所选的武器对目标造成了一次重击，目标就必须通过一个DC=10+你的基础攻击加值的一半+你的力量调整值的强韧检定，否则在1d3轮内失去其快速治疗或再生能力（如果有）。</p><p><i>毒琉璃（Viridum</i><i>）</i><sup>UE</sup>：你可以将你的力量调整值和武器的增强加值（如果有）加入对抗毒琉璃造成的麻风病效果的强韧豁免DC中。</p><p><i>鞭木（Whipwood</i><i>）</i><sup>UE</sup>：你所选的武器获得摔绊武器特性，并且在用它发动的摔绊战技的战技攻击检定上获得+2加值。</p><p><i>汲魂木（Wyroot</i><i>）</i><sup>UE</sup>：每轮一次，你可以以一个自由动作而非正常情况的迅捷动作来使用汲魂木吸取生命能量。你每轮最多只能吸取一次生命能量。</p><p><b>远程武器掌握专长</b></p><p><b>解放射击</b></p><p class=\"zhtw-credit\"><em>书目：专长／武器掌握｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Weapon%20Material%20Mastery\">Archives of Nethys</a></em></p>"
     },
     "Weapon of the Chosen": {
       "name": "神选武器 Weapon of the Chosen",
@@ -13191,7 +13191,7 @@
     },
     "Wind Rider": {
       "name": "驭风者 Wind Rider",
-      "description": "<p><i>你经过训练，能够在强风中自如移动与战斗，并运用风之元素的力量来增强自身速度。</i></p><p><b>先决条件</b>：特技动作（Acrobatics）或飞行（Fly）3级。</p><p><b>专长效果</b>：当你在强风（strong wind）中飞行时，你的飞行速度增加15尺。每高一个风力等级，你的飞行速度再增加15尺（即在烈风中增加30尺，在暴风中增加45尺，在龙卷风中增加60尺）【那飓风呢？】。此专长为避免被风阻或吹飞的飞行检定或力量检定中提供任何加值。</p><p class=\"zhtw-credit\"><em>书目：古国血脉BotA／专长｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=159832.msg1360041#msg1360041\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Wind%20Rider\">Archives of Nethys</a></em></p>"
+      "description": "<p><i>你经过训练，能够在强风中自如移动与战斗，并运用风之元素的力量来增强自身速度。</i></p><p><b>先决条件</b>：特技（Acrobatics）或飞行（Fly）3级。</p><p><b>专长效果</b>：当你在强风（strong wind）中飞行时，你的飞行速度增加15尺。每高一个风力等级，你的飞行速度再增加15尺（即在烈风中增加30尺，在暴风中增加45尺，在龙卷风中增加60尺）【那飓风呢？】。此专长为避免被风阻或吹飞的飞行检定或力量检定中提供任何加值。</p><p class=\"zhtw-credit\"><em>书目：古国血脉BotA／专长｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=159832.msg1360041#msg1360041\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Wind%20Rider\">Archives of Nethys</a></em></p>"
     },
     "Wind Song": {
       "name": "Wind Song",
