@@ -371,11 +371,11 @@
     },
     "Greater Weapon Focus": {
       "name": "高等武器专攻 Greater Weapon Focus",
-      "description": "<p><b><i>从已有“武器专攻”的武器类型中选择一个，也可以选徒手击打或擒抱，对此种武器你是个中高手。</i></b></p><p><b>先决条件</b>：对应武器的擅长武器、武器专攻，战士等级8。</p><p><b>专长效果</b>：使用特定武器时攻击检定+1。此加值可与其他攻击加值累加，包括“武器专攻”的加值。</p><p><b>特殊说明</b>：你可以多次选择本专长，但并非累加效果；每次选择本专长时需选择一个新的武器类型。</p><p><b>高等武器专精（</b><b>Greater Weapons Specialization</b><b>）〔战斗〕</b></p><p class=\"zhtw-credit\"><em>译者：cmjh625｜书目：专长／CRB 核心规则手册｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=63006\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Weapon%20Focus\">Archives of Nethys</a></em></p>"
+      "description": "<p><b><i>从已有“武器专攻”的武器类型中选择一个，也可以选徒手打击或擒抱，对此种武器你是个中高手。</i></b></p><p><b>先决条件</b>：对应武器的擅长武器、武器专攻，战士等级8。</p><p><b>专长效果</b>：使用特定武器时攻击检定+1。此加值可与其他攻击加值累加，包括“武器专攻”的加值。</p><p><b>特殊说明</b>：你可以多次选择本专长，但并非累加效果；每次选择本专长时需选择一个新的武器类型。</p><p><b>高等武器专精（</b><b>Greater Weapons Specialization</b><b>）〔战斗〕</b></p><p class=\"zhtw-credit\"><em>译者：cmjh625｜书目：专长／CRB 核心规则手册｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=63006\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Weapon%20Focus\">Archives of Nethys</a></em></p>"
     },
     "Greater Weapon Specialization": {
       "name": "高等武器专精 Greater Weapon Specialization",
-      "description": "<b>专长类型：</b>Combat<br/><br/><em>从已有“武器专精”的武器中选择一个，也可以选徒手击打或擒抱，使用此种武器将可造成更多伤害。</em><br/><br/><br/><br/><b>先决条件: </b>对应武器的擅长武器、武器专攻、高等专攻、武器专精，战士等级12。<br/><br/><b>专长效果: </b>使用特定武器时伤害+2，且可与其他伤害加值累加，包括“武器专精”的加值。<br/><br/><b>特殊说明: </b>你可以多次选择本专长，但并非累加效果；每次选择本专长时需选择一个新的武器类型。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 126<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Weapon%20Specialization<br/><br/><b>战策增益：</b>每轮一次，你可以消耗2点耐力来将高等武器专精在伤害骰上的加值应用到其它一件武器上。这个加值会持续到你的下一回合开始。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 122"
+      "description": "<b>专长类型：</b>Combat<br/><br/><em>从已有“武器专精”的武器中选择一个，也可以选徒手打击或擒抱，使用此种武器将可造成更多伤害。</em><br/><br/><br/><br/><b>先决条件: </b>对应武器的擅长武器、武器专攻、高等专攻、武器专精，战士等级12。<br/><br/><b>专长效果: </b>使用特定武器时伤害+2，且可与其他伤害加值累加，包括“武器专精”的加值。<br/><br/><b>特殊说明: </b>你可以多次选择本专长，但并非累加效果；每次选择本专长时需选择一个新的武器类型。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 126<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Weapon%20Specialization<br/><br/><b>战策增益：</b>每轮一次，你可以消耗2点耐力来将高等武器专精在伤害骰上的加值应用到其它一件武器上。这个加值会持续到你的下一回合开始。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 122"
     },
     "Grisly Ornament": {
       "name": "Grisly Ornament",
@@ -479,7 +479,7 @@
     },
     "Improved Unarmed Strike": {
       "name": "精通徒手打击 Improved Unarmed Strike",
-      "description": "<p><b><i>你精通徒手作战的技巧。</i></b></p><p><b>专长效果</b>：即使徒手也视同持有武器，也就是说当你徒手攻击时，不会引发借机攻击。此外，你可以选择让你的徒手击打造成致命或非致命伤害。</p><p><b>通常状况</b>：无此专长者若徒手攻击则视为未武装，也只能造成非致命伤害。</p><p class=\"zhtw-credit\"><em>译者：cmjh625｜书目：专长／CRB 核心规则手册｜CHM 出处：<a href=\"http://www.goddessfantasy.net/bbs/index.php?topic=57643\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Unarmed%20Strike\">Archives of Nethys</a></em></p>"
+      "description": "<p><b><i>你精通徒手作战的技巧。</i></b></p><p><b>专长效果</b>：即使徒手也视同持有武器，也就是说当你徒手攻击时，不会引发借机攻击。此外，你可以选择让你的徒手打击造成致命或非致命伤害。</p><p><b>通常状况</b>：无此专长者若徒手攻击则视为未武装，也只能造成非致命伤害。</p><p class=\"zhtw-credit\"><em>译者：cmjh625｜书目：专长／CRB 核心规则手册｜CHM 出处：<a href=\"http://www.goddessfantasy.net/bbs/index.php?topic=57643\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Unarmed%20Strike\">Archives of Nethys</a></em></p>"
     },
     "Improved Vital Strike": {
       "name": "精通要害打击 Improved Vital Strike",
@@ -555,7 +555,7 @@
     },
     "Medusa's Wrath": {
       "name": "万蛇出洞 Medusa's Wrath",
-      "description": "<b>专长类型：</b>Combat<br/><br/><em>你的连续攻击令对手眼花缭乱。</em><br/><br/><br/><br/><b>先决条件: </b>精通徒手打击，蛇形拳，蝎形拳，基本攻击加值+11。<br/><br/><b>专长效果: </b>每当你进行全力攻击并做出至少一次徒手击打攻击时，你可以额外以最高BAB做出两次徒手击打攻击。这些额外攻击必须针对晕眩、措手不及、麻痹、恍惚、震慑或昏迷状态的敌人。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 130<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Medusa's%20Wrath<br/><br/><b>战策增益：</b>当你使用这个专长时，你可以消耗10点耐力来对你正在夹击的敌人做出额外的攻击，而不是只能对晕眩，措手不及，麻痹，恍惚，震慑，或者失去意识的敌人做出额外攻击。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 126"
+      "description": "<b>专长类型：</b>Combat<br/><br/><em>你的连续攻击令对手眼花缭乱。</em><br/><br/><br/><br/><b>先决条件: </b>精通徒手打击，蛇形拳，蝎形拳，基本攻击加值+11。<br/><br/><b>专长效果: </b>每当你进行全力攻击并做出至少一次徒手打击攻击时，你可以额外以最高BAB做出两次徒手打击攻击。这些额外攻击必须针对晕眩、措手不及、麻痹、恍惚、震慑或昏迷状态的敌人。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 130<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Medusa's%20Wrath<br/><br/><b>战策增益：</b>当你使用这个专长时，你可以消耗10点耐力来对你正在夹击的敌人做出额外的攻击，而不是只能对晕眩，措手不及，麻痹，恍惚，震慑，或者失去意识的敌人做出额外攻击。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 126"
     },
     "Mobility": {
       "name": "灵活移动 Mobility",
@@ -647,7 +647,7 @@
     },
     "Scorpion Style": {
       "name": "蝎形拳 Scorpion Style",
-      "description": "<p><b><i>你的徒手击打能够严重妨碍目标的移动。</i></b></p><p><b>先决条件</b>：精通徒手打击。</p><p><b>专长效果</b>：要使用此专长，你必须用标准动作做一次单一的徒手攻击。如果此徒手攻击命中，你正常造成伤害，且目标的基本陆地速度降为5尺，持续轮数等同于你的感知修正，除非其通过DC为“10+1/2你的角色等级+感知修正”的强韧豁免检定。</p><p><b>抄写卷轴（</b><b>Scribe Scroll</b><b>）〔造物〕</b></p><p class=\"zhtw-credit\"><em>译者：cmjh625｜书目：专长／CRB 核心规则手册｜CHM 出处：<a href=\"http://www.goddessfantasy.net/bbs/index.php?topic=40217\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Scorpion%20Style\">Archives of Nethys</a></em></p>"
+      "description": "<p><b><i>你的徒手打击能够严重妨碍目标的移动。</i></b></p><p><b>先决条件</b>：精通徒手打击。</p><p><b>专长效果</b>：要使用此专长，你必须用标准动作做一次单一的徒手攻击。如果此徒手攻击命中，你正常造成伤害，且目标的基本陆地速度降为5尺，持续轮数等同于你的感知修正，除非其通过DC为“10+1/2你的角色等级+感知修正”的强韧豁免检定。</p><p><b>抄写卷轴（</b><b>Scribe Scroll</b><b>）〔造物〕</b></p><p class=\"zhtw-credit\"><em>译者：cmjh625｜书目：专长／CRB 核心规则手册｜CHM 出处：<a href=\"http://www.goddessfantasy.net/bbs/index.php?topic=40217\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Scorpion%20Style\">Archives of Nethys</a></em></p>"
     },
     "Scribe Scroll": {
       "name": "抄写卷轴 Scribe Scroll",
@@ -895,7 +895,7 @@
     },
     "Two-Weapon Defense": {
       "name": "双武器防御 Two-Weapon Defense",
-      "description": "<p><b><i>你的双武器战斗风格可攻可守。</i></b></p><p><b>先决条件</b>：敏捷15，双武器格斗。</p><p><b>专长效果</b>：使用双头武器或双武器时（不包含天生武器或徒手击打），AC获得+1盾牌加值。当你使用防御式战斗或全防御时，此盾牌加值增为+2。</p><p class=\"zhtw-credit\"><em>译者：cmjh625｜书目：专长／CRB 核心规则手册｜CHM 出处：<a href=\"http://www.goddessfantasy.net/bbs/index.php?topic=40217\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Two-Weapon%20Defense\">Archives of Nethys</a></em></p>"
+      "description": "<p><b><i>你的双武器战斗风格可攻可守。</i></b></p><p><b>先决条件</b>：敏捷15，双武器格斗。</p><p><b>专长效果</b>：使用双头武器或双武器时（不包含天生武器或徒手打击），AC获得+1盾牌加值。当你使用防御式战斗或全防御时，此盾牌加值增为+2。</p><p class=\"zhtw-credit\"><em>译者：cmjh625｜书目：专长／CRB 核心规则手册｜CHM 出处：<a href=\"http://www.goddessfantasy.net/bbs/index.php?topic=40217\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Two-Weapon%20Defense\">Archives of Nethys</a></em></p>"
     },
     "Two-Weapon Fighting": {
       "name": "双武器格斗 Two-Weapon Fighting",
@@ -911,7 +911,7 @@
     },
     "Vicious Stomp": {
       "name": "恶毒踩踏 Vicious Stomp",
-      "description": "<b>专长类型：</b>Combat<br/><br/><em>你在对手倒地的恰当时机猛踹之。</em><br/><br/><br/><br/><b>先决条件: </b>战斗反射，精通徒手打击。<br/><br/><b>专长效果: </b>当对手倒在你的邻接方格，他将会触发你的借机攻击。借机攻击必须以徒手攻击。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 123<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Vicious%20Stomp<br/><br/><b>战策增益：</b>当一个对手因为摔倒引发了你的徒手击打借机攻击，你可以消耗2点耐力来在那次徒手击打上造成额外的1d6点伤害。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 135"
+      "description": "<b>专长类型：</b>Combat<br/><br/><em>你在对手倒地的恰当时机猛踹之。</em><br/><br/><br/><br/><b>先决条件: </b>战斗反射，精通徒手打击。<br/><br/><b>专长效果: </b>当对手倒在你的邻接方格，他将会触发你的借机攻击。借机攻击必须以徒手攻击。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 123<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Vicious%20Stomp<br/><br/><b>战策增益：</b>当一个对手因为摔倒引发了你的徒手打击借机攻击，你可以消耗2点耐力来在那次徒手打击上造成额外的1d6点伤害。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 135"
     },
     "Vital Strike": {
       "name": "要害打击 Vital Strike",
@@ -923,11 +923,11 @@
     },
     "Weapon Focus": {
       "name": "武器专攻 Weapon Focus",
-      "description": "<p><b><i>选择一种武器。你同样可以选择徒手击打或擒抱（若你能施法，也可选择“射线”）作为本专长选择的武器类型。</i></b></p><p><b>先决条件</b>：擅长对应武器，基本攻击加值+1。</p><p><b>专长效果</b>：使用专攻的武器时攻击检定+1。</p><p><b>特殊说明</b>：你可以多次选择本专长，其效果并不累加。每次你都必须选择不同种类的武器。</p><p><b>武器专精（</b><b>Weapons Specialization</b><b>）〔战斗〕</b></p><p class=\"zhtw-credit\"><em>译者：cmjh625｜书目：专长／CRB 核心规则手册｜CHM 出处：<a href=\"http://www.goddessfantasy.net/bbs/index.php?topic=40217\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Weapon%20Focus\">Archives of Nethys</a></em></p>"
+      "description": "<p><b><i>选择一种武器。你同样可以选择徒手打击或擒抱（若你能施法，也可选择“射线”）作为本专长选择的武器类型。</i></b></p><p><b>先决条件</b>：擅长对应武器，基本攻击加值+1。</p><p><b>专长效果</b>：使用专攻的武器时攻击检定+1。</p><p><b>特殊说明</b>：你可以多次选择本专长，其效果并不累加。每次你都必须选择不同种类的武器。</p><p><b>武器专精（</b><b>Weapons Specialization</b><b>）〔战斗〕</b></p><p class=\"zhtw-credit\"><em>译者：cmjh625｜书目：专长／CRB 核心规则手册｜CHM 出处：<a href=\"http://www.goddessfantasy.net/bbs/index.php?topic=40217\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Weapon%20Focus\">Archives of Nethys</a></em></p>"
     },
     "Weapon Specialization": {
       "name": "武器专精 Weapon Specialization",
-      "description": "<b>专长类型：</b>Combat<br/><br/><em>你善于使用特定类型的武器造成伤害。从已有“武器专攻”的武器中选择一个（包括徒手击打和擒抱），使用此种武器将可造成更多伤害。</em><br/><br/><br/><br/><b>先决条件: </b>擅长对应武器，武器专攻，战士4级。<br/><br/><b>专长效果: </b>使用专精的武器时伤害检定+2。<br/><br/><b>特殊说明: </b>你可以多次选择本专长，其效果并不累加。每次你都必须选择不同种类的武器。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 137<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Weapon%20Specialization<br/><br/><b>战策增益：</b>每轮1次，你可以消耗2点耐力来在一件你并没有武器专精的武器上获得武器专精在伤害骰上的加值。这个加值将会持续到你的下一回合开始。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 135"
+      "description": "<b>专长类型：</b>Combat<br/><br/><em>你善于使用特定类型的武器造成伤害。从已有“武器专攻”的武器中选择一个（包括徒手打击和擒抱），使用此种武器将可造成更多伤害。</em><br/><br/><br/><br/><b>先决条件: </b>擅长对应武器，武器专攻，战士4级。<br/><br/><b>专长效果: </b>使用专精的武器时伤害检定+2。<br/><br/><b>特殊说明: </b>你可以多次选择本专长，其效果并不累加。每次你都必须选择不同种类的武器。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 137<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Weapon%20Specialization<br/><br/><b>战策增益：</b>每轮1次，你可以消耗2点耐力来在一件你并没有武器专精的武器上获得武器专精在伤害骰上的加值。这个加值将会持续到你的下一回合开始。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 135"
     },
     "Whirlwind Attack": {
       "name": "旋风攻击 Whirlwind Attack",
@@ -1043,15 +1043,15 @@
     },
     "Dolphin Circle": {
       "name": "海豚环杀 Dolphin Circle",
-      "description": "<p><strong>来源</strong> 水下冒险<em>Aquatic Adventures</em> pg. 57</p><p><em>你像海豚一样环绕着你的敌人，将他们玩弄于你攻击的股掌之中。</em></p><p><strong>先决条件:</strong> 海豚突进，海豚流，精通徒手击打，游泳10级，基本攻击加值+10或者武僧10级</p><p><strong>专长效果:</strong> 当你处于海豚流的架势下时，以一个整轮动作，你可以在水下选择一个环形的路线，其起点和终点都必须在你目前所处的方格，且长度不能超过你以单个移动动作所能游过的距离。你会环绕这条路线游动直到你的下一回合开始，这次移动不会引发借机攻击。在考虑威胁范围和为盟友（除了你自己）提供夹击以及范围效果时，你被视为处在该路线所有经过的方格中。其他生物可以攻击你（以及用有益的接触法术来触碰你），如同你处在该路线所有经过的方格中。但当其他生物穿过这条线路的任意方格时，你不会被视作在其中的任何方格。在你下一回合开始时，选择该路径经过的任一方格来停止环绕。</p><p class=\"zhtw-credit\"><em>书目：水下冒险Aquatic Adventures pg. 57｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Dolphin%20Circle\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>来源</strong> 水下冒险<em>Aquatic Adventures</em> pg. 57</p><p><em>你像海豚一样环绕着你的敌人，将他们玩弄于你攻击的股掌之中。</em></p><p><strong>先决条件:</strong> 海豚突进，海豚流，精通徒手打击，游泳10级，基本攻击加值+10或者武僧10级</p><p><strong>专长效果:</strong> 当你处于海豚流的架势下时，以一个整轮动作，你可以在水下选择一个环形的路线，其起点和终点都必须在你目前所处的方格，且长度不能超过你以单个移动动作所能游过的距离。你会环绕这条路线游动直到你的下一回合开始，这次移动不会引发借机攻击。在考虑威胁范围和为盟友（除了你自己）提供夹击以及范围效果时，你被视为处在该路线所有经过的方格中。其他生物可以攻击你（以及用有益的接触法术来触碰你），如同你处在该路线所有经过的方格中。但当其他生物穿过这条线路的任意方格时，你不会被视作在其中的任何方格。在你下一回合开始时，选择该路径经过的任一方格来停止环绕。</p><p class=\"zhtw-credit\"><em>书目：水下冒险Aquatic Adventures pg. 57｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Dolphin%20Circle\">Archives of Nethys</a></em></p>"
     },
     "Dolphin Dart": {
       "name": "海豚突进 Dolphin Dart",
-      "description": "<p><strong>来源</strong> 水下冒险<em>Aquatic Adventures</em> pg. 57</p><p><em>你迅速地突击一个敌人又迅速地后撤，就像一只海豚一样。</em></p><p><strong>先决条件:</strong> 海豚流，精通徒手击打，游泳6级，基本攻击加值+6或者武僧6级</p><p><strong>专长效果:</strong> 当你处于海豚流的架势之下时，以一个标准动作，你可以在水下最多移动你游泳速度的一半，并对位于你触及范围内的一名敌人做一次近战攻击，然后撤回你原来所处的位置。你的移动和攻击都不会引发借机攻击，即使你的敌人拥有除了移出威胁范围外其他触发借机攻击的条件。</p><p class=\"zhtw-credit\"><em>书目：水下冒险Aquatic Adventures pg. 57｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Dolphin%20Dart\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>来源</strong> 水下冒险<em>Aquatic Adventures</em> pg. 57</p><p><em>你迅速地突击一个敌人又迅速地后撤，就像一只海豚一样。</em></p><p><strong>先决条件:</strong> 海豚流，精通徒手打击，游泳6级，基本攻击加值+6或者武僧6级</p><p><strong>专长效果:</strong> 当你处于海豚流的架势之下时，以一个标准动作，你可以在水下最多移动你游泳速度的一半，并对位于你触及范围内的一名敌人做一次近战攻击，然后撤回你原来所处的位置。你的移动和攻击都不会引发借机攻击，即使你的敌人拥有除了移出威胁范围外其他触发借机攻击的条件。</p><p class=\"zhtw-credit\"><em>书目：水下冒险Aquatic Adventures pg. 57｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Dolphin%20Dart\">Archives of Nethys</a></em></p>"
     },
     "Dolphin Style": {
       "name": "海豚流 Dolphin Style",
-      "description": "<p><strong>来源</strong> 水下冒险<em>Aquatic Adventures</em> pg. 57</p><p><em>你像一只海豚一样战斗，将你的敌人困在一起，这让你更容易干掉他们。</em></p><p><strong>先决条件:</strong> 精通徒手击打，游泳3级，基本攻击加值+3或者武僧3级</p><p><strong>专长效果:</strong> 你对一个你不对它有夹击，且它至少邻接两个它其他盟友的生物的近战攻击骰获得+1加值。除此之外，你的近战攻击忽略任何来自协助他人动作的AC加值。</p><p class=\"zhtw-credit\"><em>书目：水下冒险Aquatic Adventures pg. 57｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Dolphin%20Style\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>来源</strong> 水下冒险<em>Aquatic Adventures</em> pg. 57</p><p><em>你像一只海豚一样战斗，将你的敌人困在一起，这让你更容易干掉他们。</em></p><p><strong>先决条件:</strong> 精通徒手打击，游泳3级，基本攻击加值+3或者武僧3级</p><p><strong>专长效果:</strong> 你对一个你不对它有夹击，且它至少邻接两个它其他盟友的生物的近战攻击骰获得+1加值。除此之外，你的近战攻击忽略任何来自协助他人动作的AC加值。</p><p class=\"zhtw-credit\"><em>书目：水下冒险Aquatic Adventures pg. 57｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Dolphin%20Style\">Archives of Nethys</a></em></p>"
     },
     "Dreadful Carnage": {
       "name": "惧栗屠杀 Dreadful Carnage",
@@ -1203,7 +1203,7 @@
     },
     "Improved Natural Attack": {
       "name": "精通天生武器攻击 Improved Natural Attack",
-      "description": "<p><b><i>这个生物的天生武器可以造成可怕的伤害。</i></b></p><p><b>先决条件</b>：拥有天生武器攻击，基本攻击加值+4。</p><p><b>专长效果</b>：选择一种你拥有的天生武器攻击（不可以是徒手击打），其可造成的伤害投骰按以下列表提升一个体型等级：1d2，1d3，1d4，1d6，1d8，2d6，3d6，4d6，6d6，8d6，12d6。如果天生武器的起始伤害为1d10，则依据此表：1d10，2d8，3d8，4d8，6d8，8d8，12d8。</p><p><b>特殊说明</b>：生物可以多次选择本专长，每次选择本专长时，它必须将之应用在一项新的天生武器攻击上。</p><p class=\"zhtw-credit\"><em>译者：傻豆｜书目：专长／B1 怪物图鉴｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=60891\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Natural%20Attack\">Archives of Nethys</a></em></p>"
+      "description": "<p><b><i>这个生物的天生武器可以造成可怕的伤害。</i></b></p><p><b>先决条件</b>：拥有天生武器攻击，基本攻击加值+4。</p><p><b>专长效果</b>：选择一种你拥有的天生武器攻击（不可以是徒手打击），其可造成的伤害投骰按以下列表提升一个体型等级：1d2，1d3，1d4，1d6，1d8，2d6，3d6，4d6，6d6，8d6，12d6。如果天生武器的起始伤害为1d10，则依据此表：1d10，2d8，3d8，4d8，6d8，8d8，12d8。</p><p><b>特殊说明</b>：生物可以多次选择本专长，每次选择本专长时，它必须将之应用在一项新的天生武器攻击上。</p><p class=\"zhtw-credit\"><em>译者：傻豆｜书目：专长／B1 怪物图鉴｜CHM 出处：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=60891\">果园原帖</a>（CHM v2.31.0）｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Natural%20Attack\">Archives of Nethys</a></em></p>"
     },
     "Improved Reposition": {
       "name": "精通移位 Improved Reposition",
@@ -1275,15 +1275,15 @@
     },
     "Shark Leap": {
       "name": "鲨跃 Shark Leap",
-      "description": "<p><strong>来源</strong> 水下冒险<em>Aquatic Adventures</em> pg. 58</p><p><em>像一只致命的掠食者，你从没有警惕的敌人下面闪击他们。</em></p><p><strong>先决条件：</strong>精通徒手击打，猛鲨流，鲨裂，游泳10级，基本攻击加值+10或者武僧10级</p><p><strong>专长效果：</strong>当你处于猛鲨流的架势之下，并且你在水下拥有中等，上升，快速上升的浮力时，你可以做出一次可怖的跃击来攻击你正上方的敌人。这类似于冲锋，除了你只能笔直地向上移动，并且只能使用穿刺徒手击打或者啮咬攻击。如果你的攻击命中了，这将会造成两倍的伤害；如果你的攻击骰结果超过了11+目标的游泳加值，这次攻击将会让目标失去平衡，直到它的下一回合。和冲锋一样，在你只能做一个标准动作时（比如突袭轮），你也可以做一个阉割版本的鲨跃；你只能半速移动，就和部分冲锋一样，而且攻击只会翻倍伤害骰（如同要害打击）而不是所有伤害。</p><p class=\"zhtw-credit\"><em>书目：水下冒险Aquatic Adventures pg. 58｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Shark%20Leap\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>来源</strong> 水下冒险<em>Aquatic Adventures</em> pg. 58</p><p><em>像一只致命的掠食者，你从没有警惕的敌人下面闪击他们。</em></p><p><strong>先决条件：</strong>精通徒手打击，猛鲨流，鲨裂，游泳10级，基本攻击加值+10或者武僧10级</p><p><strong>专长效果：</strong>当你处于猛鲨流的架势之下，并且你在水下拥有中等，上升，快速上升的浮力时，你可以做出一次可怖的跃击来攻击你正上方的敌人。这类似于冲锋，除了你只能笔直地向上移动，并且只能使用穿刺徒手打击或者啮咬攻击。如果你的攻击命中了，这将会造成两倍的伤害；如果你的攻击骰结果超过了11+目标的游泳加值，这次攻击将会让目标失去平衡，直到它的下一回合。和冲锋一样，在你只能做一个标准动作时（比如突袭轮），你也可以做一个阉割版本的鲨跃；你只能半速移动，就和部分冲锋一样，而且攻击只会翻倍伤害骰（如同要害打击）而不是所有伤害。</p><p class=\"zhtw-credit\"><em>书目：水下冒险Aquatic Adventures pg. 58｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Shark%20Leap\">Archives of Nethys</a></em></p>"
     },
     "Shark Style": {
       "name": "猛鲨流 Shark Style",
-      "description": "<p><strong>来源</strong> 水下冒险<em>Aquatic Adventures</em> pg. 59</p><p><em>你像鲨鱼一样战斗，像鲨鱼一样撕碎你的敌人。</em></p><p><strong>先决条件：</strong>精通徒手击打，游泳3级，基本攻击加值+3或者武僧3级</p><p><strong>专长效果：</strong>你可以在使用徒手攻击时造成穿刺或者钝击伤害。你的穿刺徒手打击和啮咬攻击将会造成1d6点额外的流血伤害。</p><p class=\"zhtw-credit\"><em>书目：水下冒险Aquatic Adventures pg. 59｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Shark%20Style\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>来源</strong> 水下冒险<em>Aquatic Adventures</em> pg. 59</p><p><em>你像鲨鱼一样战斗，像鲨鱼一样撕碎你的敌人。</em></p><p><strong>先决条件：</strong>精通徒手打击，游泳3级，基本攻击加值+3或者武僧3级</p><p><strong>专长效果：</strong>你可以在使用徒手攻击时造成穿刺或者钝击伤害。你的穿刺徒手打击和啮咬攻击将会造成1d6点额外的流血伤害。</p><p class=\"zhtw-credit\"><em>书目：水下冒险Aquatic Adventures pg. 59｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Shark%20Style\">Archives of Nethys</a></em></p>"
     },
     "Shark Tear": {
       "name": "鲨裂 Shark Tear",
-      "description": "<p><strong>来源</strong> 水下冒险<em>Aquatic Adventures</em> pg. 59</p><p><em>你撕裂那些流血的敌人，并能在水中嗅到他们的血腥味。</em></p><p><strong>先决条件：</strong>精通徒手击打，猛鲨流，游泳6级，基本攻击加值+6或者武僧6级</p><p><strong>专长效果：</strong>在处于猛鲨流的架势时，你在水下获得灵敏嗅觉，但仅限对流血的敌人。你还会在对抗流血敌人的伤害骰和攻击骰上获得+1加值。</p><p class=\"zhtw-credit\"><em>书目：水下冒险Aquatic Adventures pg. 59｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Shark%20Tear\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>来源</strong> 水下冒险<em>Aquatic Adventures</em> pg. 59</p><p><em>你撕裂那些流血的敌人，并能在水中嗅到他们的血腥味。</em></p><p><strong>先决条件：</strong>精通徒手打击，猛鲨流，游泳6级，基本攻击加值+6或者武僧6级</p><p><strong>专长效果：</strong>在处于猛鲨流的架势时，你在水下获得灵敏嗅觉，但仅限对流血的敌人。你还会在对抗流血敌人的伤害骰和攻击骰上获得+1加值。</p><p class=\"zhtw-credit\"><em>书目：水下冒险Aquatic Adventures pg. 59｜AoN 出处：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Shark%20Tear\">Archives of Nethys</a></em></p>"
     },
     "Shield of Swings": {
       "name": "剑刃屏障 Shield of Swings",
