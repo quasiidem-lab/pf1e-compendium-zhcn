@@ -45,7 +45,7 @@
     },
     "Aberrant Bloodrager Bloodline": {
       "name": "Aberrant Bloodrager Bloodline（Aberrant Bloodrager Bloodline）",
-      "description": "<p>&emsp;&emsp;<em>There is a taint in your blood that is both alien and bizarre. When you bloodrage, this manifests in peculiar and terrifying ways.</em><br><br><strong>奖励专长：</strong></p>\n<ul>\n<li>@Compendium[pf1.feats.h9nHYLxXvIXBTmup]{战斗反射},</li>\n<li>@Compendium[pf1.feats.fVRnBIHR4Jq6btvm]{强韧加强},</li>\n<li>@Compendium[pf1.feats.711B9WNFgpdDKKf2]{精通卸武},</li>\n<li>@Compendium[pf1.feats.ZmQkRk93nbHxsQSt]{精通擒抱},</li>\n<li>@Compendium[pf1.feats.Uuiu3p982omhMEPj]{精通先攻},</li>\n<li>@Compendium[pf1.feats.2aTFNMs3pW6nUBlr]{精通徒手击打},</li>\n<li>@Compendium[pf1.feats.iAbIGhm7T2OK9Brt]{钢铁意志}.</li>\n</ul>\n<p>&emsp;&emsp;<strong>奖励法术:&nbsp;</strong></p>\n<ul>\n<li>@Compendium[pf1.spells.jnlr9cuepka1l26e]{变巨术} (7th),&nbsp;</li>\n<li>@Compendium[pf1.spells.nokru6mxk9p3r513]{识破隐形} (10th),&nbsp;</li>\n<li>@Compendium[pf1.spells.r190q9zxmei82lmv]{移位术} (13th),&nbsp;</li>\n<li>@Compendium[pf1.spells.wralcmyi4tdcai24]{黑触手} (16th)</li>\n</ul>"
+      "description": "<p>&emsp;&emsp;<em>There is a taint in your blood that is both alien and bizarre. When you bloodrage, this manifests in peculiar and terrifying ways.</em><br><br><strong>奖励专长：</strong></p>\n<ul>\n<li>@Compendium[pf1.feats.h9nHYLxXvIXBTmup]{战斗反射},</li>\n<li>@Compendium[pf1.feats.fVRnBIHR4Jq6btvm]{强韧加强},</li>\n<li>@Compendium[pf1.feats.711B9WNFgpdDKKf2]{精通卸武},</li>\n<li>@Compendium[pf1.feats.ZmQkRk93nbHxsQSt]{精通擒抱},</li>\n<li>@Compendium[pf1.feats.Uuiu3p982omhMEPj]{精通先攻},</li>\n<li>@Compendium[pf1.feats.2aTFNMs3pW6nUBlr]{精通徒手打击},</li>\n<li>@Compendium[pf1.feats.iAbIGhm7T2OK9Brt]{钢铁意志}.</li>\n</ul>\n<p>&emsp;&emsp;<strong>奖励法术:&nbsp;</strong></p>\n<ul>\n<li>@Compendium[pf1.spells.jnlr9cuepka1l26e]{变巨术} (7th),&nbsp;</li>\n<li>@Compendium[pf1.spells.nokru6mxk9p3r513]{识破隐形} (10th),&nbsp;</li>\n<li>@Compendium[pf1.spells.r190q9zxmei82lmv]{移位术} (13th),&nbsp;</li>\n<li>@Compendium[pf1.spells.wralcmyi4tdcai24]{黑触手} (16th)</li>\n</ul>"
     },
     "Ability Increase (2 pts)": {
       "name": "Ability Increase (2 pts)（Ability Increase (2 pts)）",
@@ -89,7 +89,7 @@
     },
     "Abyssal Bloodrager Bloodline": {
       "name": "Abyssal Bloodrager Bloodline（Abyssal Bloodrager Bloodline）",
-      "description": "<p>&emsp;&emsp;<em>Generations ago, a demon spread its filth into the essence of your bloodline. While it doesn閳ユ獩 manifest in all of your kin, in those moments when you閳ユ獧e bloodraging, you embody its terrifying presence.</em><br><br><strong>奖励专长：</strong></p>\n<ul>\n<li>@Compendium[pf1.feats.Zeq6RWYv5otvg8q7]{顺势斩}</li>\n<li>@Compendium[pf1.feats.fVRnBIHR4Jq6btvm]{强韧加强}</li>\n<li>@Compendium[pf1.feats.dn2KgHFQRbuoNRx0]{精通冲撞}</li>\n<li>@Compendium[pf1.feats.lpXdFoT6OqS5vi2X]{精通破武}</li>\n<li>@Compendium[pf1.feats.O0jbkTJcIji9BNiF]{威逼}</li>\n<li>@Compendium[pf1.feats.FUW5mIXHNBBIQ1Sq]{猛力攻击}</li>\n<li>@Compendium[pf1.feats.8snLqsJN4LLL00Nq]{健壮}</li>\n</ul>\n<p>&emsp;&emsp;<strong>奖励法术:</strong>&nbsp;</p>\n<ul>\n<li>@Compendium[pf1.spells.mczdgwo3xl8c6e26]{衰弱射线}&nbsp;(7th),&nbsp;</li>\n<li>@Compendium[pf1.spells.05i5rxwim12hwktu]{牛之力量}&nbsp;(10th),&nbsp;</li>\n<li>@Compendium[pf1.spells.8u1xa5javcxc6szk]{狂暴术}&nbsp;(13th),</li>\n<li>@Compendium[pf1.spells.knyako6zopc1chrv]{石肤术}&nbsp;(16th)</li>\n</ul>"
+      "description": "<p>&emsp;&emsp;<em>Generations ago, a demon spread its filth into the essence of your bloodline. While it doesn閳ユ獩 manifest in all of your kin, in those moments when you閳ユ獧e bloodraging, you embody its terrifying presence.</em><br><br><strong>奖励专长：</strong></p>\n<ul>\n<li>@Compendium[pf1.feats.Zeq6RWYv5otvg8q7]{顺势斩}</li>\n<li>@Compendium[pf1.feats.fVRnBIHR4Jq6btvm]{强韧加强}</li>\n<li>@Compendium[pf1.feats.dn2KgHFQRbuoNRx0]{精通冲撞}</li>\n<li>@Compendium[pf1.feats.lpXdFoT6OqS5vi2X]{精通击破}</li>\n<li>@Compendium[pf1.feats.O0jbkTJcIji9BNiF]{威逼}</li>\n<li>@Compendium[pf1.feats.FUW5mIXHNBBIQ1Sq]{猛力攻击}</li>\n<li>@Compendium[pf1.feats.8snLqsJN4LLL00Nq]{健壮}</li>\n</ul>\n<p>&emsp;&emsp;<strong>奖励法术:</strong>&nbsp;</p>\n<ul>\n<li>@Compendium[pf1.spells.mczdgwo3xl8c6e26]{衰弱射线}&nbsp;(7th),&nbsp;</li>\n<li>@Compendium[pf1.spells.05i5rxwim12hwktu]{牛之力量}&nbsp;(10th),&nbsp;</li>\n<li>@Compendium[pf1.spells.8u1xa5javcxc6szk]{狂暴术}&nbsp;(13th),</li>\n<li>@Compendium[pf1.spells.knyako6zopc1chrv]{石肤术}&nbsp;(16th)</li>\n</ul>"
     },
     "Abyssal Claws": {
       "name": "Abyssal Claws（Abyssal Claws）",
@@ -205,7 +205,7 @@
     },
     "Air's Leap": {
       "name": "空气跃动（Air's Leap）",
-      "description": "<p>&emsp;&emsp;<strong>元素：</strong>气；<strong>类别：</strong>通用（Su）；<strong>等级：</strong>1；<strong>超载：</strong>0</p><p>&emsp;&emsp;当你跳跃时，总是被视为已经进行了助跑，所有用于跳跃的特技动作检定都会获得等同于你的操念使等级的加值，你的跳高或跳远距离总是检定结果所显示的两倍，当你跳跃时可以承受1点超载来使得跳跃距离再次加倍（总计为四倍距离）。</p>"
+      "description": "<p>&emsp;&emsp;<strong>元素：</strong>气；<strong>类别：</strong>通用（Su）；<strong>等级：</strong>1；<strong>超载：</strong>0</p><p>&emsp;&emsp;当你跳跃时，总是被视为已经进行了助跑，所有用于跳跃的特技检定都会获得等同于你的操念使等级的加值，你的跳高或跳远距离总是检定结果所显示的两倍，当你跳跃时可以承受1点超载来使得跳跃距离再次加倍（总计为四倍距离）。</p>"
     },
     "Air's Reach": {
       "name": "大气延伸（Air's Reach）",
@@ -433,7 +433,7 @@
     },
     "Armor Skin": {
       "name": "着甲如肤（Armor Skin）",
-      "description": "<p>&emsp;&emsp;侠客的铠甲在他身上如同第二层皮肤一般自然，他可以忽略因为穿戴中甲和轻甲而在特技动作，逃脱术和潜行技能上承受的护甲减值（其他技能仍然正常承受护甲减值）。在8级时，侠客的移动速度不再因为穿戴中甲而降低。</p>"
+      "description": "<p>&emsp;&emsp;侠客的铠甲在他身上如同第二层皮肤一般自然，他可以忽略因为穿戴中甲和轻甲而在特技，逃脱术和潜行技能上承受的护甲减值（其他技能仍然正常承受护甲减值）。在8级时，侠客的移动速度不再因为穿戴中甲而降低。</p>"
     },
     "Armor of Chains": {
       "name": "Armor of Chains（Armor of Chains）",
@@ -576,7 +576,7 @@
       "description": "<p>&emsp;&emsp;When the alchemist creates a bomb, he can choose to have it deal lawful divine damage. Chaotic creatures that take a direct hit from an axiomatic bomb must succeed at a Fortitude save or be staggered on their next turn. Against neutral creatures, axiomatic bombs deal half damage, and such targets are not affected by their staggering effect. Axiomatic bombs have no effect on lawful creatures.</p>\n<p>&emsp;&emsp;An alchemist must be at least 8th level before selecting this discovery.</p>"
     },
     "Bardic Knowledge (SKA)": {
-      "name": "轶闻知识(歌者)（Bardic Knowledge (SKA)）",
+      "name": "逸闻知识(歌者)（Bardic Knowledge (SKA)）",
       "description": "<p>&emsp;&emsp;歌者在进行知识类技能检定时将他一半的职业等级（至少为1）加到检定结果中，并且可以使用未受训的知识技能进行检定。</p>"
     },
     "Bardic Pretender": {
@@ -881,7 +881,7 @@
     },
     "Bonus Feat (UMK)": {
       "name": "奖励专长(掉链僧)（Bonus Feat (UMK)）",
-      "description": "<p>&emsp;&emsp;在1级，2级，和之后的每4级，武僧可以获得一个奖励专长。这些专长必须出自以下列表:</p>\n<p>&emsp;&emsp;@Compendium[pf1.feats.bZ1YdzkT8NtRIEJ4]{随手武器}, @Compendium[pf1.feats.h9nHYLxXvIXBTmup]{战斗反射}, @Compendium[pf1.feats.ACEQfonKVqh0fwkK]{拨挡飞箭}, @Compendium[pf1.feats.JreaiTHdyWFNj3Tb]{闪避}, @Compendium[pf1.feats.ZmQkRk93nbHxsQSt]{精通擒抱}, @Compendium[pf1.feats.2AfSIVge3bg8r6wr]{蝎形拳}, and @Compendium[pf1.feats.gGfXQq0IZrxdcZDx]{随手投掷}.</p>\n<p>&emsp;&emsp;6级时，以下专长可以加入表中：</p>\n<p>&emsp;&emsp;@Compendium[pf1.feats.nhUawPP4jfED3CYV]{蛇形拳}, @Compendium[pf1.feats.dn2KgHFQRbuoNRx0]{精通冲撞}, @Compendium[pf1.feats.711B9WNFgpdDKKf2]{精通卸武}, @Compendium[pf1.feats.tocde3sKG1O3GKgd]{精通虚招}, @Compendium[pf1.feats.gTrGPxzN054GfpkM]{精通绊摔}, and&nbsp;@Compendium[pf1.feats.R7L4SlGRlnThqFrP]{灵活移动}.</p>\n<p>&emsp;&emsp;10级时，以下专长可以加入表中：</p>\n<p>&emsp;&emsp;@Compendium[pf1.feats.TbOPtIL8Fv8obXtP]{精通重击}, @Compendium[pf1.feats.sOCyCmNxe2MBbEaI]{万蛇出洞}, @Compendium[pf1.feats.bHcqTC4Lf3aVl3VO]{抓取飞箭},  @Compendium[pf1.feats.ugQyUpqPBDsqLyra]{跳跃攻击}.</p>\n<p>&emsp;&emsp;武僧无须拥有这些专长的先决条件便可以选取它们。</p>"
+      "description": "<p>&emsp;&emsp;在1级，2级，和之后的每4级，武僧可以获得一个奖励专长。这些专长必须出自以下列表:</p>\n<p>&emsp;&emsp;@Compendium[pf1.feats.bZ1YdzkT8NtRIEJ4]{随手武器}, @Compendium[pf1.feats.h9nHYLxXvIXBTmup]{战斗反射}, @Compendium[pf1.feats.ACEQfonKVqh0fwkK]{拨挡飞箭}, @Compendium[pf1.feats.JreaiTHdyWFNj3Tb]{闪避}, @Compendium[pf1.feats.ZmQkRk93nbHxsQSt]{精通擒抱}, @Compendium[pf1.feats.2AfSIVge3bg8r6wr]{蝎形拳}, and @Compendium[pf1.feats.gGfXQq0IZrxdcZDx]{随手投掷}.</p>\n<p>&emsp;&emsp;6级时，以下专长可以加入表中：</p>\n<p>&emsp;&emsp;@Compendium[pf1.feats.nhUawPP4jfED3CYV]{蛇形拳}, @Compendium[pf1.feats.dn2KgHFQRbuoNRx0]{精通冲撞}, @Compendium[pf1.feats.711B9WNFgpdDKKf2]{精通卸武}, @Compendium[pf1.feats.tocde3sKG1O3GKgd]{精通虚招}, @Compendium[pf1.feats.gTrGPxzN054GfpkM]{精通摔绊}, and&nbsp;@Compendium[pf1.feats.R7L4SlGRlnThqFrP]{灵活移动}.</p>\n<p>&emsp;&emsp;10级时，以下专长可以加入表中：</p>\n<p>&emsp;&emsp;@Compendium[pf1.feats.TbOPtIL8Fv8obXtP]{精通重击}, @Compendium[pf1.feats.sOCyCmNxe2MBbEaI]{万蛇出洞}, @Compendium[pf1.feats.bHcqTC4Lf3aVl3VO]{抓取飞箭},  @Compendium[pf1.feats.ugQyUpqPBDsqLyra]{跳跃攻击}.</p>\n<p>&emsp;&emsp;武僧无须拥有这些专长的先决条件便可以选取它们。</p>"
     },
     "Bonus Feats (WIZ)": {
       "name": "奖励专长(法师)（Bonus Feats (WIZ)）",
@@ -921,7 +921,7 @@
     },
     "Brawler": {
       "name": "Brawler（Brawler）",
-      "description": "<p>&emsp;&emsp;狂暴时野蛮人被视为如同有 @Compendium[pf1.feats.2aTFNMs3pW6nUBlr]{精通徒手击打}. 如果他已经拥有专长，他徒手打击造成1d6点伤害（小型1d4）。</p>"
+      "description": "<p>&emsp;&emsp;狂暴时野蛮人被视为如同有 @Compendium[pf1.feats.2aTFNMs3pW6nUBlr]{精通徒手打击}. 如果他已经拥有专长，他徒手打击造成1d6点伤害（小型1d4）。</p>"
     },
     "Break (UC)": {
       "name": "Break (UC)（Break (UC)）",
@@ -1121,7 +1121,7 @@
     },
     "Champion Spirit": {
       "name": "勇士英灵（Champion Spirit）",
-      "description": "<p>&emsp;&emsp;勇士英灵强悍异常，娴熟于无数兵刃。</p><p>&emsp;&emsp;<strong>英灵同调：</strong>每当你降灵勇士时，你在攻击检定，力量检定，基于力量的技能检定，强韧豁免检定以及非法术的伤害投骰上获得加值。</p><p>&emsp;&emsp;<strong>降灵奖励：</strong>你造成的所有非魔法伤害+2。</p><p>&emsp;&emsp;<strong>偏好降灵区域：</strong>竞技场，战场，暴力环境，训练场。</p><p>&emsp;&emsp;<strong>共鸣惩罚：</strong>你热衷于暴力，喜好用刀剑而非魔法和思考解决问题。你在智力检定，基于智力的技能检定，以及施法者等级上承受相当于你的英灵同调加值数量的减值（最低降低为CL0，可能会使你无法施法），并且你无法获得任何提升施法者等级的好处。</p><p>&emsp;&emsp;<strong>禁忌：</strong>选择下列禁忌之一：</p><p>&emsp;&emsp;-你对魔法有近乎于迷信的憎恶，你无法自愿成为奥术或奥法能力的目标，即使是无害的奥术也会要求你进行豁免检定。</p><p>&emsp;&emsp;-你只允许自己用特定的人造武器（比如“老爷的家传+2弯刃大刀”）战斗，你必须在遵守此禁忌时选择这件武器，并且它不可以是徒手击打。</p><p>&emsp;&emsp;-你必须在战斗中展现自己的武艺，并且必须接受单挑——如果在此情况下你的盟友出手，则视为你打破了禁忌。</p>"
+      "description": "<p>&emsp;&emsp;勇士英灵强悍异常，娴熟于无数兵刃。</p><p>&emsp;&emsp;<strong>英灵同调：</strong>每当你降灵勇士时，你在攻击检定，力量检定，基于力量的技能检定，强韧豁免检定以及非法术的伤害投骰上获得加值。</p><p>&emsp;&emsp;<strong>降灵奖励：</strong>你造成的所有非魔法伤害+2。</p><p>&emsp;&emsp;<strong>偏好降灵区域：</strong>竞技场，战场，暴力环境，训练场。</p><p>&emsp;&emsp;<strong>共鸣惩罚：</strong>你热衷于暴力，喜好用刀剑而非魔法和思考解决问题。你在智力检定，基于智力的技能检定，以及施法者等级上承受相当于你的英灵同调加值数量的减值（最低降低为CL0，可能会使你无法施法），并且你无法获得任何提升施法者等级的好处。</p><p>&emsp;&emsp;<strong>禁忌：</strong>选择下列禁忌之一：</p><p>&emsp;&emsp;-你对魔法有近乎于迷信的憎恶，你无法自愿成为奥术或奥法能力的目标，即使是无害的奥术也会要求你进行豁免检定。</p><p>&emsp;&emsp;-你只允许自己用特定的人造武器（比如“老爷的家传+2弯刃大刀”）战斗，你必须在遵守此禁忌时选择这件武器，并且它不可以是徒手打击。</p><p>&emsp;&emsp;-你必须在战斗中展现自己的武艺，并且必须接受单挑——如果在此情况下你的盟友出手，则视为你打破了禁忌。</p>"
     },
     "Champion's Prowess": {
       "name": "Champion's Prowess（Champion's Prowess）",
@@ -1549,7 +1549,7 @@
     },
     "Dark Half": {
       "name": "黑暗半身（Dark Half）",
-      "description": "<p>&emsp;&emsp;通过让黑暗力量占据自身，你能够以迅捷动作进入一种以残忍作为本能的状态。当你的黑暗半身显现出来之时，你的异能者法术（psychic spells）的DC会增加1点，意志豁免获得+2士气加值，而且变得免疫恐惧（fear）效果。当你处于黑暗半身占据主导的状态中，每当你施放造成伤害的法术时，你能够让一个由于法术而承受伤害的生物受到1点出血（bleed）伤害。出血伤害的数值会在5级增加至2点，并在13级增加至1d6点。当你唤出黑暗半身时，你无法使用任何以魅力、敏捷或智力为基础的技能（但是特技动作、飞行、威吓和骑术不受限制）。也不能使用除了施放异能者法术、使用精神增幅、或者尝试恢复自我之外，任何需要耐心或专注的能力。你能够以自由动作尝试恢复自我，但是这么做必须成功进行一次DC为10 + 你的施法者等级的专注检定。如果检定失败，则会让黑暗半身持续处于主导地位，而且在1轮内无法再次尝试恢复自我。每日唤出黑暗半身的轮数为3 + 你的异能者等级的一半 + 你的魅力调整值；当这些轮数消耗完时，便会恢复自我，此时不需要进行专注检定。</p>"
+      "description": "<p>&emsp;&emsp;通过让黑暗力量占据自身，你能够以迅捷动作进入一种以残忍作为本能的状态。当你的黑暗半身显现出来之时，你的异能者法术（psychic spells）的DC会增加1点，意志豁免获得+2士气加值，而且变得免疫恐惧（fear）效果。当你处于黑暗半身占据主导的状态中，每当你施放造成伤害的法术时，你能够让一个由于法术而承受伤害的生物受到1点出血（bleed）伤害。出血伤害的数值会在5级增加至2点，并在13级增加至1d6点。当你唤出黑暗半身时，你无法使用任何以魅力、敏捷或智力为基础的技能（但是特技、飞行、威吓和骑术不受限制）。也不能使用除了施放异能者法术、使用精神增幅、或者尝试恢复自我之外，任何需要耐心或专注的能力。你能够以自由动作尝试恢复自我，但是这么做必须成功进行一次DC为10 + 你的施法者等级的专注检定。如果检定失败，则会让黑暗半身持续处于主导地位，而且在1轮内无法再次尝试恢复自我。每日唤出黑暗半身的轮数为3 + 你的异能者等级的一半 + 你的魅力调整值；当这些轮数消耗完时，便会恢复自我，此时不需要进行专注检定。</p>"
     },
     "Dark Tapestry Spirit Manifestation": {
       "name": "Dark Tapestry Spirit Manifestation（Dark Tapestry Spirit Manifestation）",
@@ -1584,11 +1584,11 @@
       "description": "<p>&emsp;&emsp;At 8th level, you can impart a shared vision of unfathomable ineffability to a living creature you touch as a standard action, after which your turn immediately ends. You are dazed and the target confused for 1 round by what you both learn. On the following round, you are both staggered for 1 round by the ramifications of your discovery. On the third round, you are confused and the target dazed for 1 round as you attempt to regain your bearings. Each round, the target can attempt a Will save with a DC equal to 10 + 1/2 your cleric level + your Wisdom modifier to negate that round閳ユ獨 effects for both of you, though the effect does not end until the end of the third round. This is a mindaffecting effect that you can use a number of times per day equal to 1/2 your class level.</p>\n<p>&emsp;&emsp;This power replaces the Aura of Madness power of the Madness Domain.</p>"
     },
     "Dazing Touch (CLE)": {
-      "name": "恍惚接触(牧师)（Dazing Touch (CLE)）",
+      "name": "晕眩之触(牧师)（Dazing Touch (CLE)）",
       "description": "<p>&emsp;&emsp;通过一次近战接触攻击，你能够使活物晕眩1轮。HD超过你牧师等级的生物不受影响。你每天可以使用此能力次数“3+感知修正”。</p>"
     },
     "Dazing Touch (WIZ)": {
-      "name": "眩目之触(法师)（Dazing Touch (WIZ)）",
+      "name": "晕眩之触(法师)（Dazing Touch (WIZ)）",
       "description": "<p>&emsp;&emsp;你能够用一个近战接触攻击导致一个生物晕眩1轮。当目标生物的HD高于你法师等级时无效。你每天可以使用此能力次数为“3+智力修正”。</p>"
     },
     "Dazzling Infusion": {
@@ -1645,7 +1645,7 @@
     },
     "Deeds": {
       "name": "Deeds（Deeds）",
-      "description": "<p>&emsp;&emsp;铳士花费勇毅值来实现炫技。大多数炫技使铳士获得一些短暂的加值或效果，但也有一些提供更长时间的持续性效果。一些炫技在铳士拥有至少1点勇毅值时持续生效。下面列出了铳士的基本炫技。铳士只能使用等于或低于她等级的炫技。除非特别说明，炫技通常都可以连续多次使用，只要花费对应该动作的适当勇毅值即可。</p>\n<hr>\n<p>&emsp;&emsp;<strong>铳士炫技:</strong></p>\n<p>&emsp;&emsp;<em>狙击之眼 (Ex):</em> 1级时，铳士可以在她的火器的第一个射程增量后瞄准接触AC。使用本动作在第一个射程增量后的每个增量花费1点勇毅值。铳士在使用本动作时，仍旧在第一个射程增量后的每个增量受到攻击检定-2减值。</p>\n<p>&emsp;&emsp;<em>铳士闪避 (Ex):</em> 1级时，铳士在规避远程攻击时获得惊艳窍门。当受到远程攻击时，铳士可以通过直觉动作，消耗1点勇毅以移动5尺，针对此次攻击的AC将获得+2加值。此移动并非5尺快步，会引发藉机攻击。铳士也可以不移动而是卧倒，并使针对此次攻击的AC获得+4加值。铳士只能在穿着轻甲或无甲，且负载不超过轻载时使用此炫技。</p>\n<p>&emsp;&emsp;<em>快速清膛 (Ex):</em> 1级时，铳士可以用一个标准动作移除一件她当前正在使用的火器的破损状况，只要该状况是由于枪械哑火而造成。她只能在当前的勇毅值为1点以上时使用此动作。铳士也可以主动消耗1点勇毅值，以移动动作来完成此炫技。</p>\n<p>&emsp;&emsp;<em>把握主动 (Ex):</em> 3级时，只要铳士拥有至少1点勇毅值，她便在先攻检定上获得+2加值。若她同时拥有“即时备战”专长，且她的双手空闲且不受约束、火器也未被隐藏起来，她便可以拔出一把火器作为先攻检定的一部分。</p>\n<p>&emsp;&emsp;<em>枪柄打击 (Ex):</em> 3级时，铳士可以用她的火器的枪托或手柄以标准动作进行一次奇袭打击。此动作令她视为擅长将该火器作为近战武器般使用，并将该火器的增强加值应用于攻击和伤害检定。枪柄打击所造成的伤害为钝击类型，大小由火器的尺寸决定。单手火器造成1d6点伤害（小体型生物为1d4），双手火器造成1d10点伤害（小体型生物为1d8）。无论铳士体型如何，该攻击的重击倍率都是20/x2。若攻击命中，铳士可以通过一个自由动作进行战技攻击检定，以将目标击倒。使用此炫技花费1点勇毅值。</p>\n<p>&emsp;&emsp;<em>万用射击 (Ex):</em> A3级时，只要铳士拥有至少1点勇毅值，就可以做出下列的射击效果。每种射击效果可应用于单次的火器攻击，但铳士必须在攻击前声明使用何种效果。</p>\n<ul>\n<li><em> 破锁:</em> 铳士可以用攻击检定对抗一把锁，该锁须在她的火器的第一个射程增量内。小型锁通常拥有7点AC，更大的锁则拥有更高的AC。锁依其品质在对抗此攻击的AC上获得加值。简易锁拥有+10加值，中级锁拥有+15加值，优质锁为+20，卓越锁则为+30。秘法锁在对抗此攻击的AC上获得+10加值。若命中，则锁被破坏，而目标可以如同未上锁一般被打开。若未命中，则锁被破坏，但目标被卡住，而仍旧视为被锁住。该死锁可以继续使用本动作、解除装置技能、或击破DC来解锁，但对应的DC或AC增加10。钥匙、密码或类似的机械方法对死锁不再有效，但敲击术仍旧能够绕过锁具起效，而秘法锁的创造者也仍旧可以通过该法术的防护开锁。</li>\n<li><em>射飞无主物品: </em>铳士可以用攻击检定对抗一个超小型或更小的无主物品，该物品须在她的火器的第一个射程增量中。一个超小型物品拥有5点AC，微型为7点，超微型为11点。若命中，铳士的该次攻击并不伤害到该物品，但可以由射击的起点将其向远处移动15尺。若未命中，则铳士正常伤害该物品。</li>\n<li><em>止血: </em>铳士可以进行一次火器攻击，并将火热的枪管压在一个邻近生物身上以便为一个流血伤口。作为造成伤害的替代，该次射击会结束受影响生物身上的一个流血效果。铳士在使用此动作时无需进行攻击检定；她可以向空中射击，但该次射击仍需正常花费弹药。</li>\n</ul>\n<p>&emsp;&emsp;<em>致命射击 (Ex):</em> 7级时，铳士可以通过一个整轮动作，对单体目标进行一次倾注全力的精确打击。她用火器攻击进行一次攻击，但进行由基本攻击加值决定的多次投骰，如同正常整轮攻击般从高到低排列。若其中任一次攻击投骰成功，则视为射击命中；每一次额外的成功攻击追加基于火器伤害骰的伤害。举例而言，7级铳士持滑膛枪进行两次攻击且命中，在计算其他伤害前将以2d12取代1d12作为基本伤害骰。基于精准攻击的伤害和基于武器特性的额外伤害（如炽焰）可以加至伤害，但不会因多次成功投骰而叠加。若其中一次攻击进入重击威胁，铳士采用最高基本攻击加值-5来确认重击，额外的每次造成重击威胁的攻击将使重击确认中的减值下降1（最小为0）。只有当全部攻击投骰都落入哑火范围，铳士才会在致命射击中遭受哑火。她不能在使用雷筒或其他霰弹火器攻击锥形区域时使用此炫技。铳士使用此炫技须消耗1点勇毅值。</p>\n<p>&emsp;&emsp;<em>惊异射击 (Ex): </em>7级时，至少拥有1点勇毅值的铳士可以通过一个标准动作，刻意使一次本应命中的火器攻击失手，令攻击目标在下一轮行动开始前陷入措手不及状态。</p>\n<p>&emsp;&emsp;<em>精确瞄准 (Ex):</em> 7级时，铳士可以通过一个整轮动作，对目标身体的特定位置进行一次火器攻击，并获得下列基于该目标肢体部分的对应效果。若某生物并不拥有某项列出的肢体部分，则无法瞄准此肢体。本炫技无论瞄准何部位均花费1点勇毅值。免疫偷袭的生物同样免疫这些效果。</p>\n<ul>\n<li><em>手臂:</em> 攻击命中时，目标不受任何伤害，但掉落一样你所选择的手持物品，即使该物品被双手持有。带锁铁手套持有的物品不会因此掉落。</li>\n<li><em>头部:</em> 攻击命中时，目标正常受到伤害，并困惑1轮。这是影响心灵效果。</li>\n<li><em>腿部:</em> 攻击命中时，目标正常受到伤害并被击倒。有四条以上腿或免疫绊摔的生物对此效果免疫。</li>\n<li><em>躯干:</em> 瞄准躯干会令攻击的重击范围翻倍。</li>\n<li><em>翅膀:</em> 攻击命中时，目标正常受到伤害且须通过DC为20的飞行技能检定，失败则坠落20尺。</li>\n</ul>\n<p>&emsp;&emsp;<em>伤口出血 (Ex):</em> 11级时，当铳士用火器攻击命中一个活物时，她可以用一个自由动作花费1点勇毅值来令该次攻击造成额外出血伤害。出血伤害值等于铳士的敏捷修正。或者替代性的，铳士可以花费2点勇毅值来造成1点力量、敏捷或体质值的出血伤害（随铳士选择）。免疫偷袭伤害的生物同样免疫任意类型的出血伤害。</p>\n<p>&emsp;&emsp;<em>装填专家 (Ex): </em>11级时，每当铳士在破损的枪械哑火时，她可以花费1点勇毅值来使枪械免于爆炸，但它仍旧保持破损状态。</p>\n<p>&emsp;&emsp;<em>闪电装填 (Ex): </em>11级时，至少拥有1点勇毅值的铳士可以通过迅捷动作为单手或双手火器的单筒进行装填，每轮1次。若她已有“快速装填”专长或使用炼金定装弹（或两者兼备），她可通过自由动作进行上述装填。此外，使用此炫技不会招致藉机攻击。</p>\n<p>&emsp;&emsp;<em>闪避精通 (Ex): </em>15级时，至少拥有1点勇毅值的铳士获得“反射闪避”、“直觉闪避”和“精通直觉闪避”等盗贼职业能力。在计算“精通直觉闪避”能力时，用铳士等级取代盗贼等级。</p>\n<p>&emsp;&emsp;<em>威吓射击 (Ex):</em> 15级时，铳士可以消耗1点勇毅值朝天鸣枪，使30尺半径爆发范围内所有生物如同受到“恐惧术”效果。此效果意志豁免DC为“10+1/2铳士等级+感知修正”。</p>\n<p>&emsp;&emsp;<em>枪手之幸 (Ex):</em> 15级时，铳士可以消耗勇毅值重投豁免或技能检定。重投豁免和技能检定分别消耗1点和2点勇毅值。铳士必须接受重投结果，即便更糟。此炫技消耗的勇毅值点数，无法通过“纯正勇毅”能力、“标志动作”专长或其他类似效果所降低。</p>\n<p>&emsp;&emsp;<em>诈死伪装 (Ex): </em>19级时，若铳士的生命值将要被降至0点以下，她可以消耗所有当前勇毅值（至少1点）使生命值降至1。</p>\n<p>&emsp;&emsp;<em>死亡射击 (Ex):</em> 19级时，每当铳士造成重击，她可以花费1点勇毅值来选择造成正常伤害，且目标需进行强韧豁免检定，DC等于“10+1/2铳士等级+敏捷修正”。豁免检定失败则目标死亡。这是即死效果，使用本炫技不会使铳士通过造成重击来恢复勇毅值。</p>\n<p>&emsp;&emsp;<em>晕眩射击 (Ex):</em> 19级时，每当铳士攻击命中，她可以花费2点勇毅值，迫使对方进行DC为“10+1/2铳士等级+感知修正”的强韧豁免，失败则震慑1轮。免疫重击的生物同样免疫本效果。</p>"
+      "description": "<p>&emsp;&emsp;铳士花费勇毅值来实现炫技。大多数炫技使铳士获得一些短暂的加值或效果，但也有一些提供更长时间的持续性效果。一些炫技在铳士拥有至少1点勇毅值时持续生效。下面列出了铳士的基本炫技。铳士只能使用等于或低于她等级的炫技。除非特别说明，炫技通常都可以连续多次使用，只要花费对应该动作的适当勇毅值即可。</p>\n<hr>\n<p>&emsp;&emsp;<strong>铳士炫技:</strong></p>\n<p>&emsp;&emsp;<em>狙击之眼 (Ex):</em> 1级时，铳士可以在她的火器的第一个射程增量后瞄准接触AC。使用本动作在第一个射程增量后的每个增量花费1点勇毅值。铳士在使用本动作时，仍旧在第一个射程增量后的每个增量受到攻击检定-2减值。</p>\n<p>&emsp;&emsp;<em>铳士闪避 (Ex):</em> 1级时，铳士在规避远程攻击时获得惊艳窍门。当受到远程攻击时，铳士可以通过直觉动作，消耗1点勇毅以移动5尺，针对此次攻击的AC将获得+2加值。此移动并非5尺快步，会引发藉机攻击。铳士也可以不移动而是卧倒，并使针对此次攻击的AC获得+4加值。铳士只能在穿着轻甲或无甲，且负载不超过轻载时使用此炫技。</p>\n<p>&emsp;&emsp;<em>快速清膛 (Ex):</em> 1级时，铳士可以用一个标准动作移除一件她当前正在使用的火器的破损状况，只要该状况是由于枪械哑火而造成。她只能在当前的勇毅值为1点以上时使用此动作。铳士也可以主动消耗1点勇毅值，以移动动作来完成此炫技。</p>\n<p>&emsp;&emsp;<em>把握主动 (Ex):</em> 3级时，只要铳士拥有至少1点勇毅值，她便在先攻检定上获得+2加值。若她同时拥有“即时备战”专长，且她的双手空闲且不受约束、火器也未被隐藏起来，她便可以拔出一把火器作为先攻检定的一部分。</p>\n<p>&emsp;&emsp;<em>枪柄打击 (Ex):</em> 3级时，铳士可以用她的火器的枪托或手柄以标准动作进行一次奇袭打击。此动作令她视为擅长将该火器作为近战武器般使用，并将该火器的增强加值应用于攻击和伤害检定。枪柄打击所造成的伤害为钝击类型，大小由火器的尺寸决定。单手火器造成1d6点伤害（小体型生物为1d4），双手火器造成1d10点伤害（小体型生物为1d8）。无论铳士体型如何，该攻击的重击倍率都是20/x2。若攻击命中，铳士可以通过一个自由动作进行战技攻击检定，以将目标击倒。使用此炫技花费1点勇毅值。</p>\n<p>&emsp;&emsp;<em>万用射击 (Ex):</em> A3级时，只要铳士拥有至少1点勇毅值，就可以做出下列的射击效果。每种射击效果可应用于单次的火器攻击，但铳士必须在攻击前声明使用何种效果。</p>\n<ul>\n<li><em> 破锁:</em> 铳士可以用攻击检定对抗一把锁，该锁须在她的火器的第一个射程增量内。小型锁通常拥有7点AC，更大的锁则拥有更高的AC。锁依其品质在对抗此攻击的AC上获得加值。简易锁拥有+10加值，中级锁拥有+15加值，优质锁为+20，卓越锁则为+30。秘法锁在对抗此攻击的AC上获得+10加值。若命中，则锁被破坏，而目标可以如同未上锁一般被打开。若未命中，则锁被破坏，但目标被卡住，而仍旧视为被锁住。该死锁可以继续使用本动作、解除装置技能、或击破DC来解锁，但对应的DC或AC增加10。钥匙、密码或类似的机械方法对死锁不再有效，但敲击术仍旧能够绕过锁具起效，而秘法锁的创造者也仍旧可以通过该法术的防护开锁。</li>\n<li><em>射飞无主物品: </em>铳士可以用攻击检定对抗一个超小型或更小的无主物品，该物品须在她的火器的第一个射程增量中。一个超小型物品拥有5点AC，微型为7点，超微型为11点。若命中，铳士的该次攻击并不伤害到该物品，但可以由射击的起点将其向远处移动15尺。若未命中，则铳士正常伤害该物品。</li>\n<li><em>止血: </em>铳士可以进行一次火器攻击，并将火热的枪管压在一个邻近生物身上以便为一个流血伤口。作为造成伤害的替代，该次射击会结束受影响生物身上的一个流血效果。铳士在使用此动作时无需进行攻击检定；她可以向空中射击，但该次射击仍需正常花费弹药。</li>\n</ul>\n<p>&emsp;&emsp;<em>致命射击 (Ex):</em> 7级时，铳士可以通过一个整轮动作，对单体目标进行一次倾注全力的精确打击。她用火器攻击进行一次攻击，但进行由基本攻击加值决定的多次投骰，如同正常整轮攻击般从高到低排列。若其中任一次攻击投骰成功，则视为射击命中；每一次额外的成功攻击追加基于火器伤害骰的伤害。举例而言，7级铳士持滑膛枪进行两次攻击且命中，在计算其他伤害前将以2d12取代1d12作为基本伤害骰。基于精准攻击的伤害和基于武器特性的额外伤害（如炽焰）可以加至伤害，但不会因多次成功投骰而叠加。若其中一次攻击进入重击威胁，铳士采用最高基本攻击加值-5来确认重击，额外的每次造成重击威胁的攻击将使重击确认中的减值下降1（最小为0）。只有当全部攻击投骰都落入哑火范围，铳士才会在致命射击中遭受哑火。她不能在使用雷筒或其他霰弹火器攻击锥形区域时使用此炫技。铳士使用此炫技须消耗1点勇毅值。</p>\n<p>&emsp;&emsp;<em>惊异射击 (Ex): </em>7级时，至少拥有1点勇毅值的铳士可以通过一个标准动作，刻意使一次本应命中的火器攻击失手，令攻击目标在下一轮行动开始前陷入措手不及状态。</p>\n<p>&emsp;&emsp;<em>精确瞄准 (Ex):</em> 7级时，铳士可以通过一个整轮动作，对目标身体的特定位置进行一次火器攻击，并获得下列基于该目标肢体部分的对应效果。若某生物并不拥有某项列出的肢体部分，则无法瞄准此肢体。本炫技无论瞄准何部位均花费1点勇毅值。免疫偷袭的生物同样免疫这些效果。</p>\n<ul>\n<li><em>手臂:</em> 攻击命中时，目标不受任何伤害，但掉落一样你所选择的手持物品，即使该物品被双手持有。带锁铁手套持有的物品不会因此掉落。</li>\n<li><em>头部:</em> 攻击命中时，目标正常受到伤害，并困惑1轮。这是影响心灵效果。</li>\n<li><em>腿部:</em> 攻击命中时，目标正常受到伤害并被击倒。有四条以上腿或免疫摔绊的生物对此效果免疫。</li>\n<li><em>躯干:</em> 瞄准躯干会令攻击的重击范围翻倍。</li>\n<li><em>翅膀:</em> 攻击命中时，目标正常受到伤害且须通过DC为20的飞行技能检定，失败则坠落20尺。</li>\n</ul>\n<p>&emsp;&emsp;<em>伤口出血 (Ex):</em> 11级时，当铳士用火器攻击命中一个活物时，她可以用一个自由动作花费1点勇毅值来令该次攻击造成额外出血伤害。出血伤害值等于铳士的敏捷修正。或者替代性的，铳士可以花费2点勇毅值来造成1点力量、敏捷或体质值的出血伤害（随铳士选择）。免疫偷袭伤害的生物同样免疫任意类型的出血伤害。</p>\n<p>&emsp;&emsp;<em>装填专家 (Ex): </em>11级时，每当铳士在破损的枪械哑火时，她可以花费1点勇毅值来使枪械免于爆炸，但它仍旧保持破损状态。</p>\n<p>&emsp;&emsp;<em>闪电装填 (Ex): </em>11级时，至少拥有1点勇毅值的铳士可以通过迅捷动作为单手或双手火器的单筒进行装填，每轮1次。若她已有“快速装填”专长或使用炼金定装弹（或两者兼备），她可通过自由动作进行上述装填。此外，使用此炫技不会招致藉机攻击。</p>\n<p>&emsp;&emsp;<em>闪避精通 (Ex): </em>15级时，至少拥有1点勇毅值的铳士获得“反射闪避”、“直觉闪避”和“精通直觉闪避”等盗贼职业能力。在计算“精通直觉闪避”能力时，用铳士等级取代盗贼等级。</p>\n<p>&emsp;&emsp;<em>威吓射击 (Ex):</em> 15级时，铳士可以消耗1点勇毅值朝天鸣枪，使30尺半径爆发范围内所有生物如同受到“恐惧术”效果。此效果意志豁免DC为“10+1/2铳士等级+感知修正”。</p>\n<p>&emsp;&emsp;<em>枪手之幸 (Ex):</em> 15级时，铳士可以消耗勇毅值重投豁免或技能检定。重投豁免和技能检定分别消耗1点和2点勇毅值。铳士必须接受重投结果，即便更糟。此炫技消耗的勇毅值点数，无法通过“纯正勇毅”能力、“标志动作”专长或其他类似效果所降低。</p>\n<p>&emsp;&emsp;<em>诈死伪装 (Ex): </em>19级时，若铳士的生命值将要被降至0点以下，她可以消耗所有当前勇毅值（至少1点）使生命值降至1。</p>\n<p>&emsp;&emsp;<em>死亡射击 (Ex):</em> 19级时，每当铳士造成重击，她可以花费1点勇毅值来选择造成正常伤害，且目标需进行强韧豁免检定，DC等于“10+1/2铳士等级+敏捷修正”。豁免检定失败则目标死亡。这是即死效果，使用本炫技不会使铳士通过造成重击来恢复勇毅值。</p>\n<p>&emsp;&emsp;<em>晕眩射击 (Ex):</em> 19级时，每当铳士攻击命中，她可以花费2点勇毅值，迫使对方进行DC为“10+1/2铳士等级+感知修正”的强韧豁免，失败则震慑1轮。免疫重击的生物同样免疫本效果。</p>"
     },
     "Deep Cover": {
       "name": "Deep Cover（Deep Cover）",
@@ -2069,7 +2069,7 @@
     },
     "Earth Walk": {
       "name": "土行（Earth Walk）",
-      "description": "<p>&emsp;&emsp;<strong>元素：</strong>土；<strong>类别：</strong>通用（Su）；<strong>等级：</strong>1；<strong>超载：</strong>－</p><p>&emsp;&emsp;由于你自身和土元素进行了较低程度的融合，所以当你站在土制表面（earthen surface）上时，能够忽略由于岩石（rocks）、土（earth）或泥（mud）产生的困难地形（difficult terrain），而且当你身处此类表面上时，用于对抗让你发生移动或摔绊的CMD、以及用于保持平衡的特技动作检定可以获得元素满溢（Elemental Overflow）提供的加值。</p>"
+      "description": "<p>&emsp;&emsp;<strong>元素：</strong>土；<strong>类别：</strong>通用（Su）；<strong>等级：</strong>1；<strong>超载：</strong>－</p><p>&emsp;&emsp;由于你自身和土元素进行了较低程度的融合，所以当你站在土制表面（earthen surface）上时，能够忽略由于岩石（rocks）、土（earth）或泥（mud）产生的困难地形（difficult terrain），而且当你身处此类表面上时，用于对抗让你发生移动或摔绊的CMD、以及用于保持平衡的特技检定可以获得元素满溢（Elemental Overflow）提供的加值。</p>"
     },
     "Earthmeld": {
       "name": "Earthmeld（Earthmeld）",
@@ -2212,8 +2212,8 @@
       "description": "<p>&emsp;&emsp;3级起，无论操念使是否进行超载，身体都会充满她所选择的能量，这会让她发出盈盈的火光、毛孔渗出水珠或者经受其他与元素相应的效果。此外，她会在使用念袭的攻击检定中获得加值，数值与她当前已经具有的超载总点数相同，最高为她所具有的每3个操念使等级+1点。操念使还会在使用念袭造成的伤害检定中获得加值，数值为攻击检定获得的加值的两倍。操念使可以通过进行1整轮的专注来抑制元素满溢带来的视觉效果，但是这么做会也压制该能力带来的所有其他的好处。在操念使下一次使用任何原力时，视觉效果和好处都会立刻恢复。</p><p>&emsp;&emsp;随着操念使的体内汇聚了越来越多的元素，她会开始获得更多强大的优势。在6级起，每当操念使具有至少3点超载点数时，她便会在两项自己选择的体能属性（physical ability scores）上获得+2体型加值。她还会有一定的概率免受重击或偷袭的效果，具体概率为5% x 她当前所具有的超载点数。11级起，每当操念使具有至少5点超载点数，她在一项体能属性上获得的加值会提升至+4体型加值，其他两项体能属性则会获得+2体型加值。16级起，每当操念使具有至少7点超载点数时，这些加值提升为对一项体能属性提供+6体型加值，对第二项体能属性提供+4体型加值，对最后一项体能属性提供+2体型加值，具体哪一项属性获得哪个加值由操念使自行选择。</p>"
     },
     "Elemental Resistance (Acid)": {
-      "name": "元素抗力(强酸)（Elemental Resistance (Acid)）",
-      "description": "<p>&emsp;&emsp;3级开始，你获得10点强酸抗力。9级时提升为20点。</p>"
+      "name": "元素抗力(酸蚀)（Elemental Resistance (Acid)）",
+      "description": "<p>&emsp;&emsp;3级开始，你获得10点酸蚀抗力。9级时提升为20点。</p>"
     },
     "Elemental Resistance (Cold)": {
       "name": "元素抗力(寒冷)（Elemental Resistance (Cold)）",
@@ -2777,7 +2777,7 @@
     },
     "Fist of the Avenger": {
       "name": "复仇之拳（Fist of the Avenger）",
-      "description": "<p>&emsp;&emsp;如果他尚未获得精通徒手击打专长的话，那么侠客获得精通徒手击打作为奖励专长。除此之外，每当侠客使用自己的拳头或铁手套发动攻击并命中，那么他可以将自己的侠客等级的一半（最少+1，最高+5）加到这次攻击的伤害上。只有选择复仇骑士之道的侠客才可以选择本天赋。</p>"
+      "description": "<p>&emsp;&emsp;如果他尚未获得精通徒手打击专长的话，那么侠客获得精通徒手打击作为奖励专长。除此之外，每当侠客使用自己的拳头或铁手套发动攻击并命中，那么他可以将自己的侠客等级的一半（最少+1，最高+5）加到这次攻击的伤害上。只有选择复仇骑士之道的侠客才可以选择本天赋。</p>"
     },
     "Flame Control": {
       "name": "Flame Control（Flame Control）",
@@ -3577,7 +3577,7 @@
     },
     "Hierophant Spirit": {
       "name": "大祭司英灵（Hierophant Spirit）",
-      "description": "<p>&emsp;&emsp;大祭司英灵是神使的典范，以自己的虔诚引导纯粹的信仰之力。</p><p>&emsp;&emsp;<strong>英灵同调：</strong>每当你降灵大祭司时，你在感知检定，基于感知的技能检定和意志豁免检定上获得加值。</p><p>&emsp;&emsp;<strong>降灵奖励：</strong>你的治疗法术和能力对每一个目标增加2点治疗。这个能力对魔法物品以及快速医疗和类似效果无效。</p><p>&emsp;&emsp;<strong>偏好降灵区域：</strong>教会，圣堂，神圣森林，神社。</p><p>&emsp;&emsp;<strong>共鸣惩罚：</strong>你的英灵希望敌人有机会忏悔自己曾经犯下的过错（或是等着一个活祭品上桌），因此你必须在攻击时选择造成非致命伤害。除此之外，你在对其他的信仰人群进行的魅力检定和基于魅力的技能检定上承受相当于你的英灵同调加值数量的减值 -除了尝试说服他人改宗以外。</p><p>&emsp;&emsp;<strong>禁忌：</strong>选择下列禁忌之一：</p><p>&emsp;&emsp;-你极为尊崇自然的美好和天然的秩序，以至于弃绝金属护甲与盾牌。</p><p>&emsp;&emsp;-你必须遵守英灵信仰的圣武士或反圣武士准则。</p><p>&emsp;&emsp;-你不可说谎（包括唬骗，模棱两可似是而非，或是有意欺诈），如果一个人询问你应该你知道答案的问题，你必须原封不动的告知他。</p>"
+      "description": "<p>&emsp;&emsp;大祭司英灵是神使的典范，以自己的虔诚引导纯粹的信仰之力。</p><p>&emsp;&emsp;<strong>英灵同调：</strong>每当你降灵大祭司时，你在感知检定，基于感知的技能检定和意志豁免检定上获得加值。</p><p>&emsp;&emsp;<strong>降灵奖励：</strong>你的治疗法术和能力对每一个目标增加2点治疗。这个能力对魔法物品以及快速治疗和类似效果无效。</p><p>&emsp;&emsp;<strong>偏好降灵区域：</strong>教会，圣堂，神圣森林，神社。</p><p>&emsp;&emsp;<strong>共鸣惩罚：</strong>你的英灵希望敌人有机会忏悔自己曾经犯下的过错（或是等着一个活祭品上桌），因此你必须在攻击时选择造成非致命伤害。除此之外，你在对其他的信仰人群进行的魅力检定和基于魅力的技能检定上承受相当于你的英灵同调加值数量的减值 -除了尝试说服他人改宗以外。</p><p>&emsp;&emsp;<strong>禁忌：</strong>选择下列禁忌之一：</p><p>&emsp;&emsp;-你极为尊崇自然的美好和天然的秩序，以至于弃绝金属护甲与盾牌。</p><p>&emsp;&emsp;-你必须遵守英灵信仰的圣武士或反圣武士准则。</p><p>&emsp;&emsp;-你不可说谎（包括唬骗，模棱两可似是而非，或是有意欺诈），如果一个人询问你应该你知道答案的问题，你必须原封不动的告知他。</p>"
     },
     "High Jumper": {
       "name": "High Jumper（High Jumper）",
@@ -3753,7 +3753,7 @@
     },
     "Incorporeal Bonded Manifestation": {
       "name": "虚灵态显形（Incorporeal Bonded Manifestation）",
-      "description": "<p>&emsp;&emsp;在3级时，以一个迅捷动作，唤魂师可以将自己魅影的一部分意识与灵界的物质编织起来，暂时以自己的身体为媒介显形魅影的一部分。在此时，魅影的完全状态仍然只存在于唤魂师的意念中。当唤魂师使用本能力时，她的魅影无法离开唤魂师的意念，也不能以任何方法继续显形。</p><p>&emsp;&emsp;在附身显形的状态下，魅影本身无法受到伤害，不能被驱逐或放逐。唤魂师每天可以发动附身显形的时间为3+她的唤魂师等级轮，这些轮数无需持续。唤魂师可以以一个自由动作解除附身显形，不过即使她在同一轮内进行然后解除附身显形，这仍然计为1轮使用。</p><p>&emsp;&emsp;当唤魂师使用附身显形能力时，她还是需要选择以灵质态或是虚灵态显形。当她选择了合适的形态以后，她可以通过附身显形和自己的唤魂师等级获得以下的好处。</p><p>&emsp;&emsp;如果唤魂师在使用附身显形时使用虚灵态显形，一层如同迷雾般的魂涌会缠绕在她的身上，使她在对抗远程攻击时获得掩蔽（Concealment）的好处。在8级时，唤魂师可以利用虚灵化的魅影肢体更有效的打击虚体生物，所有她的近战攻击与徒手击打将视为拥有幽冥武器特殊品质。在13级时，以一个标准动作，唤魂师可以选择隐身，如同法术隐形术的效果，持续到她的下一轮开始时为止；在18级时，当他发动附身显形且选择虚灵态显形时，唤魂师获得虚体亚种和30尺飞行速度（机动性良好）。</p>"
+      "description": "<p>&emsp;&emsp;在3级时，以一个迅捷动作，唤魂师可以将自己魅影的一部分意识与灵界的物质编织起来，暂时以自己的身体为媒介显形魅影的一部分。在此时，魅影的完全状态仍然只存在于唤魂师的意念中。当唤魂师使用本能力时，她的魅影无法离开唤魂师的意念，也不能以任何方法继续显形。</p><p>&emsp;&emsp;在附身显形的状态下，魅影本身无法受到伤害，不能被驱逐或放逐。唤魂师每天可以发动附身显形的时间为3+她的唤魂师等级轮，这些轮数无需持续。唤魂师可以以一个自由动作解除附身显形，不过即使她在同一轮内进行然后解除附身显形，这仍然计为1轮使用。</p><p>&emsp;&emsp;当唤魂师使用附身显形能力时，她还是需要选择以灵质态或是虚灵态显形。当她选择了合适的形态以后，她可以通过附身显形和自己的唤魂师等级获得以下的好处。</p><p>&emsp;&emsp;如果唤魂师在使用附身显形时使用虚灵态显形，一层如同迷雾般的魂涌会缠绕在她的身上，使她在对抗远程攻击时获得掩蔽（Concealment）的好处。在8级时，唤魂师可以利用虚灵化的魅影肢体更有效的打击虚体生物，所有她的近战攻击与徒手打击将视为拥有幽冥武器特殊品质。在13级时，以一个标准动作，唤魂师可以选择隐身，如同法术隐形术的效果，持续到她的下一轮开始时为止；在18级时，当他发动附身显形且选择虚灵态显形时，唤魂师获得虚体亚种和30尺飞行速度（机动性良好）。</p>"
     },
     "Incorporeal Flight": {
       "name": "幽魂飞行（Incorporeal Flight）",
@@ -3785,7 +3785,7 @@
     },
     "Infernal Bloodrager Bloodline": {
       "name": "Infernal Bloodrager Bloodline（Infernal Bloodrager Bloodline）",
-      "description": "<p>&emsp;&emsp;<em>The Pit lives in your blood. Maybe one of your ancestors was seduced by the powers of Hell or made a deal with a devil. Either way, its corruption seethes within your lineage.</em><br><br>奖励专长：</p>\n<ul>\n<li>@Compendium[pf1.feats.pmAO1Sni8xx71pLF]{盲斗}</li>\n<li>@Compendium[pf1.feats.h9nHYLxXvIXBTmup]{战斗反射}</li>\n<li>@Compendium[pf1.feats.SUACufUXl12sUvnQ]{诈欺师}</li>\n<li>@Compendium[pf1.feats.711B9WNFgpdDKKf2]{精通卸武}</li>\n<li>@Compendium[pf1.feats.lpXdFoT6OqS5vi2X]{精通破武}</li>\n<li>@Compendium[pf1.feats.O0jbkTJcIji9BNiF]{威逼}</li>\n<li>@Compendium[pf1.feats.iAbIGhm7T2OK9Brt]{钢铁意志}</li>\n</ul>\n<p>&emsp;&emsp;奖励法术:&nbsp;</p>\n<ul>\n<li>@Compendium[pf1.spells.71g6nmvy8qnodwyz]{防护善良} (7th),&nbsp;</li>\n<li>@Compendium[pf1.spells.q4ixxjb4v281g2xv]{灼热射线} (10th),</li>\n<li>@Compendium[pf1.spells.zqj5qzyl46af27v0]{暗示术} (13th),&nbsp;</li>\n<li>@Compendium[pf1.spells.nfm6i9z9r3n2fku7]{火焰护盾} (16th)</li>\n</ul>"
+      "description": "<p>&emsp;&emsp;<em>The Pit lives in your blood. Maybe one of your ancestors was seduced by the powers of Hell or made a deal with a devil. Either way, its corruption seethes within your lineage.</em><br><br>奖励专长：</p>\n<ul>\n<li>@Compendium[pf1.feats.pmAO1Sni8xx71pLF]{盲斗}</li>\n<li>@Compendium[pf1.feats.h9nHYLxXvIXBTmup]{战斗反射}</li>\n<li>@Compendium[pf1.feats.SUACufUXl12sUvnQ]{诈欺师}</li>\n<li>@Compendium[pf1.feats.711B9WNFgpdDKKf2]{精通卸武}</li>\n<li>@Compendium[pf1.feats.lpXdFoT6OqS5vi2X]{精通击破}</li>\n<li>@Compendium[pf1.feats.O0jbkTJcIji9BNiF]{威逼}</li>\n<li>@Compendium[pf1.feats.iAbIGhm7T2OK9Brt]{钢铁意志}</li>\n</ul>\n<p>&emsp;&emsp;奖励法术:&nbsp;</p>\n<ul>\n<li>@Compendium[pf1.spells.71g6nmvy8qnodwyz]{防护善良} (7th),&nbsp;</li>\n<li>@Compendium[pf1.spells.q4ixxjb4v281g2xv]{灼热射线} (10th),</li>\n<li>@Compendium[pf1.spells.zqj5qzyl46af27v0]{暗示术} (13th),&nbsp;</li>\n<li>@Compendium[pf1.spells.nfm6i9z9r3n2fku7]{火焰护盾} (16th)</li>\n</ul>"
     },
     "Infested Curse": {
       "name": "Infested Curse（Infested Curse）",
@@ -4285,7 +4285,7 @@
     },
     "Lizard Aspect": {
       "name": "蜥蜴拟态（Lizard Aspect）",
-      "description": "<p>&emsp;&emsp;蜥蜴拟态是迅捷且优雅运动的代名词，给予了能以惊人灵活性与平衡性来突进急转的能力。</p><p>&emsp;&emsp;<strong>次级形态：</strong>你的特技检定获得+4表现加值。8级时，这个加值提升至+6。15级时，这个加值提升至+8。</p><p>&emsp;&emsp;<strong>专攻形态：</strong>你变身为一只灵敏的色彩斑斓的巨大蜥蜴（如同怪物图鉴 pg. 194 巨伞蜥，但有如下改动）。当处于该形态时，你获得40尺基本移动速度、昏暗视觉、灵敏嗅觉（30尺）、附带攫抓能力的1d8伤害的啮咬攻击（主要天生武器）和附带绊摔的1d6伤害的尾扫攻击（次要天生武器）。8级时，你的基本移动速度提升至60尺和获得30尺攀爬速度。15级时，你获得啮咬和尾扫的精通天生武器攻击专长，并且你的尾扫攻击的触及提升至10尺。</p>"
+      "description": "<p>&emsp;&emsp;蜥蜴拟态是迅捷且优雅运动的代名词，给予了能以惊人灵活性与平衡性来突进急转的能力。</p><p>&emsp;&emsp;<strong>次级形态：</strong>你的特技检定获得+4表现加值。8级时，这个加值提升至+6。15级时，这个加值提升至+8。</p><p>&emsp;&emsp;<strong>专攻形态：</strong>你变身为一只灵敏的色彩斑斓的巨大蜥蜴（如同怪物图鉴 pg. 194 巨伞蜥，但有如下改动）。当处于该形态时，你获得40尺基本移动速度、昏暗视觉、灵敏嗅觉（30尺）、附带攫抓能力的1d8伤害的啮咬攻击（主要天生武器）和附带摔绊的1d6伤害的尾扫攻击（次要天生武器）。8级时，你的基本移动速度提升至60尺和获得30尺攀爬速度。15级时，你获得啮咬和尾扫的精通天生武器攻击专长，并且你的尾扫攻击的触及提升至10尺。</p>"
     },
     "Location Channel": {
       "name": "呼唤地缚灵（Location Channel）",
@@ -4429,7 +4429,7 @@
     },
     "Maneuver Mastery (ORA)": {
       "name": "战技熟稔(先知)（Maneuver Mastery (ORA)）",
-      "description": "<p>&emsp;&emsp;选择一种类型的战技。当使用你选择的战技时，将你的先知等级当做你的基本攻击加值计算战技加值。7级你获得精通专长（例如“精通绊摔”）以给你的战术提供加值。11级你获得高级专长（例如“高级绊摔”）给你的战术进一步提供加值。你不需要达到这类专长的先决条件。</p>"
+      "description": "<p>&emsp;&emsp;选择一种类型的战技。当使用你选择的战技时，将你的先知等级当做你的基本攻击加值计算战技加值。7级你获得精通专长（例如“精通摔绊”）以给你的战术提供加值。11级你获得高级专长（例如“高级摔绊”）给你的战术进一步提供加值。你不需要达到这类专长的先决条件。</p>"
     },
     "Maneuvering Dodge": {
       "name": "Maneuvering Dodge（Maneuvering Dodge）",
@@ -4481,7 +4481,7 @@
     },
     "Martial Discipline": {
       "name": "Martial Discipline（Martial Discipline）",
-      "description": "<p>&emsp;&emsp;Through meditation and study of monastic forms of combat, you have learned a lethal form of unarmed combat. You gain @Compendium[pf1.feats.2aTFNMs3pW6nUBlr]{精通徒手击打} as a bonus feat, even if you do not meet the prerequisites. You gain the unarmed strike damage of a monk of your oracle level. If you also have monk levels, those levels stack for the purpose of determining your unarmed strike damage.</p>"
+      "description": "<p>&emsp;&emsp;Through meditation and study of monastic forms of combat, you have learned a lethal form of unarmed combat. You gain @Compendium[pf1.feats.2aTFNMs3pW6nUBlr]{精通徒手打击} as a bonus feat, even if you do not meet the prerequisites. You gain the unarmed strike damage of a monk of your oracle level. If you also have monk levels, those levels stack for the purpose of determining your unarmed strike damage.</p>"
     },
     "Martyr's Resistances": {
       "name": "Martyr's Resistances（Martyr's Resistances）",
@@ -4533,7 +4533,7 @@
     },
     "Medusa Bloodrager Bloodline": {
       "name": "Medusa Bloodrager Bloodline（Medusa Bloodrager Bloodline）",
-      "description": "<p>&emsp;&emsp;<em>No magical creature is more iconic in Iblydan lore than the&nbsp;<a href=\"https://www.aonprd.com/MonsterDisplay.aspx?ItemName=Medusa\">medusa</a>. Perhaps your lineage traces back to a medusa, or an ancestor survived a medusa閳ユ獨 petrifying gaze and was forever changed by the experience. However the medusa閳ユ獨 influence entered your bloodline, when you bloodrage, you gain fearsome and ancient powers.</em><br><br>奖励专长：</p>\n<ul>\n<li>@Compendium[pf1.feats.Q1cY8r0Pvb66pMG0]{警觉}</li>\n<li>@Compendium[pf1.feats.pmAO1Sni8xx71pLF]{盲斗}</li>\n<li>@Compendium[pf1.feats.fVRnBIHR4Jq6btvm]{强韧加强}</li>\n<li>@Compendium[pf1.feats.Uuiu3p982omhMEPj]{精通先攻}</li>\n<li>@Compendium[pf1.feats.2aTFNMs3pW6nUBlr]{精通徒手击打}</li>\n<li>@Compendium[pf1.feats.O0jbkTJcIji9BNiF]{威逼}</li>\n<li>@Compendium[pf1.feats.8snLqsJN4LLL00Nq]{健壮}</li>\n</ul>\n<p>&emsp;&emsp;奖励法术:&nbsp;</p>\n<ul>\n<li>@Compendium[pf1.spells.9tww9fc9049h6iqc]{惊恐术} (7th),&nbsp;</li>\n<li>@Compendium[pf1.spells.tkjnm3lw7ni82tag]{抵抗能量伤害} (10th),&nbsp;</li>\n<li>@Compendium[pf1.spells.78kwl5t99j9e8tzh]{人类定身术} (13th),&nbsp;</li>\n<li>@Compendium[pf1.spells.knyako6zopc1chrv]{石肤术} (16th)</li>\n</ul>"
+      "description": "<p>&emsp;&emsp;<em>No magical creature is more iconic in Iblydan lore than the&nbsp;<a href=\"https://www.aonprd.com/MonsterDisplay.aspx?ItemName=Medusa\">medusa</a>. Perhaps your lineage traces back to a medusa, or an ancestor survived a medusa閳ユ獨 petrifying gaze and was forever changed by the experience. However the medusa閳ユ獨 influence entered your bloodline, when you bloodrage, you gain fearsome and ancient powers.</em><br><br>奖励专长：</p>\n<ul>\n<li>@Compendium[pf1.feats.Q1cY8r0Pvb66pMG0]{警觉}</li>\n<li>@Compendium[pf1.feats.pmAO1Sni8xx71pLF]{盲斗}</li>\n<li>@Compendium[pf1.feats.fVRnBIHR4Jq6btvm]{强韧加强}</li>\n<li>@Compendium[pf1.feats.Uuiu3p982omhMEPj]{精通先攻}</li>\n<li>@Compendium[pf1.feats.2aTFNMs3pW6nUBlr]{精通徒手打击}</li>\n<li>@Compendium[pf1.feats.O0jbkTJcIji9BNiF]{威逼}</li>\n<li>@Compendium[pf1.feats.8snLqsJN4LLL00Nq]{健壮}</li>\n</ul>\n<p>&emsp;&emsp;奖励法术:&nbsp;</p>\n<ul>\n<li>@Compendium[pf1.spells.9tww9fc9049h6iqc]{惊恐术} (7th),&nbsp;</li>\n<li>@Compendium[pf1.spells.tkjnm3lw7ni82tag]{抵抗能量伤害} (10th),&nbsp;</li>\n<li>@Compendium[pf1.spells.78kwl5t99j9e8tzh]{人类定身术} (13th),&nbsp;</li>\n<li>@Compendium[pf1.spells.knyako6zopc1chrv]{石肤术} (16th)</li>\n</ul>"
     },
     "Meek Facade": {
       "name": "怯弱表象（Meek Facade）",
@@ -4637,7 +4637,7 @@
     },
     "Mighty Bash": {
       "name": "Mighty Bash（Mighty Bash）",
-      "description": "<p>&emsp;&emsp;At 2nd level, the cavalier does not provoke attacks of opportunity when she attacks foes while unarmed so long as she is dealing nonlethal damage. In addition, the cavalier閳ユ獨 unarmed strikes deal more nonlethal damage than usual; she is treated as having a number of&nbsp;<a href=\"https://aonprd.com/ClassDisplay.aspx?ItemName=Monk\">monk levels</a>&nbsp;equal to her cavalier level for the purpose of determining how much nonlethal damage her unarmed strikes deal. For example, a 12th-level cavalier of the order of the hammer would deal 2d6 points of nonlethal damage with her unarmed strike. The cavalier must still select the @Compendium[pf1.feats.2aTFNMs3pW6nUBlr]{精通徒手击打}&nbsp;feat if she wants to deal lethal damage with her unarmed strike, and lethal damage dealt with her unarmed strike is not increased by this ability.</p>"
+      "description": "<p>&emsp;&emsp;At 2nd level, the cavalier does not provoke attacks of opportunity when she attacks foes while unarmed so long as she is dealing nonlethal damage. In addition, the cavalier閳ユ獨 unarmed strikes deal more nonlethal damage than usual; she is treated as having a number of&nbsp;<a href=\"https://aonprd.com/ClassDisplay.aspx?ItemName=Monk\">monk levels</a>&nbsp;equal to her cavalier level for the purpose of determining how much nonlethal damage her unarmed strikes deal. For example, a 12th-level cavalier of the order of the hammer would deal 2d6 points of nonlethal damage with her unarmed strike. The cavalier must still select the @Compendium[pf1.feats.2aTFNMs3pW6nUBlr]{精通徒手打击}&nbsp;feat if she wants to deal lethal damage with her unarmed strike, and lethal damage dealt with her unarmed strike is not increased by this ability.</p>"
     },
     "Mimic Metamagic": {
       "name": "模拟超魔（Mimic Metamagic）",
@@ -5416,7 +5416,7 @@
       "description": "<p>&emsp;&emsp;An investigator has a deep understanding and appreciation for poisons. At 2nd level, he cannot accidentally&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/afflictions/poison\">poison</a>&nbsp;himself when applying&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/afflictions/poison\">poison</a>&nbsp;to a weapon. If the investigator spends 1 minute physically examining the&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/afflictions/poison\">poison</a>, he can attempt a&nbsp;@JournalEntry[dfjwbMEdt062TJtE]{知识}：自然 check to identify any natural&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/afflictions/poison\">poison</a>&nbsp;or&nbsp;@JournalEntry[dfjwbMEdt062TJtE]{知识}：神秘 check to identify any magical&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/afflictions/poison\">poison</a>&nbsp;(DC = the&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/afflictions/poison\">poison閳ユ獨</a>&nbsp;saving throw DC). Lastly, once a&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/afflictions/poison\">poison</a>&nbsp;is identified, he can spend 1 minute and attempt a&nbsp;工艺：&nbsp;(alchemy) check (DC = the&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/afflictions/poison\">poison閳ユ獨</a>&nbsp;saving throw DC) to neutralize 1 dose of the&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/afflictions/poison\">poison</a>. Success renders the dose harmless. The investigator has no chance of accidentally poisoning himself when examining or attempting to neutralize a&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/afflictions/poison\">poison</a>.</p>"
     },
     "Poison Resistance (INV)": {
-      "name": "毒素抗力(调查员)（Poison Resistance (INV)）",
+      "name": "毒性抗力(调查员)（Poison Resistance (INV)）",
       "description": "<p>&emsp;&emsp;在2级时，调查员在所有对抗毒素的豁免检定上获得+2加值。在5级时，这个加值上升为+4，在8级时上升为+6。在11级时，调查员将免疫毒素。</p>"
     },
     "Poison Use (ALC)": {
@@ -5493,7 +5493,7 @@
     },
     "Powerful Smash": {
       "name": "Powerful Smash（Powerful Smash）",
-      "description": "<p>&emsp;&emsp;As a standard action, the shaman can attack an enemy with an unarmed strike as if she had the @Compendium[pf1.feats.2aTFNMs3pW6nUBlr]{精通徒手击打} feat. If the shaman hits a creature in this way, that creature must succeed at a Fortitude save (DC = 10 + half the shaman閳ユ獨 class level + her Charisma modifier) or be dazed for 1 round.</p>\n<p>&emsp;&emsp;The shaman can use this ability a number of times per day equal to 3 + her Charisma modifier.</p>"
+      "description": "<p>&emsp;&emsp;As a standard action, the shaman can attack an enemy with an unarmed strike as if she had the @Compendium[pf1.feats.2aTFNMs3pW6nUBlr]{精通徒手打击} feat. If the shaman hits a creature in this way, that creature must succeed at a Fortitude save (DC = 10 + half the shaman閳ユ獨 class level + her Charisma modifier) or be dazed for 1 round.</p>\n<p>&emsp;&emsp;The shaman can use this ability a number of times per day equal to 3 + her Charisma modifier.</p>"
     },
     "Pranked Curse": {
       "name": "Pranked Curse（Pranked Curse）",
@@ -6457,7 +6457,7 @@
     },
     "Shapechanger Bloodrager Bloodline": {
       "name": "Shapechanger Bloodrager Bloodline（Shapechanger Bloodrager Bloodline）",
-      "description": "<p>&emsp;&emsp;<em>The blood of doppelgangers, faceless stalkers, lycanthropes, or other shapechangers courses through your veins.</em><br><br><strong>奖励专长：</strong></p>\n<ul>\n<li>@Compendium[pf1.feats.JreaiTHdyWFNj3Tb]{闪避}</li>\n<li>@Compendium[pf1.feats.BkKYCzEGNTzZRiTz]{快速移动}</li>\n<li>@Compendium[pf1.feats.Uuiu3p982omhMEPj]{精通先攻}</li>\n<li>@Compendium[pf1.feats.2aTFNMs3pW6nUBlr]{精通徒手击打}</li>\n<li>@Compendium[pf1.feats.0bZf3SDkvVOe2ujH]{闪电反射}</li>\n<li>@Compendium[pf1.feats.FUW5mIXHNBBIQ1Sq]{猛力攻击}</li>\n<li>@Compendium[pf1.feats.n250dFlbykAIAg5Z]{武器专攻}</li>\n</ul>\n<p>&emsp;&emsp;<strong>奖励法术:&nbsp;</strong></p>\n<ul>\n<li>@Compendium[pf1.spells.jnlr9cuepka1l26e]{变巨术} (7th),&nbsp;</li>\n<li>@Compendium[pf1.spells.kouqz0pm1xl8xilm]{变身术} (10th),&nbsp;</li>\n<li>@Compendium[pf1.spells.7d6sv5ecvi7kho3m]{飞行术} (13th),&nbsp;</li>\n<li>@Compendium[pf1.spells.knyako6zopc1chrv]{石肤术} (16th)</li>\n</ul>"
+      "description": "<p>&emsp;&emsp;<em>The blood of doppelgangers, faceless stalkers, lycanthropes, or other shapechangers courses through your veins.</em><br><br><strong>奖励专长：</strong></p>\n<ul>\n<li>@Compendium[pf1.feats.JreaiTHdyWFNj3Tb]{闪避}</li>\n<li>@Compendium[pf1.feats.BkKYCzEGNTzZRiTz]{快速移动}</li>\n<li>@Compendium[pf1.feats.Uuiu3p982omhMEPj]{精通先攻}</li>\n<li>@Compendium[pf1.feats.2aTFNMs3pW6nUBlr]{精通徒手打击}</li>\n<li>@Compendium[pf1.feats.0bZf3SDkvVOe2ujH]{闪电反射}</li>\n<li>@Compendium[pf1.feats.FUW5mIXHNBBIQ1Sq]{猛力攻击}</li>\n<li>@Compendium[pf1.feats.n250dFlbykAIAg5Z]{武器专攻}</li>\n</ul>\n<p>&emsp;&emsp;<strong>奖励法术:&nbsp;</strong></p>\n<ul>\n<li>@Compendium[pf1.spells.jnlr9cuepka1l26e]{变巨术} (7th),&nbsp;</li>\n<li>@Compendium[pf1.spells.kouqz0pm1xl8xilm]{变身术} (10th),&nbsp;</li>\n<li>@Compendium[pf1.spells.7d6sv5ecvi7kho3m]{飞行术} (13th),&nbsp;</li>\n<li>@Compendium[pf1.spells.knyako6zopc1chrv]{石肤术} (16th)</li>\n</ul>"
     },
     "Share Memory": {
       "name": "共享记忆（Share Memory）",
@@ -7065,7 +7065,7 @@
     },
     "Stone Stabilitiy": {
       "name": "Stone Stabilitiy（Stone Stabilitiy）",
-      "description": "<p>&emsp;&emsp;You receive a +4 bonus to your Combat Maneuver Defense when resisting a bull rush or trip attempt while standing on the ground.</p>\n<p>&emsp;&emsp;At 5th level, you gain @Compendium[pf1.feats.gTrGPxzN054GfpkM]{精通绊摔} as a bonus feat.</p>\n<p>&emsp;&emsp;At 10th level, you gain @Compendium[pf1.feats.lNyMFFQaOxxTOW7M]{高等绊摔} as a bonus feat. You do not need to meet the prerequisites to gain these feats.</p>"
+      "description": "<p>&emsp;&emsp;You receive a +4 bonus to your Combat Maneuver Defense when resisting a bull rush or trip attempt while standing on the ground.</p>\n<p>&emsp;&emsp;At 5th level, you gain @Compendium[pf1.feats.gTrGPxzN054GfpkM]{精通摔绊} as a bonus feat.</p>\n<p>&emsp;&emsp;At 10th level, you gain @Compendium[pf1.feats.lNyMFFQaOxxTOW7M]{高等摔绊} as a bonus feat. You do not need to meet the prerequisites to gain these feats.</p>"
     },
     "Stony Skin": {
       "name": "Stony Skin（Stony Skin）",
@@ -7265,7 +7265,7 @@
     },
     "Sure-Footed": {
       "name": "稳步（Sure-Footed）",
-      "description": "<p>&emsp;&emsp;侠客可以以全速移动并进行潜行和特技动作检定而不再这些技能检定上承受减值。在8级时，侠客可以以全速在困难地形中移动。</p>"
+      "description": "<p>&emsp;&emsp;侠客可以以全速移动并进行潜行和特技检定而不再这些技能检定上承受减值。在8级时，侠客可以以全速在困难地形中移动。</p>"
     },
     "Surprise Strike": {
       "name": "诡击（Surprise Strike）",
@@ -7881,7 +7881,7 @@
     },
     "Unbalancing Trick": {
       "name": "Unbalancing Trick（Unbalancing Trick）",
-      "description": "<p>&emsp;&emsp;The rogue gains @Compendium[pf1.feats.gTrGPxzN054GfpkM]{精通绊摔} as a bonus feat, even if she does not meet the prerequisites. At 6th level, she is treated as if she meets all the prerequisites of @Compendium[pf1.feats.lNyMFFQaOxxTOW7M]{高等绊摔} (although she must take the feat as normal to gain its benefits).</p>"
+      "description": "<p>&emsp;&emsp;The rogue gains @Compendium[pf1.feats.gTrGPxzN054GfpkM]{精通摔绊} as a bonus feat, even if she does not meet the prerequisites. At 6th level, she is treated as if she meets all the prerequisites of @Compendium[pf1.feats.lNyMFFQaOxxTOW7M]{高等摔绊} (although she must take the feat as normal to gain its benefits).</p>"
     },
     "Unblinking Flame Infusion": {
       "name": "Unblinking Flame Infusion（Unblinking Flame Infusion）",
@@ -7993,7 +7993,7 @@
     },
     "Up Close and Personal": {
       "name": "寸劲（Up Close and Personal）",
-      "description": "<p>&emsp;&emsp;每当侠客尝试通过一个移动动作来进行一个特技动作检定以穿越敌人占据的空间时，他都可以同时以一个迅捷动作对这个敌人进行一次近战攻击。如果侠客的特技动作检定成功，那么他的这次近战攻击可以附带暗袭伤害，如同敌人未意识到他的存在一般。如果侠客的特技动作检定不成功，那么他也可以获得暗袭攻击机会，但只能造成相当于敌人失敏时的暗袭伤害。只有达到4级且选择诡秘猎手之道的侠客才能选择本天赋。</p>"
+      "description": "<p>&emsp;&emsp;每当侠客尝试通过一个移动动作来进行一个特技检定以穿越敌人占据的空间时，他都可以同时以一个迅捷动作对这个敌人进行一次近战攻击。如果侠客的特技检定成功，那么他的这次近战攻击可以附带暗袭伤害，如同敌人未意识到他的存在一般。如果侠客的特技检定不成功，那么他也可以获得暗袭攻击机会，但只能造成相当于敌人失敏时的暗袭伤害。只有达到4级且选择诡秘猎手之道的侠客才能选择本天赋。</p>"
     },
     "Vampiric Infusion": {
       "name": "Vampiric Infusion（Vampiric Infusion）",
@@ -8529,7 +8529,7 @@
     },
     "Wolf Aspect": {
       "name": "狼拟态（Wolf Aspect）",
-      "description": "<p>&emsp;&emsp;狼拟态提供了狼中英豪的感官和攻击能力，它们的本能被磨练来追踪和取下猎物。</p><p>&emsp;&emsp;<strong>次级形态：</strong>你获得10尺灵敏嗅觉，若你已拥有灵敏嗅觉能力，则范围提升10尺。8级时，你的灵敏嗅觉范围或者你的灵敏嗅觉提升范围提升至20尺。15级时，此范围提升至30尺。若目标位于上风处时范围加倍，若目标位于下风处则范围减半。</p><p>&emsp;&emsp;<strong>专攻形态：</strong>你变身为一只凶暴狼（怪物图鉴 pg. 278）。当处于该形态时，你获得50尺基础速度、昏暗视觉、灵敏嗅觉（30尺）和1d8伤害的啮咬攻击，并且在发动啮咬攻击时可以尝试进行绊摔。8级时，你的灵敏嗅觉范围提升至40尺并且你在用嗅觉进行追踪的生存检定获得+4种族加值。15级时，你获得啮咬的精通天生武器攻击专长（怪物图鉴 pg. 315）。</p>"
+      "description": "<p>&emsp;&emsp;狼拟态提供了狼中英豪的感官和攻击能力，它们的本能被磨练来追踪和取下猎物。</p><p>&emsp;&emsp;<strong>次级形态：</strong>你获得10尺灵敏嗅觉，若你已拥有灵敏嗅觉能力，则范围提升10尺。8级时，你的灵敏嗅觉范围或者你的灵敏嗅觉提升范围提升至20尺。15级时，此范围提升至30尺。若目标位于上风处时范围加倍，若目标位于下风处则范围减半。</p><p>&emsp;&emsp;<strong>专攻形态：</strong>你变身为一只凶暴狼（怪物图鉴 pg. 278）。当处于该形态时，你获得50尺基础速度、昏暗视觉、灵敏嗅觉（30尺）和1d8伤害的啮咬攻击，并且在发动啮咬攻击时可以尝试进行摔绊。8级时，你的灵敏嗅觉范围提升至40尺并且你在用嗅觉进行追踪的生存检定获得+4种族加值。15级时，你获得啮咬的精通天生武器攻击专长（怪物图鉴 pg. 315）。</p>"
     },
     "Wolverine Aspect": {
       "name": "狼獾拟态（Wolverine Aspect）",
@@ -8592,7 +8592,7 @@
       "description": "<p>&emsp;&emsp;每日1次，盗贼可以选择放弃她的偷袭伤害而将对手击倒在地。她必须在攻击之前使用这一天赋。如果攻击命中，那么取代造成偷袭伤害（同时也不造成任何其他偷袭带来的负面效果)，对手被击倒在地并昏迷1d4轮。一个成功的强韧检定可以将效果降至恍惚1轮，DC为“10+1/2盗贼等级+智力修正”。</p>"
     },
     "Knockback (UC)": {
-      "name": "一击即飞（Knockback (UC)）",
+      "name": "击飞（Knockback (UC)）",
       "description": "<p>&emsp;&emsp;每回合1次，野蛮人可以尝试冲撞一个目标来取代一次近战攻击。该次冲撞战技使用完整的CMB而不是被取代的攻击的。如果成功，目标承受等同于野蛮人力量修正的伤害，且如常地向后移动。野蛮人无须跟着目标移动。此动作不会引发藉机攻击。</p>"
     },
     "Assassinate": {
@@ -8657,7 +8657,7 @@
     },
     "Fast Healing": {
       "name": "不朽肉体（Fast Healing）",
-      "description": "<p>&emsp;&emsp;炼金术师血肉之躯的伤害能以肉眼可见的速度回复。他获得5点快速医疗。</p>"
+      "description": "<p>&emsp;&emsp;炼金术师血肉之躯的伤害能以肉眼可见的速度回复。他获得5点快速治疗。</p>"
     },
     "Undead Servitude": {
       "name": "不死奴役（Undead Servitude）",
@@ -8733,7 +8733,7 @@
     },
     "Elemental Rage": {
       "name": "中级元素之怒（Elemental Rage）",
-      "description": "<p>&emsp;&emsp;狂暴时野蛮人近战攻击额外造成1d6点能量伤害（强酸、寒冷、电击或火焰），能量类型在野蛮人进入狂暴时决定。野蛮人必须习得“次级元素之怒”且至少8级才能选择这个狂暴之力。请注意，野蛮人仍然可以使用他的【次级元素之怒】，但他必须选择不同的能量类型。</p>"
+      "description": "<p>&emsp;&emsp;狂暴时野蛮人近战攻击额外造成1d6点能量伤害（酸蚀、寒冷、电击或火焰），能量类型在野蛮人进入狂暴时决定。野蛮人必须习得“次级元素之怒”且至少8级才能选择这个狂暴之力。请注意，野蛮人仍然可以使用他的【次级元素之怒】，但他必须选择不同的能量类型。</p>"
     },
     "Fiend Totem": {
       "name": "中级恶魔图腾（Fiend Totem）",
@@ -8848,7 +8848,7 @@
       "description": "<p>&emsp;&emsp;<strong>替代领域法术 </strong></p>\n<ul>\n<li>1环——@Compendium[pf1.spells.gdyto5az5aveibsb]{浮碟术}</li>\n<li>5环——@Compendium[pf1.spells.wqvy12w1xgk6l9b0]{翱翔天际}</li>\n<li>9环——@Compendium[pf1.spells.ursm11405zobemi3]{异界之门}</li>\n</ul>"
     },
     "Eater of Magic (UC)": {
-      "name": "享用魔力（Eater of Magic (UC)）",
+      "name": "吞噬魔法（Eater of Magic (UC)）",
       "description": "<p>&emsp;&emsp;若野蛮人在对抗法术，类法术能力，超自然能力的豁免检定中胜出，她将获得等同于法术等级（面对法术或类法术能力时）或对手1/2CR（面对超自然能力时）的临时生命。这些临时生命能与狂暴带来的临时生命相叠加，但是不能与其他狂暴之力带来的临时生命相叠加。野蛮人至少要达到第10级后且拥有【神秘迷信】狂暴之力才能选择此狂暴之力"
     },
     "Unholy Resilience": {
@@ -8905,7 +8905,7 @@
     },
     "Teleportation Subschool": {
       "name": "传送学派（Teleportation Subschool）",
-      "description": "<p>&emsp;&emsp;<strong>相关学派：</strong>&nbsp;咒法学派</p><p>&emsp;&emsp;取代能力：以下能力取代咒法学派的强酸镖能力。</p>"
+      "description": "<p>&emsp;&emsp;<strong>相关学派：</strong>&nbsp;咒法学派</p><p>&emsp;&emsp;取代能力：以下能力取代咒法学派的酸蚀镖能力。</p>"
     },
     "Wounding Blade": {
       "name": "伤刃（Wounding Blade）",
@@ -8924,12 +8924,12 @@
       "description": "<p>&emsp;&emsp;7级起，野蛮人获得DR。在受到武器或天生武器攻击时，野蛮人受到的伤害要减少1点。10级起每3级（13，16，19级）该DR都会增加1点。DR可以让伤害降低到0，但是不能低于0。</p>"
     },
     "Increased Damage Reduction (UC)": {
-      "name": "伤害减免（Increased Damage Reduction (UC)）",
+      "name": "增强伤害减免（Increased Damage Reduction (UC)）",
       "description": "<p>&emsp;&emsp;7级起，野蛮人获得伤害减免的能力。在受到武器或天生武器攻击时，野蛮人受到的伤害要减少1点。10级起的每3级（13，16，19级）该伤害减免都会增加1点。伤害减免可以让伤害降低至0，但是不能低于0。</p>"
     },
     "Wound Warp": {
       "name": "伤痕迁跃（Wound Warp）",
-      "description": "<p>&emsp;&emsp;15级起，你获得了通过从已死生物所受的致命伤中爆发的形式穿越战场的能力。每天1次以标准动作，你能够传送至每施法者等级10尺之内的一具尸体旁的无人占据的方格之中。由于你使尸身爆裂并使周围的人沐浴在酸性胆汁之中，因此任何与你要传送至的方格相邻的生物会受到4d6点强酸伤害。成功进行反射豁免的生物（DC 10 + 1/2 你的术士等级 + 你的魅力调整值）可以将伤害减半。该能力在其他方面如同@Compendium[pf1.spells.ojwg1ki98tq8xyh9]{任意门}一般运作。20级起，你每天可以使用该能力2次。</p>"
+      "description": "<p>&emsp;&emsp;15级起，你获得了通过从已死生物所受的致命伤中爆发的形式穿越战场的能力。每天1次以标准动作，你能够传送至每施法者等级10尺之内的一具尸体旁的无人占据的方格之中。由于你使尸身爆裂并使周围的人沐浴在酸性胆汁之中，因此任何与你要传送至的方格相邻的生物会受到4d6点酸蚀伤害。成功进行反射豁免的生物（DC 10 + 1/2 你的术士等级 + 你的魅力调整值）可以将伤害减半。该能力在其他方面如同@Compendium[pf1.spells.ojwg1ki98tq8xyh9]{任意门}一般运作。20级起，你每天可以使用该能力2次。</p>"
     },
     "Camouflage (UC)": {
       "name": "伪装（Camouflage (UC)）",
@@ -8956,7 +8956,7 @@
       "description": "<p>&emsp;&emsp;前提：魔战士等级9</p>\n<p>&emsp;&emsp;效果：当魔战士使用【奥能力池】强化武器时，他可额外花费一点奥能将〈位面〉特性加在他的武器上，或是额外花费2点奥能将〈闭锁〉特性加在他的武器上。</p>"
     },
     "Low-Light Vision (UC)": {
-      "name": "低光视力（Low-Light Vision (UC)）",
+      "name": "昏暗视觉（Low-Light Vision (UC)）",
       "description": "<p>&emsp;&emsp;野蛮人的感官变得更敏锐，她获得昏暗视觉能力。</p>"
     },
     "Physical Enhancement": {
@@ -9061,7 +9061,7 @@
     },
     "Ascetic Mystery": {
       "name": "修持秘示域（Ascetic Mystery）",
-      "description": "<p>&emsp;&emsp;<strong>本职技能:</strong> 拥有浩劫秘示域的先知可以将特技动作（敏捷），攀爬（力量），逃脱术（敏捷）和游泳（力量）技能加入本职技能列表。<br><br><strong>奖励法术:&nbsp;</strong></p>\n<ul>\n<li>@Compendium[pf1.spells.879sdozw7ca7ci9k]{石拳术} (2nd),&nbsp;</li>\n<li>@Compendium[pf1.spells.d8yy4njnr25hacek]{滑翔术} (4th),</li>\n<li>@Compendium[pf1.spells.lmst00dtapf4xhya]{Force Punch} (6th),&nbsp;</li>\n<li>@Compendium[pf1.spells.h16l4lq9bzyeeosf]{Ethereal Fists} (8th),&nbsp;</li>\n<li>@Compendium[pf1.spells.68ngvzmzvadhf6vs]{异界探知} (10th),&nbsp;</li>\n<li>@Compendium[pf1.spells.b5mz8voksps5g4yq]{通晓传奇} (12th),&nbsp;</li>\n<li>@Compendium[pf1.spells.aqeaxoaozlv9vg35]{灵视} (14th),&nbsp;</li>\n<li>@Compendium[pf1.spells.ukacuu0cvdjkqxwu]{Frightful Aspect} (16th),&nbsp;</li>\n<li>@Compendium[pf1.spells.mkrjbrp57yfdqrx0]{钢筋铁骨} (18th).</li>\n</ul>"
+      "description": "<p>&emsp;&emsp;<strong>本职技能:</strong> 拥有浩劫秘示域的先知可以将特技（敏捷），攀爬（力量），逃脱术（敏捷）和游泳（力量）技能加入本职技能列表。<br><br><strong>奖励法术:&nbsp;</strong></p>\n<ul>\n<li>@Compendium[pf1.spells.879sdozw7ca7ci9k]{石拳术} (2nd),&nbsp;</li>\n<li>@Compendium[pf1.spells.d8yy4njnr25hacek]{滑翔术} (4th),</li>\n<li>@Compendium[pf1.spells.lmst00dtapf4xhya]{Force Punch} (6th),&nbsp;</li>\n<li>@Compendium[pf1.spells.h16l4lq9bzyeeosf]{Ethereal Fists} (8th),&nbsp;</li>\n<li>@Compendium[pf1.spells.68ngvzmzvadhf6vs]{异界探知} (10th),&nbsp;</li>\n<li>@Compendium[pf1.spells.b5mz8voksps5g4yq]{通晓传奇} (12th),&nbsp;</li>\n<li>@Compendium[pf1.spells.aqeaxoaozlv9vg35]{灵视} (14th),&nbsp;</li>\n<li>@Compendium[pf1.spells.ukacuu0cvdjkqxwu]{Frightful Aspect} (16th),&nbsp;</li>\n<li>@Compendium[pf1.spells.mkrjbrp57yfdqrx0]{钢筋铁骨} (18th).</li>\n</ul>"
     },
     "Mending Flesh": {
       "name": "修补肉体（Mending Flesh）",
@@ -9073,7 +9073,7 @@
     },
     "Adoration": {
       "name": "倾慕（Adoration）",
-      "description": "<p>&emsp;&emsp;以直觉动作，你能阻碍以你自己为目标的近战或者远程攻击。此能力是个类似“圣域术”的心智效果，但只能对一次攻击有效。你必须在攻击宣言和投骰之间发动此能力，目标可通过一次意志豁免来不受此影响。若目标能进行多次攻击，只有一次会受到阻碍。每天“3+感知修正”次。此能力替换魅力领域的恍惚接触。</p>"
+      "description": "<p>&emsp;&emsp;以直觉动作，你能阻碍以你自己为目标的近战或者远程攻击。此能力是个类似“圣域术”的心智效果，但只能对一次攻击有效。你必须在攻击宣言和投骰之间发动此能力，目标可通过一次意志豁免来不受此影响。若目标能进行多次攻击，只有一次会受到阻碍。每天“3+感知修正”次。此能力替换魅力领域的晕眩之触。</p>"
     },
     "Favored Terrain (CAV)": {
       "name": "偏好地形(骑将)（Favored Terrain (CAV)）",
@@ -9132,7 +9132,7 @@
       "description": "<p>&emsp;&emsp;每当野蛮人进入狂暴状态，他就对自己在次级元素之血狂暴之力上选择的能量类型获得10点抗力。</p>"
     },
     "Elemental Body (BLO)": {
-      "name": "元素之躯(血脉狂怒者)（Elemental Body (BLO)）",
+      "name": "元素形态(血脉狂怒者)（Elemental Body (BLO)）",
       "description": "<p>&emsp;&emsp;20级起，元素能量在你体内奔涌流动。你免疫偷袭、重击以及你的能量类型的伤害。即便没有处于血怒之时，你也会一直获得这些优势。</p>"
     },
     "Elemental Wall": {
@@ -9204,7 +9204,7 @@
       "description": "<p>&emsp;&emsp;<em>元素的力量在你体内驻留，并且有时你很难控制它的愤怒。这个影响力来自于你家族历史中某个外来的元素生物，或是某次事件中——你或你的亲属被暴露在强大的元素力量之下。</em></p>\n<p>&emsp;&emsp;<strong>本职技能:</strong>&nbsp;@JournalEntry[dfjwbMEdt062TJtE]{知识}：位面.</p>\n<p>&emsp;&emsp;<strong>奖励法术:</strong></p>\n<ul>\n<li>@Compendium[pf1.spells.lndeaqm2j2nvgm6p]{燃烧之手}* (3rd),</li>\n<li>@Compendium[pf1.spells.q4ixxjb4v281g2xv]{灼热射线}* (5th),</li>\n<li>@Compendium[pf1.spells.1vh2ewwvzvxunoxk]{防护能量伤害}&nbsp;(7th),</li>\n<li>@Compendium[pf1.spells.pawbnw1nm4f0b98e]{元素身躯I}&nbsp;(9th),</li>\n<li>@Compendium[pf1.spells.yldjnorgbx4jsldz]{元素身躯II}&nbsp;(11th),</li>\n<li>@Compendium[pf1.spells.hd32fuc6e7j4isbn]{元素形态 III}&nbsp;(13th),</li>\n<li>@Compendium[pf1.spells.v42t5kpxc8mvd615]{元素形态 IV}&nbsp;(15th),</li>\n<li>@Compendium[pf1.spells.j91n23p4tfjixp3s]{召唤怪物 VIII}&nbsp;(elementals only) (17th),</li>\n<li>@Compendium[pf1.spells.pfy97qyneoa391ek]{元素集群}&nbsp;(19th).</li>\n</ul>\n<p>&emsp;&emsp;*These spells always deal a type of damage determined by your element. In addition, the subtype of these spells changes to match the energy type of your element.</p>\n<p>&emsp;&emsp;<strong>奖励专长：</strong></p>\n<ul>\n<li>@Compendium[pf1.feats.JreaiTHdyWFNj3Tb]{闪避},</li>\n<li>@Compendium[pf1.feats.77gXSucrxfrE9yWk]{法术强效},</li>\n<li>@Compendium[pf1.feats.fVRnBIHR4Jq6btvm]{强韧加强},</li>\n<li>@Compendium[pf1.feats.Uuiu3p982omhMEPj]{精通先攻},</li>\n<li>@Compendium[pf1.feats.0bZf3SDkvVOe2ujH]{闪电反射},</li>\n<li>@Compendium[pf1.feats.FUW5mIXHNBBIQ1Sq]{猛力攻击},</li>\n<li>@Compendium[pf1.feats.7zJTztNW7hdaqjKc]{技能专攻}&nbsp;(知识：位面),</li>\n<li>@Compendium[pf1.feats.vWiTqHC4Y3Xn1Pme]{武器娴熟}.</li>\n</ul>\n<p>&emsp;&emsp;<a name=\"TOC-Bloodline-Arcana\"></a><strong>血统奥秘:</strong> Whenever you cast a spell that deals energy damage, you can change the type of damage to match the type of your bloodline. This also changes the spell閳ユ獨 type to match the type of your bloodline.</p>"
     },
     "Elemental Body": {
-      "name": "元素身躯（Elemental Body）",
+      "name": "元素形态（Elemental Body）",
       "description": "<p>&emsp;&emsp;在20级，元素力量在你体内奔涌。你免疫偷袭，重击，以及你所选定的元素能量伤害。</p>"
     },
     "Quick Shot (UC)": {
@@ -9284,7 +9284,7 @@
       "description": "<p>&emsp;&emsp;在4级时，每天一次以一个标准动作，你可以将自己的灵魂从身体中抽出，转而用它侵占并控制一个距离你不超过30尺内，拥有动物生物类型的目标，持续最长等同于你的审判者等级轮数的时间。当你以此方式控制一个动物时，你原本的身体不具有感知力且处于无助状态，但你可以使用动物的身体随意移动任意距离，只要和你原本的身体处于同一位面即可。你可以以一个自由动作离开回到原本的身体。如果你原本的身体或占据的动物受到任何伤害，又或是你尝试操控该动物进行攻击和执行违背它本能的行为，这个效果会立刻结束并且你返回原本的身体。</p>"
     },
     "Order of the Beast": {
-      "name": "兽之骑士团（Order of the Beast）",
+      "name": "狂兽骑士团（Order of the Beast）",
       "description": "<p>&emsp;&emsp;该团的骑士献身护卫所有形式的天成自然，他们向野生的动物立下共同进退的誓约，并和幽林中的居民来往甚密。<br><br><strong>守则：</strong>我团骑士须恪守防卫自然的道义——无论是寻常野兽亦或是幻兽，在文明力量对它们展开捕猎和屠杀之前阻止这些恶行的蔓延。但是，如果有凶蛮野物不循生存之道，不遵自然法度，我团骑士也当力斩之而不赦。<br><br><strong>挑战：</strong> 当兽之团的骑士发动挑战时，只要骑士威胁着他的挑战目标，他的坐骑也会在对抗目标的近战攻击检定上获得+1环境加值。这个加值每提升4个骑士等级就会额外+1。<br><br><strong>技能：</strong> 兽之团的骑士可以将知识（自然，智力）和生存技能加入本职技能列表。除此之外，兽之骑士团的骑士在尝试使用生存技能追踪的检定上额外加上他的骑士等级数的一半。</p>"
     },
     "Orc Bloodline": {
@@ -9292,7 +9292,7 @@
       "description": "<p>&emsp;&emsp;<em>污秽的兽人之血在你体内奔流不息，野蛮的先祖之怒在你心中燃烧不止。你的狂怒绝不会蛰伏，它让你的身躯强大无比，并指引你去寻求更强的力量。</em></p>\n<p>&emsp;&emsp;<strong>本职技能:</strong>&nbsp;生存.</p>\n<p>&emsp;&emsp;<strong>奖励法术:</strong></p>\n<ul>\n<li>@Compendium[pf1.spells.lndeaqm2j2nvgm6p]{燃烧之手}&nbsp;(3rd),</li>\n<li>@Compendium[pf1.spells.05i5rxwim12hwktu]{牛之力量}&nbsp;(5th),</li>\n<li>@Compendium[pf1.spells.8u1xa5javcxc6szk]{狂暴术}&nbsp;(7th),</li>\n<li>@Compendium[pf1.spells.92hth51cs9oi0nfe]{火墙术}&nbsp;(9th),</li>\n<li>@Compendium[pf1.spells.im8z5kfg8ohowie9]{死云术}&nbsp;(11th),</li>\n<li>@Compendium[pf1.spells.9pbl3ktd5oqejl19]{转变术}&nbsp;(13th),</li>\n<li>@Compendium[pf1.spells.cm3l4h4mld9j8lar]{延迟爆裂火球}&nbsp;(15th),</li>\n<li>@Compendium[pf1.spells.mkrjbrp57yfdqrx0]{钢筋铁骨}&nbsp;(17th),</li>\n<li>@Compendium[pf1.spells.xhzme0v6tjq95fg6]{流星爆}&nbsp;(19th).</li>\n</ul>\n<p>&emsp;&emsp;<strong>奖励专长：</strong></p>\n<ul>\n<li>@Compendium[pf1.feats.O0e0UCim27GPKFuW]{顽强},</li>\n<li>@Compendium[pf1.feats.ehqx8txNRGMaNOPt]{坚忍},</li>\n<li>@Compendium[pf1.feats.fVRnBIHR4Jq6btvm]{强韧加强},</li>\n<li>@Compendium[pf1.feats.O0jbkTJcIji9BNiF]{威逼},</li>\n<li>@Compendium[pf1.feats.go4xOiSUP8R1QJ5N]{精通闯越},</li>\n<li>@Compendium[pf1.feats.FUW5mIXHNBBIQ1Sq]{猛力攻击},</li>\n<li>@Compendium[pf1.feats.8snLqsJN4LLL00Nq]{健壮},</li>\n<li>@Compendium[pf1.feats.h8Ap9cxdsXWRC6Tc]{法术扩展}.</li>\n</ul>\n<p>&emsp;&emsp;<strong>血统奥秘:</strong> 你获得兽人亚种,包括黑暗视觉60英尺和强光敏感。如果你已经拥有黑暗视觉,其范围增加到90英尺。每当你施放了一个造成伤害的法术,该法术获得伤害骰子+1点伤害的奖励。</p>"
     },
     "Animal Fury (UC)": {
-      "name": "兽性之怒（Animal Fury (UC)）",
+      "name": "野性之怒（Animal Fury (UC)）",
       "description": "<p>&emsp;&emsp;野蛮人获得一种啮咬攻击。这是一种主要天生武器，可以造成1d4点伤害（如果她是中体型的话；小体型则为1d3），并且在伤害上加入力量修正。如果是作为使用人工武器的全力攻击的一部分，该啮咬攻击使用-5的满基本攻击加值，并且只能在伤害骰上加入一半的力量修正。野蛮人可以将啮咬攻击作为维持或挣脱擒抱动作的一部分，如果野蛮人成功咬中，在本回合结束之前，她在对目标的擒抱检定中+2。</p>"
     },
     "Bestial Climber": {
@@ -9448,16 +9448,16 @@
       "description": "<p>&emsp;&emsp;野蛮人骑乘且狂暴的时候，他的坐骑获得“践踏”特殊攻击。中型、大型和超大型坐骑的践踏伤害分别为1d8、2d6和2d8，加上1.5倍坐骑力量修正。成功的反射豁免能够令伤害减半，DC为“10+1/2野蛮人等级+坐骑力量修正”。受到践踏攻击的生物可以对野蛮人或坐骑之一进行藉机攻击。野蛮人必须习得【狂暴坐骑】且至少8级才能选择这个狂暴之力。</p>"
     },
     "Bleeding Blow (UC)": {
-      "name": "出血打击（Bleeding Blow (UC)）",
+      "name": "流血猛击（Bleeding Blow (UC)）",
       "description": "<p>&emsp;&emsp;当处于威力战姿时，野蛮人可以使她的一次攻击造成敌人流血。每回合1次，野蛮人可以使她的一次攻击额外造成相当于威力战姿的伤害加值的1/2的流血伤害。该流血伤害无视伤害减免。此流血伤害不能与它自身相叠加。野蛮人至少要达到8级后且拥有【威力战姿】才能选择此狂暴之力。</p>"
     },
     "Knockdown Stance (UC)": {
       "name": "击倒战姿（Knockdown Stance (UC)）",
-      "description": "<p>&emsp;&emsp;野蛮人能够专注于击倒敌人。每回合1次，她可以用绊摔来取代一次近战攻击。如果成功，该目标将会被击倒。该动作不会引发藉机攻击。该狂暴之力是一种战姿。</p>"
+      "description": "<p>&emsp;&emsp;野蛮人能够专注于击倒敌人。每回合1次，她可以用摔绊来取代一次近战攻击。如果成功，该目标将会被击倒。该动作不会引发藉机攻击。该狂暴之力是一种战姿。</p>"
     },
     "Clobbering Strike": {
       "name": "击倒攻击（Clobbering Strike）",
-      "description": "<p>&emsp;&emsp;当你用攻击法术对敌人造成重击时，你可以立即用一个迅捷动作来对你的敌人进行绊摔。这次绊摔尝试你不会像通常情况那样受到藉机攻击。</p>"
+      "description": "<p>&emsp;&emsp;当你用攻击法术对敌人造成重击时，你可以立即用一个迅捷动作来对你的敌人进行摔绊。这次摔绊尝试你不会像通常情况那样受到藉机攻击。</p>"
     },
     "Knockback": {
       "name": "击飞（Knockback）",
@@ -9493,7 +9493,7 @@
     },
     "Creation Subschool": {
       "name": "创造学派（Creation Subschool）",
-      "description": "<p>&emsp;&emsp;<strong>相关学派：</strong>&nbsp;咒法学派</p><p>&emsp;&emsp;取代能力：以下能力取代咒法学派的强酸镖和次元步的能力。</p>"
+      "description": "<p>&emsp;&emsp;<strong>相关学派：</strong>&nbsp;咒法学派</p><p>&emsp;&emsp;取代能力：以下能力取代咒法学派的酸蚀镖和次元步的能力。</p>"
     },
     "Create Gear": {
       "name": "创造工具（Create Gear）",
@@ -9565,11 +9565,11 @@
     },
     "Pool Ray": {
       "name": "力池射线（Pool Ray）",
-      "description": "<p>&emsp;&emsp;前提：魔战士等级3</p>\n<p>&emsp;&emsp;效果：魔战士可以用标准动作从【奥能力池】中花费1点奥能令其一件远程武器充满元素能量。作为使用本能力的一部分，他可以自由动作用充能的远程武器进行一次攻击。在投骰之后DM宣布结果之前，魔战士可消耗掉充能使该次攻击造成1d6点能量伤害（强酸、冰冷、电击或火焰，在从【奥能力池】中花费奥能时选择）。若该次攻击未命中，则充能正常消耗，效果将被浪费掉。若魔战士有【远程法术打击】职业能力（比如重装魔战变体），他在使用【远程法术打击】能力时若同时消耗“力池射线”的元素充能，则可使该次攻击成为远程接触攻击。6级及之后每3级，力池射线造成的伤害增加1d6。</p>"
+      "description": "<p>&emsp;&emsp;前提：魔战士等级3</p>\n<p>&emsp;&emsp;效果：魔战士可以用标准动作从【奥能力池】中花费1点奥能令其一件远程武器充满元素能量。作为使用本能力的一部分，他可以自由动作用充能的远程武器进行一次攻击。在投骰之后DM宣布结果之前，魔战士可消耗掉充能使该次攻击造成1d6点能量伤害（酸蚀、冰冷、电击或火焰，在从【奥能力池】中花费奥能时选择）。若该次攻击未命中，则充能正常消耗，效果将被浪费掉。若魔战士有【远程法术打击】职业能力（比如重装魔战变体），他在使用【远程法术打击】能力时若同时消耗“力池射线”的元素充能，则可使该次攻击成为远程接触攻击。6级及之后每3级，力池射线造成的伤害增加1d6。</p>"
     },
     "Pool Strike": {
       "name": "力池打击（Pool Strike）",
-      "description": "<p>&emsp;&emsp;前提：魔战士等级3</p>\n<p>&emsp;&emsp;效果：魔战士可以用标准动作从【奥能力池】中花费1点奥能令其手掌充满元素能量。作为使用本能力的一部分，他可以自由动作进行一次近战接触攻击。若攻击命中，则充能释放并造成2d6点元素伤害（强酸、冰冷、电击或火焰，在从【奥能力池】中花费奥能时选择）。他可用本能力使用【法术战斗】职业能力。若该次攻击未命中，则在能量消散前，该充能效果可保持最多1分钟。6级及之后的每3级，力池打击造成的伤害值增加1d6。</p>"
+      "description": "<p>&emsp;&emsp;前提：魔战士等级3</p>\n<p>&emsp;&emsp;效果：魔战士可以用标准动作从【奥能力池】中花费1点奥能令其手掌充满元素能量。作为使用本能力的一部分，他可以自由动作进行一次近战接触攻击。若攻击命中，则充能释放并造成2d6点元素伤害（酸蚀、冰冷、电击或火焰，在从【奥能力池】中花费奥能时选择）。他可用本能力使用【法术战斗】职业能力。若该次攻击未命中，则在能量消散前，该充能效果可保持最多1分钟。6级及之后的每3级，力池打击造成的伤害值增加1d6。</p>"
     },
     "Strength Blessing: Strength Surge": {
       "name": "力量奔涌（Strength Blessing: Strength Surge）",
@@ -9660,7 +9660,7 @@
       "description": "<p>&emsp;&emsp;3级时，你获得了改变自己外貌的能力（如同法术@Compendium[pf1.spells.kouqz0pm1xl8xilm]{变身术}）。此能力每天可以持续的时间为（术士等级）分钟，不必每轮连续使用。17级时，这个能力不再有时间限制，你可以随时随地保持你希望的外形。</p>"
     },
     "Aberrant Form (BLO)": {
-      "name": "化身异怪(血脉狂怒者)（Aberrant Form (BLO)）",
+      "name": "异怪形态(血脉狂怒者)（Aberrant Form (BLO)）",
       "description": "<p>&emsp;&emsp;20级起，你的身体变得异样。你免疫重击与偷袭。此外，你获得60尺盲视，血脉狂怒者的伤害减免增加1点。即便没有处于血怒之时，你也会一直获得这些优势。</p>"
     },
     "Healing Grace": {
@@ -9820,8 +9820,8 @@
       "description": "<p>&emsp;&emsp;每当你施展一个咒法“召唤”子学派法术，持续时间增加你的法师等级的一半（最少1轮）。在20级时，你能够把任何召唤怪物法术持续时间延长为无限。你在同一时间内只能拥有一个以此方式无限持续的召唤怪物法术。如果你指定另一个召唤怪物法术为无限持续，则前一个法术会立刻结束。</p>"
     },
     "Terrifying Howl (UC)": {
-      "name": "可怖狂嚎（Terrifying Howl (UC)）",
-      "description": "<p>&emsp;&emsp;野蛮人能够以一个标准动作释放出一声可怕的嚎叫声。30尺内的所有已战栗（通常是通过威吓）的敌人必须进行一次DC为10+1/2野蛮人等级+力量修正的意志豁免，失败者将恐慌1d4+1轮。当敌人对你的【可怖狂嚎】进行过检定（无论成功通过与否），则它在接下来的24小时内都将免疫此效果。野蛮人至少要达到8级且拥有【威吓怒视】才能选择此狂暴之力。</p>"
+      "name": "惊骇狂嚎（Terrifying Howl (UC)）",
+      "description": "<p>&emsp;&emsp;野蛮人能够以一个标准动作释放出一声可怕的嚎叫声。30尺内的所有已战栗（通常是通过威吓）的敌人必须进行一次DC为10+1/2野蛮人等级+力量修正的意志豁免，失败者将恐慌1d4+1轮。当敌人对你的【惊骇狂嚎】进行过检定（无论成功通过与否），则它在接下来的24小时内都将免疫此效果。野蛮人至少要达到8级且拥有【威吓怒视】才能选择此狂暴之力。</p>"
     },
     "Dread Resilience": {
       "name": "可怖韧性（Dread Resilience）",
@@ -9844,7 +9844,7 @@
       "description": "<p>&emsp;&emsp;在10级时，你可以呼吁全体战友并肩作战。在1分钟内，每当你成功地对一个敌人发动了近战或远程攻击，奖励你10尺内的队友就可以在对抗同一敌人时在你的攻击方式上进行攻击检定上获得+2洞察加值——你进行近战攻击则近战获得加值，远程亦然。如果你的攻击成功专长了重击威胁，那么在一轮内，该加值提升到+4."
     },
     "Auspicious Mark (UC)": {
-      "name": "吉祥印记（Auspicious Mark (UC)）",
+      "name": "吉祥烙记（Auspicious Mark (UC)）",
       "description": "<p>&emsp;&emsp;这个野蛮人被精魂们留下了印记，此印记通常表现为一个醒目的纹身，刺青或者是胎记。以一个迅捷动作，野蛮人可以祈求精魂的恩惠，在任意的单次d20的投骰中加上1d6的加值。该加值每4个等级便会提升1点，他可以在得知投骰结果之后才使用【吉祥印记】。野蛮人每天只能使用一次该能力。</p>"
     },
     "Auspicious Mark": {
@@ -9944,7 +9944,7 @@
       "description": "<p>&emsp;&emsp;8级起，你获得喷吐武器，每日可以使用1次。这个喷吐武器造成的伤害类型与你选择的相同，伤害为每血脉狂怒者等级1d6点。处于喷吐区域内的生物可以尝试反射豁免来使伤害减半。该能力的豁免DC为10 + 1/2你的血脉狂怒者等级 + 你的体质调整值。喷吐武器的形状基于你的龙裔类型（如上表所述）。16级起，每日能够使用该能力2次。20级时，每日能够使用3次该能力。</p>"
     },
     "Breath Weapon": {
-      "name": "喷吐龙息（Breath Weapon）",
+      "name": "喷吐武器（Breath Weapon）",
       "description": "<p>&emsp;&emsp;在9级时，你获得喷吐武器。此喷吐造成每术士等级1d6点你所选择的龙脉能量伤害。喷吐范围中的生物能够通过一次成功的反射豁免使伤害减半，豁免DC为“10+1/2术士等级+魅力修正”。喷吐范围取决于你所选的龙脉类型。9级时你能使用此能力每天1次；17级时每天2次；20级时每天3次。</p>"
     },
     "Child-Scent": {
@@ -9965,7 +9965,7 @@
     },
     "Tumor Familiar": {
       "name": "囊肿魔宠（Tumor Familiar）",
-      "description": "<p>&emsp;&emsp;炼金术师可以在自己身上制造出微型或小型的囊肿，通常在背上或腹部。以一个标准动作，炼金术师可以让囊肿从他身上分离出去，变成一种类似魔宠列表上动物的生物（猫、蝙蝠、老鼠之类的），并且像独立的个体一般行动。囊肿可以用一个标准动作让自己和炼金术师重新连结。囊肿魔宠具有该型体动物该有的能力（例如蝙蝠形状的囊肿魔宠会飞），并且在计算魔宠能力时以炼金术师的施法者等级做为基础（尽管某些魔宠能力对炼金术师并没有什么帮助），无论处在分离或结合状态囊肿魔宠都提供魔宠该有的效果（技能加值和“警觉”专长等）。在连结时，囊肿魔宠得到快速医疗5的特性，炼金术师的化合炼成和异变药水等效果会如“法术共享”和“传递接触法术”般在魔宠身上运作。如果囊肿魔宠失踪或是死亡，炼金术师可以在1周之后，以等级200枚金币的价格重新制造一只，制造囊肿魔宠需要花费8个小时的时间。</p>"
+      "description": "<p>&emsp;&emsp;炼金术师可以在自己身上制造出微型或小型的囊肿，通常在背上或腹部。以一个标准动作，炼金术师可以让囊肿从他身上分离出去，变成一种类似魔宠列表上动物的生物（猫、蝙蝠、老鼠之类的），并且像独立的个体一般行动。囊肿可以用一个标准动作让自己和炼金术师重新连结。囊肿魔宠具有该型体动物该有的能力（例如蝙蝠形状的囊肿魔宠会飞），并且在计算魔宠能力时以炼金术师的施法者等级做为基础（尽管某些魔宠能力对炼金术师并没有什么帮助），无论处在分离或结合状态囊肿魔宠都提供魔宠该有的效果（技能加值和“警觉”专长等）。在连结时，囊肿魔宠得到快速治疗5的特性，炼金术师的化合炼成和异变药水等效果会如“法术共享”和“传递接触法术”般在魔宠身上运作。如果囊肿魔宠失踪或是死亡，炼金术师可以在1周之后，以等级200枚金币的价格重新制造一只，制造囊肿魔宠需要花费8个小时的时间。</p>"
     },
     "Untouched by the Seasons": {
       "name": "四季如春（Untouched by the Seasons）",
@@ -10025,7 +10025,7 @@
     },
     "Power of the Shaitan": {
       "name": "土灵神力（Power of the Shaitan）",
-      "description": "<p>&emsp;&emsp;20级开始，你获得土巨灵一般实现许愿的能力。每天1次，你能够以类法术能力施展@Compendium[pf1.spells.s2p7a4biy7bl4ks2]{有限祈愿术}。这些起源必须以“我希望”开头，并且不能与你24小时内许下的愿望重复。若你通过此能力复制一个需要贵重材料的法术，你必须如常支付材料费用。此外，你免疫强酸伤害，并且可以使用@Compendium[pf1.spells.q3st18udsalnyz5v]{异界传送}进入或离开于土元素位面，每天1次。</p>"
+      "description": "<p>&emsp;&emsp;20级开始，你获得土巨灵一般实现许愿的能力。每天1次，你能够以类法术能力施展@Compendium[pf1.spells.s2p7a4biy7bl4ks2]{有限祈愿术}。这些起源必须以“我希望”开头，并且不能与你24小时内许下的愿望重复。若你通过此能力复制一个需要贵重材料的法术，你必须如常支付材料费用。此外，你免疫酸蚀伤害，并且可以使用@Compendium[pf1.spells.q3st18udsalnyz5v]{异界传送}进入或离开于土元素位面，每天1次。</p>"
     },
     "Shaitan Bloodline": {
       "name": "土灵血统（Shaitan Bloodline）",
@@ -10033,7 +10033,7 @@
     },
     "Earth Domain": {
       "name": "土领域（Earth Domain）",
-      "description": "<p>&emsp;&emsp;<strong>神授力量:</strong> 你能够操纵土、金属、石头，发射酸镖，和土系生物沟通。</p>\n<p>&emsp;&emsp;<strong>领域法术:</strong></p>\n<ul>\n<li>1环——@Compendium[pf1.spells.fv9mgob508qv99zz]{魔石术}</li>\n<li>2环——@Compendium[pf1.spells.i8yzlekyl29dm3zz]{柔石术}</li>\n<li>3环——@Compendium[pf1.spells.g1evszmk8wfgnsv5]{塑石术}</li>\n<li>4环——@Compendium[pf1.spells.hfyycpn0wdimx1n9]{刺石术}</li>\n<li>5环——@Compendium[pf1.spells.l83djt5019ujasjh]{石墙术}</li>\n<li>6环——@Compendium[pf1.spells.knyako6zopc1chrv]{石肤术}</li>\n<li>7环——@Compendium[pf1.spells.v42t5kpxc8mvd615]{元素形态 IV} (限土系)</li>\n<li>8环——@Compendium[pf1.spells.a5gcbpwfhu4hh5ic]{地震术}</li>\n<li>9环——@Compendium[pf1.spells.pfy97qyneoa391ek]{元素集群} (限土系)</li>\n</ul>"
+      "description": "<p>&emsp;&emsp;<strong>神授力量:</strong> 你能够操纵土、金属、石头，发射酸蚀镖，和土系生物沟通。</p>\n<p>&emsp;&emsp;<strong>领域法术:</strong></p>\n<ul>\n<li>1环——@Compendium[pf1.spells.fv9mgob508qv99zz]{魔石术}</li>\n<li>2环——@Compendium[pf1.spells.i8yzlekyl29dm3zz]{柔石术}</li>\n<li>3环——@Compendium[pf1.spells.g1evszmk8wfgnsv5]{塑石术}</li>\n<li>4环——@Compendium[pf1.spells.hfyycpn0wdimx1n9]{刺石术}</li>\n<li>5环——@Compendium[pf1.spells.l83djt5019ujasjh]{石墙术}</li>\n<li>6环——@Compendium[pf1.spells.knyako6zopc1chrv]{石肤术}</li>\n<li>7环——@Compendium[pf1.spells.v42t5kpxc8mvd615]{元素形态 IV} (限土系)</li>\n<li>8环——@Compendium[pf1.spells.a5gcbpwfhu4hh5ic]{地震术}</li>\n<li>9环——@Compendium[pf1.spells.pfy97qyneoa391ek]{元素集群} (限土系)</li>\n</ul>"
     },
     "Commanding Order": {
       "name": "圣令（Commanding Order）",
@@ -10041,7 +10041,7 @@
     },
     "Ascetic Armor": {
       "name": "圣体护持（Ascetic Armor）",
-      "description": "<p>&emsp;&emsp;你通过静修凝神而掌握了将外物从你的身体上弹开的密法。若你未穿着护甲也未处于中载或重载负重，那么这密法便能让你在防御等级上获得+4护甲加值。在7级和之后每提升4个等级时，这个护甲加值再额外+2。在13级时，你还会获得DR 5/徒手击打或天生武器。你每天可以享受本启示好处的时间相当于你的先知等级数个小时。这些时间无需连续使用，但每次使用至少需要持续1小时。</p>"
+      "description": "<p>&emsp;&emsp;你通过静修凝神而掌握了将外物从你的身体上弹开的密法。若你未穿着护甲也未处于中载或重载负重，那么这密法便能让你在防御等级上获得+4护甲加值。在7级和之后每提升4个等级时，这个护甲加值再额外+2。在13级时，你还会获得DR 5/徒手打击或天生武器。你每天可以享受本启示好处的时间相当于你的先知等级数个小时。这些时间无需连续使用，但每次使用至少需要持续1小时。</p>"
     },
     "Order of the Tome": {
       "name": "圣典骑士团（Order of the Tome）",
@@ -10125,7 +10125,7 @@
     },
     "I Shall Not Be Moved": {
       "name": "坚定不移（I Shall Not Be Moved）",
-      "description": "<p>&emsp;&emsp;8级时，封印骑将可以藉由他的奉献精神克服身体的弱点。只要在该轮中他没有移动5尺以上，他可以在对抗冲撞、闯越、拖拽、推挤和绊摔的战技防御上得到+2加值。此加值持续到他下一轮开始。</p>"
+      "description": "<p>&emsp;&emsp;8级时，封印骑将可以藉由他的奉献精神克服身体的弱点。只要在该轮中他没有移动5尺以上，他可以在对抗冲撞、闯越、拖拽、推挤和摔绊的战技防御上得到+2加值。此加值持续到他下一轮开始。</p>"
     },
     "Touch of Resolve": {
       "name": "坚定之触（Touch of Resolve）",
@@ -10153,14 +10153,14 @@
     },
     "Strength of Stone": {
       "name": "坚若磐石（Strength of Stone）",
-      "description": "<p>&emsp;&emsp;20级开始，你的身体如同金石铸就一般坚固，你获得伤害减免“10/精金”。此外，你对石化效果免疫。只要你还站立在地面上，你穿越狭窄地形时不受任何减值，并对冲撞、拖拽、擒抱、复位、绊摔战技以及任何带有受迫移动效果的能力免疫。</p>"
+      "description": "<p>&emsp;&emsp;20级开始，你的身体如同金石铸就一般坚固，你获得伤害减免“10/精金”。此外，你对石化效果免疫。只要你还站立在地面上，你穿越狭窄地形时不受任何减值，并对冲撞、拖拽、擒抱、复位、摔绊战技以及任何带有受迫移动效果的能力免疫。</p>"
     },
     "Iron Weapon": {
       "name": "坚钢兵刃（Iron Weapon）",
       "description": "<p>&emsp;&emsp;你召唤出一把近战类型的军用或简易武器，你每天可以使用这把武器的分钟数等于你的先知等级。这把武器必须符合你的体型并且以金属构成（就算他原本的材料不是金属也会变成金属，例如矛；不过除了外表之外，所有的属性都同于他木造的同类），你被视为熟练此武器。这把武器会在离开你手中1轮之后消失。3级此武器视为由寒铁锻造，在7，15，19级此武器得到额外+1的增强加值。13级这把武器的材质变成精金。你每天可以使用此能力的次数相当于“3+魅力修正”。</p>"
     },
     "Resiliency": {
-      "name": "坚韧身躯（Resiliency）",
+      "name": "韧性（Resiliency）",
       "description": "<p>&emsp;&emsp;当你的生命值降为0时你并不会陷入瘫痪，也不会再获得恍惚状态。7级你获得“顽强”作为奖励专长。11级你在陷入瘫痪时进行标准动作不会失去1点生命值。你不需要达到获得顽强专长的先决条件。</p>"
     },
     "Shroud of the City": {
@@ -10428,7 +10428,7 @@
       "description": "<p>&emsp;&emsp;17级或更高等级的武僧可以和任何活物交谈。</p>"
     },
     "Abundant Step (UC)": {
-      "name": "天遁术（Abundant Step (UC)）",
+      "name": "遁术（Abundant Step (UC)）",
       "description": "<p>&emsp;&emsp;学习此绝学的武僧可以神奇地穿行于空间中，如同法术【任意门Dimension Door】。使用该能力是一个移动动作，需消耗2点气。使用此法时武僧的施法者等级等于武僧等级。武僧无法携带其它生物一同穿行。武僧必须至少8级才能学习此绝学。</p>"
     },
     "Sun's Blessing": {
@@ -10488,7 +10488,7 @@
       "description": "<p>&emsp;&emsp;每次狂暴时1次，野蛮人可以花费一个整轮动作以正常的6倍速度移动，或是以3倍速冲锋。野蛮人必须拥有“迅足”，且达到4级才能选择此狂暴之力。</p>"
     },
     "Sprint (UC)": {
-      "name": "奋勇冲刺（Sprint (UC)）",
+      "name": "奋力冲刺（Sprint (UC)）",
       "description": "<p>&emsp;&emsp;野蛮人提升1/2的奔跑或者冲锋距离。野蛮人至少要达到4级后且拥有【迅捷脚步】才能够选择此狂暴之力。</p>"
     },
     "Fast Getaway": {
@@ -10497,7 +10497,7 @@
     },
     "Bonus Feat (MNK)": {
       "name": "奖励专长(武僧)（Bonus Feat (MNK)）",
-      "description": "<p>&emsp;&emsp;在1级，2级，和之后的每4级，武僧可以获得一个奖励专长。这些专长必须出自以下列表:</p>\n<p>&emsp;&emsp;@Compendium[pf1.feats.bZ1YdzkT8NtRIEJ4]{随手武器}, @Compendium[pf1.feats.h9nHYLxXvIXBTmup]{战斗反射}, @Compendium[pf1.feats.ACEQfonKVqh0fwkK]{拨挡飞箭}, @Compendium[pf1.feats.JreaiTHdyWFNj3Tb]{闪避}, @Compendium[pf1.feats.ZmQkRk93nbHxsQSt]{精通擒抱}, @Compendium[pf1.feats.2AfSIVge3bg8r6wr]{蝎形拳}, and @Compendium[pf1.feats.gGfXQq0IZrxdcZDx]{随手投掷}.</p>\n<p>&emsp;&emsp;6级时，以下专长可以加入表中：</p>\n<p>&emsp;&emsp;@Compendium[pf1.feats.nhUawPP4jfED3CYV]{蛇形拳}, @Compendium[pf1.feats.dn2KgHFQRbuoNRx0]{精通冲撞}, @Compendium[pf1.feats.711B9WNFgpdDKKf2]{精通卸武}, @Compendium[pf1.feats.tocde3sKG1O3GKgd]{精通虚招}, @Compendium[pf1.feats.gTrGPxzN054GfpkM]{精通绊摔}, and&nbsp;@Compendium[pf1.feats.R7L4SlGRlnThqFrP]{灵活移动}.</p>\n<p>&emsp;&emsp;10级时，以下专长可以加入表中：</p>\n<p>&emsp;&emsp;@Compendium[pf1.feats.TbOPtIL8Fv8obXtP]{精通重击}, @Compendium[pf1.feats.sOCyCmNxe2MBbEaI]{万蛇出洞}, @Compendium[pf1.feats.bHcqTC4Lf3aVl3VO]{抓取飞箭},  @Compendium[pf1.feats.ugQyUpqPBDsqLyra]{跳跃攻击}.</p>\n<p>&emsp;&emsp;武僧无须拥有这些专长的先决条件便可以选取它们。</p>"
+      "description": "<p>&emsp;&emsp;在1级，2级，和之后的每4级，武僧可以获得一个奖励专长。这些专长必须出自以下列表:</p>\n<p>&emsp;&emsp;@Compendium[pf1.feats.bZ1YdzkT8NtRIEJ4]{随手武器}, @Compendium[pf1.feats.h9nHYLxXvIXBTmup]{战斗反射}, @Compendium[pf1.feats.ACEQfonKVqh0fwkK]{拨挡飞箭}, @Compendium[pf1.feats.JreaiTHdyWFNj3Tb]{闪避}, @Compendium[pf1.feats.ZmQkRk93nbHxsQSt]{精通擒抱}, @Compendium[pf1.feats.2AfSIVge3bg8r6wr]{蝎形拳}, and @Compendium[pf1.feats.gGfXQq0IZrxdcZDx]{随手投掷}.</p>\n<p>&emsp;&emsp;6级时，以下专长可以加入表中：</p>\n<p>&emsp;&emsp;@Compendium[pf1.feats.nhUawPP4jfED3CYV]{蛇形拳}, @Compendium[pf1.feats.dn2KgHFQRbuoNRx0]{精通冲撞}, @Compendium[pf1.feats.711B9WNFgpdDKKf2]{精通卸武}, @Compendium[pf1.feats.tocde3sKG1O3GKgd]{精通虚招}, @Compendium[pf1.feats.gTrGPxzN054GfpkM]{精通摔绊}, and&nbsp;@Compendium[pf1.feats.R7L4SlGRlnThqFrP]{灵活移动}.</p>\n<p>&emsp;&emsp;10级时，以下专长可以加入表中：</p>\n<p>&emsp;&emsp;@Compendium[pf1.feats.TbOPtIL8Fv8obXtP]{精通重击}, @Compendium[pf1.feats.sOCyCmNxe2MBbEaI]{万蛇出洞}, @Compendium[pf1.feats.bHcqTC4Lf3aVl3VO]{抓取飞箭},  @Compendium[pf1.feats.ugQyUpqPBDsqLyra]{跳跃攻击}.</p>\n<p>&emsp;&emsp;武僧无须拥有这些专长的先决条件便可以选取它们。</p>"
     },
     "Bonus Feats (GUN)": {
       "name": "奖励专长 (铳士)（Bonus Feats (GUN)）",
@@ -10616,7 +10616,7 @@
       "description": "<p>&emsp;&emsp;前提：魔战士等级3</p>\n<p>&emsp;&emsp;效果：魔战士可以从【奥能力池】中花费1点奥能，将他的智力调整值加到唬骗和潜行检定上，此加值持续一分钟。</p>"
     },
     "Witch Hunter (UC)": {
-      "name": "女巫猎人（Witch Hunter (UC)）",
+      "name": "猎巫人（Witch Hunter (UC)）",
       "description": "<p>&emsp;&emsp;野蛮人对具有施法能力和类法术能力的敌人的伤害骰获得+1加值。该伤害加值每4个等级便会提升1点。另外，如果她重击确认了一名带有持续增益法术效果的敌人时，该效果将被抑制1轮。（如果敌人带有多个增益效果时则随机选择一个）。野蛮人必须拥有【神秘迷信】才能选择此狂暴之力。</p>"
     },
     "Witch's Familiar": {
@@ -10652,7 +10652,7 @@
       "description": "<p>&emsp;&emsp;野蛮人能以移动动作对一名邻接敌人进行一次威吓技能检定。如果他成功挫败对方士气，则敌人将战栗“1d4+1/野蛮人的检定结果每超过威吓DC5点”轮。</p>"
     },
     "Intimidating Glare (UC)": {
-      "name": "威吓怒视（Intimidating Glare (UC)）",
+      "name": "威吓凝视（Intimidating Glare (UC)）",
       "description": "<p>&emsp;&emsp;野蛮人将她的力量修正代替魅力修正用于所有的挫败敌人的威吓检定中。野蛮人可以以一个移动动作而不是标准动作对邻接的敌人发动挫败士气。如果野蛮人在检定中胜出，该敌人将会在其余下的狂暴时间内持续战栗。</p>"
     },
     "Aura of Menace": {
@@ -10769,7 +10769,7 @@
     },
     "Judgment": {
       "name": "审判（Judgment）",
-      "description": "<p>&emsp;&emsp;从1级开始，审判者可以用一个迅捷动作对她的敌人进行审判。当审判开始时，审判者根据使用的审判类型获得加值或者特殊能力。1级时审判者每天可以使用这个能力1次。在4级及之后每3级，审判者每天可以获得额外1次使用次数。一旦启动，这个能力持续到战斗结束，然后所有优势马上消失。审判者必须参与战斗才能获得这些优势。如果她陷入惊惧、恐慌、麻痹、震慑、昏迷，或者其他不能参与战斗的状态，该能力不会结束，但她失去审判带来的优势、直到回归到战斗中。当审判者使用该能力时，她必须选择一种审判效果。以一个迅捷动作，她可以改变审判种类。如果审判者是邪恶阵营，她得到的是亵渎加值而非神圣加值。中立阵营的审判者必须选择获得神圣加值或亵渎加值，一旦选定将无法改变。</p><ul><li>惩戒（Destruction）：审判者充满了神圣的怒火，在所有武器伤害上获得+1神圣加值。这个加值每3级审判者等级额外+1。</li><li>治疗（Healing）：审判者被治疗之光包围，获得1点快速医疗。只要审判者依然存活并且审判未结束，她就可以每轮获得1点治疗。每轮治疗量每3级审判者等级额外+1。</li><li>正义（Justice）：这个审判促使审判者寻求正义，在所有攻击上获得+1神圣加值。这个加值每5级审判者等级额外+1。10级时，当确认重击威胁时该加值加倍。</li><li>锐刺（Piercing）：这个审判让审判者强大的集中力并且让他的法术更加强大。这个审判给予专注检定及穿透法术抗力的施法者等级检定+1神圣加值。这个加值每3级审判者等级额外+1。</li><li>保护（Protection）：审判者身旁环绕着保护的光环，给予防御等级+1神圣加值。这个加值每5级审判者等级额外+1。10级时，当确认对你造成的重击威胁时该加值加倍。</li><li>纯净（Purity）：审判者对敌人的卑劣侵害获得保护，在所有豁免检定上获得+1神圣加值。这个加值每5级审判者等级额外+1。10级时，这个加值对抗诅咒、疾病和毒素时加倍。</li><li>坚韧（Resiliency）：审判者更能对抗伤害，获得伤害减免“1/魔法”。这个伤害减免每5级审判者等级额外+1。10级时，伤害减免从魔法变为审判者的对立阵营（混乱、邪恶、善良、秩序）。如果她是中立阵营，审判者不会得到该提升。</li><li>抗力（Resistance）：审判者受到一层闪烁的光环防护，获得2点能量抗力，对应的能量类型在审判开始时选择决定（强酸、寒冷、电击、火焰、音波）。这个防护每3级审判者等级额外+2。</li><li>制裁（Smiting）：审判为审判者的武器浸染神圣的光芒。审判者的武器在穿透伤害减免时视为魔法武器。6级时，审判者的武器在穿透伤害减免时同时被视为一个阵营武器（混乱、邪恶、善良、秩序）。阵营种类取决于审判者的阵营。如果审判者是中立阵营，她不会得到这个好处。10级时，审判者的武器在穿透伤害减免时视为精金武器（但不会额外减少硬度）。</li></ul>"
+      "description": "<p>&emsp;&emsp;从1级开始，审判者可以用一个迅捷动作对她的敌人进行审判。当审判开始时，审判者根据使用的审判类型获得加值或者特殊能力。1级时审判者每天可以使用这个能力1次。在4级及之后每3级，审判者每天可以获得额外1次使用次数。一旦启动，这个能力持续到战斗结束，然后所有优势马上消失。审判者必须参与战斗才能获得这些优势。如果她陷入惊惧、恐慌、麻痹、震慑、昏迷，或者其他不能参与战斗的状态，该能力不会结束，但她失去审判带来的优势、直到回归到战斗中。当审判者使用该能力时，她必须选择一种审判效果。以一个迅捷动作，她可以改变审判种类。如果审判者是邪恶阵营，她得到的是亵渎加值而非神圣加值。中立阵营的审判者必须选择获得神圣加值或亵渎加值，一旦选定将无法改变。</p><ul><li>惩戒（Destruction）：审判者充满了神圣的怒火，在所有武器伤害上获得+1神圣加值。这个加值每3级审判者等级额外+1。</li><li>治疗（Healing）：审判者被治疗之光包围，获得1点快速治疗。只要审判者依然存活并且审判未结束，她就可以每轮获得1点治疗。每轮治疗量每3级审判者等级额外+1。</li><li>正义（Justice）：这个审判促使审判者寻求正义，在所有攻击上获得+1神圣加值。这个加值每5级审判者等级额外+1。10级时，当确认重击威胁时该加值加倍。</li><li>锐刺（Piercing）：这个审判让审判者强大的集中力并且让他的法术更加强大。这个审判给予专注检定及穿透法术抗力的施法者等级检定+1神圣加值。这个加值每3级审判者等级额外+1。</li><li>保护（Protection）：审判者身旁环绕着保护的光环，给予防御等级+1神圣加值。这个加值每5级审判者等级额外+1。10级时，当确认对你造成的重击威胁时该加值加倍。</li><li>纯净（Purity）：审判者对敌人的卑劣侵害获得保护，在所有豁免检定上获得+1神圣加值。这个加值每5级审判者等级额外+1。10级时，这个加值对抗诅咒、疾病和毒素时加倍。</li><li>坚韧（Resiliency）：审判者更能对抗伤害，获得伤害减免“1/魔法”。这个伤害减免每5级审判者等级额外+1。10级时，伤害减免从魔法变为审判者的对立阵营（混乱、邪恶、善良、秩序）。如果她是中立阵营，审判者不会得到该提升。</li><li>抗力（Resistance）：审判者受到一层闪烁的光环防护，获得2点能量抗力，对应的能量类型在审判开始时选择决定（酸蚀、寒冷、电击、火焰、音波）。这个防护每3级审判者等级额外+2。</li><li>制裁（Smiting）：审判为审判者的武器浸染神圣的光芒。审判者的武器在穿透伤害减免时视为魔法武器。6级时，审判者的武器在穿透伤害减免时同时被视为一个阵营武器（混乱、邪恶、善良、秩序）。阵营种类取决于审判者的阵营。如果审判者是中立阵营，她不会得到这个好处。10级时，审判者的武器在穿透伤害减免时视为精金武器（但不会额外减少硬度）。</li></ul>"
     },
     "Sworn Defender": {
       "name": "宣誓守护者（Sworn Defender）",
@@ -10837,7 +10837,7 @@
     },
     "Order of the Seal": {
       "name": "封印骑士团（Order of the Seal）",
-      "description": "<p>&emsp;&emsp;封印骑士团是守护特定物件（例如极危险魔法物品）、地点（失落的神庙）或秘密（某地的农夫其实是皇室末裔）的隐密结社。他们是古老传统的捍卫者或是统治者的从者，守护着重大的机密。有时候为了妥善的保存和保护这些机密，他们会主动出击以找出隐藏的秘密。<br><br><strong>守则：</strong> 封印骑将必须尽他的一切守护他的职责，为了达成职责，不论他的健康、他的荣耀或是生命都可以舍弃。如果他守卫一个区域，他必须驱逐入侵者；若他守卫物品，那他得保护该物件免于偷窃，要是该物件被拿走了，他必须尽一切所能的将之寻回。<br><br><strong>挑战：</strong> 封印骑将在对他挑战目标进行全力攻击的时候，他可以用自由动作发动一次冲撞或是绊摔，以此自由动作发起的冲撞或绊摔不会引发借机攻击。<br><br><strong>技能：</strong> 封印骑将将解除装置和语言学加到他的本职技能。当他使用唬骗防止对方探出他负责的东西时，他可以在唬骗上得到相当于他骑将等级一半的加值。</p>"
+      "description": "<p>&emsp;&emsp;封印骑士团是守护特定物件（例如极危险魔法物品）、地点（失落的神庙）或秘密（某地的农夫其实是皇室末裔）的隐密结社。他们是古老传统的捍卫者或是统治者的从者，守护着重大的机密。有时候为了妥善的保存和保护这些机密，他们会主动出击以找出隐藏的秘密。<br><br><strong>守则：</strong> 封印骑将必须尽他的一切守护他的职责，为了达成职责，不论他的健康、他的荣耀或是生命都可以舍弃。如果他守卫一个区域，他必须驱逐入侵者；若他守卫物品，那他得保护该物件免于偷窃，要是该物件被拿走了，他必须尽一切所能的将之寻回。<br><br><strong>挑战：</strong> 封印骑将在对他挑战目标进行全力攻击的时候，他可以用自由动作发动一次冲撞或是摔绊，以此自由动作发起的冲撞或摔绊不会引发借机攻击。<br><br><strong>技能：</strong> 封印骑将将解除装置和语言学加到他的本职技能。当他使用唬骗防止对方探出他负责的东西时，他可以在唬骗上得到相当于他骑将等级一半的加值。</p>"
     },
     "Bit of Luck": {
       "name": "小幸运（Bit of Luck）",
@@ -10889,7 +10889,7 @@
     },
     "Stone Spirit Manifestation": {
       "name": "岩石魂域显圣（Stone Spirit Manifestation）",
-      "description": "<p>&emsp;&emsp;20级时，萨满成为大地的存在。她获得强酸抗力30。她可以在施放任何酸或土法术时，将下列之一超魔专长运用在上而无需提高法术位或增加施法时间：法术增远、法术延时、法术默发、法术定发。萨满无需习得这些专长。</p>"
+      "description": "<p>&emsp;&emsp;20级时，萨满成为大地的存在。她获得酸蚀抗力30。她可以在施放任何酸或土法术时，将下列之一超魔专长运用在上而无需提高法术位或增加施法时间：法术增远、法术延时、法术默发、法术定发。萨满无需习得这些专长。</p>"
     },
     "Stone Spirit": {
       "name": "岩石魂域（Stone Spirit）",
@@ -10961,11 +10961,11 @@
     },
     "Expert Leaper (UC)": {
       "name": "平步登天（Expert Leaper (UC)）",
-      "description": "<p>&emsp;&emsp;当具有该天赋的盗贼使用特技动作技能跳跃（jump）时，她总是被视为已经进行过助跑，而且能够将她的盗贼等级加到检定结果上。每当她故意坠落（deliberately falls）时，成功通过DC15的特技动作检定可以让她忽略前20尺的坠落高度。该次检定的结果每比DC高5点，她便可以额外忽略10尺坠落距离。</p>"
+      "description": "<p>&emsp;&emsp;当具有该天赋的盗贼使用特技技能跳跃（jump）时，她总是被视为已经进行过助跑，而且能够将她的盗贼等级加到检定结果上。每当她故意坠落（deliberately falls）时，成功通过DC15的特技检定可以让她忽略前20尺的坠落高度。该次检定的结果每比DC高5点，她便可以额外忽略10尺坠落距离。</p>"
     },
     "Expert Leaper": {
       "name": "平步登天（Expert Leaper）",
-      "description": "<p>&emsp;&emsp;当进行跳跃检定时，盗贼一直被视为处于助跑状态。此外，如果盗贼从高空坠落，她可以通过一个DC15的特技动作检定来忽视起始的20尺高度，而非通常的10尺。</p>"
+      "description": "<p>&emsp;&emsp;当进行跳跃检定时，盗贼一直被视为处于助跑状态。此外，如果盗贼从高空坠落，她可以通过一个DC15的特技检定来忽视起始的20尺高度，而非通常的10尺。</p>"
     },
     "Luck Blessing: Lucky Presence": {
       "name": "幸哉我友（Luck Blessing: Lucky Presence）",
@@ -11077,7 +11077,7 @@
     },
     "Aberrant Bloodline": {
       "name": "异怪血统（Aberrant Bloodline）",
-      "description": "<p>&emsp;&emsp;<em>在你的血统中，有一个外来和怪异的污点。你趋向于使用奇怪的方式思考，从大多数人所不希望的角度接近问题。随着时间的推移，这个污点在你的外形上得以显现。</em></p>\n<p>&emsp;&emsp;<strong>本职技能:</strong>&nbsp;知识（地城）</p>\n<p>&emsp;&emsp;<strong>奖励法术: </strong></p>\n<ul>\n<li>@Compendium[pf1.spells.jnlr9cuepka1l26e]{变巨术}&nbsp;(3rd),</li>\n<li>@Compendium[pf1.spells.nokru6mxk9p3r513]{识破隐形}&nbsp;(5th),</li>\n<li>@Compendium[pf1.spells.m1rmcpcaixcpz9ib]{巧言术}(7th),</li>\n<li>@Compendium[pf1.spells.wralcmyi4tdcai24]{黑触手}&nbsp;(9th),</li>\n<li>@Compendium[pf1.spells.66vvhyiy5q8yzbq2]{弱智术}(11th),</li>\n<li>@Compendium[pf1.spells.fxwycv6d7xwzua4t]{隐匿之纱} (13th),</li>\n<li>@Compendium[pf1.spells.q3st18udsalnyz5v]{异界传送}&nbsp;(15th),</li>\n<li>@Compendium[pf1.spells.blvetbc929cfx4m8]{心灵屏障}&nbsp;(17th),</li>\n<li>@Compendium[pf1.spells.n3lp01euzcdmtbw5]{形体变化}&nbsp;(19th).</li>\n</ul>\n<p>&emsp;&emsp;<strong>奖励专长： </strong></p>\n<ul>\n<li>@Compendium[pf1.feats.u7rGDZUL296QIuA0]{战斗施法},</li>\n<li>@Compendium[pf1.feats.711B9WNFgpdDKKf2]{精通卸武},</li>\n<li>@Compendium[pf1.feats.ZmQkRk93nbHxsQSt]{精通擒抱},</li>\n<li>@Compendium[pf1.feats.Uuiu3p982omhMEPj]{精通先攻},</li>\n<li>@Compendium[pf1.feats.2aTFNMs3pW6nUBlr]{精通徒手击打},</li>\n<li>@Compendium[pf1.feats.iAbIGhm7T2OK9Brt]{钢铁意志},</li>\n<li>@Compendium[pf1.feats.2YuxcUNFMPNBpekG]{法术默发},</li>\n<li>@Compendium[pf1.feats.7zJTztNW7hdaqjKc]{技能专攻}&nbsp;(知识&nbsp;：地城).</li>\n</ul>\n<p>&emsp;&emsp;<a name=\"TOC-Bloodline-Arcana\"></a><strong>血统奥秘:</strong> 当你施展一个“变形”子学派的法术，该法术延续时间增加50%（至少为1轮）。这项奖励不能与 @Compendium[pf1.feats.btXWioB3SKJv8YEG]{法术延时}&nbsp;专长叠加</p>"
+      "description": "<p>&emsp;&emsp;<em>在你的血统中，有一个外来和怪异的污点。你趋向于使用奇怪的方式思考，从大多数人所不希望的角度接近问题。随着时间的推移，这个污点在你的外形上得以显现。</em></p>\n<p>&emsp;&emsp;<strong>本职技能:</strong>&nbsp;知识（地城）</p>\n<p>&emsp;&emsp;<strong>奖励法术: </strong></p>\n<ul>\n<li>@Compendium[pf1.spells.jnlr9cuepka1l26e]{变巨术}&nbsp;(3rd),</li>\n<li>@Compendium[pf1.spells.nokru6mxk9p3r513]{识破隐形}&nbsp;(5th),</li>\n<li>@Compendium[pf1.spells.m1rmcpcaixcpz9ib]{巧言术}(7th),</li>\n<li>@Compendium[pf1.spells.wralcmyi4tdcai24]{黑触手}&nbsp;(9th),</li>\n<li>@Compendium[pf1.spells.66vvhyiy5q8yzbq2]{弱智术}(11th),</li>\n<li>@Compendium[pf1.spells.fxwycv6d7xwzua4t]{隐匿之纱} (13th),</li>\n<li>@Compendium[pf1.spells.q3st18udsalnyz5v]{异界传送}&nbsp;(15th),</li>\n<li>@Compendium[pf1.spells.blvetbc929cfx4m8]{心灵屏障}&nbsp;(17th),</li>\n<li>@Compendium[pf1.spells.n3lp01euzcdmtbw5]{形体变化}&nbsp;(19th).</li>\n</ul>\n<p>&emsp;&emsp;<strong>奖励专长： </strong></p>\n<ul>\n<li>@Compendium[pf1.feats.u7rGDZUL296QIuA0]{战斗施法},</li>\n<li>@Compendium[pf1.feats.711B9WNFgpdDKKf2]{精通卸武},</li>\n<li>@Compendium[pf1.feats.ZmQkRk93nbHxsQSt]{精通擒抱},</li>\n<li>@Compendium[pf1.feats.Uuiu3p982omhMEPj]{精通先攻},</li>\n<li>@Compendium[pf1.feats.2aTFNMs3pW6nUBlr]{精通徒手打击},</li>\n<li>@Compendium[pf1.feats.iAbIGhm7T2OK9Brt]{钢铁意志},</li>\n<li>@Compendium[pf1.feats.2YuxcUNFMPNBpekG]{法术默发},</li>\n<li>@Compendium[pf1.feats.7zJTztNW7hdaqjKc]{技能专攻}&nbsp;(知识&nbsp;：地城).</li>\n</ul>\n<p>&emsp;&emsp;<a name=\"TOC-Bloodline-Arcana\"></a><strong>血统奥秘:</strong> 当你施展一个“变形”子学派的法术，该法术延续时间增加50%（至少为1轮）。这项奖励不能与 @Compendium[pf1.feats.btXWioB3SKJv8YEG]{法术延时}&nbsp;专长叠加</p>"
     },
     "Abnormal Reach": {
       "name": "异怪触及（Abnormal Reach）",
@@ -11117,7 +11117,7 @@
     },
     "Mighty Charge": {
       "name": "强力冲锋（Mighty Charge）",
-      "description": "<p>&emsp;&emsp;11级时，骑将学会在冲锋时进行威力巨大的攻击。骑乘冲锋时，所持武器的重击威胁范围翻倍。这一效果不与其他增加重击威胁范围的效果叠加。此外，如果冲锋命中，骑将可以进行一个额外的战技，这包括冲撞、卸武、破武或绊摔。额外的战技不会引发藉机攻击。</p>"
+      "description": "<p>&emsp;&emsp;11级时，骑将学会在冲锋时进行威力巨大的攻击。骑乘冲锋时，所持武器的重击威胁范围翻倍。这一效果不与其他增加重击威胁范围的效果叠加。此外，如果冲锋命中，骑将可以进行一个额外的战技，这包括冲撞、卸武、击破或摔绊。额外的战技不会引发藉机攻击。</p>"
     },
     "Strong Stroke": {
       "name": "强力划水（Strong Stroke）",
@@ -11185,15 +11185,15 @@
     },
     "Touch of Acid": {
       "name": "强酸之触（Touch of Acid）",
-      "description": "<p>&emsp;&emsp;以一个标准动作，萨满进行一次近战接触攻击造成1d6+每2萨满等级1点的强酸伤害。该能力每日使用次数为3+萨满魅力调整值。11级时，萨满持用的武器被视为拥有酸蚀UE武器特殊能力。</p>"
+      "description": "<p>&emsp;&emsp;以一个标准动作，萨满进行一次近战接触攻击造成1d6+每2萨满等级1点的酸蚀伤害。该能力每日使用次数为3+萨满魅力调整值。11级时，萨满持用的武器被视为拥有酸蚀UE武器特殊能力。</p>"
     },
     "Acid Bomb": {
       "name": "强酸炸弹（Acid Bomb）",
-      "description": "<p>&emsp;&emsp;当炼金术师制作炼金炸弹时，他可以选择让它造成强酸伤害替代火焰伤害。受到强酸炸弹直接命中的生物会在1轮后受到1d6点额外强酸伤害。</p>"
+      "description": "<p>&emsp;&emsp;当炼金术师制作炼金炸弹时，他可以选择让它造成酸蚀伤害替代火焰伤害。受到强酸炸弹直接命中的生物会在1轮后受到1d6点额外酸蚀伤害。</p>"
     },
     "Acid Dart (WIZ)": {
-      "name": "强酸镖(法师)（Acid Dart (WIZ)）",
-      "description": "<p>&emsp;&emsp;你能通过一个标准动作释放一道强酸飞镖，通过一次远程接触攻击30尺以内的任何敌人。此强酸镖造成“1d6+1/2法师等级”强酸伤害。你每天可以使用此能力次数为“3+智力修正”。此攻击无视法术抗力。</p>"
+      "name": "酸蚀镖(法师)（Acid Dart (WIZ)）",
+      "description": "<p>&emsp;&emsp;你能通过一个标准动作释放一道强酸飞镖，通过一次远程接触攻击30尺以内的任何敌人。此酸蚀镖造成“1d6+1/2法师等级”酸蚀伤害。你每天可以使用此能力次数为“3+智力修正”。此攻击无视法术抗力。</p>"
     },
     "Portents Patron": {
       "name": "征兆庇护主（Portents Patron）",
@@ -11220,12 +11220,12 @@
       "description": "<p>&emsp;&emsp;在8级时，你可以令接触到的一把武器获得“秩序”附魔，持续轮数等于你的牧师等级的一半。在8级时你可以每日使用1次本能力，之后每4级再多1次每日可用次数。</p>"
     },
     "Unarmed Strike (BRA)": {
-      "name": "徒手击打(拳师)（Unarmed Strike (BRA)）",
-      "description": "<p>&emsp;&emsp;一级时，拳师获得精通徒手击打专长为额外专长。拳师的攻击可以用双拳，也可以用肘击，膝撞，或脚踢。这意味着拳师甚至可以在双手都满着的情况下进行徒手攻击。对拳师的徒手击打来说，没有副手攻击这个概念。拳师可以将她全部的力量加值加在所有的徒手击打上。</p><p>&emsp;&emsp;通常拳师的徒手击打造成的是致命伤害，不过他也可以选择造成非致命伤害而不必受到任何攻击检定减值。在发动擒抱时他同样可以自由选择造成何种伤害。</p><p>&emsp;&emsp;在计算修改人工武器或天生武器的法术与效果时，拳师的徒手击打既视为人工武器又视为天生武器。</p><p>&emsp;&emsp;拳师的徒手击打能造成比普通人更多的伤害，见表：拳师。该表中的徒手攻击伤害为中体型拳师的数值，小体型拳师造成的伤害较少，大体型拳师则能造成较多的伤害，见表：小体型和大体型拳师徒手攻击。</p><p>&emsp;&emsp;等级 伤害（小体型） 伤害（大体型）</p><p>&emsp;&emsp;1-3     1d4            1d8</p><p>&emsp;&emsp;4-7     1d6            2d6</p><p>&emsp;&emsp;8-11    1d8            2d8</p><p>&emsp;&emsp;12-15   1d10           3d6</p><p>&emsp;&emsp;16-19   2d6            3d8</p><p>&emsp;&emsp;20      2d8            4d8</p>"
+      "name": "徒手打击(拳师)（Unarmed Strike (BRA)）",
+      "description": "<p>&emsp;&emsp;一级时，拳师获得精通徒手打击专长为额外专长。拳师的攻击可以用双拳，也可以用肘击，膝撞，或脚踢。这意味着拳师甚至可以在双手都满着的情况下进行徒手攻击。对拳师的徒手打击来说，没有副手攻击这个概念。拳师可以将她全部的力量加值加在所有的徒手打击上。</p><p>&emsp;&emsp;通常拳师的徒手打击造成的是致命伤害，不过他也可以选择造成非致命伤害而不必受到任何攻击检定减值。在发动擒抱时他同样可以自由选择造成何种伤害。</p><p>&emsp;&emsp;在计算修改人工武器或天生武器的法术与效果时，拳师的徒手打击既视为人工武器又视为天生武器。</p><p>&emsp;&emsp;拳师的徒手打击能造成比普通人更多的伤害，见表：拳师。该表中的徒手攻击伤害为中体型拳师的数值，小体型拳师造成的伤害较少，大体型拳师则能造成较多的伤害，见表：小体型和大体型拳师徒手攻击。</p><p>&emsp;&emsp;等级 伤害（小体型） 伤害（大体型）</p><p>&emsp;&emsp;1-3     1d4            1d8</p><p>&emsp;&emsp;4-7     1d6            2d6</p><p>&emsp;&emsp;8-11    1d8            2d8</p><p>&emsp;&emsp;12-15   1d10           3d6</p><p>&emsp;&emsp;16-19   2d6            3d8</p><p>&emsp;&emsp;20      2d8            4d8</p>"
     },
     "Unarmed Strike": {
       "name": "徒手打击（Unarmed Strike）",
-      "description": "<p>&emsp;&emsp;1级时，武僧获得 @Compendium[pf1.feats.2aTFNMs3pW6nUBlr]{精通徒手击打}&nbsp; 武僧的攻击可以用双拳，也可以用肘、膝、或脚。这意味着武僧甚至可以在双手都满着的情况下进行徒手攻击。对武僧的徒手攻击来说，没有副手攻击这个概念。武僧可以将其完整的力量加值加在所有的徒手攻击上。.</p>\n<p>&emsp;&emsp;通常武僧的徒手攻击造成的是正常伤害，不过他也可以选择造成非致命伤害而不必受到任何命中减值。在擒抱时他同样可以选择造成何种伤害。</p>\n<p>&emsp;&emsp;在考虑增强人工武器或天生武器的法术和效果时，武僧的徒手攻击既视为人工武器又视为天生武器。</p>\n<p>&emsp;&emsp;武僧的徒手打击能造成比普通人更多的伤害，见上表。该表中的徒手攻击伤害为中体型武僧的数值，小体型武僧造成的伤害较少，大体型武僧则能造成较多的伤害。</p>\n<hr>\n<div>\n<table border=\"1\" cellpadding=\"5\"><caption><strong>表格：小体型和大体型武僧的徒手伤害</strong></caption>\n<thead>\n<tr>\n<th>等级</th>\n<th>伤害（小体型）</th>\n<th>伤害（大体型）</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1-3</td>\n<td>1d4</td>\n<td>1d8</td>\n</tr>\n<tr>\n<td>4-7</td>\n<td>1d6</td>\n<td>2d6</td>\n</tr>\n<tr>\n<td>8-11</td>\n<td>1d8</td>\n<td>2d8</td>\n</tr>\n<tr>\n<td>12-15</td>\n<td>1d10</td>\n<td>3d6</td>\n</tr>\n<tr>\n<td>16-19</td>\n<td>2d6</td>\n<td>3d8</td>\n</tr>\n<tr>\n<td>20</td>\n<td>2d8</td>\n<td>4d8</td>\n</tr>\n</tbody>\n</table>\n</div>"
+      "description": "<p>&emsp;&emsp;1级时，武僧获得 @Compendium[pf1.feats.2aTFNMs3pW6nUBlr]{精通徒手打击}&nbsp; 武僧的攻击可以用双拳，也可以用肘、膝、或脚。这意味着武僧甚至可以在双手都满着的情况下进行徒手攻击。对武僧的徒手攻击来说，没有副手攻击这个概念。武僧可以将其完整的力量加值加在所有的徒手攻击上。.</p>\n<p>&emsp;&emsp;通常武僧的徒手攻击造成的是正常伤害，不过他也可以选择造成非致命伤害而不必受到任何命中减值。在擒抱时他同样可以选择造成何种伤害。</p>\n<p>&emsp;&emsp;在考虑增强人工武器或天生武器的法术和效果时，武僧的徒手攻击既视为人工武器又视为天生武器。</p>\n<p>&emsp;&emsp;武僧的徒手打击能造成比普通人更多的伤害，见上表。该表中的徒手攻击伤害为中体型武僧的数值，小体型武僧造成的伤害较少，大体型武僧则能造成较多的伤害。</p>\n<hr>\n<div>\n<table border=\"1\" cellpadding=\"5\"><caption><strong>表格：小体型和大体型武僧的徒手伤害</strong></caption>\n<thead>\n<tr>\n<th>等级</th>\n<th>伤害（小体型）</th>\n<th>伤害（大体型）</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1-3</td>\n<td>1d4</td>\n<td>1d8</td>\n</tr>\n<tr>\n<td>4-7</td>\n<td>1d6</td>\n<td>2d6</td>\n</tr>\n<tr>\n<td>8-11</td>\n<td>1d8</td>\n<td>2d8</td>\n</tr>\n<tr>\n<td>12-15</td>\n<td>1d10</td>\n<td>3d6</td>\n</tr>\n<tr>\n<td>16-19</td>\n<td>2d6</td>\n<td>3d8</td>\n</tr>\n<tr>\n<td>20</td>\n<td>2d8</td>\n<td>4d8</td>\n</tr>\n</tbody>\n</table>\n</div>"
     },
     "Spiritual Shield": {
       "name": "御亡之盾（Spiritual Shield）",
@@ -11292,7 +11292,7 @@
       "description": "<p>&emsp;&emsp;拥有这一天赋的盗贼在进行察觉检定来偷听某个隐秘对话或是察觉某项暗桩机关时（例如暗门或陷阱）获得+4加值。</p>"
     },
     "Clear Mind (UC)": {
-      "name": "心若明镜（Clear Mind (UC)）",
+      "name": "心如坚钢（Clear Mind (UC)）",
       "description": "<p>&emsp;&emsp;当野蛮人在意志豁免检定中失败，她可以尝试在她下个回合结束时进行第二次意志豁免检定（仍然使用原先的DC）。如果第二次检定成功，则被视为在第一次检定中成功一样来减少或避免减益效果。如果第二次检定失败则野蛮人要承受全部的减益效果。野蛮人至少要达到第8级后才能选择此狂暴之力。</p>"
     },
     "Ninja Trick": {
@@ -11313,7 +11313,7 @@
     },
     "Unarmed Combat Training": {
       "name": "忍法 · 唐手（Unarmed Combat Training）",
-      "description": "<p>&emsp;&emsp;选择此忍术的忍者获得“精通徒手击打”作为奖励专长。</p>"
+      "description": "<p>&emsp;&emsp;选择此忍术的忍者获得“精通徒手打击”作为奖励专长。</p>"
     },
     "Darkvision": {
       "name": "忍法 · 天瞳（Darkvision）",
@@ -11332,7 +11332,7 @@
       "description": "<p>&emsp;&emsp;此忍术允许忍者创造一个自己的幻影分身，该分身会向远离她移动，使得忍者能够扰乱对方。当她使用本能力时，一个幻影分身会出现并从忍者处朝着某个方向远离移动。分身会攀过墙壁，跳过坑洞，或是简单地通过障碍物，以忍者基本速度的两倍朝着忍者使用该能力时所指示的方向前进。其路线无法变更。分身会持续每忍者等级1轮时间。那些接触分身的人可以进行意志豁免检定来意识到虚假，豁免DC为“10+1/2忍者等级+魅力修正”。忍者可以每日免费使用本能力1次，每额外次数花费1点气。忍者必须拥有【忍法 · 幻身】方可选择本忍术。</p>"
     },
     "Feat (NIN)": {
-      "name": "忍法 · 心技体（Feat (NIN)）",
+      "name": "专长（Feat (NIN)）",
       "description": "<p>&emsp;&emsp;忍者可以在满足需求下选择获得任何专长代替忍术。</p>"
     },
     "See the Unseen": {
@@ -11340,7 +11340,7 @@
       "description": "<p>&emsp;&emsp;拥有本忍术的忍者习得如何看到不可视的存在。以一个迅捷动作，忍者可以施展‘识破隐形’，使用其等级作为施法者等级。忍者可以每日免费使用此能力1次，每额外次数花费1点气。</p>"
     },
     "Evasion (NIN)": {
-      "name": "忍法 · 无常步（Evasion (NIN)）",
+      "name": "反射闪避（Evasion (NIN)）",
       "description": "<p>&emsp;&emsp;忍者可以以高超的敏捷避开魔法和特殊攻击。她在对抗若通过反射检定可以减少一半伤害的攻击时，通过检定则不会受到伤害。只有在穿戴轻甲或不穿甲时才可以使用本忍术。无助状态下的忍者不能获得本忍术的收益。</p>"
     },
     "Evasion": {
@@ -11400,7 +11400,7 @@
       "description": "<p>&emsp;&emsp;选择此忍术的忍者获得“拨挡飞箭”作为奖励专长。忍者必须拥有【忍法 · 唐手】才能选择本忍术。</p>"
     },
     "Rogue Talent": {
-      "name": "忍法 · 身合（Rogue Talent）",
+      "name": "盗贼天赋（Rogue Talent）",
       "description": "<p>&emsp;&emsp;忍者可以选择一项盗贼天赋代替忍术。忍者不能选择与忍术同名的盗贼天赋。</p>"
     },
     "Acrobatic Master": {
@@ -11412,7 +11412,7 @@
       "description": "<p>&emsp;&emsp;忍者可以如同使用‘羽落术’般降低其下落速度。本能力使用忍者等级作为施法者等级。使用本能力为直觉动作。忍者可以免费每日使用本能力1次，额外使用1次花费1点气。</p>"
     },
     "Smoke Bomb (NIN)": {
-      "name": "忍法 · 迷踪（Smoke Bomb (NIN)）",
+      "name": "烟雾弹（Smoke Bomb (NIN)）",
       "description": "<p>&emsp;&emsp;本能力允许忍者投掷一枚烟雾弹制造一团15尺半径的烟雾。这类似于烟雾棒发烟。忍者可以将自己定为烟雾的中心，或是以20尺射程进行远程接触攻击投掷烟雾弹。使用本能力为标准动作。忍者可以每日免费使用本能力1次，每额外次数需花费1点气。</p>"
     },
     "Vanishing Trick": {
@@ -11452,11 +11452,11 @@
       "description": "<p>&emsp;&emsp;2级时，游荡剑客学会了怎么避免麻烦。每天3次，在尝试进行一次豁免检定前，用一个直觉动作，游荡剑客可以将自己的魅力加值加到豁免结果上。她必须在投骰之前决定使用这个能力，并且每次进行豁免只能使用一次这种能力。在6级和之后的每4级，游荡剑客会获得1次额外的该能力使用次数（18级时最大每天7次）"
     },
     "Healing Blessing: Fast Healing": {
-      "name": "快速医疗（Healing Blessing: Fast Healing）",
-      "description": "<p>&emsp;&emsp;在10级时，以一个标准动作你可以通过接触一个盟友为他在一分钟内提供快速医疗3。</p>"
+      "name": "快速治疗（Healing Blessing: Fast Healing）",
+      "description": "<p>&emsp;&emsp;在10级时，以一个标准动作你可以通过接触一个盟友为他在一分钟内提供快速治疗3。</p>"
     },
     "Quick Healing": {
-      "name": "快速医疗（Quick Healing）",
+      "name": "快速治疗（Quick Healing）",
       "description": "<p>&emsp;&emsp;萨满可以呼唤生命精魂来加速治疗。该能力使得萨满可以用迅捷动作来引导正能量或施放治疗法术。该能力每日使用次数为萨满魅力调整值。</p>"
     },
     "Quick Retort": {
@@ -11464,7 +11464,7 @@
       "description": "<p>&emsp;&emsp;15级起，骑士能够严厉打击那些对他保护的目标图谋不轨的人。每当有生物攻击骑士护卫的物件，尝试盗取、破坏或者以其他方式从骑士和骑士的盟友手中夺取护卫物件的控制权时，进行攻击的生物会引起骑士的借机攻击。骑士在对抗这些生物的借机攻击中获得+2加值。</p>"
     },
     "Quick Reflexes (UC)": {
-      "name": "快速反射（Quick Reflexes (UC)）",
+      "name": "超速反射（Quick Reflexes (UC)）",
       "description": "<p>&emsp;&emsp;&emps;&emsp;野蛮人可以每回合额外进行一次藉机攻击。</p>"
     },
     "Whirlwind Lesson": {
@@ -11501,7 +11501,7 @@
     },
     "Fast Tumble": {
       "name": "快速翻滚（Fast Tumble）",
-      "description": "<p>&emsp;&emsp;拥有这一天赋的盗贼在以特技动作全速翻滚越过敌人占据的方格时且不造成藉机攻击，这一特技检定的DC减少10。</p>"
+      "description": "<p>&emsp;&emsp;拥有这一天赋的盗贼在以特技全速翻滚越过敌人占据的方格时且不造成藉机攻击，这一特技检定的DC减少10。</p>"
     },
     "Quick Disable (UC)": {
       "name": "快速解除（Quick Disable (UC)）",
@@ -11517,11 +11517,11 @@
     },
     "Oracular Spellstrike": {
       "name": "忿怒法（Oracular Spellstrike）",
-      "description": "<p>&emsp;&emsp;结合神术与徒手击打武技的精要，你可以通过自己的拳脚快速传导法术攻击。这个启示与魔战士的法术打击能力相同，但你只能使用徒手击打攻击来传递法术，无论你是否拥有其他能力都是如此。除此之外，你使用牧师法术列表中的法术而不是魔战士法术列表中的法术来使用法术打击。你必须达到7级才能选择本启示。</p>"
+      "description": "<p>&emsp;&emsp;结合神术与徒手打击武技的精要，你可以通过自己的拳脚快速传导法术攻击。这个启示与魔战士的法术打击能力相同，但你只能使用徒手打击攻击来传递法术，无论你是否拥有其他能力都是如此。除此之外，你使用牧师法术列表中的法术而不是魔战士法术列表中的法术来使用法术打击。你必须达到7级才能选择本启示。</p>"
     },
     "Terrifying Howl": {
-      "name": "怖惧狂嚎（Terrifying Howl）",
-      "description": "<p>&emsp;&emsp;以一个标准动作，野蛮人能自口中爆出一声震人心魄的狂嚎声。30尺内的所有已战栗的敌人必须进行一次DC为“10+1/2野蛮人等级+力量修正”的意志豁免，失败者将恐慌“1d4+1”轮。当敌人对你的【怖惧狂嚎】进行过检定（无论成功通过与否），则它在接下来的24小时内都将免疫此效果。野蛮人必须先拥有【威吓凝视】且至少8级才能选取此狂暴之力。</p>"
+      "name": "惊骇狂嚎（Terrifying Howl）",
+      "description": "<p>&emsp;&emsp;以一个标准动作，野蛮人能自口中爆出一声震人心魄的狂嚎声。30尺内的所有已战栗的敌人必须进行一次DC为“10+1/2野蛮人等级+力量修正”的意志豁免，失败者将恐慌“1d4+1”轮。当敌人对你的【惊骇狂嚎】进行过检定（无论成功通过与否），则它在接下来的24小时内都将免疫此效果。野蛮人必须先拥有【威吓凝视】且至少8级才能选取此狂暴之力。</p>"
     },
     "Thought Subdomain": {
       "name": "思想子域（Thought Subdomain）",
@@ -11661,7 +11661,7 @@
     },
     "Linnorm Death Curse, Tarn": {
       "name": "恶龙咒－池（Linnorm Death Curse, Tarn）",
-      "description": "<p>&emsp;&emsp;角色呼唤天池蛇龙的力量附着己身，他的近战攻击可以造成额外1点强酸伤害。如果角色失去意识或被一次攻击或法术杀死，他的对手立刻遭受恶龙诅咒的攻击（意志通过则无效）角色必须达到8级才能选择本狂暴之力。</p>\n<p>&emsp;&emsp;死亡诅咒：豁免检定：意志豁免DC=10+1/2角色等级+角色的魅力调整值；效果：目标无法被医疗魔法影响，也不能获得自然恢复。</p>"
+      "description": "<p>&emsp;&emsp;角色呼唤天池蛇龙的力量附着己身，他的近战攻击可以造成额外1点酸蚀伤害。如果角色失去意识或被一次攻击或法术杀死，他的对手立刻遭受恶龙诅咒的攻击（意志通过则无效）角色必须达到8级才能选择本狂暴之力。</p>\n<p>&emsp;&emsp;死亡诅咒：豁免检定：意志豁免DC=10+1/2角色等级+角色的魅力调整值；效果：目标无法被医疗魔法影响，也不能获得自然恢复。</p>"
     },
     "Canine Ferocity": {
       "name": "悍犬（Canine Ferocity）",
@@ -11673,7 +11673,7 @@
     },
     "Life Anchor": {
       "name": "悬命者（Life Anchor）",
-      "description": "<p>&emsp;&emsp;你持续散发出半径10尺的灵光，将范围内即将离世的魂魄钉在原地。在此灵光的范围内，任何濒死的生物（包括你）都可以将你的感知调整值加到伤势稳定检定上（可以与其他所有调整伤势稳定检定的加值叠加）。</p>"
+      "description": "<p>&emsp;&emsp;你持续散发出半径10尺的灵光，将范围内即将离世的魂魄钉在原地。在此灵光的范围内，任何濒死的生物（包括你）都可以将你的感知调整值加到稳定检定上（可以与其他所有调整稳定检定的加值叠加）。</p>"
     },
     "Shape Emotions": {
       "name": "情感塑型（Shape Emotions）",
@@ -11720,7 +11720,7 @@
       "description": "<p>&emsp;&emsp;以一个标准动作，你能对一个在前一轮伤害过你的生物施展强化法术。这法术获得施法等级+1。该法术必须针对伤害你的敌人，范围法术无法适用。你每天使用该能力的次数等于3+感知加值。此能力取代秩序领域的秩序之触能力。</p>"
     },
     "Unexpected Strike (UC)": {
-      "name": "意外之击（Unexpected Strike (UC)）",
+      "name": "诡击（Unexpected Strike (UC)）",
       "description": "<p>&emsp;&emsp;野蛮人可以对移动进他威胁范围内的敌人进行藉机攻击，无论该移动是否会正常的引发藉机攻击。野蛮人只有在她的威胁范围内没有其他敌人时才能使用此能力。野蛮人至少要达到8级才能选择此狂暴之力。</p>"
     },
     "Strength Blessing: Strength of Will": {
@@ -11736,7 +11736,7 @@
       "description": "<p>&emsp;&emsp;你可以用一个标准动作猛烈的钻刺100尺内一个敌人的心智。目标必须进行一次意志检定，成功的话他将不会受影响，同时也知道有人再恶意钻探他的心灵。检定失败的生物将会受到每先知等级1d4点的伤害。在心灵钻探成功之后，你可以用一个整轮动作偷取对方混乱的思绪和记忆。你能以对方的知识检定加值进行一次知识检定，这些被盗取的记忆将会留在你的心中持续相当于你魅力修正的轮数。透过这个方式取得的信息如同“侦测思想”。你每天可以使用此能力1次，5级与之后的每5级再额外获得1次。</p>"
     },
     "Brain Drain (SHA)": {
-      "name": "意识钻探(萨满)（Brain Drain (SHA)）",
+      "name": "意识钻刺(萨满)（Brain Drain (SHA)）",
       "description": "<p>&emsp;&emsp;以一个标准动作你可以猛烈钻刺30尺内一个智慧生物的心智。目标可以尝试意志豁免来避免该效果。若豁免成功，目标会立刻得知该心灵钻探的源头；如失败，她会因疼痛而受到每2萨满等级1d4点伤害。豁免失败后，萨满可以用一个整轮动作偷取对方混乱的思绪和记忆。你能以对方的知识检定加值进行一次知识检定。这些被随机盗取来的记忆会留在你心中的轮数等于萨满魅力调整值（最低为1），透过该方式取得的记忆如同法术侦测思想的效果。这是一个影响心灵的效果。当你成功用该能力影响目标后，目标24小时内无法被再次使用该巫术。</p>"
     },
     "Infected Wounds": {
@@ -11805,10 +11805,10 @@
     },
     "Maneuver Mastery": {
       "name": "战技熟稔（Maneuver Mastery）",
-      "description": "<p>&emsp;&emsp;选择一种类型的战技。当使用你选择的战技时，将你的先知等级当做你的基本攻击加值计算战技加值。7级你获得精通专长（例如“精通绊摔”）以给你的战术提供加值。11级你获得高级专长（例如“高级绊摔”）给你的战术进一步提供加值。你不需要达到这类专长的先决条件。</p>"
+      "description": "<p>&emsp;&emsp;选择一种类型的战技。当使用你选择的战技时，将你的先知等级当做你的基本攻击加值计算战技加值。7级你获得精通专长（例如“精通摔绊”）以给你的战术提供加值。11级你获得高级专长（例如“高级摔绊”）给你的战术进一步提供加值。你不需要达到这类专长的先决条件。</p>"
     },
     "Maneuver Mastery (MAG)": {
-      "name": "战技精通(魔战士)（Maneuver Mastery (MAG)）",
+      "name": "战技熟稔(魔战士)（Maneuver Mastery (MAG)）",
       "description": "<p>&emsp;&emsp;前提：魔战士等级3</p>\n<p>&emsp;&emsp;效果：魔战士在选择本奥能时需选择一项战技。每当他尝试该战技时，他用他的魔战士等级作为其基本攻击加值（与其他职业带来的基本攻击加值合计）。</p>\n<p>&emsp;&emsp;特殊：魔战士可以多次选择本奥能，效果不叠加。每次选择此奥能时，魔战士需选择一种新的战技。</p>"
     },
     "Animal Blessing: Battle Companion": {
@@ -11964,7 +11964,7 @@
       "description": "<p>&emsp;&emsp;盗贼对于特定技能的使用无比自信，即使在不利条件下也能够稳定地使用。获得此能力后，她选择“3+智力修正”数量的技能。当使用这些技能时，即使在压力下和分心时也能够在检定中取10。盗贼可以多次选择此能力，每次选择不同的技能。</p>"
     },
     "Skill Mastery (UC)": {
-      "name": "技艺精湛（Skill Mastery (UC)）",
+      "name": "技能专精（Skill Mastery (UC)）",
       "description": "<p>&emsp;&emsp;盗贼对于某个技能使用变得得心应手，即便在不利的环境中也能可靠地使用技能。盗贼选择数量相当于她的智力调整值个技能。当盗贼使用她所选择的技能进行技能检定时（或者任何通过盗贼绝艺职业能力选择的技能），即便承受压力和会分心这样通常无法取10的环境下，也可以取10。盗贼可以多次选取该项特殊能力，每次选取技艺精湛高等天赋时，都要选择额外的技能受到该项天赋的影响。</p>"
     },
     "Cutting Edge (UC)": {
@@ -12041,7 +12041,7 @@
     },
     "Maneuver Training (BRA)": {
       "name": "招式训练(拳师)（Maneuver Training (BRA)）",
-      "description": "<p>&emsp;&emsp;在3级时，拳师可以选择一项战技能力以进行额外的练习，她将在使用这项战技攻击的CMB和对抗这项战技的CMD上获得+1加值。</p><p>&emsp;&emsp;在第7级以及之后每4级时，拳师可以选择继续精进另一项战技，并且在这项战技上的CMB和CMD上获得+1加值。除此之外，她在已经受训过的战技上还会再获得+1加值。举例来说，当一个拳师在3级时选择了精进擒抱战技，并在7级时选择了精进破武战技，那么在7级时，她擒抱CMB和CMD拥有+2加值，破武则有+1加值；如果在11级时她选择精进冲撞战技，那么她拥有的加值则成为：擒抱+3，破武+2，冲撞+1。</p>"
+      "description": "<p>&emsp;&emsp;在3级时，拳师可以选择一项战技能力以进行额外的练习，她将在使用这项战技攻击的CMB和对抗这项战技的CMD上获得+1加值。</p><p>&emsp;&emsp;在第7级以及之后每4级时，拳师可以选择继续精进另一项战技，并且在这项战技上的CMB和CMD上获得+1加值。除此之外，她在已经受训过的战技上还会再获得+1加值。举例来说，当一个拳师在3级时选择了精进擒抱战技，并在7级时选择了精进击破战技，那么在7级时，她擒抱CMB和CMD拥有+2加值，击破则有+1加值；如果在11级时她选择精进冲撞战技，那么她拥有的加值则成为：擒抱+3，击破+2，冲撞+1。</p>"
     },
     "Maneuver Training": {
       "name": "招式训练（Maneuver Training）",
@@ -12056,7 +12056,7 @@
       "description": "<p>&emsp;&emsp;前提：魔战士等级6</p>\n<p>&emsp;&emsp;效果：当魔战士使用【奥能力池】强化武器时，他可以额外花费一点奥能让强化的持续时间增加到每个魔战士等级一分钟。</p>"
     },
     "Lasting Poison (UC)": {
-      "name": "持久毒药（Lasting Poison (UC)）",
+      "name": "毒性持续（Lasting Poison (UC)）",
       "description": "<p>&emsp;&emsp;具有该天赋的盗贼能够以另一种方式涂毒，如此涂毒可以在多次成功的攻击中生效，生效次数等同于她的敏捷调整值（最低2次）而非正常的1次。这种毒素的效果变弱，对抗此类毒素做出的豁免检定获得+2环境加值。以此方式涂毒是整轮动作（full-round action），对于具有迅捷上毒（Swift Poison）盗贼天赋的盗贼来说则是标准动作。</p>"
     },
     "Prolonged Study": {
@@ -12148,12 +12148,12 @@
       "description": "<p>&emsp;&emsp;在8级时，以一个即时动作，你在以近战攻击成功命中一个已经处于恐惧效果影响下目标时，你对他造成额外2d6点伤害并获得等同于额外伤害量的临时生命值，这些临时生命值可以保持24小时。在8级时你每天可以使用此能力一次，在8级后每提升4级再额外增加一次。此能力取代邪恶领域的秽恶之镰能力。</p>"
     },
     "Ground Breaker (UC)": {
-      "name": "撼地一击（Ground Breaker (UC)）",
+      "name": "大地之击（Ground Breaker (UC)）",
       "description": "<p>&emsp;&emsp;野蛮人以一个全回合动作对地面发起一次攻击，该攻击自动命中且如常造成伤害。如果该伤害大于地面硬度，则野蛮人所占据和周围邻接的方格变为困难地形。除了野蛮人以外，所有在该区域的生物都要做一次DC15的反射检定以避免被击倒。野蛮人至少要达到6级后才能选择此狂暴之力。</p>"
     },
     "Manipulator Subschool": {
       "name": "操作学派（Manipulator Subschool）",
-      "description": "<p>&emsp;&emsp;<strong>相关学派：</strong>&nbsp;惑控学派</p><p>&emsp;&emsp;取代能力：以下能力取代惑控学派的眩目之触和绝望光环能力。</p>"
+      "description": "<p>&emsp;&emsp;<strong>相关学派：</strong>&nbsp;惑控学派</p><p>&emsp;&emsp;取代能力：以下能力取代惑控学派的晕眩之触和绝望光环能力。</p>"
     },
     "Expert Captor": {
       "name": "擒拿大师（Expert Captor）",
@@ -12192,7 +12192,7 @@
       "description": "<p>&emsp;&emsp;在3级时，调查员可以在未受训的情况下进行所有的知识技能检定。</p>"
     },
     "Sharpened Accuracy (UC)": {
-      "name": "敏锐精准（Sharpened Accuracy (UC)）",
+      "name": "敏锐精确（Sharpened Accuracy (UC)）",
       "description": "<p>&emsp;&emsp;在精准战姿内，野蛮人忽视隐蔽下的隐蔽失手率，并且将全隐蔽视为隐蔽。她同样忽视遮蔽惩罚，除非是全遮蔽。野蛮人至少要达到8级后且拥有【精准战姿】能力才能选择此狂暴之力。</p>"
     },
     "Sharpened Accuracy": {
@@ -12269,7 +12269,7 @@
     },
     "Peerless Maneuver": {
       "name": "无双架势（Peerless Maneuver）",
-      "description": "<p>&emsp;&emsp;每日1次，拥有这一天赋的盗贼可以在一次特技动作检定中投掷两个骰子，并取其中较好的结果作为检定结果。她必须在进行检定前使用这一天赋。获得这一天赋之后每5个盗贼等级，盗贼可以每日多使用一次这一天赋。</p>"
+      "description": "<p>&emsp;&emsp;每日1次，拥有这一天赋的盗贼可以在一次特技检定中投掷两个骰子，并取其中较好的结果作为检定结果。她必须在进行检定前使用这一天赋。获得这一天赋之后每5个盗贼等级，盗贼可以每日多使用一次这一天赋。</p>"
     },
     "Powerful Persuader": {
       "name": "无双说客（Powerful Persuader）",
@@ -12293,7 +12293,7 @@
     },
     "Protean Resistances": {
       "name": "无常抗力（Protean Resistances）",
-      "description": "<p>&emsp;&emsp;3级开始，你获得5点强酸抗力，在对抗变形、石化、变化学派的法术及类似效果上获得+2豁免检定加值。9级开始，你的强酸抗力变为10，同时豁免加值变为+4。</p>"
+      "description": "<p>&emsp;&emsp;3级开始，你获得5点酸蚀抗力，在对抗变形、石化、变化学派的法术及类似效果上获得+2豁免检定加值。9级开始，你的酸蚀抗力变为10，同时豁免加值变为+4。</p>"
     },
     "Protean Bloodline": {
       "name": "无常血统（Protean Bloodline）",
@@ -12340,7 +12340,7 @@
       "description": "<p>&emsp;&emsp;野蛮人单次攻击检定获得+1士气加值。此加值每4个野蛮人等级会再+1。使用此狂暴之力是一个迅捷动作，且必须在攻击检定之前启用。他每次狂暴只能使用1次此能力。</p>"
     },
     "Fearless Rage (UC)": {
-      "name": "无畏狂暴（Fearless Rage (UC)）",
+      "name": "无惧狂暴（Fearless Rage (UC)）",
       "description": "<p>&emsp;&emsp;野蛮人免疫战栗和惊惧（但不包括恐慌）。野蛮人至少要达到12级才能选择此狂暴之力。</p>"
     },
     "Unstoppable Ravager": {
@@ -12593,14 +12593,14 @@
     },
     "Protoplasm": {
       "name": "未名物质（Protoplasm）",
-      "description": "<p>&emsp;&emsp;1级开始，你可以创造一团由未名物质组合而成的球体，并可操控它朝30尺内的目标投掷。未名物质效果如同绊足包，并且对目标生物造成每轮1点的强酸伤害（如果命中）。未名物质效果持续1d3轮。你能够每天使用此能力次数为“3+魅力修正”。</p>"
+      "description": "<p>&emsp;&emsp;1级开始，你可以创造一团由未名物质组合而成的球体，并可操控它朝30尺内的目标投掷。未名物质效果如同绊足包，并且对目标生物造成每轮1点的酸蚀伤害（如果命中）。未名物质效果持续1d3轮。你能够每天使用此能力次数为“3+魅力修正”。</p>"
     },
     "Dirge of Doom": {
       "name": "末日丧歌（Dirge of Doom）",
       "description": "<p>&emsp;&emsp;在10级时，歌者可以在敌人的心中激起不断上升的恐怖，让他们陷入战栗状态。这个能力与战怒之歌类似且消耗战怒之歌的持续轮数，但是影响歌者周围30尺内的敌人。只要歌者保持演奏，末日丧歌的效果就会一直持续，但是这个效果无法导致目标陷入惊惧和恐慌，即使在此之前他们就已经受到了战栗的影响也不会。这是一个依赖听觉的语言，音波和影响心灵的效果。</p>"
     },
     "Nimble Climber (UC)": {
-      "name": "机敏攀岩者（Nimble Climber (UC)）",
+      "name": "飞檐走壁（Nimble Climber (UC)）",
       "description": "<p>&emsp;&emsp;每当盗贼在攀爬检定中失败5点或更多时，她都能够尝试一次反射豁免（使用与攀爬检定相同的DC）来稳住自己并且避免坠落。</p>"
     },
     "Nimble (SWA)": {
@@ -12757,7 +12757,7 @@
     },
     "Prehensile Hair": {
       "name": "槛发（Prehensile Hair）",
-      "description": "<p>&emsp;&emsp;女巫可以立即使她的头发（甚至是眉毛）生长达10尺或缩回正常，并能操纵她的头发，如同其为一个力量属性等于她智力属性的肢体。她的头发触及为10尺，她可以将其作为次要天生武器攻击并造成1d3点伤害（小体型女巫为1d2）。她的头发可以操纵物品（但非武器）如同人手般灵巧。头发不会如同独立生物般被攻击或破武。从女巫的头上断落的长发将消失归于虚无。使用【槛发】并不会伤害女巫的头颈，即使它吊起很重的东西。女巫每天可以操纵头发的分钟等同于女巫等级，这些时间不必连续，但必须以1分钟为单位。男性女巫也可用此巫术操纵他的胡须、鬓角、眉毛或睫毛。【译者吐槽：问——这巫术怎么办到的啊？答——这是女巫秘传的睫毛伸缩膏，保证让你拥有浓密修长的睫毛，想怎么卷怎么翘怎样的形状都行（恶）。】"
+      "description": "<p>&emsp;&emsp;女巫可以立即使她的头发（甚至是眉毛）生长达10尺或缩回正常，并能操纵她的头发，如同其为一个力量属性等于她智力属性的肢体。她的头发触及为10尺，她可以将其作为次要天生武器攻击并造成1d3点伤害（小体型女巫为1d2）。她的头发可以操纵物品（但非武器）如同人手般灵巧。头发不会如同独立生物般被攻击或击破。从女巫的头上断落的长发将消失归于虚无。使用【槛发】并不会伤害女巫的头颈，即使它吊起很重的东西。女巫每天可以操纵头发的分钟等同于女巫等级，这些时间不必连续，但必须以1分钟为单位。男性女巫也可用此巫术操纵他的胡须、鬓角、眉毛或睫毛。【译者吐槽：问——这巫术怎么办到的啊？答——这是女巫秘传的睫毛伸缩膏，保证让你拥有浓密修长的睫毛，想怎么卷怎么翘怎样的形状都行（恶）。】"
     },
     "Travel Blessing: Dimensional Hop": {
       "name": "次元之旅（Travel Blessing: Dimensional Hop）",
@@ -12772,7 +12772,7 @@
       "description": "<p>&emsp;&emsp;奥能师可以从【奥能源泉】中消费1点来创造一个次元裂痕，跨过它来抵达另一位置。使用此能力是移动动作或撤退动作的一部分，能使他移动每奥能师等级10尺的距离，到达一个他能够看见位置。这会用掉5尺移动力。他每轮仅能使用此能力1次。使用此能力进行的移动不会引发藉机攻击，但在同一动作中进行的其他移动则会如常引发。</p>"
     },
     "Minor Magic (UC)": {
-      "name": "次等魔法（Minor Magic (UC)）",
+      "name": "次级魔法（Minor Magic (UC)）",
       "description": "<p>&emsp;&emsp;具有该天赋的盗贼具有以类法术能力施放术士/法师法术列表中的一个0级法术的能力。该能力中盗贼的施法者等级等同于她的盗贼等级。法术的DC为10 + 盗贼的智力调整值。盗贼的智力属性必须至少达到10点才能选取该天赋。</p>"
     },
     "Infernal Blood, Lesser": {
@@ -12785,7 +12785,7 @@
     },
     "Elemental Rage, Lesser": {
       "name": "次级元素之怒（Elemental Rage, Lesser）",
-      "description": "<p>&emsp;&emsp;作为一个迅捷动作，野蛮人这轮的所有近战攻击额外造成1d6点能量伤害（强酸、寒冷、电击或火焰）。野蛮人必须至少4级才能选择这个狂暴之力。这项能力每次狂暴只能使用1次。</p>"
+      "description": "<p>&emsp;&emsp;作为一个迅捷动作，野蛮人这轮的所有近战攻击额外造成1d6点能量伤害（酸蚀、寒冷、电击或火焰）。野蛮人必须至少4级才能选择这个狂暴之力。这项能力每次狂暴只能使用1次。</p>"
     },
     "Elemental Blood, Lesser": {
       "name": "次级元素之血（Elemental Blood, Lesser）",
@@ -12924,7 +12924,7 @@
       "description": "<ul>\n<li>2级——@Compendium[pf1.spells.1hjxxr3k62rcpb5c]{观命术}</li>\n<li>4级——@Compendium[pf1.spells.272szq5d556toqgc]{生存勇气祝福}</li>\n<li>6级——@Compendium[pf1.spells.byn5q46du0ck592a]{死者交谈}</li>\n<li>8级——@Compendium[pf1.spells.zaw5yh1c7ftk45tf]{永恒安眠}</li>\n<li>10级——@Compendium[pf1.spells.ggt7q1ds0fvxxjgx]{绞杀}</li>\n<li>12级——@Compendium[pf1.spells.3a162m66toj22fpa]{死亡法阵}</li>\n<li>14级——@Compendium[pf1.spells.7toeli7vcq5a7tv1]{死亡一指}</li>\n<li>16级——@Compendium[pf1.spells.g0x2fnktg1553wv1]{死亡徽记}</li>\n<li>18级——@Compendium[pf1.spells.51ob5y7phwlhcuzz]{真言术 死}</li>\n</ul>"
     },
     "Deadly Accuracy (UC)": {
-      "name": "死亡精准（Deadly Accuracy (UC)）",
+      "name": "致命精确（Deadly Accuracy (UC)）",
       "description": "<p>&emsp;&emsp;当野蛮人在精准战姿状态下造成重击威胁时，她可以将双倍的精准战姿的加值加到重击确认当中去。野蛮人至少要达到第4级后且拥有【精准战姿】狂暴之力才能选择此狂暴之力。</p>"
     },
     "Death Domain": {
@@ -12965,7 +12965,7 @@
     },
     "Close Weapon Mastery": {
       "name": "殴斗大师（Close Weapon Mastery）",
-      "description": "<p>&emsp;&emsp;在5级时，拳师使用近身武器战斗时得到伤害提升。在使用近身武器攻击时，拳师可以应用他的徒手击打伤害骰而非武器的伤害骰，但视为他的拳师等级-4（比如，一个使用拳匕（Punching Dagger）攻击的拳师可以用它造成1d6点伤害而非正常的1d4点）。如果这件武器的伤害骰高于拳师的徒手击打伤害，那么它的伤害骰不变。拳师也可以自由选择以武器本身的伤害骰而非自己的徒手击打伤害，但他必须在进行攻击检定前声明。</p>"
+      "description": "<p>&emsp;&emsp;在5级时，拳师使用近身武器战斗时得到伤害提升。在使用近身武器攻击时，拳师可以应用他的徒手打击伤害骰而非武器的伤害骰，但视为他的拳师等级-4（比如，一个使用拳匕（Punching Dagger）攻击的拳师可以用它造成1d6点伤害而非正常的1d4点）。如果这件武器的伤害骰高于拳师的徒手打击伤害，那么它的伤害骰不变。拳师也可以自由选择以武器本身的伤害骰而非自己的徒手打击伤害，但他必须在进行攻击检定前声明。</p>"
     },
     "Destructive Smite": {
       "name": "毁灭打击（Destructive Smite）",
@@ -13036,7 +13036,7 @@
       "description": "<p>&emsp;&emsp;3级时，武僧获得了一个丹田气池，当中流转的超自然能量──气，能使武僧完成神妙的技艺。武僧的气池大小等同于【1/2武僧等级+感知修正】。只要他的气池中至少还有1点气，他就能使用【斗气击（Ki Strike）】能力。3级起在穿透伤害减免时，斗气击能力能将武僧的徒手攻击视为魔法武器。7级起在穿透伤害减免时，武僧的徒手攻击亦视为寒铁和镀银武器。10级起在穿透伤害减免时，武僧的徒手攻击同样被视为秩序武器；而16级起在穿透伤害减免或对抗物品硬度的时候，武僧的徒手攻击则被视为精金武器。</p><p>&emsp;&emsp;迅捷动作从气池中消耗1点气，武僧可以在使用【疾风连击】时，再使用他最高的基础攻击加值的进行一次额外攻击。该次额外攻击与疾风连击给予的所有额外攻击、加速术或类似效果给予的额外攻击都可叠加。随着武僧等级提高，可以习得更多消耗气池来使用的绝学。</p><p>&emsp;&emsp;经过8小时休息或冥想后的早晨，气池会重新恢复至满；这些休息时间无需连续。</p>"
     },
     "Ki Pool": {
-      "name": "气运丹田（Ki Pool）",
+      "name": "气池（Ki Pool）",
       "description": "<p>&emsp;&emsp;4级时，武僧获得了一个丹田气池，当中流转的超自然能量──气，能使武僧完成神妙的技艺。武僧的丹田气池大小等同于“1/2武僧等级+感知修正”。只要他的丹田中至少还有1点气，他就能使用【斗气击（Ki Strike）】。</p><p>&emsp;&emsp;4级时，在穿透伤害减免时，武僧的徒手攻击视为魔法武器。</p><p>&emsp;&emsp;7级时，在穿透伤害减免时，武僧的徒手攻击亦视为寒铁和镀银武器。</p><p>&emsp;&emsp;10级时，在穿透伤害减免时，武僧的徒手攻击同样被视为秩序武器；</p><p>&emsp;&emsp;而16级时，在穿透伤害减免或对抗物品硬度的时候，武僧的徒手攻击则被视为精金。</p><p>&emsp;&emsp;自丹田中消耗1点气，武僧可以在使用【疾风连击】时，再进行一次使用他最高的基础攻击加值的额外攻击。</p><p>&emsp;&emsp;或是，他也可以消耗1点气来增加20尺速度，效果持续1轮。</p><p>&emsp;&emsp;最后，武僧还可以消耗1点气来让自己在AC上获得+4闪避加值，效果持续1轮。</p><p>&emsp;&emsp;启动这些能力都是一个迅捷动作。武僧在等级提升时，可以透过消耗气来使用新的能力。丹田在武僧充足休息或静思8小时后便会自动归满。</p>"
     },
     "Ki Range (UC)": {
@@ -13129,7 +13129,7 @@
     },
     "Knockdown": {
       "name": "沉重打击（Knockdown）",
-      "description": "<p>&emsp;&emsp;取代一次近战攻击，野蛮人可以绊摔一个目标。如果成功，目标受到等于野蛮人力量修正的伤害，并被击倒。这不会引发藉机攻击。这项能力每次狂暴只能使用1次。</p>"
+      "description": "<p>&emsp;&emsp;取代一次近战攻击，野蛮人可以摔绊一个目标。如果成功，目标受到等于野蛮人力量修正的伤害，并被击倒。这不会引发藉机攻击。这项能力每次狂暴只能使用1次。</p>"
     },
     "Healing Touch": {
       "name": "治愈之触（Healing Touch）",
@@ -13216,7 +13216,7 @@
       "description": "<p>&emsp;&emsp;从【奥能源泉】中消费1点，奥能师可以改变一个法术的既定效果。要使用此能力他必须与此法术效果（或此效果的目标）相邻接，并意识到了该效果。他可以选择将此法术的剩余持续时间延长或缩短50%。此能力可用于非自愿目标，但奥能师必须进行成功的近战接触攻击、且目标可以通过成功的意志豁免来避免此效果。此能力对一个法术只能生效1次。此能力对立即生效或持续时间为永久的法术无效。</p>"
     },
     "Spontaneous Casting (CLE)": {
-      "name": "法术转换(牧师)（Spontaneous Casting (CLE)）",
+      "name": "自发施法(牧师)（Spontaneous Casting (CLE)）",
       "description": "<p>&emsp;&emsp;善良牧师（或信仰善良神祇的中立牧师）可以将事先准备好的法术（祷念和领域法术不可）临时转换成医疗法术，即使他事前并未准备该医疗法术也可。此时，牧师会“失掉”一个准备好的法术，换得一个同环级（或较低环级）的“治疗伤害”法术。邪恶牧师（或信仰邪恶神祇的中立牧师）不能将法术转换成医疗法术，但却可以转换成“造成伤害”法术。信仰中立神祇的中立牧师可以在上述两种法术转换中择其一，但是做出决定之后便再也无法改变。此选择亦决定该中立牧师能引导正能量还是负能量。"
     },
     "Spellscar Final Revelation": {
@@ -13421,11 +13421,11 @@
     },
     "Abyssal Bloodline": {
       "name": "深渊血统（Abyssal Bloodline）",
-      "description": "<p>&emsp;&emsp;<em>数代前，一个恶魔在你的遗传中散播它的污秽。虽然它并没有在你所有的亲属身上得到显现，不过在你身上尤为强势。你有时会有邪恶和无序的冲动。不过命运（和阵营）依然掌握在你手中。</em></p>\n<p>&emsp;&emsp;<strong>本职技能:</strong>&nbsp;知识（位面）</p>\n<p>&emsp;&emsp;<strong>奖励法术:</strong></p>\n<ul>\n<li>@Compendium[pf1.spells.9tww9fc9049h6iqc]{惊恐术}&nbsp;(3rd),</li>\n<li>@Compendium[pf1.spells.05i5rxwim12hwktu]{牛之力量}&nbsp;(5th),</li>\n<li>@Compendium[pf1.spells.8u1xa5javcxc6szk]{狂暴术}&nbsp;(7th),</li>\n<li>@Compendium[pf1.spells.knyako6zopc1chrv]{石肤术}(9th),</li>\n<li>@Compendium[pf1.spells.k3zn13pbr5tr9zac]{驱逐术}&nbsp;(11th),</li>\n<li>@Compendium[pf1.spells.9pbl3ktd5oqejl19]{转变术}&nbsp;(13th),</li>\n<li>@Compendium[pf1.spells.5cdmojmydhwowzy1]{高等传送术}&nbsp;(15th),</li>\n<li>@Compendium[pf1.spells.flrn1xmm2wfrxbkf]{邪恶灵光}&nbsp;(17th),</li>\n<li>@Compendium[pf1.spells.mi52crelhwuy6bmp]{召唤怪物 IX}&nbsp;(19th).</li>\n</ul>\n<p>&emsp;&emsp;<strong>奖励专长：</strong></p>\n<ul>\n<li>@Compendium[pf1.feats.7bJjKqNRrvpXJ4L3]{增强召唤},</li>\n<li>@Compendium[pf1.feats.Zeq6RWYv5otvg8q7]{顺势斩},</li>\n<li>@Compendium[pf1.feats.77gXSucrxfrE9yWk]{法术强效},</li>\n<li>@Compendium[pf1.feats.fVRnBIHR4Jq6btvm]{强韧加强},</li>\n<li>@Compendium[pf1.feats.dn2KgHFQRbuoNRx0]{精通冲撞},</li>\n<li>@Compendium[pf1.feats.lpXdFoT6OqS5vi2X]{精通破武},</li>\n<li>@Compendium[pf1.feats.FUW5mIXHNBBIQ1Sq]{猛力攻击},</li>\n<li>@Compendium[pf1.feats.7zJTztNW7hdaqjKc]{技能专攻}&nbsp;(知识&nbsp;：位面).</li>\n</ul>\n<p>&emsp;&emsp;<a name=\"TOC-Bloodline-Arcana\"></a><strong>血统奥秘:</strong> 当你施展一个“召唤”子学派的法术，召唤生物获得伤害减免“1/2术士等级（最小为1）/善良”。这项奖励不能与召唤生物的任何原有伤害减免叠加。</p>"
+      "description": "<p>&emsp;&emsp;<em>数代前，一个恶魔在你的遗传中散播它的污秽。虽然它并没有在你所有的亲属身上得到显现，不过在你身上尤为强势。你有时会有邪恶和无序的冲动。不过命运（和阵营）依然掌握在你手中。</em></p>\n<p>&emsp;&emsp;<strong>本职技能:</strong>&nbsp;知识（位面）</p>\n<p>&emsp;&emsp;<strong>奖励法术:</strong></p>\n<ul>\n<li>@Compendium[pf1.spells.9tww9fc9049h6iqc]{惊恐术}&nbsp;(3rd),</li>\n<li>@Compendium[pf1.spells.05i5rxwim12hwktu]{牛之力量}&nbsp;(5th),</li>\n<li>@Compendium[pf1.spells.8u1xa5javcxc6szk]{狂暴术}&nbsp;(7th),</li>\n<li>@Compendium[pf1.spells.knyako6zopc1chrv]{石肤术}(9th),</li>\n<li>@Compendium[pf1.spells.k3zn13pbr5tr9zac]{驱逐术}&nbsp;(11th),</li>\n<li>@Compendium[pf1.spells.9pbl3ktd5oqejl19]{转变术}&nbsp;(13th),</li>\n<li>@Compendium[pf1.spells.5cdmojmydhwowzy1]{高等传送术}&nbsp;(15th),</li>\n<li>@Compendium[pf1.spells.flrn1xmm2wfrxbkf]{邪恶灵光}&nbsp;(17th),</li>\n<li>@Compendium[pf1.spells.mi52crelhwuy6bmp]{召唤怪物 IX}&nbsp;(19th).</li>\n</ul>\n<p>&emsp;&emsp;<strong>奖励专长：</strong></p>\n<ul>\n<li>@Compendium[pf1.feats.7bJjKqNRrvpXJ4L3]{增强召唤},</li>\n<li>@Compendium[pf1.feats.Zeq6RWYv5otvg8q7]{顺势斩},</li>\n<li>@Compendium[pf1.feats.77gXSucrxfrE9yWk]{法术强效},</li>\n<li>@Compendium[pf1.feats.fVRnBIHR4Jq6btvm]{强韧加强},</li>\n<li>@Compendium[pf1.feats.dn2KgHFQRbuoNRx0]{精通冲撞},</li>\n<li>@Compendium[pf1.feats.lpXdFoT6OqS5vi2X]{精通击破},</li>\n<li>@Compendium[pf1.feats.FUW5mIXHNBBIQ1Sq]{猛力攻击},</li>\n<li>@Compendium[pf1.feats.7zJTztNW7hdaqjKc]{技能专攻}&nbsp;(知识&nbsp;：位面).</li>\n</ul>\n<p>&emsp;&emsp;<a name=\"TOC-Bloodline-Arcana\"></a><strong>血统奥秘:</strong> 当你施展一个“召唤”子学派的法术，召唤生物获得伤害减免“1/2术士等级（最小为1）/善良”。这项奖励不能与召唤生物的任何原有伤害减免叠加。</p>"
     },
     "Fiend of the Pit": {
       "name": "深狱魔头（Fiend of the Pit）",
-      "description": "<p>&emsp;&emsp;20级起，你免疫火焰与毒素。你还会获得10点强酸抗力与10点寒冷抗力，以及看破黑暗（see in darkness）能力。即便没有处于血怒之时，你也会一直获得这些优势。</p>"
+      "description": "<p>&emsp;&emsp;20级起，你免疫火焰与毒素。你还会获得10点酸蚀抗力与10点寒冷抗力，以及看破黑暗（see in darkness）能力。即便没有处于血怒之时，你也会一直获得这些优势。</p>"
     },
     "Deep One Curse": {
       "name": "深裔（Deep One Curse）",
@@ -13516,7 +13516,7 @@
       "description": "<p>&emsp;&emsp;5级时，游荡剑客在使用单手或轻型穿刺近战武器时在攻击和伤害检定时获得+1加值。除此以外，当使用单手或轻型近战武器时，游荡剑客还会获得对应的精通重击专长效果。这个加值在5级后的每4级会额外加1（最大在17级时达到+4）。</p>"
     },
     "Rogue Talent (INV)": {
-      "name": "游荡者天赋(调查员)（Rogue Talent (INV)）",
+      "name": "盗贼天赋(调查员)（Rogue Talent (INV)）",
       "description": "<p>&emsp;&emsp;调查员可以获得以下游荡者天赋之一：<p>&emsp;&emsp;CRB：快速潜行(Fast Stealth），稳行者(Ledge Walker），高级魔法(Major Magic)，次级魔法(Minor Magic)，快速解除(Quick Disable)，韧性(Resiliency），游荡者匍匐术(Rogue Crawl)，鲤鱼打挺(Stand Up)，陷阱嗅觉(Trap Spotter），<p>&emsp;&emsp;APG：强袭连携（Assault Leader），伪装（Camouflage），心细如丝（Canny Observer），万人迷（Charmer），虚假情报（Coax Information），战斗舞步（Combat Swipe），灵活扳机（Cunning Trigger），指若惊弦（Fast Finger），奔若狡兔（Fast Getaway），快速开锁（Fast Pick），语言专家（Guileful Polygot），老油条（Hard to Fool），甜言蜜语（Honey Words），毒性持效（Lasting Posion），飞檐走壁（Nimber Climber），无双架势（Peerless Maneuver），快速易容（Quick Disguise）。快速陷阱制作（Quick Trapsmithing），<p>&emsp;&emsp;UC：黑市关系（Black Market Connection），谎言说服（Convincing Liar），灵巧之腕（Deft Palm），勇毅（Grit），火器训练（Firearm Training），屏息（Hold Breath），钢铁内脏（Iron Gut），绳技大师（Rope Master），强力划水（Strong Storke），地形大师（Terrain Master），翻墙者（Wall Scrambler）<p>&emsp;&emsp;调查员将他的调查员等级视为盗贼等级。如果某项游荡者天赋需要前提才能选择（如高级魔法天赋需要次级魔法天赋作为前提），调查员必须满足其前提。调查员可以多次选择本天赋，每次选择时他会获得一项新的游荡者天赋。</p>"
     },
     "Glory Blessing: Demoralizing Glory": {
@@ -13556,7 +13556,7 @@
       "description": "<p>&emsp;&emsp;1级起，吟游诗人可以通过表演来激发盟友（包括自己）的勇气，鼓舞他们对抗恐惧和提高战斗能力。只有能看到或听到吟游诗人表演的盟友才可以接受此效果。受影响的盟友在对抗魅惑和恐惧时豁免检定有+1士气加值，在攻击和武器伤害检定上也有+1表现加值。5级及之后每6个吟游诗人等级，该加值都会增加1（5级+2，11级+3，17级达到最大+4）。激发勇气是影响心灵的能力。【激发勇气】依赖声音或者视觉成份运作，诗人必须在开始表演之前决定具体使用的成份。</p>"
     },
     "Roused Anger (UC)": {
-      "name": "激发怒意（Roused Anger (UC)）",
+      "name": "无边怒火（Roused Anger (UC)）",
       "description": "<p>&emsp;&emsp;野蛮人可以在疲乏时进入狂暴，一旦她进入狂暴，她将摆脱疲乏状态。她将不会获得狂暴带来的临时生命。在此狂暴结束后，她将力竭10分钟。</p>"
     },
     "Inspire": {
@@ -13749,7 +13749,7 @@
     },
     "Swashbuckler Deeds": {
       "name": "炫技（Swashbuckler Deeds）",
-      "description": "<p>&emsp;&emsp;游荡剑客花费时髦值来实现炫技。大多数炫技使游荡剑客获得一些短暂的加值或效果，但也有一些提供更长时间的持续性效果。一些炫技在游荡剑客拥有至少1点时髦值下持续生效。下面列出了游荡剑客的基本炫技。游荡剑客只能使用等于或低于她等级的炫技。除非特别说明，炫技通常都可以连续多次使用，只要花费对应该动作的适当时髦值即可。</p><p>&emsp;&emsp;大胆特技：1级时，一名游荡剑客可以在她进行特技动作、攀爬、逃脱术、飞行、骑术和游泳检定时花费1点时髦值来投一个D6并将结果加到检定结果上。她必须在进行检定之前使用这个能力。如果这次D6投出了自然“6”，她能再投掷一个D6并将结果也加入检定结果。一个游荡剑客最多能通过投出自然“6”继续投骰的次数等于她的敏捷调整值（至少1次）。</p><p>&emsp;&emsp;闪避派头:1级时，当一名敌人试图对游荡剑客发动近战攻击时，她可以花费1点时髦值使用1个直觉动作移动5尺，针对此次攻击的AC将获得等同于魅力调整值的加值。这次移动并不能使此次攻击无效，就好像游荡剑客在受到攻击时仍然处在原来的位置，此移动并非5尺快步，因此也会引发除了那个发动攻击的敌人以外的其他敌人的藉机攻击。游荡剑客只能在穿着轻甲或无甲，且负载不超过轻载时使用此炫技。</p><p>&emsp;&emsp;适时格挡反击：1级时，当一名敌人向游荡剑客发动近战攻击时，她可以花费1点时髦值并使用一次机会攻击的次数来尝试格挡这次攻击。游荡剑客就如同进行一次机会攻击一般做一次攻击检定。如果她的攻击高于对方的攻击，则这次攻击自动失手。发动攻击的生物每比游荡剑客大一个体形，游荡剑客在这次攻击中都会承受-2的罚值。游荡剑客必须在敌人宣告发动攻击而尚未投掷攻击骰时使用这个能力。在一名游荡剑客进行了一次成功的格挡后，只要她还有至少1点时髦值，并且那个生物在她的触及范围之内，就可以用直觉动作向被她阻挡了攻击的敌人发动一次攻击。这个能力的消耗无法被任何能力或效果减少。</p><p>&emsp;&emsp;鲤鱼打挺：3级时，，只要游荡剑客拥有至少1点时髦值，她就能用一个移动动作在不造成藉机攻击的情况下从倒地状态起身。如果她使用1点时髦值，就能用迅捷动作而非移动动作起身。</p><p>&emsp;&emsp;威胁剑舞：3级时，只要游荡剑客拥有至少1点时髦值，她就能在使用一个轻型或单手穿刺近战武器命中目标时使用迅捷动作威吓来挫败敌人士气（见核心规则书P99），而非通常的标准动作。</p><p>&emsp;&emsp;精确刺击：3级时，只要游荡剑客拥有至少1点时髦值，在使用轻型或单手穿刺类近战武器（不能是天生武器）进行攻击时，游荡剑客将她的游荡剑客等级加到伤害上。使用精确刺击时，游荡剑客不能使用另一只手持用武器攻击或持用小圆盾以外的盾牌。另外，只要敌人在距离游荡剑客30尺以内，她还能将精确刺击能力用于轻型或单手穿刺类投掷武器上。任意免疫重击的生物都不受精确刺击影响，并且任意可以防止重击的物品或能力也可以保护生物不受影响。精确刺击造成的额外伤害是精准伤害，因此不能因为重击而翻倍。</p><p>&emsp;&emsp;使用1个迅捷动作，一名游荡剑客可以花费1点时髦值使她的下一次精确刺击伤害翻倍。这次攻击必须在她的回合结束前进行，否则就会失去这个效果。此壮举消耗的时髦值点数，无法通过任何降低时髦值消耗的能力或效果（如标志动作专长）所降低。</p><p>&emsp;&emsp;游荡剑客之反应：3级时，只要游荡剑客拥有至少1点时髦值，游荡剑客在先攻检定中获得+2加值。除此以外，如果游荡剑客拥有“即时备战”专长，她的手空闲且没有被束缚，并且她的武器并非被藏匿，她就能用拔出一把轻型或单手穿刺武器作为进行先攻检定的一部分。</p><p>&emsp;&emsp;游荡剑客之优雅：7级时，只要游荡剑客拥有至少1点时髦值，就可以在使用特技动作检定尝试穿越敌人威胁范围或占据区域的时候不减速。</p><p>&emsp;&emsp;迅捷佯攻：7级时，只要游荡剑客拥有至少1点时髦值，就可以使用轻型或单手穿刺类武器用一个标准动作进行一次近战攻击，并主动放弃该次攻击的命中。如果游荡剑客这么做，她的这次近战攻击的目标会在游荡剑客下一轮开始前失去自己AC上的敏捷加值。</p><p>&emsp;&emsp;精确瞄准：7级时，游荡剑客可以通过一个整轮动作花费1点时髦值，对目标身体的特定位置进行一次使用轻型或单手穿刺武器的近战攻击，并在攻击命中时获得下列基于该目标肢体部分的对应效果。若某生物并不拥有某项列出的肢体部分，则无法瞄准此肢体。免疫偷袭的生物同样免疫这些效果。并且任意可以防止重击的物品或能力也可以保护生物不受精确瞄准攻击的影响。</p><p>&emsp;&emsp;．手臂：攻击命中时，目标不受任何伤害，但掉落一样你所选择的手持物品，即使该物品被双手持有。带锁铁手套持有的物品不会因此掉落。</p><p>&emsp;&emsp;．头部：攻击命中时，目标正常受到伤害，并困惑1轮。这是影响心灵效果。</p><p>&emsp;&emsp;．腿部：攻击命中时，目标正常受到伤害并被击倒。有四条以上腿或免疫摔绊的生物对此效果免疫。</p><p>&emsp;&emsp;．躯干或翅膀：攻击命中时，目标正常受到伤害，并会使敌人蹒跚一轮。</p><p>&emsp;&emsp;伤口出血：11级时，当游荡剑客用轻型或单手穿刺类近战武器攻击命中一个活物时，她可以用一个自由动作花费1点时髦值来令该次攻击造成额外出血伤害。出血伤害值等于游荡剑客的敏捷调整值。或者替代性的，游荡剑客可以花费2点勇毅值来造成1点力量、敏捷或体质值的出血伤害（随游荡剑客选择）。免疫偷袭伤害的生物同样免疫任意类型的出血伤害。</p><p>&emsp;&emsp;闪避精通：11级时，至少拥有1点时髦值的游荡剑客获得反射闪避、直觉闪避和精通直觉闪避等盗贼职业能力。在计算精通直觉闪避能力时，用游荡剑客等级取代盗贼等级。</p><p>&emsp;&emsp;狡猾之刃：11级时，只要游荡剑客拥有至少1点时髦值，她就免疫对于她手持的轻型或单手穿刺类近战武器所发动的缴械、偷窃和破武战技。</p><p>&emsp;&emsp;炫目防御：15级时，当单手持用轻型或单手穿刺类近战武器时，游荡剑客可以花费一点时髦值用迅捷动作作防御式战斗而非标准动作。当他以此法进行防御式战斗时，该动作提供的闪避AC提高为+4，而攻击罚值减少为-2。</p><p>&emsp;&emsp;完美穿刺：15级时，只要游荡剑客拥有至少1点时髦值，就可以使用一个整轮动作发动一次完美穿刺。将她的所有攻击潜能都集中在一把轻型或单手穿刺类武器上。当她这么做的时候，她会发动一次攻击，对抗敌人的接触AC，并且忽略敌人的所有伤害减免。游荡剑客使用该能力须花费1点时髦值。</p><p>&emsp;&emsp;游荡剑客之骄傲：15级时，只要游荡剑客拥有至少1点时髦值，，就能在进行任意特技动作、攀爬、逃脱术、飞行、骑术和游泳检定时取10，即使处于遭受威胁或分心的情况下。这个能力可以同“大胆特技”能力一起使用。</p><p>&emsp;&emsp;诈死伪装：19级时，当游荡剑客至少有1点时髦值时，若他的生命值将要被降至0点或以下，她可以消耗所有当前时髦值使生命值只降至1。直接造成游荡剑客死亡而不作用于生命值的效果不受该能力影响。</p><p>&emsp;&emsp;死亡突刺：19级时，每当游荡剑客使用轻型或单手穿刺类近战武器确认重击时，她可以花费1点时髦值来发动死亡突刺而非造成正常伤害，目标需进行强韧豁免检定，DC等于“10+1/2游荡剑客等级+敏捷调整值”。豁免检定失败则目标死亡。这是个死亡类效果，使用本动作不会使游荡剑客通过造成重击来恢复时髦值。</p><p>&emsp;&emsp;晕眩突刺：19级时，每当游荡剑客使用轻型或单手穿刺类近战武器攻击命中时，她可以花费2点时髦值，迫使对方进行DC为“10+1/2游荡剑客等级+敏捷调整值”的强韧豁免，失败则眩晕1轮。免疫重击的生物同样免疫本效果。</p>"
+      "description": "<p>&emsp;&emsp;游荡剑客花费时髦值来实现炫技。大多数炫技使游荡剑客获得一些短暂的加值或效果，但也有一些提供更长时间的持续性效果。一些炫技在游荡剑客拥有至少1点时髦值下持续生效。下面列出了游荡剑客的基本炫技。游荡剑客只能使用等于或低于她等级的炫技。除非特别说明，炫技通常都可以连续多次使用，只要花费对应该动作的适当时髦值即可。</p><p>&emsp;&emsp;大胆特技：1级时，一名游荡剑客可以在她进行特技、攀爬、逃脱术、飞行、骑术和游泳检定时花费1点时髦值来投一个D6并将结果加到检定结果上。她必须在进行检定之前使用这个能力。如果这次D6投出了自然“6”，她能再投掷一个D6并将结果也加入检定结果。一个游荡剑客最多能通过投出自然“6”继续投骰的次数等于她的敏捷调整值（至少1次）。</p><p>&emsp;&emsp;闪避派头:1级时，当一名敌人试图对游荡剑客发动近战攻击时，她可以花费1点时髦值使用1个直觉动作移动5尺，针对此次攻击的AC将获得等同于魅力调整值的加值。这次移动并不能使此次攻击无效，就好像游荡剑客在受到攻击时仍然处在原来的位置，此移动并非5尺快步，因此也会引发除了那个发动攻击的敌人以外的其他敌人的藉机攻击。游荡剑客只能在穿着轻甲或无甲，且负载不超过轻载时使用此炫技。</p><p>&emsp;&emsp;适时格挡反击：1级时，当一名敌人向游荡剑客发动近战攻击时，她可以花费1点时髦值并使用一次机会攻击的次数来尝试格挡这次攻击。游荡剑客就如同进行一次机会攻击一般做一次攻击检定。如果她的攻击高于对方的攻击，则这次攻击自动失手。发动攻击的生物每比游荡剑客大一个体形，游荡剑客在这次攻击中都会承受-2的罚值。游荡剑客必须在敌人宣告发动攻击而尚未投掷攻击骰时使用这个能力。在一名游荡剑客进行了一次成功的格挡后，只要她还有至少1点时髦值，并且那个生物在她的触及范围之内，就可以用直觉动作向被她阻挡了攻击的敌人发动一次攻击。这个能力的消耗无法被任何能力或效果减少。</p><p>&emsp;&emsp;鲤鱼打挺：3级时，，只要游荡剑客拥有至少1点时髦值，她就能用一个移动动作在不造成藉机攻击的情况下从倒地状态起身。如果她使用1点时髦值，就能用迅捷动作而非移动动作起身。</p><p>&emsp;&emsp;威胁剑舞：3级时，只要游荡剑客拥有至少1点时髦值，她就能在使用一个轻型或单手穿刺近战武器命中目标时使用迅捷动作威吓来挫败敌人士气（见核心规则书P99），而非通常的标准动作。</p><p>&emsp;&emsp;精确刺击：3级时，只要游荡剑客拥有至少1点时髦值，在使用轻型或单手穿刺类近战武器（不能是天生武器）进行攻击时，游荡剑客将她的游荡剑客等级加到伤害上。使用精确刺击时，游荡剑客不能使用另一只手持用武器攻击或持用小圆盾以外的盾牌。另外，只要敌人在距离游荡剑客30尺以内，她还能将精确刺击能力用于轻型或单手穿刺类投掷武器上。任意免疫重击的生物都不受精确刺击影响，并且任意可以防止重击的物品或能力也可以保护生物不受影响。精确刺击造成的额外伤害是精准伤害，因此不能因为重击而翻倍。</p><p>&emsp;&emsp;使用1个迅捷动作，一名游荡剑客可以花费1点时髦值使她的下一次精确刺击伤害翻倍。这次攻击必须在她的回合结束前进行，否则就会失去这个效果。此壮举消耗的时髦值点数，无法通过任何降低时髦值消耗的能力或效果（如标志动作专长）所降低。</p><p>&emsp;&emsp;游荡剑客之反应：3级时，只要游荡剑客拥有至少1点时髦值，游荡剑客在先攻检定中获得+2加值。除此以外，如果游荡剑客拥有“即时备战”专长，她的手空闲且没有被束缚，并且她的武器并非被藏匿，她就能用拔出一把轻型或单手穿刺武器作为进行先攻检定的一部分。</p><p>&emsp;&emsp;游荡剑客之优雅：7级时，只要游荡剑客拥有至少1点时髦值，就可以在使用特技检定尝试穿越敌人威胁范围或占据区域的时候不减速。</p><p>&emsp;&emsp;迅捷佯攻：7级时，只要游荡剑客拥有至少1点时髦值，就可以使用轻型或单手穿刺类武器用一个标准动作进行一次近战攻击，并主动放弃该次攻击的命中。如果游荡剑客这么做，她的这次近战攻击的目标会在游荡剑客下一轮开始前失去自己AC上的敏捷加值。</p><p>&emsp;&emsp;精确瞄准：7级时，游荡剑客可以通过一个整轮动作花费1点时髦值，对目标身体的特定位置进行一次使用轻型或单手穿刺武器的近战攻击，并在攻击命中时获得下列基于该目标肢体部分的对应效果。若某生物并不拥有某项列出的肢体部分，则无法瞄准此肢体。免疫偷袭的生物同样免疫这些效果。并且任意可以防止重击的物品或能力也可以保护生物不受精确瞄准攻击的影响。</p><p>&emsp;&emsp;．手臂：攻击命中时，目标不受任何伤害，但掉落一样你所选择的手持物品，即使该物品被双手持有。带锁铁手套持有的物品不会因此掉落。</p><p>&emsp;&emsp;．头部：攻击命中时，目标正常受到伤害，并困惑1轮。这是影响心灵效果。</p><p>&emsp;&emsp;．腿部：攻击命中时，目标正常受到伤害并被击倒。有四条以上腿或免疫摔绊的生物对此效果免疫。</p><p>&emsp;&emsp;．躯干或翅膀：攻击命中时，目标正常受到伤害，并会使敌人蹒跚一轮。</p><p>&emsp;&emsp;伤口出血：11级时，当游荡剑客用轻型或单手穿刺类近战武器攻击命中一个活物时，她可以用一个自由动作花费1点时髦值来令该次攻击造成额外出血伤害。出血伤害值等于游荡剑客的敏捷调整值。或者替代性的，游荡剑客可以花费2点勇毅值来造成1点力量、敏捷或体质值的出血伤害（随游荡剑客选择）。免疫偷袭伤害的生物同样免疫任意类型的出血伤害。</p><p>&emsp;&emsp;闪避精通：11级时，至少拥有1点时髦值的游荡剑客获得反射闪避、直觉闪避和精通直觉闪避等盗贼职业能力。在计算精通直觉闪避能力时，用游荡剑客等级取代盗贼等级。</p><p>&emsp;&emsp;狡猾之刃：11级时，只要游荡剑客拥有至少1点时髦值，她就免疫对于她手持的轻型或单手穿刺类近战武器所发动的缴械、偷窃和击破战技。</p><p>&emsp;&emsp;炫目防御：15级时，当单手持用轻型或单手穿刺类近战武器时，游荡剑客可以花费一点时髦值用迅捷动作作防御式战斗而非标准动作。当他以此法进行防御式战斗时，该动作提供的闪避AC提高为+4，而攻击罚值减少为-2。</p><p>&emsp;&emsp;完美穿刺：15级时，只要游荡剑客拥有至少1点时髦值，就可以使用一个整轮动作发动一次完美穿刺。将她的所有攻击潜能都集中在一把轻型或单手穿刺类武器上。当她这么做的时候，她会发动一次攻击，对抗敌人的接触AC，并且忽略敌人的所有伤害减免。游荡剑客使用该能力须花费1点时髦值。</p><p>&emsp;&emsp;游荡剑客之骄傲：15级时，只要游荡剑客拥有至少1点时髦值，，就能在进行任意特技、攀爬、逃脱术、飞行、骑术和游泳检定时取10，即使处于遭受威胁或分心的情况下。这个能力可以同“大胆特技”能力一起使用。</p><p>&emsp;&emsp;诈死伪装：19级时，当游荡剑客至少有1点时髦值时，若他的生命值将要被降至0点或以下，她可以消耗所有当前时髦值使生命值只降至1。直接造成游荡剑客死亡而不作用于生命值的效果不受该能力影响。</p><p>&emsp;&emsp;死亡突刺：19级时，每当游荡剑客使用轻型或单手穿刺类近战武器确认重击时，她可以花费1点时髦值来发动死亡突刺而非造成正常伤害，目标需进行强韧豁免检定，DC等于“10+1/2游荡剑客等级+敏捷调整值”。豁免检定失败则目标死亡。这是个死亡类效果，使用本动作不会使游荡剑客通过造成重击来恢复时髦值。</p><p>&emsp;&emsp;晕眩突刺：19级时，每当游荡剑客使用轻型或单手穿刺类近战武器攻击命中时，她可以花费2点时髦值，迫使对方进行DC为“10+1/2游荡剑客等级+敏捷调整值”的强韧豁免，失败则眩晕1轮。免疫重击的生物同样免疫本效果。</p>"
     },
     "Distracting Attack": {
       "name": "炫目打击（Distracting Attack）",
@@ -13848,7 +13848,7 @@
       "description": "<p>&emsp;&emsp;<strong>替代领域法术</strong></p>\n<ul>\n<li>2环——@Compendium[pf1.spells.0d756xyqhinsstas]{烟火术}</li>\n<li>3环——@Compendium[pf1.spells.kjke96zd1j1jz48z]{臭云术}</li>\n</ul>"
     },
     "Smoke Bomb": {
-      "name": "烟雾炸弹（Smoke Bomb）",
+      "name": "烟雾弹（Smoke Bomb）",
       "description": "<p>&emsp;&emsp;当炼金术师制作炼金炸弹时，他可以选择使其在爆炸时产生浓密的烟雾。烟雾效果相当于“云雾术”法术，覆盖范围是炸弹溅射范围的两倍，持续时间为每炼金术师等级1轮。</p>"
     },
     "Fervent Action": {
@@ -13972,11 +13972,11 @@
       "description": "<p>&emsp;&emsp;目标将令动物们感到反感，成功的意志豁免可以令其无效。受术者面前的动物变得焦虑与暴躁——马突然跳跃试图将其摔落、狗对其乱咬和吠叫、牛群冲撞等等。此巫术的持续小时等同于女巫的智力修正。通过豁免的生物将不受此巫术影响1天。该巫术对动物是一种〔影响心灵〕的〔魅惑〕效果，但对巫术的目标则不是。</p>"
     },
     "Inspire Ferocity (UC)": {
-      "name": "狂怒之示（Inspire Ferocity (UC)）",
+      "name": "激发凶性（Inspire Ferocity (UC)）",
       "description": "<p>&emsp;&emsp;当野蛮人处于鲁莽战姿时，她可以把鲁莽战姿的加值和罚值传给30尺内所有愿意接受的友军。野蛮人必须拥有【鲁莽战姿】后才能选择此狂暴之力。</p>"
     },
     "Inspire Ferocity": {
-      "name": "狂怒激发（Inspire Ferocity）",
+      "name": "激发凶性（Inspire Ferocity）",
       "description": "<p>&emsp;&emsp;狂暴时，野蛮人可以用一个移动动作，把【血性狂怒】的效果分享给30尺内的所有自愿盟友，持续时间等于他的魅力修正（最小为1）。野蛮人必须习得【血性狂怒】才能选择这个狂暴之力。</p>"
     },
     "Rage Powers (SKA)": {
@@ -14012,7 +14012,7 @@
       "description": "<p>&emsp;&emsp;当狂暴时，野蛮人可以将他的等级作为增强加值，加到攀爬技能检定上。</p>"
     },
     "Raging Swimmer (UC)": {
-      "name": "狂暴泳者（Raging Swimmer (UC)）",
+      "name": "狂暴游者（Raging Swimmer (UC)）",
       "description": "<p>&emsp;&emsp;野蛮人获得等同于其1/2基础地面速度的游泳速度（将野蛮人的快速移动能力加入其中计算）。她还会在游泳检定上获得+8的增强加值。</p>"
     },
     "Raging Swimmer": {
@@ -14020,7 +14020,7 @@
       "description": "<p>&emsp;&emsp;当狂暴时，野蛮人可以将他的等级作为增强加值，加到游泳技能检定上。</p>"
     },
     "Raging Leaper (UC)": {
-      "name": "狂暴跃者（Raging Leaper (UC)）",
+      "name": "狂暴跳跃（Raging Leaper (UC)）",
       "description": "<p>&emsp;&emsp;野蛮人在进行跳跃的特技检定中总被视为已经助跑，她还会在跳跃的特技检定中获得+8的增强加值。最后，如果野蛮人坠落，她在计算受到的伤害时的坠落距离被视为总坠落距离的一半。</p>"
     },
     "Raging Leaper": {
@@ -14125,7 +14125,7 @@
     },
     "Awesome Blow": {
       "name": "王霸拳（Awesome Blow）",
-      "description": "<p>&emsp;&emsp;在16级时，以一个标准动作拳师可以可以发动一次战技攻击。如果战技攻击成功且目标是一个体型不大于拳师的非虚体生物，那么目标除了受到拳师的近身武器攻击或徒手击打伤害外，还会被击飞10尺（方向由拳师选择）并被击倒至俯卧。击飞路线必须是直线，且目标生物不可被移动至比它受到攻击的起始位置距离拳师更近的方格。如果击飞路线上有障碍物阻挡了目标生物的移动，那么障碍物和目标生物都会受到1d6点伤害，目标生物将在障碍物的邻接格被击倒至俯卧。（和可怖殴击怪物专长不同，拳师自身可以是任何体型）"
+      "description": "<p>&emsp;&emsp;在16级时，以一个标准动作拳师可以可以发动一次战技攻击。如果战技攻击成功且目标是一个体型不大于拳师的非虚体生物，那么目标除了受到拳师的近身武器攻击或徒手打击伤害外，还会被击飞10尺（方向由拳师选择）并被击倒至俯卧。击飞路线必须是直线，且目标生物不可被移动至比它受到攻击的起始位置距离拳师更近的方格。如果击飞路线上有障碍物阻挡了目标生物的移动，那么障碍物和目标生物都会受到1d6点伤害，目标生物将在障碍物的邻接格被击倒至俯卧。（和可怖殴击怪物专长不同，拳师自身可以是任何体型）"
     },
     "Nature's Whispers": {
       "name": "环境低语（Nature's Whispers）",
@@ -14193,7 +14193,7 @@
     },
     "Life Spirit": {
       "name": "生命魂域（Life Spirit）",
-      "description": "<p>&emsp;&emsp;选择生命魂域的萨满比一般凡人充斥着更多生命力。她的皮肤闪耀着光泽，牙齿如珍珠般洁白。当她激活该魂域能力时，她的瞳孔和头发会散发出微光。</p><p>&emsp;&emsp;魂术：侦测不死（1环）、次级复原术（2环）、中和毒性（3环）、复原术（4环）、生命之息（5环）、医疗术（6环）、高等复原术（7环）、群体医疗术（8环）、完全复生术（9环）</p><p>&emsp;&emsp;魂兽：该魂兽是同类生物中最漂亮和健康的类型，并且看上去满溢生气。该魂兽获得快速医疗1，若魂兽已有快速医疗能力，则原快速医疗增加1。</p>"
+      "description": "<p>&emsp;&emsp;选择生命魂域的萨满比一般凡人充斥着更多生命力。她的皮肤闪耀着光泽，牙齿如珍珠般洁白。当她激活该魂域能力时，她的瞳孔和头发会散发出微光。</p><p>&emsp;&emsp;魂术：侦测不死（1环）、次级复原术（2环）、中和毒性（3环）、复原术（4环）、生命之息（5环）、医疗术（6环）、高等复原术（7环）、群体医疗术（8环）、完全复生术（9环）</p><p>&emsp;&emsp;魂兽：该魂兽是同类生物中最漂亮和健康的类型，并且看上去满溢生气。该魂兽获得快速治疗1，若魂兽已有快速治疗能力，则原快速治疗增加1。</p>"
     },
     "Renewed Vitality": {
       "name": "生机盎然（Renewed Vitality）",
@@ -14232,7 +14232,7 @@
       "description": "<p>&emsp;&emsp;当一名炼金术师制作炼金炸弹时，他可以选择以电击伤害来替代火焰伤害，被电浆炸弹直接命中的生物会目眩1d4轮。</p>"
     },
     "Sudden Speed (UC)": {
-      "name": "电瞬步（Sudden Speed (UC)）",
+      "name": "瞬时加速（Sudden Speed (UC)）",
       "description": "<p>&emsp;&emsp;武僧可迅捷动作消耗1点气爆发出急速。1分钟内武僧的基础陆地移动速度增加30尺。</p>"
     },
     "Sparking Aura": {
@@ -14301,7 +14301,7 @@
     },
     "Flurry of Blows": {
       "name": "疾风连击（Flurry of Blows）",
-      "description": "<p>&emsp;&emsp;1级起，武僧可以用全力攻击动作使出疾风连击。</p>\n<p>&emsp;&emsp;当武僧使用疾风连击时，如同使用&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Attack-Roll\">attack rolls</a>, as if using the @Compendium[pf1.feats.Ee7JHADKEK37tTHs]{双武器格斗} 专长，所有的攻击检定承受-2减值，并增加一次额外攻击（他不需要持用两把武器来使用此能力）。</p>\n<p>&emsp;&emsp;他可以并用徒手击打或者是特殊武僧武器来使出疾风连击。在使用疾风连击时，来自武僧等级的基本攻击加值等同于他的武僧等级。但在其他情况下，比如说符合专长或进阶的条件时，则使用他正常的基本攻击加值。</p>\n<p>&emsp;&emsp;　8级起，武僧在使用疾风连击时可以进行两次额外攻击，如同他使用了 @Compendium[pf1.feats.3fNdl7eIUJ5d5fwg]{精通双武器战斗} (即使他没有满足该专长的先决条件).</p>\n<p>&emsp;&emsp;15级起，武僧在使用疾风连击时可以进行三次额外攻击，如同他使用了 @Compendium[pf1.feats.ieltigobtFrlTXIt]{高等双武器战斗} (即使他没有满足该专长的先决条件).</p>\n<p>&emsp;&emsp;武僧使出疾风连击时，他所有成功命中的伤害检定上都使用他完整的力量加值，就算该攻击是由副手或是双手持握的武器使出。武僧可以用诸如卸除武器、破武、摔绊等战斗招式来取代原本的攻击，以作为疾风连击的一部分。武僧不能使用非武僧武器进行疾风连击，有天生武器的武僧不能以它进行疾风连击，更不能在疾风连击外再用天生武器进行额外攻击。</p>"
+      "description": "<p>&emsp;&emsp;1级起，武僧可以用全力攻击动作使出疾风连击。</p>\n<p>&emsp;&emsp;当武僧使用疾风连击时，如同使用&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Attack-Roll\">attack rolls</a>, as if using the @Compendium[pf1.feats.Ee7JHADKEK37tTHs]{双武器格斗} 专长，所有的攻击检定承受-2减值，并增加一次额外攻击（他不需要持用两把武器来使用此能力）。</p>\n<p>&emsp;&emsp;他可以并用徒手打击或者是特殊武僧武器来使出疾风连击。在使用疾风连击时，来自武僧等级的基本攻击加值等同于他的武僧等级。但在其他情况下，比如说符合专长或进阶的条件时，则使用他正常的基本攻击加值。</p>\n<p>&emsp;&emsp;　8级起，武僧在使用疾风连击时可以进行两次额外攻击，如同他使用了 @Compendium[pf1.feats.3fNdl7eIUJ5d5fwg]{精通双武器战斗} (即使他没有满足该专长的先决条件).</p>\n<p>&emsp;&emsp;15级起，武僧在使用疾风连击时可以进行三次额外攻击，如同他使用了 @Compendium[pf1.feats.ieltigobtFrlTXIt]{高等双武器战斗} (即使他没有满足该专长的先决条件).</p>\n<p>&emsp;&emsp;武僧使出疾风连击时，他所有成功命中的伤害检定上都使用他完整的力量加值，就算该攻击是由副手或是双手持握的武器使出。武僧可以用诸如卸除武器、击破、摔绊等战斗招式来取代原本的攻击，以作为疾风连击的一部分。武僧不能使用非武僧武器进行疾风连击，有天生武器的武僧不能以它进行疾风连击，更不能在疾风连击外再用天生武器进行额外攻击。</p>"
     },
     "Accustomed to Awfulness": {
       "name": "病痛成自然（Accustomed to Awfulness）",
@@ -14348,7 +14348,7 @@
       "description": "<p>&emsp;&emsp;在20级时，拳师可以以一次攻击，而非一个标准动作来发动王霸拳攻击，并且可以打飞任何体型的目标生物。如果拳师的战技攻击检定骰出了自然骰20，那么他可以立刻使用一次同加值的战技攻击检定以为确认重击。如果重击确认通过，那么这次攻击造成的伤害，以及目标因为飞出而对障碍物（如果有）和自身造成的伤害全部翻倍。</p>"
     },
     "Flesh Wound (UC)": {
-      "name": "皮外小伤（Flesh Wound (UC)）",
+      "name": "不屈武勇（Flesh Wound (UC)）",
       "description": "<p>&emsp;&emsp;每日一次，野蛮人可以避免一次严重的攻击伤害。她可以做一次强韧检定，检定DC等同于该次伤害数值。如果成功，她将免受此次伤害；如果失败，她只受一半伤害且伤害类型为瘀伤。野蛮人必须在攻击命中后、伤害检定前决定是否使用此能力。野蛮人至少要达到10级后才能选择此狂暴之力。</p>"
     },
     "Armor Training": {
@@ -14413,7 +14413,7 @@
     },
     "True Resolve": {
       "name": "真·决意（True Resolve）",
-      "description": "<p>&emsp;&emsp;17级时，武士可以花费可用决意次数来避开死亡。若他拥有至少两次的【决意】可用次数，他可以消耗所有的决意每日可用次数来避开死亡。尽管该攻击应当杀死他，武士仍会存活下来，生命值为-1（或更低，若他已经低于-1）并伤势稳定。</p>"
+      "description": "<p>&emsp;&emsp;17级时，武士可以花费可用决意次数来避开死亡。若他拥有至少两次的【决意】可用次数，他可以消耗所有的决意每日可用次数来避开死亡。尽管该攻击应当杀死他，武士仍会存活下来，生命值为-1（或更低，若他已经低于-1）并稳定。</p>"
     },
     "Strike True": {
       "name": "真击斩（Strike True）",
@@ -14545,7 +14545,7 @@
     },
     "Invocation": {
       "name": "祈神祷告（Invocation）",
-      "description": "<p>&emsp;&emsp;以标准动作，导魂者可祈求神祇的力量强化盟友。</p><p>&emsp;&emsp;当导魂者使用祈神祷告能力时，她必须从下列能力中选择一项，使她30尺内盟友获得此增益效果。如果导魂者的阵营为邪恶，此能力提供亵渎（Profane）加值，而非通常的神圣（Sacred）加值。中立阵营的导魂者必须选择亵渎加值或神圣加值，一旦选定即无法更改。生效中的祈神祷告效果无法打断，但导魂者死亡，麻痹，震慑或昏迷时立即结束。</p><p>&emsp;&emsp;导魂者每日可使用此能力的总分钟数等于其职业等级。使用此能力不必连续，但必须以分钟计。以一个迅捷动作，导魂者可消耗1分钟能力使用时间，将她选择的祈神祷告变更为另一种。</p><p>&emsp;&emsp;从7级开始，导魂者可用移动动作替代原本的标准动作使用此能力。13级开始，导魂者只需一个迅捷动作使用此能力。</p><ul><li>惩戒（Destruction）：导魂者的盟友充满了神圣的怒火，在所有武器伤害上获得+1神圣加值。这个加值每3级导魂者等级额外+1。</li> <li>治疗（Healing）：导魂者散发治疗之光，她的盟友获得1点快速医疗。导魂者的盟友每轮获得1点治疗（最高不超过其生命上限）。每轮治疗量每3级导魂者等级额外+1。</li> <li>正义（Justice）：这个能力促使导魂者的盟友寻求正义，在所有攻击上获得+1神圣加值。这个加值每5级导魂者等级额外+1。10级时，当确认重击威胁时该加值加倍。</li> <li>锐刺（Piercing）：这个能力赐予导魂者的盟友强大的集中力并且让他们的法术更加强大。盟友的专注检定及穿透法术抗力的施法者等级检定+1神圣加值。这个加值每3级导魂者等级额外+1。</li> <li>保护（Protection）：导魂者身旁环绕着保护的光环，给予其盟友防御等级+1神圣加值。这个加值每5级导魂者等级额外+1。10级时，当确认对导魂者盟友造成的重击威胁时该加值加倍。</li> <li>纯净（Purity）：导魂者的盟友对敌人的卑劣侵害获得保护，在所有豁免检定上获得+1神圣加值。这个加值每5级导魂者等级额外+1。10级时，这个加值对抗诅咒、疾病和毒素时加倍。</li> <li>坚韧（Resiliency）：导魂者的盟友更能对抗伤害，获得伤害减免「1/魔法」。这个伤害减免每5级导魂者等级额外+1。10级时，伤害减免从魔法变为导魂者的对立阵营（混乱、邪恶、善良、秩序）。如果她是中立阵营，导魂者的盟友不会得到该提升。</li> <li>抗力（Resistance）：导魂者的盟友受到一层闪烁的光环防护，获得2点能量抗力，对应的能量类型在祈神祷告开始时选择决定（强酸、寒冷、电击、火焰、音波）。这个防护每3级导魂者等级额外+2。</li> <li>制裁（Smiting）：此能力为导魂者盟友的武器浸染神圣的光芒。导魂者的武器在穿透伤害减免时视为魔法武器。6级时，导魂者的武器在穿透伤害减免时同时被视为一个阵营武器（混乱、邪恶、善良、秩序）。阵营种类取决于导魂者的阵营。如果导魂者是中立阵营，她不会得到这个好处。10级时，导魂者的武器在穿透伤害减免时视为精金武器（但不会额外减少硬度）。</li> </ul>"
+      "description": "<p>&emsp;&emsp;以标准动作，导魂者可祈求神祇的力量强化盟友。</p><p>&emsp;&emsp;当导魂者使用祈神祷告能力时，她必须从下列能力中选择一项，使她30尺内盟友获得此增益效果。如果导魂者的阵营为邪恶，此能力提供亵渎（Profane）加值，而非通常的神圣（Sacred）加值。中立阵营的导魂者必须选择亵渎加值或神圣加值，一旦选定即无法更改。生效中的祈神祷告效果无法打断，但导魂者死亡，麻痹，震慑或昏迷时立即结束。</p><p>&emsp;&emsp;导魂者每日可使用此能力的总分钟数等于其职业等级。使用此能力不必连续，但必须以分钟计。以一个迅捷动作，导魂者可消耗1分钟能力使用时间，将她选择的祈神祷告变更为另一种。</p><p>&emsp;&emsp;从7级开始，导魂者可用移动动作替代原本的标准动作使用此能力。13级开始，导魂者只需一个迅捷动作使用此能力。</p><ul><li>惩戒（Destruction）：导魂者的盟友充满了神圣的怒火，在所有武器伤害上获得+1神圣加值。这个加值每3级导魂者等级额外+1。</li> <li>治疗（Healing）：导魂者散发治疗之光，她的盟友获得1点快速治疗。导魂者的盟友每轮获得1点治疗（最高不超过其生命上限）。每轮治疗量每3级导魂者等级额外+1。</li> <li>正义（Justice）：这个能力促使导魂者的盟友寻求正义，在所有攻击上获得+1神圣加值。这个加值每5级导魂者等级额外+1。10级时，当确认重击威胁时该加值加倍。</li> <li>锐刺（Piercing）：这个能力赐予导魂者的盟友强大的集中力并且让他们的法术更加强大。盟友的专注检定及穿透法术抗力的施法者等级检定+1神圣加值。这个加值每3级导魂者等级额外+1。</li> <li>保护（Protection）：导魂者身旁环绕着保护的光环，给予其盟友防御等级+1神圣加值。这个加值每5级导魂者等级额外+1。10级时，当确认对导魂者盟友造成的重击威胁时该加值加倍。</li> <li>纯净（Purity）：导魂者的盟友对敌人的卑劣侵害获得保护，在所有豁免检定上获得+1神圣加值。这个加值每5级导魂者等级额外+1。10级时，这个加值对抗诅咒、疾病和毒素时加倍。</li> <li>坚韧（Resiliency）：导魂者的盟友更能对抗伤害，获得伤害减免「1/魔法」。这个伤害减免每5级导魂者等级额外+1。10级时，伤害减免从魔法变为导魂者的对立阵营（混乱、邪恶、善良、秩序）。如果她是中立阵营，导魂者的盟友不会得到该提升。</li> <li>抗力（Resistance）：导魂者的盟友受到一层闪烁的光环防护，获得2点能量抗力，对应的能量类型在祈神祷告开始时选择决定（酸蚀、寒冷、电击、火焰、音波）。这个防护每3级导魂者等级额外+2。</li> <li>制裁（Smiting）：此能力为导魂者盟友的武器浸染神圣的光芒。导魂者的武器在穿透伤害减免时视为魔法武器。6级时，导魂者的武器在穿透伤害减免时同时被视为一个阵营武器（混乱、邪恶、善良、秩序）。阵营种类取决于导魂者的阵营。如果导魂者是中立阵营，她不会得到这个好处。10级时，导魂者的武器在穿透伤害减免时视为精金武器（但不会额外减少硬度）。</li> </ul>"
     },
     "Fortune (SHA)": {
       "name": "祈福(萨满)（Fortune (SHA)）",
@@ -14664,7 +14664,7 @@
       "description": "<p>&emsp;&emsp;你在对抗法术或类法术能力的豁免上得到+2洞察加值，七级时，此加值也作用在超自然能力上，当你达到十一级，此加值上升为+4。</p>"
     },
     "Superstition (UC)": {
-      "name": "神秘迷信（Superstition (UC)）",
+      "name": "迷信（Superstition (UC)）",
       "description": "<p>&emsp;&emsp;野蛮人在对抗法术和类法术能力的豁免检定上获得+2的表现加值。该加值每4个等级便会提升1点。野蛮人无法自愿成为法术目标，她必须都进行豁免检定，即使该法术是其友军施展的。</p>"
     },
     "Absence of Form": {
@@ -14685,7 +14685,7 @@
     },
     "Autumn Rage": {
       "name": "秋之怒（Autumn Rage）",
-      "description": "<p>&emsp;&emsp;野蛮人成为收获的侍者。在狂暴时，她在移位或绊摔的战技检定上获得+2加值。她也在确认重击的攻击检定上获得此加值。野蛮人只能选择一个季节主题的狂暴之力，从春季，夏季，秋季或冬季之怒中选择。</p>"
+      "description": "<p>&emsp;&emsp;野蛮人成为收获的侍者。在狂暴时，她在移位或摔绊的战技检定上获得+2加值。她也在确认重击的攻击检定上获得此加值。野蛮人只能选择一个季节主题的狂暴之力，从春季，夏季，秋季或冬季之怒中选择。</p>"
     },
     "Discovery": {
       "name": "科研发现（Discovery）",
@@ -14749,7 +14749,7 @@
     },
     "Ledge Walker (UC)": {
       "name": "稳行者（Ledge Walker (UC)）",
-      "description": "<p>&emsp;&emsp;该能力使得盗贼能够使用特技动作技能在狭窄的表面、坑洼不平的表面或者滑溜（比如冰面）的表面上全速移动而不会承受惩罚。此外，具有该天赋的盗贼在使用特技动作技能沿着此类平面行走时不被视为措手不及，并且能够保持AC上的敏捷加值。</p>"
+      "description": "<p>&emsp;&emsp;该能力使得盗贼能够使用特技技能在狭窄的表面、坑洼不平的表面或者滑溜（比如冰面）的表面上全速移动而不会承受惩罚。此外，具有该天赋的盗贼在使用特技技能沿着此类平面行走时不被视为措手不及，并且能够保持AC上的敏捷加值。</p>"
     },
     "Ledge Walker": {
       "name": "稳行者（Ledge Walker）",
@@ -15036,11 +15036,11 @@
       "description": "<p>&emsp;&emsp;8级开始，你可以强迫其他人完成你的命令。以一个标准动作，你可以如同 @Compendium[pf1.spells.66s5qm8kwycgobce]{支配怪物}&nbsp;法术般控制一个生物，但是对手的HD必须小于等于你的法师等级否则无效。目标生物可以以一个意志豁免抵销这个影响，豁免难度等于“10+1/2法师等级+智力修正”。你可以控制生物的时间等于你的法师等级轮，这些回合并不需要连续。你必须以一个标准动作专注去维持控制被支配的生物。</p>"
     },
     "Aura of Despair": {
-      "name": "绝望光环（Aura of Despair）",
+      "name": "绝望灵氲（Aura of Despair）",
       "description": "<p>&emsp;&emsp;在8级时，你能散发出30尺半径的绝望光环，每天持续轮数等同你法师等级。在此范围内的敌人在属性检定，攻击，伤害，豁免和技能检定上获得-2罚值。此能力作用时间不需要连续。这是一个影响心智的效果。</p>"
     },
     "Aura of Despair (APA)": {
-      "name": "绝望灵光(反圣骑士)（Aura of Despair (APA)）",
+      "name": "绝望灵氲(反圣骑士)（Aura of Despair (APA)）",
       "description": "<p>&emsp;&emsp;8级起，反圣骑士周围10尺内的敌人豁免检定-2，此减值与【战栗灵光】能力的减值不叠加。此能力在反圣骑士神志清醒时发挥作用，当他失去知觉或者死亡时将失去作用。</p>"
     },
     "Killing Blow": {
@@ -15049,7 +15049,7 @@
     },
     "Rope Master": {
       "name": "绳技大师（Rope Master）",
-      "description": "<p>&emsp;&emsp;拥有此能力的盗贼在使用绳索攀爬时，可以用他的标准陆地移动速度。同时即便处在威胁或是分心的情况下，他仍可以在使用特技动作结合绳索通过狭窄容易掉落表面时取10。此外，他在绑人时对方的脱逃DC将上升4点。</p>"
+      "description": "<p>&emsp;&emsp;拥有此能力的盗贼在使用绳索攀爬时，可以用他的标准陆地移动速度。同时即便处在威胁或是分心的情况下，他仍可以在使用特技结合绳索通过狭窄容易掉落表面时取10。此外，他在绑人时对方的脱逃DC将上升4点。</p>"
     },
     "Lingering Evocations": {
       "name": "绵延塑能（Lingering Evocations）",
@@ -15061,7 +15061,7 @@
     },
     "Lingering Acid": {
       "name": "缠身酸液（Lingering Acid）",
-      "description": "<p>&emsp;&emsp;当奥能师使用【酸液喷射】技艺时，他可以从【奥能源泉】中消费2点而非1点。若如此做，则豁免失败的目标会在之后数轮中受到额外伤害。初始攻击的每造成了2d6点强酸伤害，就会使目标在接下来一轮中受到1d6强酸伤害。随后轮中每造成2d6点强酸伤害，也会使目标下一轮再受到1d6强酸伤害。此伤害持续到前一轮的此效果造成的强酸伤害为1d6为止。例如一个9级奥能师能够造成“5d6+奥能师魅力调整值”点强酸伤害，第二轮造成2d6点强酸伤害，第三轮即最后一次造成1d6点强酸伤害。奥能师必须拥有【酸液喷射】技艺才能选择此技艺。</p>"
+      "description": "<p>&emsp;&emsp;当奥能师使用【酸液喷射】技艺时，他可以从【奥能源泉】中消费2点而非1点。若如此做，则豁免失败的目标会在之后数轮中受到额外伤害。初始攻击的每造成了2d6点酸蚀伤害，就会使目标在接下来一轮中受到1d6酸蚀伤害。随后轮中每造成2d6点酸蚀伤害，也会使目标下一轮再受到1d6酸蚀伤害。此伤害持续到前一轮的此效果造成的酸蚀伤害为1d6为止。例如一个9级奥能师能够造成“5d6+奥能师魅力调整值”点酸蚀伤害，第二轮造成2d6点酸蚀伤害，第三轮即最后一次造成1d6点酸蚀伤害。奥能师必须拥有【酸液喷射】技艺才能选择此技艺。</p>"
     },
     "Close Range": {
       "name": "缩短距离（Close Range）",
@@ -15097,7 +15097,7 @@
     },
     "Acrobatic Stunt": {
       "name": "翻滚绝技（Acrobatic Stunt）",
-      "description": "<p>&emsp;&emsp;每日1次，当具有该项天赋的盗贼至少被两名敌人夹击，而且任何威胁到盗贼的敌人攻击她时，盗贼可以以直觉动作尝试一次特技动作检定，以此来对抗威胁生物中最高的CMD，若威胁到盗贼的敌人超过两名，则每增加一名敌人，此次对抗的CMD就增加2点。若检定成功，盗贼便能够向任意方向进行五尺快步，不过她必须在移动后仍处于触发移动的攻击者的触及范围内。以盗贼的最终位置来判断攻击者是否会从夹击中获益。若盗贼的检定失败，那么她会在初始地点倒地（prone），而攻击者会正常判定攻击（敌人的攻击在对抗倒地的目标时会获得+4加值）。盗贼每具有5个盗贼等级，每日便能多使用该能力1次。盗贼必须在特技动作技能上受训才能选取该项盗贼天赋。</p>"
+      "description": "<p>&emsp;&emsp;每日1次，当具有该项天赋的盗贼至少被两名敌人夹击，而且任何威胁到盗贼的敌人攻击她时，盗贼可以以直觉动作尝试一次特技检定，以此来对抗威胁生物中最高的CMD，若威胁到盗贼的敌人超过两名，则每增加一名敌人，此次对抗的CMD就增加2点。若检定成功，盗贼便能够向任意方向进行五尺快步，不过她必须在移动后仍处于触发移动的攻击者的触及范围内。以盗贼的最终位置来判断攻击者是否会从夹击中获益。若盗贼的检定失败，那么她会在初始地点倒地（prone），而攻击者会正常判定攻击（敌人的攻击在对抗倒地的目标时会获得+4加值）。盗贼每具有5个盗贼等级，每日便能多使用该能力1次。盗贼必须在特技技能上受训才能选取该项盗贼天赋。</p>"
     },
     "Order of the Flame": {
       "name": "耀炎骑士团（Order of the Flame）",
@@ -15164,7 +15164,7 @@
       "description": "<p>&emsp;&emsp;当奥能师使用了【能量护盾】技艺，且此护盾阻止了10点或以上的伤害时，他可以吸收部分能量来为他的技艺供能。当吸收伤害后，他在使用任何造成能量伤害的技艺，且其能量类型与护盾吸收的能量相同时，他从【奥能源泉】中的消费降低1点。一分钟内还未使用的能量将会流失。奥能师每轮只能如此使用一份能量，且不能同时储存一份以上的能量。奥能师必须已有【能量护盾】技艺才能选择此技艺。</p>"
     },
     "Channel": {
-      "name": "能量引导（Channel）",
+      "name": "引导能量（Channel）",
       "description": "<p>&emsp;&emsp;你可以像牧师一样引导正能量，在决定引导的治疗量和豁免DC的时候用你的先知等级当做有效牧师等级。你每天可以引导正能量的次数相当于“1+魅力修正”。</p>"
     },
     "Energy Shield": {
@@ -15177,7 +15177,7 @@
     },
     "Energy Resistance": {
       "name": "能量抵抗（Energy Resistance）",
-      "description": "<p>&emsp;&emsp;选择一种能量类型（强酸、寒冷、电击、火焰或声波），狂暴时获得所选能量的抗力，点数等于野蛮人等级的一半（最小为1）。能量类型是选择这个狂暴之力时选定的且不能改变。这个狂暴之力可以选择多于1次，其效果不会叠加，每次适用于不同的能量类型。</p>"
+      "description": "<p>&emsp;&emsp;选择一种能量类型（酸蚀、寒冷、电击、火焰或声波），狂暴时获得所选能量的抗力，点数等于野蛮人等级的一半（最小为1）。能量类型是选择这个狂暴之力时选定的且不能改变。这个狂暴之力可以选择多于1次，其效果不会叠加，每次适用于不同的能量类型。</p>"
     },
     "Energy Eruption": {
       "name": "能量爆发（Energy Eruption）",
@@ -15213,7 +15213,7 @@
     },
     "Spontaneous Healing": {
       "name": "自体再生（Spontaneous Healing）",
-      "description": "<p>&emsp;&emsp;炼金术师可以使用此能力快速愈合身上的伤口。每轮1次，以一个自由动作，炼金术师可以恢复5点生命值，如同他拥有快速医疗5。他每天每2个炼金术师等级可以恢复5点生命值，如果他陷入昏迷且此能力还有每日使用次数的话，此能力会自动修复他的肉体直到他恢复清醒。</p>"
+      "description": "<p>&emsp;&emsp;炼金术师可以使用此能力快速愈合身上的伤口。每轮1次，以一个自由动作，炼金术师可以恢复5点生命值，如同他拥有快速治疗5。他每天每2个炼金术师等级可以恢复5点生命值，如果他陷入昏迷且此能力还有每日使用次数的话，此能力会自动修复他的肉体直到他恢复清醒。</p>"
     },
     "Self-Control": {
       "name": "自制力（Self-Control）",
@@ -15320,7 +15320,7 @@
       "description": "<p>&emsp;&emsp;拥有这一绝技的猫族盗贼可以在她的爪子上涂毒，而不用担心自己因此中毒。一个猫族在选择这一绝技前必须拥有【猫爪】种族特性和【用毒】职业能力。 "
     },
     "Lethal Accuracy (UC)": {
-      "name": "致命精准（Lethal Accuracy (UC)）",
+      "name": "致死精确（Lethal Accuracy (UC)）",
       "description": "<p>&emsp;&emsp;当处于精准战姿时，野蛮人的重击倍数提升1（2倍重击变为3倍，3倍重击变为4倍。4倍重击变为5倍）。野蛮人至少要达到16级后且拥有【精准战姿】和【死亡精准】才能选择此狂暴之力。</p>"
     },
     "Deadly Accuracy": {
@@ -15348,7 +15348,7 @@
       "description": "<p>&emsp;&emsp;当野蛮人使用【无比精准】狂暴之力时，他手中武器的重击倍率上升1（×2变成×3，×3变成×4），野蛮人必须先学会【无比精准】和【致命精确】且达到16级才有办法选择此狂暴之力。</p>"
     },
     "Crippling Blow (UC)": {
-      "name": "致残打击（Crippling Blow (UC)）",
+      "name": "致残猛击（Crippling Blow (UC)）",
       "description": "<p>&emsp;&emsp;每日一次，当野蛮人命中时，她可以额外造成1点力量或敏捷的属性伤害。该伤害值每4级提升1点。野蛮人至少要达到第8级后才能选择此狂暴之力。</p>"
     },
     "Crippling Strike": {
@@ -15465,11 +15465,11 @@
     },
     "Rooting": {
       "name": "落地生根（Rooting）",
-      "description": "<p>&emsp;&emsp;15级开始，你可以通过一个移动动作长出根须使自己根植于地面。你的移动速度降低为5尺，同时AC获得+4天生护甲加值。此外，在冲撞、闯越、复位、以及绊摔战技的CMD获得+10加值。你获得30尺颤动感知和1点快速治疗。你每日可以使用此能力每术士等级1分钟，你不必一次性用尽，但是每次使用此能力都将消耗1分钟的持续时间。</p>"
+      "description": "<p>&emsp;&emsp;15级开始，你可以通过一个移动动作长出根须使自己根植于地面。你的移动速度降低为5尺，同时AC获得+4天生护甲加值。此外，在冲撞、闯越、复位、以及摔绊战技的CMD获得+10加值。你获得30尺颤动感知和1点快速治疗。你每日可以使用此能力每术士等级1分钟，你不必一次性用尽，但是每次使用此能力都将消耗1分钟的持续时间。</p>"
     },
     "Vandal": {
       "name": "蓄意破坏（Vandal）",
-      "description": "<p>&emsp;&emsp;2级起，骑士获得高等破武（Greater Sunder）作为奖励专长。此外，当他对物体造成伤害时（包括使用破武战技时），能够将骑士等级的一半加到伤害检定中。若狂兽骑士团的骑士成功击破一件物体，则会在所有攻击检定中获得+2士气加值，直至在他的下个回合结束为止。</p>"
+      "description": "<p>&emsp;&emsp;2级起，骑士获得高等击破（Greater Sunder）作为奖励专长。此外，当他对物体造成伤害时（包括使用击破战技时），能够将骑士等级的一半加到伤害检定中。若狂兽骑士团的骑士成功击破一件物体，则会在所有攻击检定中获得+2士气加值，直至在他的下个回合结束为止。</p>"
     },
     "Order of the Blue Rose": {
       "name": "蓝玫瑰骑士团（Order of the Blue Rose）",
@@ -15477,7 +15477,7 @@
     },
     "Tanglevine": {
       "name": "蔓藤鞭（Tanglevine）",
-      "description": "<p>&emsp;&emsp;1级开始，你可以通过一个标准动作从你的手上创造一条15尺长的活化藤。这条活化藤持续1轮时间，可以进行一次卸武，偷窃，绊摔战技，使用“术士等级+魅力修正”取代正常的CMB。你能够每天使用此能力次数为“3+魅力修正”。</p>"
+      "description": "<p>&emsp;&emsp;1级开始，你可以通过一个标准动作从你的手上创造一条15尺长的活化藤。这条活化藤持续1轮时间，可以进行一次卸武，偷窃，摔绊战技，使用“术士等级+魅力修正”取代正常的CMB。你能够每天使用此能力次数为“3+魅力修正”。</p>"
     },
     "Hide Aura": {
       "name": "藏匿光环（Hide Aura）",
@@ -15565,7 +15565,7 @@
     },
     "Hive Totem": {
       "name": "蜂群图腾（Hive Totem）",
-      "description": "<p>&emsp;&emsp;狂暴时，野蛮人因集群攻击所受的伤害减半，这里的集群包括由法术所造成的集群和类似效果。此外，他的力量检定+1，并对冲撞、拖拽或绊摔的CMD上得到同样的加值，此加值每4级再+1，直到20级的+5。野蛮人必须要学会【野性之怒】且达到4级才能学习“蜂群图腾”。</p>"
+      "description": "<p>&emsp;&emsp;狂暴时，野蛮人因集群攻击所受的伤害减半，这里的集群包括由法术所造成的集群和类似效果。此外，他的力量检定+1，并对冲撞、拖拽或摔绊的CMD上得到同样的加值，此加值每4级再+1，直到20级的+5。野蛮人必须要学会【野性之怒】且达到4级才能学习“蜂群图腾”。</p>"
     },
     "Waxen Image": {
       "name": "蜡像（Waxen Image）",
@@ -15601,7 +15601,7 @@
     },
     "Bloodrage": {
       "name": "血怒（Bloodrage）",
-      "description": "<p>&emsp;&emsp;血脉狂怒者的力量之源会赋予他名为血怒的能力。在1级时，血脉狂怒者每日能够处于血怒的轮数等同于 4 + 他的体质调整值。在1级之后的每一级，他的每日血怒轮数都会额外增加2轮。暂时性的体质提升（比如从血怒或者熊之坚韧这样的法术中获得的体质加值）无法增加血脉狂怒者每日血怒的总轮数。每日血怒总轮数会在血脉狂怒者休息8小时后恢复，这些休息的时间不需要连续。</p><p>&emsp;&emsp;血脉狂怒者能够以自由动作进入血怒。在处于血怒时，血脉狂怒者的力量和体质获得+4士气加值，意志豁免也会获得+2士气加值。此外，他的防御等级受到-2减值。这些体质的提升会让血脉狂怒者获得每生命骰2点生命值，不过这些生命值都会在血怒结束时消失，而且也不会像临时生命值那样首先被消耗掉。在处于血怒时，血脉狂怒者无法使用任何基于魅力、敏捷或智力的技能（除了特技动作、飞行、威吓和骑术），也无法使用任何需要耐心和专注的能力。</p><p>&emsp;&emsp;血脉狂怒者能够以自由动作结束血怒。在血怒结束时，他会在一定轮数内陷入疲乏（fatigued），疲乏的轮数为他在血怒中花费的轮数的两倍。血脉狂怒者无法在疲乏（fatigued）或力竭（exhausted）时再次进入血怒，不过他可以在单场遭遇或战斗中多次进入血怒。若血脉狂怒者陷入昏迷（falls unconscious），他的血怒便会立即结束，这会将其置于死亡的危险中。</p><p>&emsp;&emsp;在判断专长的先决条件、专长能力、魔法物品能力以及法术效果时，血脉狂怒者的血怒被视作野蛮人的狂暴（rage）职业能力。</p>"
+      "description": "<p>&emsp;&emsp;血脉狂怒者的力量之源会赋予他名为血怒的能力。在1级时，血脉狂怒者每日能够处于血怒的轮数等同于 4 + 他的体质调整值。在1级之后的每一级，他的每日血怒轮数都会额外增加2轮。暂时性的体质提升（比如从血怒或者熊之坚韧这样的法术中获得的体质加值）无法增加血脉狂怒者每日血怒的总轮数。每日血怒总轮数会在血脉狂怒者休息8小时后恢复，这些休息的时间不需要连续。</p><p>&emsp;&emsp;血脉狂怒者能够以自由动作进入血怒。在处于血怒时，血脉狂怒者的力量和体质获得+4士气加值，意志豁免也会获得+2士气加值。此外，他的防御等级受到-2减值。这些体质的提升会让血脉狂怒者获得每生命骰2点生命值，不过这些生命值都会在血怒结束时消失，而且也不会像临时生命值那样首先被消耗掉。在处于血怒时，血脉狂怒者无法使用任何基于魅力、敏捷或智力的技能（除了特技、飞行、威吓和骑术），也无法使用任何需要耐心和专注的能力。</p><p>&emsp;&emsp;血脉狂怒者能够以自由动作结束血怒。在血怒结束时，他会在一定轮数内陷入疲乏（fatigued），疲乏的轮数为他在血怒中花费的轮数的两倍。血脉狂怒者无法在疲乏（fatigued）或力竭（exhausted）时再次进入血怒，不过他可以在单场遭遇或战斗中多次进入血怒。若血脉狂怒者陷入昏迷（falls unconscious），他的血怒便会立即结束，这会将其置于死亡的危险中。</p><p>&emsp;&emsp;在判断专长的先决条件、专长能力、魔法物品能力以及法术效果时，血脉狂怒者的血怒被视作野蛮人的狂暴（rage）职业能力。</p>"
     },
     "Reckless Abandon": {
       "name": "血性狂怒（Reckless Abandon）",
@@ -15825,7 +15825,7 @@
     },
     "Burn Shroud": {
       "name": "见证之火（Burn Shroud）",
-      "description": "<p>&emsp;&emsp;通过一个标准动作，你可以对一个生物发动一次徒手击打接触攻击，对目标造成1d4+1/你的每两个审判者等级（至少1点）的火焰伤害。如果目标处于一个改变其外貌的变形效果的影响下（比如法术变身术[Alter Self]或是该生物为一个变形者，比如变形怪拥有的变形能力），它转而受到1d6+1/你的每两个审判者等级（至少1点）的火焰伤害。你每天可以使用本能力的次数等同于3+你的感知调整值。</p>"
+      "description": "<p>&emsp;&emsp;通过一个标准动作，你可以对一个生物发动一次徒手打击接触攻击，对目标造成1d4+1/你的每两个审判者等级（至少1点）的火焰伤害。如果目标处于一个改变其外貌的变形效果的影响下（比如法术变身术[Alter Self]或是该生物为一个变形者，比如变形怪拥有的变形能力），它转而受到1d6+1/你的每两个审判者等级（至少1点）的火焰伤害。你每天可以使用本能力的次数等同于3+你的感知调整值。</p>"
     },
     "Order of the Asp": {
       "name": "角虺骑士团（Order of the Asp）",
@@ -16061,10 +16061,10 @@
     },
     "Light Steps": {
       "name": "轻身步（Light Steps）",
-      "description": "<p>&emsp;&emsp;6级时，忍者习得如何极少接触脚下地面来进行移动的技巧。以整轮动作，她可以移动双倍于其速度，忽视困难地形。当以此方式移动时，任何表面都足以支撑她，无论她重量如何。这使得她能够穿越水面、熔岩、甚至是最细的树枝。她必须在足以正常支撑她的表面结束移动。她不能以此方式在空气中移动，或是向上运动到墙上或其他类似的竖直表面。当以此方式移动时，她不会受到该表面带来的伤害或由接触引起的危害，例如熔岩或蒺藜，她也无需进行特技动作检定来避免在溜滑或粗糙的表面摔倒。最后，当使用本能力时忍者忽视任何使用基于位置触发的机械力学陷阱。</p>"
+      "description": "<p>&emsp;&emsp;6级时，忍者习得如何极少接触脚下地面来进行移动的技巧。以整轮动作，她可以移动双倍于其速度，忽视困难地形。当以此方式移动时，任何表面都足以支撑她，无论她重量如何。这使得她能够穿越水面、熔岩、甚至是最细的树枝。她必须在足以正常支撑她的表面结束移动。她不能以此方式在空气中移动，或是向上运动到墙上或其他类似的竖直表面。当以此方式移动时，她不会受到该表面带来的伤害或由接触引起的危害，例如熔岩或蒺藜，她也无需进行特技检定来避免在溜滑或粗糙的表面摔倒。最后，当使用本能力时忍者忽视任何使用基于位置触发的机械力学陷阱。</p>"
     },
     "High Jump (UC)": {
-      "name": "轻身纵（High Jump (UC)）",
+      "name": "轻功（High Jump (UC)）",
       "description": "<p>&emsp;&emsp;习得此绝学的武僧可以将武僧等级作为加值添加到跳高和跳远时进行的特技检定中。武僧进行所有跳跃时的特技检定都视为已进行了助跑。通过迅捷动作消耗1点气，1轮内武僧用以跳跃的特技检定获得+20加值。</p>"
     },
     "Cleanse Impunity": {
@@ -16104,7 +16104,7 @@
       "description": "<p>&emsp;&emsp;从3级开始 ，炼金术师可以用令人震惊的速度来制作炼金物品。炼金术师制作一样炼金物品只需要正常时间的一半，而且他可以一个移动动作给武器上毒。</p>"
     },
     "Swift Foot (UC)": {
-      "name": "迅捷脚步（Swift Foot (UC)）",
+      "name": "迅足（Swift Foot (UC)）",
       "description": "<p>&emsp;&emsp;野蛮人获得10尺的基本移动速度的增强加值。野蛮人最多可以选择此狂暴之力3次，其效果相叠加。</p>"
     },
     "Swift Consume": {
@@ -16153,7 +16153,7 @@
     },
     "Brawler's Flurry": {
       "name": "连打（Brawler's Flurry）",
-      "description": "<p>&emsp;&emsp;在2级时，拳师可以在整轮攻击动作时使出连打。当拳师使用连打时，如同拥有双武器格斗（Two-Weapon Fighting）专长。他可以使用徒手击打，战士的近身武器组中的武器或者是具有“武僧”（Monk）特殊能力的武器来使出连打。</p><p>&emsp;&emsp;拳师使出连打时，他所有成功命中的伤害检定上都使用他完整的力量加值，就算该攻击是由副手或是双手持握的武器使出。拳师可以用诸如卸除武器、破武、摔绊等战斗招式来取代原本的攻击，以作为连打的一部分。拥有天生武器的拳师不能以它进行连打，也不能在连打外再用天生武器进行额外攻击。</p><p>&emsp;&emsp;在8级时，拳师在使用连打时可以进行两次额外攻击，如同他使用了精通双武器格斗（即使他没有满足该专长的先决条件）；在15级时，拳师在使用连打时可以进行三次额外攻击，如同他使用了高等双武器格斗（即使他没有满足该专长的先决条件）。</p>"
+      "description": "<p>&emsp;&emsp;在2级时，拳师可以在整轮攻击动作时使出连打。当拳师使用连打时，如同拥有双武器格斗（Two-Weapon Fighting）专长。他可以使用徒手打击，战士的近身武器组中的武器或者是具有“武僧”（Monk）特殊能力的武器来使出连打。</p><p>&emsp;&emsp;拳师使出连打时，他所有成功命中的伤害检定上都使用他完整的力量加值，就算该攻击是由副手或是双手持握的武器使出。拳师可以用诸如卸除武器、击破、摔绊等战斗招式来取代原本的攻击，以作为连打的一部分。拥有天生武器的拳师不能以它进行连打，也不能在连打外再用天生武器进行额外攻击。</p><p>&emsp;&emsp;在8级时，拳师在使用连打时可以进行两次额外攻击，如同他使用了精通双武器格斗（即使他没有满足该专长的先决条件）；在15级时，拳师在使用连打时可以进行三次额外攻击，如同他使用了高等双武器格斗（即使他没有满足该专长的先决条件）。</p>"
     },
     "Bond Senses": {
       "name": "连觉（Bond Senses）",
@@ -16281,7 +16281,7 @@
     },
     "Daemonic Resistances": {
       "name": "邪魔抗力（Daemonic Resistances）",
-      "description": "<p>&emsp;&emsp;3级起，你获得5点强酸抗力，并且在对抗毒素与死亡效果时的豁免中获得+2加值。9级起，你的强酸抗力增加至10点，对抗毒素与死亡效果时的豁免中获得的加值提升至+4。</p>"
+      "description": "<p>&emsp;&emsp;3级起，你获得5点酸蚀抗力，并且在对抗毒素与死亡效果时的豁免中获得+2加值。9级起，你的酸蚀抗力增加至10点，对抗毒素与死亡效果时的豁免中获得的加值提升至+4。</p>"
     },
     "Daemon Bloodline": {
       "name": "邪魔血统（Daemon Bloodline）",
@@ -16297,23 +16297,23 @@
     },
     "Acidic Ray": {
       "name": "酸性射线（Acidic Ray）",
-      "description": "<p>&emsp;&emsp;1级开始，你能用标准动作发出一道酸性射线。通过一个远程接触攻击任何30尺以内的敌人。酸性射线造成“1d6+1/2术士等级”的强酸伤害。你每天可以使用此能力次数为“3+魅力修正”。</p>"
+      "description": "<p>&emsp;&emsp;1级开始，你能用标准动作发出一道酸性射线。通过一个远程接触攻击任何30尺以内的敌人。酸性射线造成“1d6+1/2术士等级”的酸蚀伤害。你每天可以使用此能力次数为“3+魅力修正”。</p>"
     },
     "Acid Skin": {
       "name": "酸性皮肤（Acid Skin）",
-      "description": "<p>&emsp;&emsp;你获得5点强酸抗力。在5级该抗力变为10，11级变为20。17级，你免疫强酸。</p>"
+      "description": "<p>&emsp;&emsp;你获得5点酸蚀抗力。在5级该抗力变为10，11级变为20。17级，你免疫强酸。</p>"
     },
     "Acid Jet": {
       "name": "酸液喷射（Acid Jet）",
-      "description": "<p>&emsp;&emsp;奥能师可以从【奥能源泉】中消费1点来发射出一股强酸。他能对30尺距离内任一目标进行一次远程接触攻击。若攻击命中，则造成“1d6+奥能师魅力调整值”的强酸伤害。1级以后每2级再增强1d6点（最高在19级达到10d6）。目标还会恶心1d4轮，通过强韧豁免则不会恶心。</p>"
+      "description": "<p>&emsp;&emsp;奥能师可以从【奥能源泉】中消费1点来发射出一股强酸。他能对30尺距离内任一目标进行一次远程接触攻击。若攻击命中，则造成“1d6+奥能师魅力调整值”的酸蚀伤害。1级以后每2级再增强1d6点（最高在19级达到10d6）。目标还会恶心1d4轮，通过强韧豁免则不会恶心。</p>"
     },
     "Earth Blessing: Acid Strike": {
       "name": "酸液打击（Earth Blessing: Acid Strike）",
       "description": "<p>&emsp;&emsp;在1级时，你可以通过触摸一件近战武器给予其强酸之力。在1分钟内，这件武器会被酸液环绕，并造成1D4额外酸液伤害。这个额外伤害不与酸蚀（Corrosive）武器特性叠加。</p>"
     },
     "Acid Dart (CLE)": {
-      "name": "酸镖(牧师)（Acid Dart (CLE)）",
-      "description": "<p>&emsp;&emsp;你能用标准动作发出一道酸镖。通过远程接触攻击一个30尺以内的敌人，酸镖造成“1d6+1/2牧师等级”的强酸伤害。你每天可以使用此能力次数“3+感知修正”。</p>"
+      "name": "酸蚀镖(牧师)（Acid Dart (CLE)）",
+      "description": "<p>&emsp;&emsp;你能用标准动作发出一道酸蚀镖。通过远程接触攻击一个30尺以内的敌人，酸蚀镖造成“1d6+1/2牧师等级”的酸蚀伤害。你每天可以使用此能力次数“3+感知修正”。</p>"
     },
     "Staggering Drunk": {
       "name": "醉步（Staggering Drunk）",
@@ -16357,7 +16357,7 @@
     },
     "Wild Charge": {
       "name": "野性冲锋（Wild Charge）",
-      "description": "<p>&emsp;&emsp;在15等时，骑士与他的坐骑在冲锋时可以忽视困难地型。除此之外，如果骑士的冲锋成功，并且骑士与他的目标都处于困难地型中，那他在使用强力冲锋（mighty charge）能力时，在冲撞、卸武、破武以击绊摔战技上，获得+2表现加值。</p>"
+      "description": "<p>&emsp;&emsp;在15等时，骑士与他的坐骑在冲锋时可以忽视困难地型。除此之外，如果骑士的冲锋成功，并且骑士与他的目标都处于困难地型中，那他在使用强力冲锋（mighty charge）能力时，在冲撞、卸武、击破以击摔绊战技上，获得+2表现加值。</p>"
     },
     "Feral Mutagen": {
       "name": "野性突变（Feral Mutagen）",
@@ -16372,8 +16372,8 @@
       "description": "<p>&emsp;&emsp;如果野蛮人使用投掷武器发动远程攻击并使用他的敏捷调整值来计算攻击加值，那么他可以在远程攻击检定上获得+1加值。如果野蛮人拥有至少+4的力量加值，那么这个加值在4级时提升到+2；如果野蛮人拥有至少+6的力量加值，那么这个加值在8级时提升到+3；如果野蛮人拥有至少+8的力量加值，那么这个加值在12级时提升到+4。</p>"
     },
     "Smasher (UC)": {
-      "name": "野蛮破坏（Smasher (UC)）",
-      "description": "<p>&emsp;&emsp;当野蛮人使用破武战技或攻击无主物品时，她每个野蛮人等级可以忽视1点硬度。</p>"
+      "name": "破坏者（Smasher (UC)）",
+      "description": "<p>&emsp;&emsp;当野蛮人使用击破战技或攻击无主物品时，她每个野蛮人等级可以忽视1点硬度。</p>"
     },
     "Diamond Body (UC)": {
       "name": "金刚体（Diamond Body (UC)）",
@@ -16433,7 +16433,7 @@
     },
     "Metal Fist": {
       "name": "铁拳（Metal Fist）",
-      "description": "<p>&emsp;&emsp;以迅捷动作，你拳头变为无视10以下硬度的硬金属1轮。令你徒手攻击造成1d6钝击伤害再加上力量加值。此拳不会因无武装受到藉机攻击，但同时使用武器攻击的时候要按照双武器规则。每天“3+感知修正”次。此能力替换土领域的酸镖能力。</p>"
+      "description": "<p>&emsp;&emsp;以迅捷动作，你拳头变为无视10以下硬度的硬金属1轮。令你徒手攻击造成1d6钝击伤害再加上力量加值。此拳不会因徒手打击受到藉机攻击，但同时使用武器攻击的时候要按照双武器规则。每天“3+感知修正”次。此能力替换土领域的酸蚀镖能力。</p>"
     },
     "Intense Spells": {
       "name": "锐化法术（Intense Spells）",
@@ -16445,7 +16445,7 @@
     },
     "Order of the Hammer": {
       "name": "锤之骑士团（Order of the Hammer）",
-      "description": "<p>&emsp;&emsp;锤之骑士团的骑士崇拜力量高过一切，他们认为强大就意味着拥有替弱者做出决定的权利。当骑士团成员的个人目标与强大的统治者发生冲突，他必须证明自己的力量和理想更加优越。<br><br><strong>守则：</strong> 骑士必须不断努力，以证明其自身和其盟友的力量，特别是在遇到逆境或那些追求更加强大力量的骑士。<br><br><strong>挑战：</strong> 锤之骑士团的骑士，在其使用全力攻击攻击他挑战的对手时，可以尝试进行一次自由的擒抱或破武战技，此战技不会引发借机攻击。<br><br><strong>技能：</strong> 锤之骑士团的骑士将特技（敏捷）和知识（本地）（智力）加入其职业技能列表。同时，当骑士使用特技技能跳跃，他可以在敏捷调整值之外再额外加上力量调整值，同时还获得1/2骑士等级（最低1）的加值。</p>"
+      "description": "<p>&emsp;&emsp;锤之骑士团的骑士崇拜力量高过一切，他们认为强大就意味着拥有替弱者做出决定的权利。当骑士团成员的个人目标与强大的统治者发生冲突，他必须证明自己的力量和理想更加优越。<br><br><strong>守则：</strong> 骑士必须不断努力，以证明其自身和其盟友的力量，特别是在遇到逆境或那些追求更加强大力量的骑士。<br><br><strong>挑战：</strong> 锤之骑士团的骑士，在其使用全力攻击攻击他挑战的对手时，可以尝试进行一次自由的擒抱或击破战技，此战技不会引发借机攻击。<br><br><strong>技能：</strong> 锤之骑士团的骑士将特技（敏捷）和知识（本地）（智力）加入其职业技能列表。同时，当骑士使用特技技能跳跃，他可以在敏捷调整值之外再额外加上力量调整值，同时还获得1/2骑士等级（最低1）的加值。</p>"
     },
     "Calming Touch": {
       "name": "镇定接触（Calming Touch）",
@@ -16492,7 +16492,7 @@
       "description": "<p>&emsp;&emsp;每天一次，你可以花10分钟的时间参悟黑暗帷幕的秘密，将你的心志穿越到其他位面，并且和异界生物或强大的存在交流，效果如同“异界探知”。你必须达到7级才有办法选择这个启示。</p>"
     },
     "Guarded Stance (UC)": {
-      "name": "防卫战姿（Guarded Stance (UC)）",
+      "name": "守卫姿态（Guarded Stance (UC)）",
       "description": "<p>&emsp;&emsp;野蛮人可以使用一种更具防守性的姿态来战斗。她在狂暴期间获得+1的闪避AC。该加值每4级提升1点。该狂暴之力是一种战姿。</p>"
     },
     "Defense Subdomain": {
@@ -16697,7 +16697,7 @@
     },
     "Tremor": {
       "name": "震颤践踏（Tremor）",
-      "description": "<p>&emsp;&emsp;1级开始，你可以以一个标准动作使一个30尺内生物所在地面产生震动，效果如同绊摔战技，使用你的“术士等级+魅力修正”作为CMB。你能够每天使用此能力次数为“3+魅力修正”。</p>"
+      "description": "<p>&emsp;&emsp;1级开始，你可以以一个标准动作使一个30尺内生物所在地面产生震动，效果如同摔绊战技，使用你的“术士等级+魅力修正”作为CMB。你能够每天使用此能力次数为“3+魅力修正”。</p>"
     },
     "Icewalker": {
       "name": "霜之行者（Icewalker）",
@@ -16756,7 +16756,7 @@
       "description": "<p>&emsp;&emsp;<strong>替代领域法术 </strong></p>\n<ul>\n<li>1环——@Compendium[pf1.spells.wa0zb2pncesmm9lz]{祝福术}</li>\n<li>3环——@Compendium[pf1.spells.hu8179fdqfkl0bqj]{祈祷术}</li>\n<li>6环——@Compendium[pf1.spells.8mv7anloqgou2ps8]{辉煌启言}</li>\n</ul>"
     },
     "Bonus Feats (SWA)": {
-      "name": "额外专长(游荡剑客)（Bonus Feats (SWA)）",
+      "name": "奖励专长(游荡剑客)（Bonus Feats (SWA)）",
       "description": "<p>&emsp;&emsp;4级以及之后每4级，游荡剑客在正常提升之外获得一项额外专长。这些额外专长必须为战斗专长。</p><p>&emsp;&emsp;每当在4级及之后每4级获得新的额外专长时，一名游荡剑客可以选择一个新的额外专长替代已有的一个额外专长。作为结果，游荡剑客会失去原有的专长并获得一个新专长。被替换的专长不能是被用于满足另一个专长、进阶职业或其他能力的前提条件的专长。每次到达新的指定级别时，游荡剑客只能选择一个新的专长来替换原有的专长，并且不能选择替换本级获得的新额外专长。在选择战斗专长时，游荡剑客等级可以作为战士等级满足专长的前提条件。</p>"
     },
     "Bonus Languages": {
@@ -16833,7 +16833,7 @@
     },
     "Ki Hurricane (UC)": {
       "name": "飓风劲（Ki Hurricane (UC)）",
-      "description": "<p>&emsp;&emsp;以一个全回合动作，武僧激活此能力后可以移动至多两倍速度的距离。在移动中的任一个点上，他都可以消耗1点气进行疾风连击的第一次攻击。再之后移动中的任意点，他都可以消耗气来进行疾风连击剩下的攻击，每一次攻击都会消耗1点气。直到停止消耗气或疾风连击次数全部用完。武僧必须至少有10级且习得【电瞬步Sudden Speed】才能学习该绝学。</p>"
+      "description": "<p>&emsp;&emsp;以一个全回合动作，武僧激活此能力后可以移动至多两倍速度的距离。在移动中的任一个点上，他都可以消耗1点气进行疾风连击的第一次攻击。再之后移动中的任意点，他都可以消耗气来进行疾风连击剩下的攻击，每一次攻击都会消耗1点气。直到停止消耗气或疾风连击次数全部用完。武僧必须至少有10级且习得【瞬时加速Sudden Speed】才能学习该绝学。</p>"
     },
     "Wandering Hex": {
       "name": "飘渺巫术（Wandering Hex）",
@@ -17021,7 +17021,7 @@
     },
     "Draconic Blood, Greater": {
       "name": "高等巨龙之血（Draconic Blood, Greater）",
-      "description": "<p>&emsp;&emsp;每当野蛮人进入狂暴状态，他每天可以使用一次喷吐武器攻击。这个喷吐武器可以造成每两个野蛮人1d6点他在巨龙之血狂暴之力中选定的能量伤害。喷吐武器的范围可以是30尺锥形（火焰或寒冷）或60尺线型（强酸或电击）。处于喷吐武器影响范围内的生物可以进行一个DC=10+野蛮人等级一半+他的体质调整值的反射检定减半伤害。</p>"
+      "description": "<p>&emsp;&emsp;每当野蛮人进入狂暴状态，他每天可以使用一次喷吐武器攻击。这个喷吐武器可以造成每两个野蛮人1d6点他在巨龙之血狂暴之力中选定的能量伤害。喷吐武器的范围可以是30尺锥形（火焰或寒冷）或60尺线型（酸蚀或电击）。处于喷吐武器影响范围内的生物可以进行一个DC=10+野蛮人等级一半+他的体质调整值的反射检定减半伤害。</p>"
     },
     "Grand Hex": {
       "name": "高等巫术（Grand Hex）",
@@ -17092,7 +17092,7 @@
       "description": "<p>&emsp;&emsp;野蛮人骑乘且狂暴的时候，他的坐骑也获得他的狂暴之力的效果，但坐骑不会得到需要动作才能使用的能力，即使是自由动作。野蛮人必须习得【狂暴坐骑】且至少8级才能选择这个狂暴之力。</p>"
     },
     "Improved Quarry (VAM)": {
-      "name": "高等狩猎目标(吸血鬼猎人)（Improved Quarry (VAM)）",
+      "name": "精通狩猎目标(吸血鬼猎人)（Improved Quarry (VAM)）",
       "description": "<p>&emsp;&emsp;19级时，吸血鬼猎人追猎自己的猎物的能力升级。他现在可以以自由动作指定狩猎目标，并且可以在以普通速度移动时的生存检定中取20，不用受到惩罚。他的攻击洞察加值提高到+4。如果他的狩猎目标被杀死或者逃走，他可以在10分钟后指定新的狩猎目标。</p>"
     },
     "Greater Bane": {
@@ -17124,7 +17124,7 @@
       "description": "<p>&emsp;&emsp;在10级时，以一个迅捷动作你可以使自己隐形（相当于法术高等隐形术），持续一轮。</p>"
     },
     "Major Magic (UC)": {
-      "name": "高等魔法（Major Magic (UC)）",
+      "name": "高级魔法（Major Magic (UC)）",
       "description": "<p>&emsp;&emsp;具有该天赋的盗贼具有以类法术能力施放术士/法师法术列表中的一个1级法术的能力，她每具有2个盗贼等级便获得1次每日使用次数。该能力中盗贼的施法者等级等同于她的盗贼等级。法术的DC为11 + 盗贼的智力调整值。盗贼必须具有次等魔法盗贼天赋，而且智力属性至少达到11点才能选取该天赋。</p>"
     },
     "Greater Cognatogen": {

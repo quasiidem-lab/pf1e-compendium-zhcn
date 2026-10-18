@@ -2131,7 +2131,7 @@
   },
   "Pole, Balancing": {
    "name": "平衡杆（Pole, Balancing）",
-   "description": "<p>&emsp;&emsp;<strong>价格：</strong>8SP；<strong>重量：</strong>12磅</p><p>&emsp;&emsp;这条平衡杆大约有15-30尺长，如果使用得当的话，它对你穿越狭窄平面的行动大有帮助。在穿过狭窄平面时，使用平衡杆会为你在特技动作检定上提供+1环境加值。</p>"
+   "description": "<p>&emsp;&emsp;<strong>价格：</strong>8SP；<strong>重量：</strong>12磅</p><p>&emsp;&emsp;这条平衡杆大约有15-30尺长，如果使用得当的话，它对你穿越狭窄平面的行动大有帮助。在穿过狭窄平面时，使用平衡杆会为你在特技检定上提供+1环境加值。</p>"
   },
   "Poncho": {
    "name": "雨披（Poncho）",
